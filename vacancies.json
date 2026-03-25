@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T17:30:21+09:00",
+  "updated_at": "2026-03-25T18:34:16+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -20,14 +20,6 @@
         "２ＬＤＫＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/1280950001.jpg"
-    },
-    {
-      "name": "トミンハイム小豆沢",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980270/1980270001.jpg"
     },
     {
       "name": "コーシャハイム南葛西五丁目",
@@ -134,14 +126,6 @@
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg"
-    },
-    {
-      "name": "久留米西",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg"
     },
     {
       "name": "久留米下里",
