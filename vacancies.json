@@ -1,14 +1,6 @@
 {
-  "updated_at": "2026-03-25T18:34:16+09:00",
+  "updated_at": "2026-03-25T19:32:48+09:00",
   "properties": [
-    {
-      "name": "烏山北",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg"
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 25,
@@ -55,9 +47,9 @@
     },
     {
       "name": "富士見町東",
-      "total": 5,
+      "total": 4,
       "rooms": {
-        "２ＤＫ": 5
+        "２ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/3280070000.jpg"
     },
@@ -103,11 +95,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 42,
+      "total": 41,
       "rooms": {
         "３Ｋ": 17,
         "２Ｋ": 4,
-        "２ＤＫ": 21
+        "２ＤＫ": 20
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg"
     },
