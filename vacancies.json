@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-25T16:35:12+09:00",
+  "updated_at": "2026-03-25T17:30:21+09:00",
   "properties": [
+    {
+      "name": "烏山北",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg"
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 25,
@@ -12,6 +20,22 @@
         "２ＬＤＫＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/1280950001.jpg"
+    },
+    {
+      "name": "トミンハイム小豆沢",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980270/1980270001.jpg"
+    },
+    {
+      "name": "コーシャハイム南葛西五丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg"
     },
     {
       "name": "松枝",
@@ -78,14 +102,30 @@
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg"
     },
     {
-      "name": "町田木曽",
-      "total": 40,
+      "name": "境川",
+      "total": 1,
       "rooms": {
-        "３Ｋ": 16,
-        "２Ｋ": 3,
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg"
+    },
+    {
+      "name": "町田木曽",
+      "total": 42,
+      "rooms": {
+        "３Ｋ": 17,
+        "２Ｋ": 4,
         "２ＤＫ": 21
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg"
+    },
+    {
+      "name": "田無西原",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg"
     },
     {
       "name": "清瀬台田",
@@ -122,9 +162,9 @@
     },
     {
       "name": "落合",
-      "total": 8,
+      "total": 10,
       "rooms": {
-        "３ＤＫ": 8
+        "３ＤＫ": 10
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg"
     },
