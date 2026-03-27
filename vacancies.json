@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-03-27T16:02:05+09:00",
+  "updated_at": "2026-03-27T17:06:38+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム白鬚東",
+      "total": 1,
+      "rooms": {
+        "４ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0780030/0780030001.jpg"
+    },
+    {
+      "name": "カーメスト桜新町",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/1280940001.jpg"
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 24,
@@ -11,6 +27,38 @@
         "３ＬＤＫ": 11
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/1280950001.jpg"
+    },
+    {
+      "name": "トミンハイム加平一丁目",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180330/2180330001.jpg"
+    },
+    {
+      "name": "宇喜田第二",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg"
+    },
+    {
+      "name": "新田",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg"
+    },
+    {
+      "name": "コーシャハイム南葛西五丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg"
     },
     {
       "name": "松枝",
@@ -47,11 +95,20 @@
     },
     {
       "name": "霞台",
-      "total": 1,
+      "total": 3,
       "rooms": {
-        "３Ｋ": 1
+        "２ＤＫ": 1,
+        "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg"
+    },
+    {
+      "name": "多摩川",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg"
     },
     {
       "name": "高ケ坂",
@@ -62,12 +119,28 @@
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg"
     },
     {
+      "name": "森野",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg"
+    },
+    {
       "name": "本町田",
       "total": 1,
       "rooms": {
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg"
+    },
+    {
+      "name": "境川",
+      "total": 2,
+      "rooms": {
+        "２Ｋ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg"
     },
     {
       "name": "町田木曽",
@@ -105,17 +178,17 @@
     },
     {
       "name": "清瀬台田",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg"
     },
     {
       "name": "久留米下里",
-      "total": 3,
+      "total": 4,
       "rooms": {
-        "２ＤＫ": 2,
+        "２ＤＫ": 3,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg"
@@ -138,9 +211,9 @@
     },
     {
       "name": "平尾",
-      "total": 4,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 4
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg"
     }
