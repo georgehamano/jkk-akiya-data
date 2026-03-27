@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T10:05:08+09:00",
+  "updated_at": "2026-03-27T13:07:51+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -22,9 +22,10 @@
     },
     {
       "name": "横川町",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 1,
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg"
     },
@@ -79,6 +80,14 @@
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg"
     },
     {
+      "name": "平山",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg"
+    },
+    {
       "name": "大和芝中",
       "total": 2,
       "rooms": {
@@ -87,12 +96,12 @@
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg"
     },
     {
-      "name": "大和上北台",
+      "name": "清瀬台田",
       "total": 1,
       "rooms": {
         "２ＤＫ": 1
       },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg"
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg"
     },
     {
       "name": "久留米下里",
@@ -121,10 +130,9 @@
     },
     {
       "name": "平尾",
-      "total": 5,
+      "total": 4,
       "rooms": {
-        "３Ｋ": 4,
-        "２ＤＫ": 1
+        "３Ｋ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg"
     }
