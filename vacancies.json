@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-30T09:32:40+09:00",
+  "updated_at": "2026-03-30T09:37:38+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム白鬚東",
+      "total": 1,
+      "rooms": {
+        "４ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0780030/0780030001.jpg"
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 24,
