@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T10:25:34+09:00",
+  "updated_at": "2026-03-30T10:28:00+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -128,9 +128,9 @@
     },
     {
       "name": "落合",
-      "total": 13,
+      "total": 12,
       "rooms": {
-        "２ＤＫ": 2,
+        "２ＤＫ": 1,
         "３ＤＫ": 11
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg"
