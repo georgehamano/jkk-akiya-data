@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T13:57:34+09:00",
+  "updated_at": "2026-03-30T14:02:44+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -11,6 +11,14 @@
         "３ＬＤＫ": 11
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/1280950001.jpg"
+    },
+    {
+      "name": "コーシャハイム光が丘第一",
+      "total": 2,
+      "rooms": {
+        "３ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg"
     },
     {
       "name": "松枝",
@@ -29,12 +37,12 @@
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg"
     },
     {
-      "name": "松が谷第二",
+      "name": "トミンハイム鑓水",
       "total": 1,
       "rooms": {
-        "３ＤＫ": 1
+        "２ＬＤＫ": 1
       },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/3180130002.jpg"
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180450/3180450000.jpg"
     },
     {
       "name": "富士見町東",
@@ -95,10 +103,20 @@
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg"
     },
     {
-      "name": "久留米下里",
-      "total": 1,
+      "name": "久留米西",
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 2,
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg"
+    },
+    {
+      "name": "久留米下里",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 1,
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg"
     },
@@ -112,9 +130,8 @@
     },
     {
       "name": "落合",
-      "total": 12,
+      "total": 11,
       "rooms": {
-        "２ＤＫ": 1,
         "３ＤＫ": 11
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg"
