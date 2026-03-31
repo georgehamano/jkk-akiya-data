@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-03-31T13:37:38+09:00",
+  "updated_at": "2026-03-31T13:42:37+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム白鬚東",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0780030/0780030001.jpg"
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 24,
@@ -11,6 +19,14 @@
         "３ＬＤＫ": 11
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/1280950001.jpg"
+    },
+    {
+      "name": "コーシャハイム光が丘第二",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/2080070004.jpg"
     },
     {
       "name": "堀江",
@@ -27,6 +43,31 @@
         "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg"
+    },
+    {
+      "name": "コーシャハイム南大沢五丁目",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180270/3180270000.jpg"
+    },
+    {
+      "name": "江の島道東",
+      "total": 2,
+      "rooms": {
+        "２Ｋ": 1,
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg"
+    },
+    {
+      "name": "富士見町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg"
     },
     {
       "name": "富士見町東",
