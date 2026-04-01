@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T14:22:36+09:00",
+  "updated_at": "2026-04-01T14:27:35+09:00",
   "properties": [
     {
       "name": "コーシャハイム久我山",
@@ -94,18 +94,10 @@
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780020/3780020001.jpg"
     },
     {
-      "name": "多摩川",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg"
-    },
-    {
       "name": "町田木曽",
-      "total": 35,
+      "total": 34,
       "rooms": {
-        "３Ｋ": 13,
+        "３Ｋ": 12,
         "２Ｋ": 3,
         "２ＤＫ": 19
       },
