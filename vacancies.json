@@ -1,11 +1,19 @@
 {
-  "updated_at": "2026-04-01T10:07:36+09:00",
+  "updated_at": "2026-04-01T10:12:33+09:00",
   "properties": [
     {
-      "name": "辰巳あけぼの",
-      "total": 2,
+      "name": "東雲都橋",
+      "total": 1,
       "rooms": {
-        "２ＬＤＫ": 2
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg"
+    },
+    {
+      "name": "辰巳あけぼの",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg"
     },
@@ -19,6 +27,22 @@
         "３ＬＤＫ": 11
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/1280950001.jpg"
+    },
+    {
+      "name": "堀江",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/2380050000.jpg"
+    },
+    {
+      "name": "コーシャハイム南葛西五丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg"
     },
     {
       "name": "松枝",
@@ -53,6 +77,22 @@
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780020/3780020001.jpg"
     },
     {
+      "name": "昭島田中町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg"
+    },
+    {
+      "name": "多摩川",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg"
+    },
+    {
       "name": "町田木曽",
       "total": 33,
       "rooms": {
@@ -71,6 +111,14 @@
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg"
     },
     {
+      "name": "田無西原",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg"
+    },
+    {
       "name": "大和芝中",
       "total": 2,
       "rooms": {
@@ -85,6 +133,14 @@
         "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/5280040000.jpg"
+    },
+    {
+      "name": "愛宕第一",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/5480030002.jpg"
     },
     {
       "name": "落合",
