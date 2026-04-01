@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-04-01T13:57:34+09:00",
+  "updated_at": "2026-04-01T14:02:43+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム東新宿",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480200/0480200001.jpg"
+    },
+    {
+      "name": "コーシャハイム久我山",
+      "total": 2,
+      "rooms": {
+        "１ＬＤＫ": 1,
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/1280850000.jpg"
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 25,
@@ -13,12 +30,60 @@
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/1280950001.jpg"
     },
     {
-      "name": "松枝",
-      "total": 2,
+      "name": "コーシャハイム南葛西五丁目",
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg"
+    },
+    {
+      "name": "八王子泉町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/3180040000.jpg"
+    },
+    {
+      "name": "松枝",
+      "total": 3,
+      "rooms": {
+        "２ＤＫ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg"
+    },
+    {
+      "name": "松が谷第二",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/3180130002.jpg"
+    },
+    {
+      "name": "トミンハイム南大沢東",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/3180410000.jpg"
+    },
+    {
+      "name": "江の島道東",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg"
+    },
+    {
+      "name": "富士見町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg"
     },
     {
       "name": "富士見町東",
@@ -53,14 +118,38 @@
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg"
     },
     {
+      "name": "森野",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg"
+    },
+    {
       "name": "町田木曽",
-      "total": 32,
+      "total": 35,
       "rooms": {
         "３Ｋ": 13,
-        "２Ｋ": 2,
-        "２ＤＫ": 17
+        "２Ｋ": 3,
+        "２ＤＫ": 19
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg"
+    },
+    {
+      "name": "平山",
+      "total": 2,
+      "rooms": {
+        "２Ｋ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg"
+    },
+    {
+      "name": "トミンハイム恩多町",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4380150/4380150001.jpg"
     },
     {
       "name": "大和芝中",
@@ -69,6 +158,23 @@
         "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg"
+    },
+    {
+      "name": "清瀬台田",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg"
+    },
+    {
+      "name": "久留米下里",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 1,
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg"
     },
     {
       "name": "下里第二",
@@ -96,10 +202,11 @@
     },
     {
       "name": "平尾",
-      "total": 4,
+      "total": 5,
       "rooms": {
         "１ＤＫ": 1,
-        "３Ｋ": 3
+        "３Ｋ": 3,
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg"
     }
