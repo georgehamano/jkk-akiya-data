@@ -1,14 +1,6 @@
 {
-  "updated_at": "2026-04-01T14:02:43+09:00",
+  "updated_at": "2026-04-01T14:07:41+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム東新宿",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480200/0480200001.jpg"
-    },
     {
       "name": "コーシャハイム久我山",
       "total": 2,
@@ -116,14 +108,6 @@
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg"
-    },
-    {
-      "name": "森野",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg"
     },
     {
       "name": "町田木曽",
