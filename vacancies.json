@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T10:42:36+09:00",
+  "updated_at": "2026-04-01T10:47:33+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -11,14 +11,6 @@
         "３ＬＤＫ": 11
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/1280950001.jpg"
-    },
-    {
-      "name": "堀江",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/2380050000.jpg"
     },
     {
       "name": "コーシャハイム南葛西五丁目",
@@ -77,14 +69,6 @@
         "２ＤＫ": 17
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg"
-    },
-    {
-      "name": "小金井本町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg"
     },
     {
       "name": "田無西原",
