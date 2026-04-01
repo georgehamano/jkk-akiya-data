@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T15:52:35+09:00",
+  "updated_at": "2026-04-01T15:57:37+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -148,12 +148,111 @@
       }
     },
     {
-      "name": "町田木曽",
-      "total": 34,
+      "name": "高ケ坂",
+      "total": 1,
       "rooms": {
-        "３Ｋ": 12,
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38400",
+          "fee": "1400"
+        }
+      }
+    },
+    {
+      "name": "森野",
+      "total": 3,
+      "rooms": {
+        "２Ｋ": 1,
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "45300",
+          "fee": "2600"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "51000",
+          "fee": "2600"
+        }
+      }
+    },
+    {
+      "name": "木曽",
+      "total": 4,
+      "rooms": {
         "２Ｋ": 3,
-        "２ＤＫ": 19
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/3980070000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "33500",
+          "fee": "2000"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "40400",
+          "fee": "2000"
+        }
+      }
+    },
+    {
+      "name": "本町田",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38000",
+          "fee": "1100"
+        }
+      }
+    },
+    {
+      "name": "境川",
+      "total": 3,
+      "rooms": {
+        "２Ｋ": 2,
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "39300～39700",
+          "fee": "1800"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "47800",
+          "fee": "1800"
+        }
+      }
+    },
+    {
+      "name": "町田木曽",
+      "total": 46,
+      "rooms": {
+        "３Ｋ": 13,
+        "２Ｋ": 9,
+        "２ＤＫ": 23,
+        "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
@@ -164,14 +263,35 @@
           "fee": "1700"
         },
         "２Ｋ": {
-          "area": "32.31～32.85",
-          "rent": "33500～33800",
+          "area": "32.85",
+          "rent": "33500",
           "fee": "1700"
         },
         "２ＤＫ": {
           "area": "34.56",
           "rent": "35500～36700",
           "fee": "1700"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "52000",
+          "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "真光寺",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980180/3980180000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "46.0",
+          "rent": "53100",
+          "fee": "3000"
         }
       }
     },
@@ -258,82 +378,6 @@
           "area": "40.8",
           "rent": "44000",
           "fee": "1400"
-        }
-      }
-    },
-    {
-      "name": "下里第二",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/5280040000.jpg",
-      "location": "東久留米市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "63.38",
-          "rent": "69900",
-          "fee": "1400"
-        }
-      }
-    },
-    {
-      "name": "愛宕第一",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/5480030002.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "40.2",
-          "rent": "45400",
-          "fee": "3100"
-        }
-      }
-    },
-    {
-      "name": "落合",
-      "total": 11,
-      "rooms": {
-        "３ＤＫ": 11
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "52.59",
-          "rent": "58200",
-          "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "平尾",
-      "total": 5,
-      "rooms": {
-        "１ＤＫ": 1,
-        "３Ｋ": 3,
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
-      "location": "稲城市",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.56",
-          "rent": "54400",
-          "fee": "1900"
-        },
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "49500",
-          "fee": "1900"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "43500",
-          "fee": "1900"
         }
       }
     }
