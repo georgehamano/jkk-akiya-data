@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-01T09:57:30+09:00",
+  "updated_at": "2026-04-01T10:02:46+09:00",
   "properties": [
+    {
+      "name": "辰巳あけぼの",
+      "total": 3,
+      "rooms": {
+        "２ＬＤＫ": 3
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg"
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 25,
@@ -53,6 +61,14 @@
         "２ＤＫ": 17
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg"
+    },
+    {
+      "name": "小金井本町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg"
     },
     {
       "name": "大和芝中",
