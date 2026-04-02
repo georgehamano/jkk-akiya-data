@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T12:32:41+09:00",
+  "updated_at": "2026-04-02T12:37:40+09:00",
   "properties": [
     {
       "name": "トミンハイム北砂一丁目",
@@ -19,9 +19,8 @@
     },
     {
       "name": "コーシャハイム仲六郷",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/1180450001.jpg",
@@ -102,22 +101,6 @@
           "area": "71.28",
           "rent": "167000",
           "fee": "6600"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム小松川一丁目",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/2380150000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "61.29",
-          "rent": "111900",
-          "fee": "3500"
         }
       }
     },
@@ -414,17 +397,43 @@
     },
     {
       "name": "落合",
-      "total": 9,
+      "total": 11,
       "rooms": {
-        "３ＤＫ": 9
+        "３ＤＫ": 11
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
-          "area": "51.38～52.59",
-          "rent": "55200～58300",
-          "fee": "2300～3000"
+          "area": "52.59",
+          "rent": "58200",
+          "fee": "3000"
+        }
+      }
+    },
+    {
+      "name": "平尾",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
+      "location": "稲城市",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "34.56",
+          "rent": "54400",
+          "fee": "1900"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "49500",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "43500",
+          "fee": "1900"
         }
       }
     }
