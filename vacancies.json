@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-04-02T15:12:40+09:00",
+  "updated_at": "2026-04-02T15:17:40+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム大森東",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/1180210000.jpg",
+      "location": "大田区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "62.97",
+          "rent": "123500",
+          "fee": "3900"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム太子堂",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280810/1280810001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "35.28",
+          "rent": "105700",
+          "fee": "5300"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム千歳烏山",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840000.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.03",
+          "rent": "145200",
+          "fee": "5300"
+        }
+      }
+    },
+    {
+      "name": "カーメスト桜新町",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/1280940001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "36.3",
+          "rent": "131900",
+          "fee": "7200"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 25,
@@ -32,6 +96,22 @@
           "area": "65.27",
           "rent": "280700～290500",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム光が丘第一",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.17",
+          "rent": "103100",
+          "fee": "3200"
         }
       }
     },
@@ -84,6 +164,27 @@
       }
     },
     {
+      "name": "江の島道東",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg",
+      "location": "立川市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "59900",
+          "fee": "2100"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "39500",
+          "fee": "2100"
+        }
+      }
+    },
+    {
       "name": "富士見町東",
       "total": 2,
       "rooms": {
@@ -96,6 +197,22 @@
           "area": "48.32",
           "rent": "66300～68200",
           "fee": "2100"
+        }
+      }
+    },
+    {
+      "name": "霞台",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+      "location": "青梅市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "41600",
+          "fee": "1800"
         }
       }
     },
@@ -161,11 +278,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 45,
+      "total": 47,
       "rooms": {
         "３Ｋ": 14,
         "２Ｋ": 9,
-        "２ＤＫ": 21,
+        "２ＤＫ": 23,
         "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
@@ -183,7 +300,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "35500～36700",
+          "rent": "35200～36700",
           "fee": "1700"
         },
         "２ＤＫＳ": {
@@ -242,6 +359,22 @@
       }
     },
     {
+      "name": "トミンハイム国分寺泉町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/4480070000.jpg",
+      "location": "国分寺市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "56.28",
+          "rent": "100100",
+          "fee": "4000"
+        }
+      }
+    },
+    {
       "name": "大和芝中",
       "total": 2,
       "rooms": {
@@ -276,87 +409,6 @@
           "area": "38.48",
           "rent": "33000",
           "fee": "1700"
-        }
-      }
-    },
-    {
-      "name": "久留米下里",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
-      "location": "東久留米市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "34.48",
-          "rent": "38800",
-          "fee": "1400"
-        },
-        "３Ｋ": {
-          "area": "40.8",
-          "rent": "44000",
-          "fee": "1400"
-        }
-      }
-    },
-    {
-      "name": "下里第二",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/5280040000.jpg",
-      "location": "東久留米市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "63.38",
-          "rent": "69900",
-          "fee": "1400"
-        }
-      }
-    },
-    {
-      "name": "落合",
-      "total": 12,
-      "rooms": {
-        "３ＤＫ": 12
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "52.59",
-          "rent": "58200",
-          "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "平尾",
-      "total": 4,
-      "rooms": {
-        "１ＤＫ": 1,
-        "３Ｋ": 2,
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
-      "location": "稲城市",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.56",
-          "rent": "54400",
-          "fee": "1900"
-        },
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "51200",
-          "fee": "1900"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "43500",
-          "fee": "1900"
         }
       }
     }
