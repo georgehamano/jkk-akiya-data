@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T12:47:34+09:00",
+  "updated_at": "2026-04-02T12:52:35+09:00",
   "properties": [
     {
       "name": "トミンハイム北砂一丁目",
@@ -14,27 +14,6 @@
           "area": "65.01",
           "rent": "122600",
           "fee": "3700"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム仲六郷",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/1180450001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "43.73",
-          "rent": "91900",
-          "fee": "4400"
-        },
-        "２ＤＫ": {
-          "area": "50.01",
-          "rent": "107400",
-          "fee": "4400"
         }
       }
     },
@@ -413,9 +392,10 @@
     },
     {
       "name": "平尾",
-      "total": 1,
+      "total": 3,
       "rooms": {
-        "１ＤＫ": 1
+        "１ＤＫ": 1,
+        "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
@@ -427,7 +407,7 @@
         },
         "３Ｋ": {
           "area": "39.9",
-          "rent": "49500",
+          "rent": "51200",
           "fee": "1900"
         },
         "２ＤＫ": {
