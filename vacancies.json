@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-04-02T13:06:18+09:00",
+  "updated_at": "2026-04-02T13:08:52+09:00",
   "properties": [
-    {
-      "name": "トミンハイム北砂一丁目",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880320/0880320001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "65.01",
-          "rent": "122600",
-          "fee": "3700"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 25,
@@ -376,10 +360,10 @@
     },
     {
       "name": "平尾",
-      "total": 4,
+      "total": 5,
       "rooms": {
         "１ＤＫ": 1,
-        "３Ｋ": 2,
+        "３Ｋ": 3,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
@@ -392,7 +376,7 @@
         },
         "３Ｋ": {
           "area": "39.9",
-          "rent": "51200",
+          "rent": "49500",
           "fee": "1900"
         },
         "２ＤＫ": {
