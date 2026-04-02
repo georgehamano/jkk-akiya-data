@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T16:07:32+09:00",
+  "updated_at": "2026-04-02T16:12:39+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -80,27 +80,6 @@
           "area": "58.28",
           "rent": "65900",
           "fee": "4000"
-        }
-      }
-    },
-    {
-      "name": "江の島道東",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg",
-      "location": "立川市",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "51.75",
-          "rent": "59900",
-          "fee": "2100"
-        },
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "39500",
-          "fee": "2100"
         }
       }
     },
@@ -387,16 +366,17 @@
     },
     {
       "name": "落合",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 1,
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
           "area": "52.59",
-          "rent": "58200",
+          "rent": "56300",
           "fee": "3000"
         },
         "２ＤＫ": {
