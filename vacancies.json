@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T17:12:35+09:00",
+  "updated_at": "2026-04-02T17:17:35+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -96,22 +96,6 @@
           "area": "58.28",
           "rent": "65900",
           "fee": "4000"
-        }
-      }
-    },
-    {
-      "name": "富士見町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
-      "location": "立川市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "45200",
-          "fee": "2200"
         }
       }
     },
@@ -377,6 +361,27 @@
           "area": "63.38",
           "rent": "69900",
           "fee": "1400"
+        }
+      }
+    },
+    {
+      "name": "落合",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "51.38～52.59",
+          "rent": "55200～58300",
+          "fee": "2300～3000"
+        },
+        "２ＤＫ": {
+          "area": "43.82",
+          "rent": "54600",
+          "fee": "3600"
         }
       }
     }
