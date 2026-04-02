@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T12:57:36+09:00",
+  "updated_at": "2026-04-02T13:02:57+09:00",
   "properties": [
     {
       "name": "トミンハイム北砂一丁目",
@@ -64,22 +64,6 @@
           "area": "59.99",
           "rent": "187000",
           "fee": "7800"
-        }
-      }
-    },
-    {
-      "name": "トミンタワー南千住四丁目",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1880040/1880040001.jpg",
-      "location": "荒川区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "71.28",
-          "rent": "167000",
-          "fee": "6600"
         }
       }
     },
@@ -392,10 +376,11 @@
     },
     {
       "name": "平尾",
-      "total": 3,
+      "total": 4,
       "rooms": {
         "１ＤＫ": 1,
-        "３Ｋ": 2
+        "３Ｋ": 2,
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
