@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T16:27:33+09:00",
+  "updated_at": "2026-04-03T16:32:46+09:00",
   "properties": [
     {
       "name": "トミンタワー多摩川二丁目",
@@ -14,22 +14,6 @@
           "area": "59.33",
           "rent": "129400",
           "fee": "5800"
-        }
-      }
-    },
-    {
-      "name": "トミンハイム玉川田園調布",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280560/1280560999.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "58.02",
-          "rent": "179400",
-          "fee": "9000"
         }
       }
     },
@@ -423,6 +407,32 @@
           "area": "43.82",
           "rent": "54600",
           "fee": "3600"
+        }
+      }
+    },
+    {
+      "name": "平尾",
+      "total": 2,
+      "rooms": {
+        "１ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
+      "location": "稲城市",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "34.56",
+          "rent": "54400",
+          "fee": "1900"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "49500",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "43500",
+          "fee": "1900"
         }
       }
     }
