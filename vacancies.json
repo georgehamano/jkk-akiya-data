@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T00:57:34+09:00",
+  "updated_at": "2026-04-04T01:02:43+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -80,22 +80,6 @@
           "area": "58.28",
           "rent": "65900",
           "fee": "4000"
-        }
-      }
-    },
-    {
-      "name": "トミンハイム鑓水",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180450/3180450000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "66.8",
-          "rent": "86100",
-          "fee": "6800"
         }
       }
     },
