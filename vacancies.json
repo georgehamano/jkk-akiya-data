@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T15:27:36+09:00",
+  "updated_at": "2026-04-03T15:32:39+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -32,22 +32,6 @@
           "area": "65.27",
           "rent": "280700～290500",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "春江町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.25",
-          "rent": "61300",
-          "fee": "2900"
         }
       }
     },
