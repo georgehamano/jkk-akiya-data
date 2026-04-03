@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T18:52:33+09:00",
+  "updated_at": "2026-04-03T18:57:31+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -48,22 +48,6 @@
           "area": "46.7",
           "rent": "85400",
           "fee": "4900"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム南葛西五丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.47",
-          "rent": "92200",
-          "fee": "3100"
         }
       }
     },
