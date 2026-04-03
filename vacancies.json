@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T15:22:37+09:00",
+  "updated_at": "2026-04-03T15:27:36+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "name": "南葛西",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380090/2380090000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "46.7",
+          "rent": "85400",
+          "fee": "4900"
+        }
+      }
+    },
+    {
       "name": "八王子泉町",
       "total": 1,
       "rooms": {
@@ -96,6 +112,22 @@
           "area": "58.28",
           "rent": "65900",
           "fee": "4000"
+        }
+      }
+    },
+    {
+      "name": "富士見町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
+      "location": "立川市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "45200",
+          "fee": "2200"
         }
       }
     },
@@ -150,6 +182,22 @@
           "area": "39.96",
           "rent": "40400",
           "fee": "2000"
+        }
+      }
+    },
+    {
+      "name": "本町田",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38000",
+          "fee": "1100"
         }
       }
     },
