@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-04-04T18:37:33+09:00",
+  "updated_at": "2026-04-04T18:42:38+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム仲六郷",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/1180450001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "43.73",
-          "rent": "91900",
-          "fee": "4400"
-        },
-        "２ＤＫ": {
-          "area": "50.01",
-          "rent": "107400",
-          "fee": "4400"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 23,
