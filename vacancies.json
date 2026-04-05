@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T10:25:37+09:00",
+  "updated_at": "2026-04-05T10:28:06+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -154,11 +154,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 43,
+      "total": 42,
       "rooms": {
         "３Ｋ": 15,
         "２Ｋ": 7,
-        "２ＤＫ": 21
+        "２ＤＫ": 20
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
