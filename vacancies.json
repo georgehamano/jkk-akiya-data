@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T08:12:37+09:00",
+  "updated_at": "2026-04-07T08:17:35+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -139,27 +139,6 @@
           "area": "32.85",
           "rent": "38000",
           "fee": "1100"
-        }
-      }
-    },
-    {
-      "name": "境川",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "40100",
-          "fee": "1800"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "47800",
-          "fee": "1800"
         }
       }
     },
