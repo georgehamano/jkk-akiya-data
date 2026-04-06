@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T16:57:31+09:00",
+  "updated_at": "2026-04-06T17:02:47+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -42,10 +42,43 @@
       }
     },
     {
-      "name": "コーシャハイム臨海町二丁目",
+      "name": "カーメスト新高円寺",
       "total": 1,
       "rooms": {
-        "２ＬＤＫ": 1
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
+      "location": "杉並区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "49.75",
+          "rent": "142900",
+          "fee": "7800"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム北千住",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180430/2180430001.jpg",
+      "location": "足立区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "45.03",
+          "rent": "116700",
+          "fee": "5000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム臨海町二丁目",
+      "total": 3,
+      "rooms": {
+        "２ＬＤＫ": 1,
+        "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380160/2380160000.jpg",
       "location": "江戸川区",
@@ -160,6 +193,27 @@
           "area": "32.85",
           "rent": "38000",
           "fee": "1100"
+        }
+      }
+    },
+    {
+      "name": "境川",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "40100",
+          "fee": "1800"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "47800",
+          "fee": "1800"
         }
       }
     },
@@ -305,10 +359,10 @@
     },
     {
       "name": "平尾",
-      "total": 3,
+      "total": 4,
       "rooms": {
         "１ＤＫ": 1,
-        "３Ｋ": 2
+        "３Ｋ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
@@ -320,7 +374,7 @@
         },
         "３Ｋ": {
           "area": "39.9",
-          "rent": "51200",
+          "rent": "49500",
           "fee": "1900"
         },
         "２ＤＫ": {
