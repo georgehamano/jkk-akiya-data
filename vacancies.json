@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T10:07:35+09:00",
+  "updated_at": "2026-04-08T10:12:43+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -96,6 +96,22 @@
       }
     },
     {
+      "name": "コーシャハイム光が丘第一",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.17",
+          "rent": "102100",
+          "fee": "3200"
+        }
+      }
+    },
+    {
       "name": "コーシャハイム小松川一丁目",
       "total": 1,
       "rooms": {
@@ -124,6 +140,44 @@
           "area": "58.28",
           "rent": "65900",
           "fee": "4000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム南大沢第二",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/3180210000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "65.06",
+          "rent": "75600",
+          "fee": "3000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム下柚木三丁目",
+      "total": 2,
+      "rooms": {
+        "３ＬＤＫ": 1,
+        "４ＬＤＫＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/3180370001.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "71.53",
+          "rent": "88600",
+          "fee": "5400"
+        },
+        "４ＬＤＫＤＫ": {
+          "area": "100.84",
+          "rent": "120300",
+          "fee": "5400"
         }
       }
     },
