@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T13:52:36+09:00",
+  "updated_at": "2026-04-08T13:57:33+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -247,22 +247,6 @@
           "area": "46.0",
           "rent": "53100",
           "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "平山",
-      "total": 2,
-      "rooms": {
-        "２Ｋ": 2
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg",
-      "location": "日野市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "36700～36900",
-          "fee": "1400"
         }
       }
     },
