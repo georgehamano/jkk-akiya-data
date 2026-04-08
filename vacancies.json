@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-04-08T14:22:34+09:00",
+  "updated_at": "2026-04-08T14:27:31+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム白鬚東",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0780030/0780030001.jpg",
-      "location": "墨田区",
-      "room_details": {
-        "３ＬＤＫ": {
-          "area": "68.4",
-          "rent": "109500",
-          "fee": "3200"
-        },
-        "４ＤＫ": {
-          "area": "73.15",
-          "rent": "122000",
-          "fee": "3200"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 25,
