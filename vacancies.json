@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T10:27:38+09:00",
+  "updated_at": "2026-04-08T10:32:39+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -20,22 +20,6 @@
           "area": "73.15",
           "rent": "122000",
           "fee": "3200"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム南蒲田",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180460/1180460000.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "50.01",
-          "rent": "106000",
-          "fee": "3900"
         }
       }
     },
