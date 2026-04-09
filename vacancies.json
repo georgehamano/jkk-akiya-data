@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-04-09T11:42:36+09:00",
+  "updated_at": "2026-04-09T11:47:43+09:00",
   "properties": [
+    {
+      "name": "烏山北",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "51300",
+          "fee": "2700"
+        }
+      }
+    },
+    {
+      "name": "プラッツ砧",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280700/1280700001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "81.12",
+          "rent": "183300",
+          "fee": "6900"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム三宿テラス",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280830/1280830001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "39.2",
+          "rent": "136800",
+          "fee": "6300"
+        }
+      }
+    },
+    {
+      "name": "カーメスト大蔵の杜",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "39.74",
+          "rent": "121700",
+          "fee": "5300"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム経堂フォレスト",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280930/1280930001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "44.86",
+          "rent": "142000",
+          "fee": "6200"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 25,
