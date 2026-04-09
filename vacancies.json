@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T12:47:37+09:00",
+  "updated_at": "2026-04-09T12:52:36+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -91,9 +91,9 @@
     },
     {
       "name": "江の島道東",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫＳ": 1
+        "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg",
       "location": "立川市",
