@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T16:02:48+09:00",
+  "updated_at": "2026-04-10T16:07:39+09:00",
   "properties": [
     {
       "name": "コーシャハイム千石",
@@ -51,22 +51,6 @@
           "area": "41.11",
           "rent": "106100",
           "fee": "4300"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム三宿テラス",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280830/1280830001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "39.2",
-          "rent": "136800",
-          "fee": "6300"
         }
       }
     },
@@ -123,38 +107,6 @@
           "area": "60.48",
           "rent": "142300",
           "fee": "6600"
-        }
-      }
-    },
-    {
-      "name": "中台町",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/1980080999.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "41300",
-          "fee": "1400"
-        }
-      }
-    },
-    {
-      "name": "堀江",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/2380050000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.0",
-          "rent": "70400",
-          "fee": "4200"
         }
       }
     },
@@ -224,22 +176,6 @@
           "area": "100.84",
           "rent": "120300",
           "fee": "5400"
-        }
-      }
-    },
-    {
-      "name": "トミンハイム南大沢東",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/3180410000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＬＤＫ": {
-          "area": "71.83",
-          "rent": "79900",
-          "fee": "6000"
         }
       }
     },
