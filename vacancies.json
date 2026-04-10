@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-04-10T16:27:35+09:00",
+  "updated_at": "2026-04-10T16:32:44+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム千石",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0580160/0580160000.jpg",
-      "location": "文京区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.8",
-          "rent": "121300",
-          "fee": "5200"
-        }
-      }
-    },
     {
       "name": "コーシャハイム白鬚東",
       "total": 1,
