@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T16:52:36+09:00",
+  "updated_at": "2026-04-10T16:57:35+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -133,9 +133,8 @@
     },
     {
       "name": "江の島道東",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２Ｋ": 1,
         "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg",
