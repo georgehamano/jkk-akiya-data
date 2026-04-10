@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T16:07:39+09:00",
+  "updated_at": "2026-04-10T16:12:47+09:00",
   "properties": [
     {
       "name": "コーシャハイム千石",
@@ -342,22 +342,6 @@
           "area": "43.82",
           "rent": "54600",
           "fee": "3600"
-        }
-      }
-    },
-    {
-      "name": "落合三丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480110/5480110000.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "58.28",
-          "rent": "72400",
-          "fee": "3500"
         }
       }
     },
