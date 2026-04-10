@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T23:27:31+09:00",
+  "updated_at": "2026-04-10T23:32:40+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -203,9 +203,9 @@
     },
     {
       "name": "落合",
-      "total": 11,
+      "total": 10,
       "rooms": {
-        "３ＤＫ": 11
+        "３ＤＫ": 10
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
