@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T17:12:36+09:00",
+  "updated_at": "2026-04-11T17:17:35+09:00",
   "properties": [
     {
       "name": "コーシャハイム仲池上",
@@ -54,22 +54,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "カーメスト新高円寺",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "59.99",
-          "rent": "187000",
-          "fee": "7800"
         }
       }
     },
