@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T17:27:40+09:00",
+  "updated_at": "2026-04-11T17:32:39+09:00",
   "properties": [
     {
       "name": "コーシャハイム仲池上",
@@ -155,27 +155,6 @@
           "area": "46.0",
           "rent": "55700",
           "fee": "4200"
-        }
-      }
-    },
-    {
-      "name": "森野",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "45300",
-          "fee": "2600"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "51000",
-          "fee": "2600"
         }
       }
     },
