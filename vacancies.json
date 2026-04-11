@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T16:47:55+09:00",
+  "updated_at": "2026-04-11T16:52:36+09:00",
   "properties": [
     {
       "name": "コーシャハイム仲池上",
@@ -123,38 +123,6 @@
           "area": "60.17",
           "rent": "103100",
           "fee": "3200"
-        }
-      }
-    },
-    {
-      "name": "宇喜田第二",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.83",
-          "rent": "73200",
-          "fee": "3100"
-        }
-      }
-    },
-    {
-      "name": "新田",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.0",
-          "rent": "80100",
-          "fee": "3900"
         }
       }
     },
