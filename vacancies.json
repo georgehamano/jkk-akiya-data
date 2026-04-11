@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T17:07:36+09:00",
+  "updated_at": "2026-04-11T17:12:36+09:00",
   "properties": [
     {
       "name": "コーシャハイム仲池上",
@@ -70,22 +70,6 @@
           "area": "59.99",
           "rent": "187000",
           "fee": "7800"
-        }
-      }
-    },
-    {
-      "name": "トミンハイム小豆沢",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980270/1980270001.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "51.03",
-          "rent": "99300",
-          "fee": "4900"
         }
       }
     },
