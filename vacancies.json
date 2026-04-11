@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T17:02:43+09:00",
+  "updated_at": "2026-04-11T17:07:36+09:00",
   "properties": [
     {
       "name": "コーシャハイム仲池上",
@@ -14,27 +14,6 @@
           "area": "40.5",
           "rent": "110400",
           "fee": "5800"
-        }
-      }
-    },
-    {
-      "name": "烏山北",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "51300",
-          "fee": "2700"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "62300",
-          "fee": "2700"
         }
       }
     },
