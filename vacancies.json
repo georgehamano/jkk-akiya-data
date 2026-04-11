@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T17:57:29+09:00",
+  "updated_at": "2026-04-11T18:02:47+09:00",
   "properties": [
     {
       "name": "コーシャハイム仲池上",
@@ -139,22 +139,6 @@
           "area": "48.32",
           "rent": "65900～68200",
           "fee": "2100"
-        }
-      }
-    },
-    {
-      "name": "昭島玉川町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780020/3780020001.jpg",
-      "location": "昭島市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.0",
-          "rent": "55700",
-          "fee": "4200"
         }
       }
     },
