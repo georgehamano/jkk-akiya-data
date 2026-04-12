@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-04-12T09:02:43+09:00",
+  "updated_at": "2026-04-12T09:07:36+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム仲池上",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180500/1180500001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "40.5",
-          "rent": "110400",
-          "fee": "5800"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 23,
