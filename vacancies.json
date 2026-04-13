@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-04-13T16:07:39+09:00",
+  "updated_at": "2026-04-13T16:12:41+09:00",
   "properties": [
-    {
-      "name": "勝どきサンスクェア",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280080/0280080001.jpg",
-      "location": "中央区",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "66.84",
-          "rent": "198300",
-          "fee": "7000"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 23,
