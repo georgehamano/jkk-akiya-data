@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T15:52:37+09:00",
+  "updated_at": "2026-04-13T15:57:36+09:00",
   "properties": [
     {
       "name": "勝どきサンスクェア",
@@ -30,22 +30,6 @@
           "area": "70.0",
           "rent": "137400",
           "fee": "6100"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム八潮南",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980120/0980120047.jpg",
-      "location": "品川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.18",
-          "rent": "98600",
-          "fee": "3900"
         }
       }
     },
