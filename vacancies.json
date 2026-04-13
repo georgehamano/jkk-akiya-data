@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T16:02:46+09:00",
+  "updated_at": "2026-04-13T16:07:39+09:00",
   "properties": [
     {
       "name": "勝どきサンスクェア",
@@ -14,22 +14,6 @@
           "area": "66.84",
           "rent": "198300",
           "fee": "7000"
-        }
-      }
-    },
-    {
-      "name": "トミンハイム墨田一丁目",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0780070/0780070000.jpg",
-      "location": "墨田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "70.0",
-          "rent": "137400",
-          "fee": "6100"
         }
       }
     },
