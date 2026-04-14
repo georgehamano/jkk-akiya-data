@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T10:07:37+09:00",
+  "updated_at": "2026-04-14T10:12:37+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -116,17 +116,33 @@
       }
     },
     {
-      "name": "松が谷",
-      "total": 1,
+      "name": "春江町椿",
+      "total": 2,
       "rooms": {
-        "３ＤＫ": 1
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/2380070000[1].jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.35",
+          "rent": "68600～69300",
+          "fee": "3200"
+        }
+      }
+    },
+    {
+      "name": "松が谷",
+      "total": 2,
+      "rooms": {
+        "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/3180060000.jpg",
       "location": "八王子市",
       "room_details": {
         "３ＤＫ": {
-          "area": "51.38",
-          "rent": "57200",
+          "area": "51.38～52.59",
+          "rent": "57200～57500",
           "fee": "2400"
         }
       }
@@ -149,8 +165,9 @@
     },
     {
       "name": "江の島道東",
-      "total": 1,
+      "total": 3,
       "rooms": {
+        "２Ｋ": 2,
         "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg",
@@ -201,12 +218,38 @@
       }
     },
     {
-      "name": "町田木曽",
-      "total": 25,
+      "name": "多摩川",
+      "total": 1,
       "rooms": {
-        "３Ｋ": 11,
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
+      "location": "調布市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "44.52",
+          "rent": "61300",
+          "fee": "2500"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "47500",
+          "fee": "2000"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "44400",
+          "fee": "2500"
+        }
+      }
+    },
+    {
+      "name": "町田木曽",
+      "total": 24,
+      "rooms": {
         "２Ｋ": 1,
-        "２ＤＫ": 13
+        "２ＤＫ": 13,
+        "３Ｋ": 10
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
