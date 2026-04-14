@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T10:12:37+09:00",
+  "updated_at": "2026-04-14T10:17:38+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -245,11 +245,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 24,
+      "total": 25,
       "rooms": {
+        "３Ｋ": 11,
         "２Ｋ": 1,
-        "２ＤＫ": 13,
-        "３Ｋ": 10
+        "２ＤＫ": 13
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
