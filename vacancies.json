@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-04-15T16:07:37+09:00",
+  "updated_at": "2026-04-15T16:12:44+09:00",
   "properties": [
-    {
-      "name": "勝どきサンスクェア",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280080/0280080001.jpg",
-      "location": "中央区",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "66.84",
-          "rent": "198300",
-          "fee": "7000"
-        }
-      }
-    },
     {
       "name": "トミンタワー多摩川二丁目",
       "total": 1,
@@ -35,9 +19,8 @@
     },
     {
       "name": "烏山北",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 1,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
