@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T18:52:33+09:00",
+  "updated_at": "2026-04-15T18:57:37+09:00",
   "properties": [
     {
       "name": "トミンタワー多摩川二丁目",
@@ -186,32 +186,6 @@
           "area": "47.56",
           "rent": "57100",
           "fee": "4200"
-        }
-      }
-    },
-    {
-      "name": "多摩川",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
-      "location": "調布市",
-      "room_details": {
-        "３Ｋ": {
-          "area": "44.52",
-          "rent": "60200",
-          "fee": "2500"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "47500",
-          "fee": "2000"
-        },
-        "２Ｋ": {
-          "area": "27.44",
-          "rent": "38800",
-          "fee": "2000"
         }
       }
     },
