@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T01:03:43+09:00",
+  "updated_at": "2026-04-16T01:07:33+09:00",
   "properties": [
     {
       "name": "トミンタワー多摩川二丁目",
@@ -240,9 +240,8 @@
     },
     {
       "name": "清瀬台田",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 1,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
