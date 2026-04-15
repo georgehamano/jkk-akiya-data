@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T15:32:41+09:00",
+  "updated_at": "2026-04-15T15:37:38+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -176,9 +176,8 @@
     },
     {
       "name": "霞台",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 1,
         "３Ｋ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
@@ -284,22 +283,6 @@
           "area": "56.28",
           "rent": "100100",
           "fee": "4000"
-        }
-      }
-    },
-    {
-      "name": "福生加美平",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
-      "location": "福生市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "29700",
-          "fee": "1700"
         }
       }
     },
