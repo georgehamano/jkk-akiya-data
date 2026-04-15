@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T17:22:35+09:00",
+  "updated_at": "2026-04-15T17:27:36+09:00",
   "properties": [
     {
       "name": "トミンタワー多摩川二丁目",
@@ -207,9 +207,9 @@
     },
     {
       "name": "多摩川",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 2
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
       "location": "調布市",
@@ -261,22 +261,6 @@
           "area": "51.74",
           "rent": "52000",
           "fee": "1700"
-        }
-      }
-    },
-    {
-      "name": "トミンハイム国分寺泉町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/4480070000.jpg",
-      "location": "国分寺市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "56.28",
-          "rent": "100100",
-          "fee": "4000"
         }
       }
     },
