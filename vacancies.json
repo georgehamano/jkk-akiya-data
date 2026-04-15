@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T17:57:45+09:00",
+  "updated_at": "2026-04-15T18:01:06+09:00",
   "properties": [
     {
       "name": "トミンタワー多摩川二丁目",
@@ -14,22 +14,6 @@
           "area": "59.33",
           "rent": "129400",
           "fee": "5800"
-        }
-      }
-    },
-    {
-      "name": "カーメスト大蔵の杜",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "39.74",
-          "rent": "121700",
-          "fee": "5300"
         }
       }
     },
