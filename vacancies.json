@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:57:32+09:00",
+  "updated_at": "2026-04-15T10:02:54+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -70,6 +70,32 @@
           "area": "58.28",
           "rent": "65900",
           "fee": "4000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム下柚木三丁目",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/3180370001.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "77.28",
+          "rent": "93800",
+          "fee": "5400"
+        },
+        "４ＬＤＫＤＫ": {
+          "area": "100.84",
+          "rent": "120300",
+          "fee": "5400"
+        },
+        "２ＬＤＫ": {
+          "area": "64.26",
+          "rent": "81700",
+          "fee": "5400"
         }
       }
     },
@@ -156,6 +182,22 @@
           "area": "51.74",
           "rent": "52000",
           "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "トミンハイム小金井中町",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080070/4080070001.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "69.58",
+          "rent": "129800",
+          "fee": "6600"
         }
       }
     },
