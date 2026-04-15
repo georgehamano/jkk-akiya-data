@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T13:37:30+09:00",
+  "updated_at": "2026-04-15T13:42:35+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -149,32 +149,6 @@
           "area": "39.9",
           "rent": "39400",
           "fee": "1800"
-        }
-      }
-    },
-    {
-      "name": "多摩川",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
-      "location": "狛江市",
-      "room_details": {
-        "３Ｋ": {
-          "area": "44.52",
-          "rent": "61300",
-          "fee": "2500"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "47500",
-          "fee": "2000"
-        },
-        "２Ｋ": {
-          "area": "27.44",
-          "rent": "38800",
-          "fee": "2000"
         }
       }
     },
