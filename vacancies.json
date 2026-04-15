@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T11:17:35+09:00",
+  "updated_at": "2026-04-15T11:22:36+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -245,9 +245,9 @@
     },
     {
       "name": "落合",
-      "total": 9,
+      "total": 8,
       "rooms": {
-        "３ＤＫ": 9
+        "３ＤＫ": 8
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
