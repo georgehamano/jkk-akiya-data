@@ -1,11 +1,60 @@
 {
-  "updated_at": "2026-04-15T15:57:35+09:00",
+  "updated_at": "2026-04-15T16:02:54+09:00",
   "properties": [
     {
-      "name": "烏山北",
+      "name": "勝どきサンスクェア",
       "total": 1,
       "rooms": {
-        "２Ｋ": 1
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280080/0280080001.jpg",
+      "location": "中央区",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "66.84",
+          "rent": "198300",
+          "fee": "7000"
+        }
+      }
+    },
+    {
+      "name": "トミンハイム海岸三丁目",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380050/0380050001.jpg",
+      "location": "港区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "55.47",
+          "rent": "149000",
+          "fee": "6000"
+        }
+      }
+    },
+    {
+      "name": "トミンタワー多摩川二丁目",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180381/1180381026.jpg",
+      "location": "大田区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "59.33",
+          "rent": "129400",
+          "fee": "5800"
+        }
+      }
+    },
+    {
+      "name": "烏山北",
+      "total": 2,
+      "rooms": {
+        "２Ｋ": 1,
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
       "location": "世田谷区",
@@ -19,6 +68,22 @@
           "area": "39.96",
           "rent": "62300",
           "fee": "2700"
+        }
+      }
+    },
+    {
+      "name": "カーメスト大蔵の杜",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "39.74",
+          "rent": "121700",
+          "fee": "5300"
         }
       }
     },
@@ -175,9 +240,9 @@
     },
     {
       "name": "霞台",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "３Ｋ": 3
+        "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
       "location": "青梅市",
@@ -212,9 +277,9 @@
     },
     {
       "name": "多摩川",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "３Ｋ": 1
+        "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
       "location": "調布市",
@@ -238,10 +303,10 @@
     },
     {
       "name": "町田木曽",
-      "total": 23,
+      "total": 25,
       "rooms": {
         "３Ｋ": 10,
-        "２Ｋ": 1,
+        "２Ｋ": 3,
         "２ＤＫ": 12
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
@@ -303,9 +368,10 @@
     },
     {
       "name": "清瀬台田",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 1,
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
       "location": "清瀬市",
