@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T15:17:43+09:00",
+  "updated_at": "2026-04-15T15:22:37+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -20,27 +20,6 @@
           "area": "39.96",
           "rent": "62300",
           "fee": "2700"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム久我山",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/1280850000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "52.93",
-          "rent": "137200",
-          "fee": "7600"
-        },
-        "２Ｋ": {
-          "area": "40.63",
-          "rent": "113900",
-          "fee": "7600"
         }
       }
     },
@@ -85,22 +64,6 @@
       }
     },
     {
-      "name": "コーシャハイム光が丘第一",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg",
-      "location": "練馬区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.17",
-          "rent": "103100",
-          "fee": "3200"
-        }
-      }
-    },
-    {
       "name": "コーシャハイム南葛西五丁目",
       "total": 1,
       "rooms": {
@@ -113,27 +76,6 @@
           "area": "60.47",
           "rent": "89000",
           "fee": "3100"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム臨海町二丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380160/2380160000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "59.88",
-          "rent": "88300",
-          "fee": "3800"
-        },
-        "２ＬＤＫ": {
-          "area": "57.38",
-          "rent": "87300",
-          "fee": "3800"
         }
       }
     },
