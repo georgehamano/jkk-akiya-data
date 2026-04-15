@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-04-15T15:22:37+09:00",
+  "updated_at": "2026-04-15T15:27:37+09:00",
   "properties": [
+    {
+      "name": "トミンハイム大森西",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180370/1180370001.jpg",
+      "location": "大田区",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "81.94",
+          "rent": "154200",
+          "fee": "7200"
+        }
+      }
+    },
     {
       "name": "烏山北",
       "total": 2,
@@ -176,9 +192,10 @@
     },
     {
       "name": "霞台",
-      "total": 1,
+      "total": 4,
       "rooms": {
-        "３Ｋ": 1
+        "２ＤＫ": 1,
+        "３Ｋ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
       "location": "青梅市",
@@ -187,6 +204,27 @@
           "area": "39.9",
           "rent": "39400",
           "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "34200",
+          "fee": "1800"
+        }
+      }
+    },
+    {
+      "name": "昭島玉川町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780020/3780020001.jpg",
+      "location": "昭島市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "47.56",
+          "rent": "57100",
+          "fee": "4200"
         }
       }
     },
@@ -262,6 +300,22 @@
           "area": "56.28",
           "rent": "100100",
           "fee": "4000"
+        }
+      }
+    },
+    {
+      "name": "福生加美平",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
+      "location": "福生市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "29700",
+          "fee": "1700"
         }
       }
     },
