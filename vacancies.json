@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T12:12:38+09:00",
+  "updated_at": "2026-04-16T12:17:36+09:00",
   "properties": [
     {
       "name": "トミンハイム南大井五丁目",
@@ -186,6 +186,27 @@
           "area": "47.56",
           "rent": "57100",
           "fee": "4200"
+        }
+      }
+    },
+    {
+      "name": "本町田",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38600",
+          "fee": "1100"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "40000",
+          "fee": "1100"
         }
       }
     },
