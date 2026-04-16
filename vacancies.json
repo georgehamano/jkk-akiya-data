@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-04-16T11:57:35+09:00",
+  "updated_at": "2026-04-16T12:02:54+09:00",
   "properties": [
+    {
+      "name": "トミンハイム南大井五丁目",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980211/0980211001.jpg",
+      "location": "品川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "51.06",
+          "rent": "133100",
+          "fee": "4200"
+        }
+      }
+    },
+    {
+      "name": "烏山北",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "51300",
+          "fee": "2700"
+        },
+        "３Ｋ": {
+          "area": "45.33",
+          "rent": "69200",
+          "fee": "2700"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 22,
@@ -182,6 +219,28 @@
           "area": "51.74",
           "rent": "52000",
           "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "久米川駅東",
+      "total": 2,
+      "rooms": {
+        "３Ｋ": 1,
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4380070/4380070001.jpg",
+      "location": "東村山市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "42700",
+          "fee": "2500"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "56200",
+          "fee": "2500"
         }
       }
     },
