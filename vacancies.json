@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T13:12:36+09:00",
+  "updated_at": "2026-04-16T13:17:34+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -224,27 +224,6 @@
           "area": "51.74",
           "rent": "52000",
           "fee": "1700"
-        }
-      }
-    },
-    {
-      "name": "久米川駅東",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4380070/4380070001.jpg",
-      "location": "東村山市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "42700",
-          "fee": "2500"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "56200",
-          "fee": "2500"
         }
       }
     },
