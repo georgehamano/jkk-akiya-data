@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T11:07:41+09:00",
+  "updated_at": "2026-04-17T11:12:45+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -59,22 +59,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム光が丘第三",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/2080080005.jpg",
-      "location": "練馬区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "59.69",
-          "rent": "110600",
-          "fee": "4400"
         }
       }
     },
