@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T11:02:51+09:00",
+  "updated_at": "2026-04-17T11:07:41+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -75,38 +75,6 @@
           "area": "59.69",
           "rent": "110600",
           "fee": "4400"
-        }
-      }
-    },
-    {
-      "name": "千住東町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/2180060000.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.29",
-          "rent": "83500",
-          "fee": "2700"
-        }
-      }
-    },
-    {
-      "name": "新田第二",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "45.96",
-          "rent": "81600",
-          "fee": "3500"
         }
       }
     },
