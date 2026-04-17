@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-04-17T21:07:35+09:00",
+  "updated_at": "2026-04-17T21:12:37+09:00",
   "properties": [
-    {
-      "name": "トミンタワー多摩川二丁目",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180381/1180381026.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "59.33",
-          "rent": "129400",
-          "fee": "5800"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 21,
