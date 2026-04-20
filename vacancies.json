@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T11:40:24+09:00",
+  "updated_at": "2026-04-20T11:42:50+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -59,22 +59,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム北千住",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180430/2180430001.jpg",
-      "location": "足立区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "49.72",
-          "rent": "120700",
-          "fee": "5000"
         }
       }
     },
