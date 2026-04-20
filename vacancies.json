@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T14:17:34+09:00",
+  "updated_at": "2026-04-20T14:22:41+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -201,11 +201,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 21,
+      "total": 20,
       "rooms": {
         "３Ｋ": 9,
         "２Ｋ": 2,
-        "２ＤＫ": 10
+        "２ＤＫ": 9
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
