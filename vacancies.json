@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T16:52:39+09:00",
+  "updated_at": "2026-04-21T16:57:32+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -102,6 +102,32 @@
           "area": "58.28",
           "rent": "65900",
           "fee": "4000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム下柚木三丁目",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/3180370001.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "77.28",
+          "rent": "93800",
+          "fee": "5400"
+        },
+        "４ＬＤＫＤＫ": {
+          "area": "100.84",
+          "rent": "120300",
+          "fee": "5400"
+        },
+        "２ＬＤＫ": {
+          "area": "64.26",
+          "rent": "81700",
+          "fee": "5400"
         }
       }
     },
@@ -276,11 +302,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 23,
+      "total": 24,
       "rooms": {
         "３Ｋ": 10,
         "１ＤＫ": 1,
-        "２Ｋ": 1,
+        "２Ｋ": 2,
         "２ＤＫ": 11
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
@@ -292,8 +318,8 @@
           "fee": "1700"
         },
         "２Ｋ": {
-          "area": "32.31",
-          "rent": "33800",
+          "area": "32.85",
+          "rent": "34000",
           "fee": "1700"
         },
         "２ＤＫ": {
@@ -368,8 +394,9 @@
     },
     {
       "name": "久留米西",
-      "total": 1,
+      "total": 2,
       "rooms": {
+        "２Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
