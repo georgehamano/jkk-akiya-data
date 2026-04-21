@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T16:37:44+09:00",
+  "updated_at": "2026-04-21T16:42:41+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -54,22 +54,6 @@
           "area": "59.99",
           "rent": "187000",
           "fee": "7800"
-        }
-      }
-    },
-    {
-      "name": "宇喜田第二",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.83",
-          "rent": "74800",
-          "fee": "3100"
         }
       }
     },
