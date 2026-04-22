@@ -1,43 +1,6 @@
 {
-  "updated_at": "2026-04-22T11:12:40+09:00",
+  "updated_at": "2026-04-22T11:17:38+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム千石",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0580160/0580160000.jpg",
-      "location": "文京区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.8",
-          "rent": "121800",
-          "fee": "5200"
-        },
-        "２ＤＫ": {
-          "area": "44.64",
-          "rent": "141200",
-          "fee": "5200"
-        }
-      }
-    },
-    {
-      "name": "南砂",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.06",
-          "rent": "88000",
-          "fee": "2650"
-        }
-      }
-    },
     {
       "name": "コーシャハイム亀戸七丁目",
       "total": 1,
@@ -51,22 +14,6 @@
           "area": "55.44",
           "rent": "108500",
           "fee": "4300"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム西馬込",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180490/1180490001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "49.5",
-          "rent": "119200",
-          "fee": "4400"
         }
       }
     },
