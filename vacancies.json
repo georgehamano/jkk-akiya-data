@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T17:17:36+09:00",
+  "updated_at": "2026-04-22T17:22:38+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -250,22 +250,6 @@
           "area": "34.56",
           "rent": "41500",
           "fee": "1700"
-        }
-      }
-    },
-    {
-      "name": "小金井本町",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg",
-      "location": "小金井市",
-      "room_details": {
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "73400",
-          "fee": "1900"
         }
       }
     },
