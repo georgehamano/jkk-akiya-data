@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T17:12:39+09:00",
+  "updated_at": "2026-04-23T17:17:35+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -70,22 +70,6 @@
           "area": "59.8",
           "rent": "109900",
           "fee": "4300"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム北千住",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180430/2180430001.jpg",
-      "location": "足立区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "45.03",
-          "rent": "116700",
-          "fee": "5000"
         }
       }
     },
