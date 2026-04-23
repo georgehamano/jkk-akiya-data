@@ -1,6 +1,59 @@
 {
-  "updated_at": "2026-04-23T13:12:37+09:00",
+  "updated_at": "2026-04-23T13:17:41+09:00",
   "properties": [
+    {
+      "name": "南砂",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.37",
+          "rent": "86100",
+          "fee": "2650"
+        }
+      }
+    },
+    {
+      "name": "東雲都橋",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
+      "location": "江東区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "50.62",
+          "rent": "93500",
+          "fee": "3000"
+        }
+      }
+    },
+    {
+      "name": "烏山北",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "53000",
+          "fee": "2700"
+        },
+        "３Ｋ": {
+          "area": "45.33",
+          "rent": "69200",
+          "fee": "2700"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 20,
@@ -177,9 +230,9 @@
     },
     {
       "name": "小金井貫井",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２Ｋ": 1
+        "２Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020002.jpg",
       "location": "小金井市",
@@ -272,6 +325,22 @@
           "area": "34.56",
           "rent": "33800",
           "fee": "2000"
+        }
+      }
+    },
+    {
+      "name": "愛宕第一",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/5480030002.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "40.2",
+          "rent": "46100",
+          "fee": "3100"
         }
       }
     },
