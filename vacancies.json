@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-04-23T09:42:32+09:00",
+  "updated_at": "2026-04-23T09:47:38+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
-      "total": 21,
+      "total": 20,
       "rooms": {
         "１ＤＫ": 1,
         "１ＬＤＫ": 4,
         "２ＤＫ": 1,
         "２ＬＤＫ": 4,
-        "３ＬＤＫ": 11
+        "３ＬＤＫ": 10
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/1280950001.jpg",
       "location": "世田谷区",
