@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T16:52:38+09:00",
+  "updated_at": "2026-04-23T16:57:38+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -42,6 +42,54 @@
       }
     },
     {
+      "name": "カーメスト新高円寺",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
+      "location": "杉並区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "39.52",
+          "rent": "127600",
+          "fee": "7800"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム光が丘第四",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080090/2080090009.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "59.8",
+          "rent": "109900",
+          "fee": "4300"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム北千住",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180430/2180430001.jpg",
+      "location": "足立区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "45.03",
+          "rent": "116700",
+          "fee": "5000"
+        }
+      }
+    },
+    {
       "name": "横川町",
       "total": 2,
       "rooms": {
@@ -80,6 +128,48 @@
       }
     },
     {
+      "name": "コーシャハイム下柚木三丁目",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/3180370001.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "77.28",
+          "rent": "93800",
+          "fee": "5400"
+        },
+        "４ＬＤＫＤＫ": {
+          "area": "100.84",
+          "rent": "120300",
+          "fee": "5400"
+        },
+        "２ＬＤＫ": {
+          "area": "64.26",
+          "rent": "81700",
+          "fee": "5400"
+        }
+      }
+    },
+    {
+      "name": "富士見町",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
+      "location": "立川市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "45200",
+          "fee": "2200"
+        }
+      }
+    },
+    {
       "name": "富士見町東",
       "total": 1,
       "rooms": {
@@ -97,22 +187,38 @@
     },
     {
       "name": "霞台",
-      "total": 2,
+      "total": 3,
       "rooms": {
-        "３Ｋ": 2
+        "３Ｋ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
       "location": "青梅市",
       "room_details": {
         "３Ｋ": {
           "area": "39.9",
-          "rent": "40400～41600",
+          "rent": "41600",
           "fee": "1800"
         },
         "２ＤＫ": {
           "area": "34.56",
           "rent": "34200",
           "fee": "1800"
+        }
+      }
+    },
+    {
+      "name": "高ケ坂",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "37300",
+          "fee": "1400"
         }
       }
     },
@@ -230,9 +336,10 @@
     },
     {
       "name": "清瀬台田",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 1,
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
       "location": "清瀬市",
@@ -272,6 +379,22 @@
           "area": "34.56",
           "rent": "33800",
           "fee": "2000"
+        }
+      }
+    },
+    {
+      "name": "下里第二",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/5280040000.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "63.38",
+          "rent": "69900",
+          "fee": "1400"
         }
       }
     },
