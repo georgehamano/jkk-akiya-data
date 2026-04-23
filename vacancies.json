@@ -1,38 +1,6 @@
 {
-  "updated_at": "2026-04-23T13:17:41+09:00",
+  "updated_at": "2026-04-23T13:22:38+09:00",
   "properties": [
-    {
-      "name": "南砂",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "48.37",
-          "rent": "86100",
-          "fee": "2650"
-        }
-      }
-    },
-    {
-      "name": "東雲都橋",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "50.62",
-          "rent": "93500",
-          "fee": "3000"
-        }
-      }
-    },
     {
       "name": "烏山北",
       "total": 1,
