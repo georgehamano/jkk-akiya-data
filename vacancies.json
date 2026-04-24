@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T11:07:33+09:00",
+  "updated_at": "2026-04-24T11:12:38+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -245,22 +245,6 @@
           "area": "63.38",
           "rent": "69900",
           "fee": "1400"
-        }
-      }
-    },
-    {
-      "name": "愛宕第一",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/5480030002.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "40.2",
-          "rent": "46100",
-          "fee": "3100"
         }
       }
     },
