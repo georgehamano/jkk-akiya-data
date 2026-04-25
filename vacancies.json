@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T14:17:36+09:00",
+  "updated_at": "2026-04-25T14:22:35+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -171,22 +171,6 @@
           "area": "34.56",
           "rent": "41500",
           "fee": "1700"
-        }
-      }
-    },
-    {
-      "name": "トミンハイム国分寺泉町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/4480070000.jpg",
-      "location": "国分寺市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "56.28",
-          "rent": "103500",
-          "fee": "4000"
         }
       }
     },
