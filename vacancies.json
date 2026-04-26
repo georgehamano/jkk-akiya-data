@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T17:12:36+09:00",
+  "updated_at": "2026-04-26T17:17:37+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -112,22 +112,6 @@
           "area": "34.56",
           "rent": "34200",
           "fee": "1800"
-        }
-      }
-    },
-    {
-      "name": "昭島玉川町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780020/3780020001.jpg",
-      "location": "昭島市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.0",
-          "rent": "55700",
-          "fee": "4200"
         }
       }
     },
