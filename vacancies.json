@@ -1,11 +1,26 @@
 {
-  "updated_at": "2026-04-28T10:17:37+09:00",
+  "updated_at": "2026-04-28T10:22:41+09:00",
   "properties": [
     {
-      "name": "カーメスト用賀馬事公苑",
-      "total": 18,
+      "name": "辰巳あけぼの",
+      "total": 1,
       "rooms": {
-        "１ＤＫ": 1,
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "59.92",
+          "rent": "109000",
+          "fee": "2500"
+        }
+      }
+    },
+    {
+      "name": "カーメスト用賀馬事公苑",
+      "total": 17,
+      "rooms": {
         "１ＬＤＫ": 3,
         "２ＬＤＫ": 5,
         "３ＬＤＫ": 9
@@ -37,6 +52,22 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "興野町",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/2180040000.jpg",
+      "location": "足立区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "29.94",
+          "rent": "41900",
+          "fee": "1800"
         }
       }
     },
@@ -74,6 +105,22 @@
           "area": "58.28",
           "rent": "65900",
           "fee": "4000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム南大沢第二",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/3180210000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "65.06",
+          "rent": "75600",
+          "fee": "3000"
         }
       }
     },
@@ -116,10 +163,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 15,
+      "total": 18,
       "rooms": {
-        "３Ｋ": 8,
-        "２ＤＫ": 7
+        "３Ｋ": 9,
+        "２ＤＫ": 8,
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
@@ -131,12 +179,12 @@
         },
         "２Ｋ": {
           "area": "32.85",
-          "rent": "34000",
+          "rent": "33500",
           "fee": "1700"
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "35800～36700",
+          "rent": "34700～36700",
           "fee": "1700"
         },
         "２ＤＫＳ": {
