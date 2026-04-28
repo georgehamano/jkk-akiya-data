@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T14:22:33+09:00",
+  "updated_at": "2026-04-28T14:25:58+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -37,22 +37,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "西台",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/1980150005.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "43.21",
-          "rent": "75000",
-          "fee": "3000"
         }
       }
     },
