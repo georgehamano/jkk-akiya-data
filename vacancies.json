@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-04-28T15:17:36+09:00",
+  "updated_at": "2026-04-28T15:22:40+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム亀戸七丁目",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880370/0880370001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "55.44",
-          "rent": "108500",
-          "fee": "4300"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 19,
@@ -85,22 +69,6 @@
           "area": "59.8",
           "rent": "109900",
           "fee": "4300"
-        }
-      }
-    },
-    {
-      "name": "新田第二",
-      "total": 2,
-      "rooms": {
-        "２ＤＫ": 2
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "45.96",
-          "rent": "81300～82400",
-          "fee": "3500"
         }
       }
     },
