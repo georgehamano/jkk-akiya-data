@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T11:42:41+09:00",
+  "updated_at": "2026-04-30T11:47:38+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
@@ -63,9 +63,10 @@
     },
     {
       "name": "横川町",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 1,
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
       "location": "八王子市",
