@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-04-30T11:22:39+09:00",
+  "updated_at": "2026-04-30T11:27:50+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム芦花公園",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 1,
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/1280820000.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "41.11",
+          "rent": "106100",
+          "fee": "4300"
+        },
+        "２ＤＫ": {
+          "area": "43.92",
+          "rent": "117900",
+          "fee": "4300"
+        },
+        "２ＬＤＫ": {
+          "area": "55.22",
+          "rent": "150600",
+          "fee": "4300"
+        }
+      }
+    },
+    {
+      "name": "カーメスト大蔵の杜",
+      "total": 2,
+      "rooms": {
+        "１ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "39.74",
+          "rent": "121700",
+          "fee": "5300"
+        },
+        "１ＤＫ": {
+          "area": "33.25",
+          "rent": "106200～108900",
+          "fee": "5300"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 17,
@@ -37,6 +85,22 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "宇喜田第一",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/2380010000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.25",
+          "rent": "69000",
+          "fee": "3000"
         }
       }
     },
