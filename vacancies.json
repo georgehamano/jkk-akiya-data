@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T15:37:41+09:00",
+  "updated_at": "2026-04-30T15:42:45+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -37,38 +37,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "堀船",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780020/1780020999.jpg",
-      "location": "北区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.22",
-          "rent": "69400",
-          "fee": "1900"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム向原",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/1980340000.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "50.66",
-          "rent": "121700",
-          "fee": "5900"
         }
       }
     },
