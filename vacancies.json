@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-04-30T11:37:38+09:00",
+  "updated_at": "2026-04-30T11:42:41+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム芦花公園",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/1280820000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "41.11",
-          "rent": "106100",
-          "fee": "4300"
-        },
-        "２ＤＫ": {
-          "area": "43.92",
-          "rent": "117900",
-          "fee": "4300"
-        },
-        "２ＬＤＫ": {
-          "area": "55.22",
-          "rent": "150600",
-          "fee": "4300"
-        }
-      }
-    },
     {
       "name": "カーメスト大蔵の杜",
       "total": 2,
@@ -84,22 +58,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "宇喜田第一",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/2380010000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.25",
-          "rent": "69000",
-          "fee": "3000"
         }
       }
     },
