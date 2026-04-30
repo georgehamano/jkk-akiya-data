@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-30T11:47:38+09:00",
+  "updated_at": "2026-04-30T11:52:44+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "１ＤＫ": 2
+        "１ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
       "location": "世田谷区",
@@ -17,7 +17,7 @@
         },
         "１ＤＫ": {
           "area": "33.25",
-          "rent": "106200～108900",
+          "rent": "106200",
           "fee": "5300"
         }
       }
