@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T15:32:42+09:00",
+  "updated_at": "2026-04-30T15:37:41+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -37,6 +37,54 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "堀船",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780020/1780020999.jpg",
+      "location": "北区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.22",
+          "rent": "69400",
+          "fee": "1900"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム向原",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/1980340000.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "50.66",
+          "rent": "121700",
+          "fee": "5900"
+        }
+      }
+    },
+    {
+      "name": "松枝",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "35.52",
+          "rent": "31400",
+          "fee": "3200"
         }
       }
     },
@@ -133,8 +181,11 @@
     },
     {
       "name": "大和芝中",
-      "total": 3,
+      "total": 6,
       "rooms": {
+        "２Ｋ": 1,
+        "２ＤＫ": 1,
+        "３Ｋ": 1,
         "２ＤＫＳ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
@@ -143,6 +194,21 @@
         "２ＤＫＳ": {
           "area": "51.74",
           "rent": "54100～56200",
+          "fee": "2100"
+        },
+        "２Ｋ": {
+          "area": "32.31",
+          "rent": "35200",
+          "fee": "2100"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "37600",
+          "fee": "2100"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "42500",
           "fee": "2100"
         }
       }
