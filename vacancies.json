@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-05-01T11:57:45+09:00",
+  "updated_at": "2026-05-01T12:02:49+09:00",
   "properties": [
-    {
-      "name": "トミンハイム台場五番街",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380090/0380090000.jpg",
-      "location": "港区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "61.28",
-          "rent": "151300",
-          "fee": "6200"
-        }
-      }
-    },
     {
       "name": "烏山北",
       "total": 3,
@@ -107,22 +91,6 @@
           "area": "29.94",
           "rent": "41900",
           "fee": "1800"
-        }
-      }
-    },
-    {
-      "name": "春江町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.25",
-          "rent": "60700",
-          "fee": "2900"
         }
       }
     },
