@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-02T00:27:36+09:00",
+  "updated_at": "2026-05-02T00:32:24+09:00",
   "properties": [
     {
       "name": "烏山北",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 2
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
       "location": "世田谷区",
@@ -16,8 +16,8 @@
           "fee": "2700"
         },
         "３Ｋ": {
-          "area": "45.33",
-          "rent": "69200",
+          "area": "39.96",
+          "rent": "76400",
           "fee": "2700"
         }
       }
