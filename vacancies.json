@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T19:04:58+09:00",
+  "updated_at": "2026-05-01T19:07:39+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -90,22 +90,6 @@
           "area": "29.94",
           "rent": "41900",
           "fee": "1800"
-        }
-      }
-    },
-    {
-      "name": "新田第二",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "45.96",
-          "rent": "81600",
-          "fee": "3500"
         }
       }
     },
