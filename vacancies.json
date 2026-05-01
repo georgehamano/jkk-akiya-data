@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T17:07:56+09:00",
+  "updated_at": "2026-05-01T17:12:47+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -20,27 +20,6 @@
           "area": "45.33",
           "rent": "69200",
           "fee": "2700"
-        }
-      }
-    },
-    {
-      "name": "カーメスト大蔵の杜",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "39.74",
-          "rent": "121700",
-          "fee": "5300"
-        },
-        "１ＤＫ": {
-          "area": "33.25",
-          "rent": "108900",
-          "fee": "5300"
         }
       }
     },
