@@ -1,11 +1,12 @@
 {
-  "updated_at": "2026-05-01T13:42:38+09:00",
+  "updated_at": "2026-05-01T13:47:40+09:00",
   "properties": [
     {
       "name": "烏山北",
-      "total": 2,
+      "total": 3,
       "rooms": {
-        "３Ｋ": 2
+        "３Ｋ": 2,
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
       "location": "世田谷区",
