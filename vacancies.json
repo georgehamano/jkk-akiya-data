@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T16:27:36+09:00",
+  "updated_at": "2026-05-01T16:32:39+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -144,22 +144,6 @@
           "area": "45.96",
           "rent": "81600",
           "fee": "3500"
-        }
-      }
-    },
-    {
-      "name": "八王子泉町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/3180040000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "29800",
-          "fee": "2500"
         }
       }
     },
