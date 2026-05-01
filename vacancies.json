@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T13:27:36+09:00",
+  "updated_at": "2026-05-01T13:32:40+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -291,22 +291,6 @@
           "area": "63.38",
           "rent": "69900",
           "fee": "1400"
-        }
-      }
-    },
-    {
-      "name": "愛宕第一",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/5480030002.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "40.2",
-          "rent": "46100",
-          "fee": "3100"
         }
       }
     },
