@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T12:42:47+09:00",
+  "updated_at": "2026-05-01T12:47:40+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -75,22 +75,6 @@
           "area": "59.99",
           "rent": "187000",
           "fee": "7800"
-        }
-      }
-    },
-    {
-      "name": "興野町",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/2180040000.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "29.94",
-          "rent": "41900",
-          "fee": "1800"
         }
       }
     },
