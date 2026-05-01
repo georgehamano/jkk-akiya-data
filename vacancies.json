@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T21:37:32+09:00",
+  "updated_at": "2026-05-01T21:42:42+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -128,22 +128,6 @@
           "area": "58.28",
           "rent": "65900",
           "fee": "4000"
-        }
-      }
-    },
-    {
-      "name": "トミンハイム南大沢東",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/3180410000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＬＤＫ": {
-          "area": "71.83",
-          "rent": "79900",
-          "fee": "6000"
         }
       }
     },
