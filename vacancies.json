@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T12:02:49+09:00",
+  "updated_at": "2026-05-01T12:07:43+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -150,9 +150,8 @@
     },
     {
       "name": "コーシャハイム下柚木三丁目",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＬＤＫ": 1,
         "４ＬＤＫＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/3180370001.jpg",
