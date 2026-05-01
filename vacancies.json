@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T16:22:38+09:00",
+  "updated_at": "2026-05-01T16:27:36+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -20,22 +20,6 @@
           "area": "45.33",
           "rent": "69200",
           "fee": "2700"
-        }
-      }
-    },
-    {
-      "name": "トミンハイム玉川田園調布",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280560/1280560999.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "58.02",
-          "rent": "179400",
-          "fee": "9000"
         }
       }
     },
