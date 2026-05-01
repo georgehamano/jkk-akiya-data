@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-05-01T12:32:42+09:00",
+  "updated_at": "2026-05-01T12:37:39+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム仲六郷",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/1180450001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "43.73",
-          "rent": "90000",
-          "fee": "4400"
-        },
-        "２ＤＫ": {
-          "area": "50.01",
-          "rent": "107400",
-          "fee": "4400"
-        }
-      }
-    },
     {
       "name": "烏山北",
       "total": 3,
@@ -41,22 +20,6 @@
           "area": "45.33",
           "rent": "69200",
           "fee": "2700"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム千歳船橋フロント",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280910/1280910001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "47.27",
-          "rent": "149100",
-          "fee": "6300"
         }
       }
     },
