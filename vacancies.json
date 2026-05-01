@@ -1,12 +1,11 @@
 {
-  "updated_at": "2026-05-01T10:02:59+09:00",
+  "updated_at": "2026-05-01T10:07:58+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＬＤＫ": 1,
-        "３ＬＤＫ": 1
+        "２ＬＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/0380100001.jpg",
       "location": "港区",
@@ -59,22 +58,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム坂下",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "54.88",
-          "rent": "120000",
-          "fee": "6400"
         }
       }
     },
