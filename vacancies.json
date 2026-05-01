@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T04:47:36+09:00",
+  "updated_at": "2026-05-02T04:52:45+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -132,22 +132,6 @@
           "area": "32.85",
           "rent": "39500",
           "fee": "2100"
-        }
-      }
-    },
-    {
-      "name": "昭島玉川町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780020/3780020001.jpg",
-      "location": "昭島市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.0",
-          "rent": "55700",
-          "fee": "4200"
         }
       }
     },
