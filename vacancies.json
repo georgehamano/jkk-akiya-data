@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T16:02:49+09:00",
+  "updated_at": "2026-05-01T16:07:39+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -79,6 +79,22 @@
       }
     },
     {
+      "name": "八王子泉町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/3180040000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "29800",
+          "fee": "2500"
+        }
+      }
+    },
+    {
       "name": "松枝",
       "total": 1,
       "rooms": {
@@ -150,8 +166,9 @@
     },
     {
       "name": "江の島道東",
-      "total": 1,
+      "total": 2,
       "rooms": {
+        "２Ｋ": 1,
         "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg",
@@ -218,6 +235,22 @@
         "１ＤＫ": {
           "area": "34.56",
           "rent": "41500",
+          "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "福生加美平",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
+      "location": "福生市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "29700",
           "fee": "1700"
         }
       }
