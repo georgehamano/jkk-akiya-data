@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T03:27:38+09:00",
+  "updated_at": "2026-05-03T03:32:41+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -258,9 +258,8 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "１ＤＫ": 1,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
