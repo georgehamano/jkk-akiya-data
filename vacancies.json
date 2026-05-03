@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T10:12:36+09:00",
+  "updated_at": "2026-05-03T10:17:40+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -253,32 +253,6 @@
           "area": "43.82",
           "rent": "54600",
           "fee": "3600"
-        }
-      }
-    },
-    {
-      "name": "平尾",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
-      "location": "稲城市",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.56",
-          "rent": "51000",
-          "fee": "1900"
-        },
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "49500",
-          "fee": "1900"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "44400",
-          "fee": "1900"
         }
       }
     }
