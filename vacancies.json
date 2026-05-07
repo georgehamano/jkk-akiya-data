@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T10:52:40+09:00",
+  "updated_at": "2026-05-07T10:57:33+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -179,10 +179,9 @@
     },
     {
       "name": "本町田",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 1,
-        "３Ｋ": 1
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
       "location": "町田市",
