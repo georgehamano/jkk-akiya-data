@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T20:07:37+09:00",
+  "updated_at": "2026-05-09T20:12:40+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -277,22 +277,6 @@
           "area": "69.58",
           "rent": "129800",
           "fee": "6600"
-        }
-      }
-    },
-    {
-      "name": "田無西原",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
-      "location": "西東京市",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "51.75",
-          "rent": "60400",
-          "fee": "2200"
         }
       }
     },
