@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T17:02:50+09:00",
+  "updated_at": "2026-05-12T17:07:46+09:00",
   "properties": [
     {
       "name": "烏山北",
@@ -73,22 +73,6 @@
           "area": "45.16",
           "rent": "131500",
           "fee": "7800"
-        }
-      }
-    },
-    {
-      "name": "前野町第二",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/1980160000.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.29",
-          "rent": "69700",
-          "fee": "2900"
         }
       }
     },
@@ -296,9 +280,9 @@
     },
     {
       "name": "町田木曽",
-      "total": 21,
+      "total": 20,
       "rooms": {
-        "２Ｋ": 5,
+        "２Ｋ": 4,
         "３Ｋ": 7,
         "２ＤＫ": 9
       },
