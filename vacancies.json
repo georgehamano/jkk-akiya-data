@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-05-13T16:02:54+09:00",
+  "updated_at": "2026-05-13T16:07:47+09:00",
   "properties": [
+    {
+      "name": "亀戸九丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880180/0880180000.jpg",
+      "location": "江東区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "59.92",
+          "rent": "98100",
+          "fee": "4100"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
@@ -36,6 +52,22 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "カーメスト新高円寺",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
+      "location": "杉並区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "39.52",
+          "rent": "127600",
+          "fee": "7800"
         }
       }
     },
@@ -461,6 +493,27 @@
           "area": "34.56",
           "rent": "33300",
           "fee": "2000"
+        }
+      }
+    },
+    {
+      "name": "久留米下里",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.48",
+          "rent": "38800",
+          "fee": "1400"
+        },
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "47100",
+          "fee": "1400"
         }
       }
     },
