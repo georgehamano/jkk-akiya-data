@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T14:53:38+09:00",
+  "updated_at": "2026-05-13T14:57:41+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -368,26 +368,9 @@
       }
     },
     {
-      "name": "田無南芝",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680030/4680030000.jpg",
-      "location": "西東京市",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "66200",
-          "fee": "1600"
-        }
-      }
-    },
-    {
       "name": "大和芝中",
-      "total": 5,
+      "total": 4,
       "rooms": {
-        "２Ｋ": 1,
         "２ＤＫ": 1,
         "２ＤＫＳ": 3
       },
