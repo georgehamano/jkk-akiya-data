@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T16:42:43+09:00",
+  "updated_at": "2026-05-15T16:57:37+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -231,9 +231,8 @@
     },
     {
       "name": "境川",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２Ｋ": 1,
         "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
@@ -354,10 +353,9 @@
     },
     {
       "name": "大和上北台",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 1,
-        "３Ｋ": 1
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
       "location": "東大和市",
