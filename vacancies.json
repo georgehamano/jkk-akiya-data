@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-05-15T13:42:41+09:00",
+  "updated_at": "2026-05-15T13:47:44+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム太子堂",
+      "total": 1,
+      "rooms": {
+        "１Ｒ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280810/1280810001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "35.28",
+          "rent": "105700",
+          "fee": "5300"
+        },
+        "１Ｒ": {
+          "area": "45.75",
+          "rent": "129400",
+          "fee": "5300"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
@@ -36,6 +57,54 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "堀船",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780020/1780020999.jpg",
+      "location": "北区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.22",
+          "rent": "68700",
+          "fee": "1900"
+        }
+      }
+    },
+    {
+      "name": "中台町",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/1980080999.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "42000",
+          "fee": "1400"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム小竹町",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/2080570000.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "34.13",
+          "rent": "92800",
+          "fee": "5900"
         }
       }
     },
@@ -210,8 +279,9 @@
     },
     {
       "name": "境川",
-      "total": 2,
+      "total": 3,
       "rooms": {
+        "２Ｋ": 1,
         "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
@@ -219,7 +289,7 @@
       "room_details": {
         "２Ｋ": {
           "area": "32.85",
-          "rent": "40100",
+          "rent": "37600",
           "fee": "1800"
         },
         "３Ｋ": {
@@ -294,6 +364,28 @@
           "area": "34.56",
           "rent": "44900",
           "fee": "3500"
+        }
+      }
+    },
+    {
+      "name": "カーメスト武蔵小金井",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 1,
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080120/4080120001.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.94",
+          "rent": "120600",
+          "fee": "6500"
+        },
+        "２ＬＤＫ": {
+          "area": "54.71",
+          "rent": "154900",
+          "fee": "6500"
         }
       }
     },
