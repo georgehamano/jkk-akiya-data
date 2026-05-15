@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-05-15T09:57:34+09:00",
+  "updated_at": "2026-05-15T10:02:56+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム芦花公園",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/1280820000.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "41.11",
+          "rent": "119000",
+          "fee": "4300"
+        },
+        "２ＤＫ": {
+          "area": "43.92",
+          "rent": "116000",
+          "fee": "4300"
+        },
+        "２ＬＤＫ": {
+          "area": "55.22",
+          "rent": "150600",
+          "fee": "4300"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 15,
@@ -36,6 +62,43 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム上鷺宮",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480330/1480330000.jpg",
+      "location": "中野区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "55.12",
+          "rent": "135100",
+          "fee": "6000"
+        },
+        "２ＤＫ": {
+          "area": "50.84",
+          "rent": "141600",
+          "fee": "6000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム光が丘第四",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080090/2080090009.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "59.8",
+          "rent": "111000",
+          "fee": "4300"
         }
       }
     },
@@ -358,6 +421,22 @@
           "area": "34.56",
           "rent": "44900",
           "fee": "3500"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム美園町",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4180140/4180140001.jpg",
+      "location": "小平市",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "63.84",
+          "rent": "104500",
+          "fee": "3000"
         }
       }
     },
