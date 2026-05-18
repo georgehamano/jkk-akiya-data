@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T09:42:41+09:00",
+  "updated_at": "2026-05-18T09:47:36+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -110,9 +110,10 @@
     },
     {
       "name": "霞台",
-      "total": 1,
+      "total": 5,
       "rooms": {
-        "３Ｋ": 1
+        "２ＤＫ": 3,
+        "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
       "location": "青梅市",
@@ -124,7 +125,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "32000",
+          "rent": "35400～36100",
           "fee": "1800"
         }
       }
@@ -163,8 +164,9 @@
     },
     {
       "name": "境川",
-      "total": 2,
+      "total": 3,
       "rooms": {
+        "２Ｋ": 1,
         "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
@@ -172,7 +174,7 @@
       "room_details": {
         "２Ｋ": {
           "area": "32.85",
-          "rent": "37600",
+          "rent": "38500",
           "fee": "1800"
         },
         "３Ｋ": {
