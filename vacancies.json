@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-05-19T15:57:43+09:00",
+  "updated_at": "2026-05-19T16:02:56+09:00",
   "properties": [
-    {
-      "name": "トミンタワー台場三番街",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380070/0380070001.jpg",
-      "location": "港区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "51.98",
-          "rent": "191800",
-          "fee": "6900"
-        },
-        "３ＬＤＫ": {
-          "area": "90.58",
-          "rent": "368900",
-          "fee": "6900"
-        }
-      }
-    },
     {
       "name": "トミンタワー台場一番街",
       "total": 1,
@@ -140,27 +119,6 @@
       }
     },
     {
-      "name": "コーシャハイム駒込",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1680130/1680130001.jpg",
-      "location": "豊島区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "43.7",
-          "rent": "130100",
-          "fee": "6400"
-        },
-        "１ＬＤＫ": {
-          "area": "43.39",
-          "rent": "134500",
-          "fee": "6400"
-        }
-      }
-    },
-    {
       "name": "興野町",
       "total": 1,
       "rooms": {
@@ -173,22 +131,6 @@
           "area": "29.94",
           "rent": "41900",
           "fee": "1800"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム北千住",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180430/2180430001.jpg",
-      "location": "足立区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "49.72",
-          "rent": "120700",
-          "fee": "5000"
         }
       }
     },
@@ -242,22 +184,6 @@
           "area": "58.28",
           "rent": "65900",
           "fee": "4000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム南大沢第二",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/3180210000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "65.06",
-          "rent": "75600",
-          "fee": "3000"
         }
       }
     },
