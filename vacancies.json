@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T16:02:56+09:00",
+  "updated_at": "2026-05-19T16:07:39+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -19,22 +19,6 @@
           "area": "79.97",
           "rent": "328200",
           "fee": "5500"
-        }
-      }
-    },
-    {
-      "name": "辰巳しののめ",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880190/0880190001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.39",
-          "rent": "84900",
-          "fee": "3800"
         }
       }
     },
