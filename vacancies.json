@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T17:03:04+09:00",
+  "updated_at": "2026-05-19T17:07:44+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -45,11 +45,11 @@
     },
     {
       "name": "カーメスト用賀馬事公苑",
-      "total": 16,
+      "total": 15,
       "rooms": {
         "１ＬＤＫ": 4,
         "２ＬＤＫ": 4,
-        "３ＬＤＫ": 8
+        "３ＬＤＫ": 7
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/1280950001.jpg",
       "location": "世田谷区",
