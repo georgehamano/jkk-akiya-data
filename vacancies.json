@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T16:07:39+09:00",
+  "updated_at": "2026-05-19T16:12:56+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -258,9 +258,9 @@
     },
     {
       "name": "町田木曽",
-      "total": 16,
+      "total": 15,
       "rooms": {
-        "３Ｋ": 8,
+        "３Ｋ": 7,
         "２ＤＫ": 8
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
