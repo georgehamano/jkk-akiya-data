@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T18:42:41+09:00",
+  "updated_at": "2026-05-19T18:47:45+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
@@ -433,9 +433,9 @@
     },
     {
       "name": "落合",
-      "total": 17,
+      "total": 16,
       "rooms": {
-        "３ＤＫ": 17
+        "３ＤＫ": 16
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
