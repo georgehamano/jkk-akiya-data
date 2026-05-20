@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T14:47:47+09:00",
+  "updated_at": "2026-05-20T14:52:47+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -74,38 +74,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "カーメスト新高円寺",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "45.16",
-          "rent": "131500",
-          "fee": "7800"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム清新",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "63.04",
-          "rent": "107200",
-          "fee": "4300"
         }
       }
     },
