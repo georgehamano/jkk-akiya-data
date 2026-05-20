@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T10:52:42+09:00",
+  "updated_at": "2026-05-20T10:57:38+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -94,10 +94,9 @@
     },
     {
       "name": "霞台",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "３Ｋ": 3,
-        "２ＤＫＳ": 1
+        "３Ｋ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
       "location": "青梅市",
