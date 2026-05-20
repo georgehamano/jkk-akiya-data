@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T15:57:39+09:00",
+  "updated_at": "2026-05-20T16:02:57+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -236,6 +236,28 @@
       }
     },
     {
+      "name": "福生加美平",
+      "total": 3,
+      "rooms": {
+        "２Ｋ": 1,
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
+      "location": "福生市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "29700",
+          "fee": "1700"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "31200",
+          "fee": "1700"
+        }
+      }
+    },
+    {
       "name": "大和芝中",
       "total": 3,
       "rooms": {
@@ -363,16 +385,16 @@
     },
     {
       "name": "落合",
-      "total": 15,
+      "total": 16,
       "rooms": {
-        "３ＤＫ": 15
+        "３ＤＫ": 16
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
-          "area": "51.38～52.59",
-          "rent": "56200～58200",
+          "area": "51.38",
+          "rent": "56200",
           "fee": "3000"
         },
         "２ＤＫ": {
