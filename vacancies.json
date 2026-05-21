@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T19:22:39+09:00",
+  "updated_at": "2026-05-21T19:27:38+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -116,22 +116,6 @@
           "area": "56.12～58.28",
           "rent": "57900～58000",
           "fee": "3100"
-        }
-      }
-    },
-    {
-      "name": "富士見町東",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/3280070000.jpg",
-      "location": "立川市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "48.32",
-          "rent": "65900",
-          "fee": "2100"
         }
       }
     },
