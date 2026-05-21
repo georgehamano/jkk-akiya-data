@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T15:35:30+09:00",
+  "updated_at": "2026-05-21T15:42:41+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -24,9 +24,8 @@
     },
     {
       "name": "コーシャハイム白鬚東",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "４ＤＫ": 1,
         "４ＬＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0780030/0780030001.jpg",
@@ -46,32 +45,6 @@
           "area": "82.58",
           "rent": "144100",
           "fee": "3200"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム芦花公園",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/1280820000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "41.11",
-          "rent": "119000",
-          "fee": "4300"
-        },
-        "２ＤＫ": {
-          "area": "43.92",
-          "rent": "116000",
-          "fee": "4300"
-        },
-        "２ＬＤＫ": {
-          "area": "50.35",
-          "rent": "128500",
-          "fee": "4300"
         }
       }
     },
