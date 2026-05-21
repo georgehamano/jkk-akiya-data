@@ -1,64 +1,6 @@
 {
-  "updated_at": "2026-05-21T09:47:56+09:00",
+  "updated_at": "2026-05-21T09:52:54+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム高田馬場",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/0480190000.jpg",
-      "location": "新宿区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "44.92",
-          "rent": "140500",
-          "fee": "6800"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム白鬚東",
-      "total": 1,
-      "rooms": {
-        "４ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0780030/0780030001.jpg",
-      "location": "墨田区",
-      "room_details": {
-        "３ＬＤＫ": {
-          "area": "68.4",
-          "rent": "109500",
-          "fee": "3200"
-        },
-        "４ＤＫ": {
-          "area": "73.15",
-          "rent": "122000",
-          "fee": "3200"
-        },
-        "４ＬＤＫ": {
-          "area": "82.58",
-          "rent": "144100",
-          "fee": "3200"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム南砂駅前",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880390/0880390001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "64.13",
-          "rent": "166700",
-          "fee": "6500"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 15,
