@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T10:02:55+09:00",
+  "updated_at": "2026-05-22T10:07:52+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -24,38 +24,6 @@
           "area": "82.58",
           "rent": "144100",
           "fee": "3200"
-        }
-      }
-    },
-    {
-      "name": "南砂七丁目",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880110/0880110018.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.31",
-          "rent": "79000",
-          "fee": "3500"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム南砂駅前",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880390/0880390001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "70.33",
-          "rent": "178100",
-          "fee": "6500"
         }
       }
     },
