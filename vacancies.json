@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T15:02:45+09:00",
+  "updated_at": "2026-05-22T15:07:38+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -78,6 +78,22 @@
       }
     },
     {
+      "name": "松が谷第二",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/3180130002.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "58.28",
+          "rent": "63800",
+          "fee": "4000"
+        }
+      }
+    },
+    {
       "name": "霞台",
       "total": 3,
       "rooms": {
@@ -120,6 +136,32 @@
       }
     },
     {
+      "name": "森野",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "45800",
+          "fee": "2600"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "51000",
+          "fee": "2600"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "59000",
+          "fee": "2600"
+        }
+      }
+    },
+    {
       "name": "木曽",
       "total": 1,
       "rooms": {
@@ -146,10 +188,41 @@
       }
     },
     {
-      "name": "町田木曽",
-      "total": 15,
+      "name": "境川",
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 9,
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "40100",
+          "fee": "1800"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "48400",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "58400",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "41300",
+          "fee": "1800"
+        }
+      }
+    },
+    {
+      "name": "町田木曽",
+      "total": 16,
+      "rooms": {
+        "２ＤＫ": 10,
         "３Ｋ": 5,
         "２Ｋ": 1
       },
