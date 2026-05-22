@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T09:32:46+09:00",
+  "updated_at": "2026-05-22T09:37:37+09:00",
   "properties": [
     {
       "name": "コーシャハイム白鬚東",
@@ -29,12 +29,12 @@
     },
     {
       "name": "カーメスト用賀馬事公苑",
-      "total": 15,
+      "total": 16,
       "rooms": {
         "１ＤＫ": 1,
         "１ＬＤＫ": 4,
         "２ＬＤＫ": 4,
-        "３ＬＤＫ": 6
+        "３ＬＤＫ": 7
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/1280950001.jpg",
       "location": "世田谷区",
