@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-05-22T16:57:37+09:00",
+  "updated_at": "2026-05-22T17:02:53+09:00",
   "properties": [
+    {
+      "name": "カーメスト大蔵の杜",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "39.74",
+          "rent": "121700",
+          "fee": "5300"
+        },
+        "１ＤＫ": {
+          "area": "33.25",
+          "rent": "108900",
+          "fee": "5300"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 17,
@@ -41,6 +62,22 @@
       }
     },
     {
+      "name": "カーメスト新高円寺",
+      "total": 2,
+      "rooms": {
+        "１ＬＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
+      "location": "杉並区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "39.52～59.99",
+          "rent": "133400～187000",
+          "fee": "7800"
+        }
+      }
+    },
+    {
       "name": "松が谷",
       "total": 1,
       "rooms": {
@@ -58,8 +95,9 @@
     },
     {
       "name": "横川町",
-      "total": 2,
+      "total": 3,
       "rooms": {
+        "２ＤＫ": 1,
         "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
@@ -79,17 +117,54 @@
     },
     {
       "name": "松が谷第二",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "３ＤＫ": 1
+        "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/3180130002.jpg",
       "location": "八王子市",
       "room_details": {
         "３ＤＫ": {
           "area": "58.28",
-          "rent": "63800",
+          "rent": "63800～65900",
           "fee": "4000"
+        }
+      }
+    },
+    {
+      "name": "トミンハイム南大沢東",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/3180410000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "71.83",
+          "rent": "79900",
+          "fee": "6000"
+        }
+      }
+    },
+    {
+      "name": "江の島道東",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg",
+      "location": "立川市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "59900",
+          "fee": "2100"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "39500",
+          "fee": "2100"
         }
       }
     },
@@ -227,6 +302,22 @@
           "area": "34.56",
           "rent": "41500",
           "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "小金井本町",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "73400",
+          "fee": "1900"
         }
       }
     },
