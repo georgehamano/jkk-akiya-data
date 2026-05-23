@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-05-23T09:57:44+09:00",
+  "updated_at": "2026-05-23T10:02:45+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム高田馬場",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/0480190000.jpg",
-      "location": "新宿区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "44.92",
-          "rent": "140500",
-          "fee": "6800"
-        }
-      }
-    },
     {
       "name": "辰巳しののめ",
       "total": 1,
