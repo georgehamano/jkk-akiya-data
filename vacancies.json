@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T13:32:45+09:00",
+  "updated_at": "2026-05-23T13:37:35+09:00",
   "properties": [
     {
       "name": "トミンタワー台場三番街",
@@ -19,27 +19,6 @@
           "area": "90.58",
           "rent": "368900",
           "fee": "6900"
-        }
-      }
-    },
-    {
-      "name": "烏山北",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "53000",
-          "fee": "2700"
-        },
-        "３Ｋ": {
-          "area": "45.33",
-          "rent": "69200",
-          "fee": "2700"
         }
       }
     },
