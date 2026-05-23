@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-05-23T10:22:42+09:00",
+  "updated_at": "2026-05-23T10:27:38+09:00",
   "properties": [
-    {
-      "name": "辰巳しののめ",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880190/0880190001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.39",
-          "rent": "86500",
-          "fee": "3800"
-        }
-      }
-    },
     {
       "name": "烏山北",
       "total": 1,
