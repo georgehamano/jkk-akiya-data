@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T13:37:35+09:00",
+  "updated_at": "2026-05-26T13:42:39+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
@@ -89,22 +89,6 @@
           "area": "45.0",
           "rent": "68300",
           "fee": "3600"
-        }
-      }
-    },
-    {
-      "name": "南葛西",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380090/2380090000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.7",
-          "rent": "84500",
-          "fee": "4900"
         }
       }
     },
