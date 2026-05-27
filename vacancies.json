@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T12:02:52+09:00",
+  "updated_at": "2026-05-27T12:07:36+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -135,6 +135,22 @@
       }
     },
     {
+      "name": "昭島田中町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
+      "location": "昭島市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "48900",
+          "fee": "2400"
+        }
+      }
+    },
+    {
       "name": "高ケ坂",
       "total": 1,
       "rooms": {
@@ -151,11 +167,42 @@
       }
     },
     {
+      "name": "本町田",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "39100",
+          "fee": "1100"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "41500",
+          "fee": "1100"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "46400",
+          "fee": "1100"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "60000",
+          "fee": "1100"
+        }
+      }
+    },
+    {
       "name": "町田木曽",
-      "total": 16,
+      "total": 17,
       "rooms": {
         "３Ｋ": 5,
-        "２ＤＫ": 10,
+        "２ＤＫ": 11,
         "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
