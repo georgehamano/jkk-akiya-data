@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T15:57:35+09:00",
+  "updated_at": "2026-05-28T16:03:09+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
@@ -83,6 +83,22 @@
           "area": "50.84",
           "rent": "141600",
           "fee": "6000"
+        }
+      }
+    },
+    {
+      "name": "西台",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/1980150005.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "43.21",
+          "rent": "75800",
+          "fee": "3000"
         }
       }
     },
@@ -294,6 +310,48 @@
           "area": "34.56",
           "rent": "41500",
           "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "カーメスト武蔵小金井",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080120/4080120001.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.94",
+          "rent": "120600",
+          "fee": "6500"
+        },
+        "２ＬＤＫ": {
+          "area": "54.71",
+          "rent": "154900",
+          "fee": "6500"
+        },
+        "３ＬＤＫ": {
+          "area": "64.79",
+          "rent": "174600",
+          "fee": "6500"
+        }
+      }
+    },
+    {
+      "name": "田無南芝",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680030/4680030000.jpg",
+      "location": "西東京市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "66200",
+          "fee": "1600"
         }
       }
     },
