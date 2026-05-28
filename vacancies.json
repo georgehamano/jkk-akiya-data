@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T14:27:34+09:00",
+  "updated_at": "2026-05-28T14:32:51+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
@@ -62,6 +62,27 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム上鷺宮",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480330/1480330000.jpg",
+      "location": "中野区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "55.12",
+          "rent": "135100",
+          "fee": "6000"
+        },
+        "２ＤＫ": {
+          "area": "50.84",
+          "rent": "141600",
+          "fee": "6000"
         }
       }
     },
