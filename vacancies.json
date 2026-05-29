@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T17:27:39+09:00",
+  "updated_at": "2026-05-29T17:32:50+09:00",
   "properties": [
     {
       "name": "トミンハイム玉川田園調布",
@@ -185,22 +185,6 @@
           "area": "65.06",
           "rent": "75600",
           "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "トミンハイム南大沢東",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/3180410000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＬＤＫ": {
-          "area": "71.83",
-          "rent": "79900",
-          "fee": "6000"
         }
       }
     },
