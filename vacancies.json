@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-05-29T16:22:39+09:00",
+  "updated_at": "2026-05-29T16:27:39+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム芦花公園",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/1280820000.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "41.11",
+          "rent": "119000",
+          "fee": "4300"
+        },
+        "２ＤＫ": {
+          "area": "43.92",
+          "rent": "116000",
+          "fee": "4300"
+        },
+        "２ＬＤＫ": {
+          "area": "50.35",
+          "rent": "128500",
+          "fee": "4300"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 17,
@@ -57,6 +83,22 @@
           "area": "50.84",
           "rent": "141600",
           "fee": "6000"
+        }
+      }
+    },
+    {
+      "name": "前野町第二",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/1980160000.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.29",
+          "rent": "69700",
+          "fee": "2900"
         }
       }
     },
@@ -168,9 +210,9 @@
     },
     {
       "name": "多摩川",
-      "total": 1,
+      "total": 3,
       "rooms": {
-        "２Ｋ": 1
+        "２Ｋ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
       "location": "調布市",
@@ -263,9 +305,10 @@
     },
     {
       "name": "町田木曽",
-      "total": 15,
+      "total": 16,
       "rooms": {
         "３Ｋ": 5,
+        "２Ｋ": 1,
         "２ＤＫ": 10
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
@@ -277,8 +320,8 @@
           "fee": "1700"
         },
         "２Ｋ": {
-          "area": "32.31",
-          "rent": "33800",
+          "area": "32.85",
+          "rent": "33500",
           "fee": "1700"
         },
         "２ＤＫ": {
@@ -295,6 +338,27 @@
           "area": "34.56",
           "rent": "41500",
           "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "田無西原",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
+      "location": "西東京市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "60400",
+          "fee": "2200"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "48700",
+          "fee": "2200"
         }
       }
     },
