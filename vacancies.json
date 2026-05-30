@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T16:32:46+09:00",
+  "updated_at": "2026-05-30T16:37:19+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -61,6 +61,22 @@
       }
     },
     {
+      "name": "新河岸一丁目",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980180/1980180004.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.86",
+          "rent": "60500",
+          "fee": "4800"
+        }
+      }
+    },
+    {
       "name": "コーシャハイム光が丘第四",
       "total": 1,
       "rooms": {
@@ -73,6 +89,38 @@
           "area": "59.8",
           "rent": "111000",
           "fee": "4300"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム南葛西五丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.47",
+          "rent": "90700",
+          "fee": "3100"
+        }
+      }
+    },
+    {
+      "name": "八王子泉町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/3180040000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "29800",
+          "fee": "2500"
         }
       }
     },
@@ -135,6 +183,27 @@
       }
     },
     {
+      "name": "高ケ坂",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38400",
+          "fee": "1400"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "46800",
+          "fee": "1400"
+        }
+      }
+    },
+    {
       "name": "本町田",
       "total": 2,
       "rooms": {
@@ -167,9 +236,10 @@
     },
     {
       "name": "境川",
-      "total": 3,
+      "total": 4,
       "rooms": {
         "２Ｋ": 2,
+        "２ＤＫ": 1,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
@@ -199,11 +269,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 15,
+      "total": 17,
       "rooms": {
         "３Ｋ": 4,
-        "２Ｋ": 1,
-        "２ＤＫ": 10
+        "２Ｋ": 2,
+        "２ＤＫ": 11
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
@@ -214,8 +284,8 @@
           "fee": "1700"
         },
         "２Ｋ": {
-          "area": "32.85",
-          "rent": "33500",
+          "area": "32.31",
+          "rent": "33800",
           "fee": "1700"
         },
         "２ＤＫ": {
@@ -237,8 +307,9 @@
     },
     {
       "name": "田無西原",
-      "total": 1,
+      "total": 2,
       "rooms": {
+        "３Ｋ": 1,
         "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
@@ -284,6 +355,32 @@
           "area": "39.9",
           "rent": "42500",
           "fee": "2100"
+        }
+      }
+    },
+    {
+      "name": "大和上北台",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "43500",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "41200",
+          "fee": "1900"
+        },
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "59600",
+          "fee": "1900"
         }
       }
     },
@@ -341,9 +438,9 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
