@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-05-30T16:07:42+09:00",
+  "updated_at": "2026-05-30T16:12:42+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム千石",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0580160/0580160000.jpg",
-      "location": "文京区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.8",
-          "rent": "121300",
-          "fee": "5200"
-        },
-        "２ＤＫ": {
-          "area": "44.64",
-          "rent": "141200",
-          "fee": "5200"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 17,
@@ -78,22 +57,6 @@
           "area": "50.84",
           "rent": "141600",
           "fee": "6000"
-        }
-      }
-    },
-    {
-      "name": "新河岸一丁目",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980180/1980180004.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "45.86",
-          "rent": "60500",
-          "fee": "4800"
         }
       }
     },
@@ -236,10 +199,10 @@
     },
     {
       "name": "町田木曽",
-      "total": 16,
+      "total": 15,
       "rooms": {
         "３Ｋ": 4,
-        "２Ｋ": 2,
+        "２Ｋ": 1,
         "２ＤＫ": 10
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
@@ -251,8 +214,8 @@
           "fee": "1700"
         },
         "２Ｋ": {
-          "area": "32.31",
-          "rent": "33800",
+          "area": "32.85",
+          "rent": "33500",
           "fee": "1700"
         },
         "２ＤＫ": {
@@ -274,9 +237,8 @@
     },
     {
       "name": "田無西原",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 1,
         "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
@@ -322,32 +284,6 @@
           "area": "39.9",
           "rent": "42500",
           "fee": "2100"
-        }
-      }
-    },
-    {
-      "name": "大和上北台",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
-      "location": "東大和市",
-      "room_details": {
-        "３Ｋ": {
-          "area": "38.48",
-          "rent": "43500",
-          "fee": "1900"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "41200",
-          "fee": "1900"
-        },
-        "２ＤＫＳ": {
-          "area": "51.75",
-          "rent": "59600",
-          "fee": "1900"
         }
       }
     },
