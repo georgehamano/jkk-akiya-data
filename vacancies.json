@@ -1,48 +1,6 @@
 {
-  "updated_at": "2026-06-01T16:32:47+09:00",
+  "updated_at": "2026-06-01T16:37:39+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム八潮南",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980120/0980120047.jpg",
-      "location": "品川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.18",
-          "rent": "95800",
-          "fee": "3900"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム芦花公園",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/1280820000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "41.11",
-          "rent": "119000",
-          "fee": "4300"
-        },
-        "２ＤＫ": {
-          "area": "43.92",
-          "rent": "116000",
-          "fee": "4300"
-        },
-        "２ＬＤＫ": {
-          "area": "50.35",
-          "rent": "128500",
-          "fee": "4300"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 17,
