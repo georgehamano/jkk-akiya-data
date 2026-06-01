@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T10:12:46+09:00",
+  "updated_at": "2026-06-01T10:17:41+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -56,26 +56,10 @@
       }
     },
     {
-      "name": "西台",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/1980150005.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "43.21",
-          "rent": "71100",
-          "fee": "3000"
-        }
-      }
-    },
-    {
       "name": "コーシャハイム清新",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＬＤＫ": 3
+        "２ＬＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
       "location": "江戸川区",
@@ -87,7 +71,7 @@
         },
         "２ＬＤＫ": {
           "area": "63.04",
-          "rent": "133100～135800",
+          "rent": "135800",
           "fee": "4300"
         }
       }
