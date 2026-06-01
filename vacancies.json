@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T15:07:38+09:00",
+  "updated_at": "2026-06-01T15:12:42+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -274,27 +274,6 @@
           "area": "39.9",
           "rent": "37700～39100",
           "fee": "2000"
-        }
-      }
-    },
-    {
-      "name": "久留米下里",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
-      "location": "東久留米市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.01",
-          "rent": "46000",
-          "fee": "1400"
-        },
-        "３Ｋ": {
-          "area": "40.8",
-          "rent": "50100",
-          "fee": "1400"
         }
       }
     },
