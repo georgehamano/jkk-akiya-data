@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T17:22:47+09:00",
+  "updated_at": "2026-06-02T17:27:39+09:00",
   "properties": [
     {
       "name": "辰巳しののめ",
@@ -274,10 +274,9 @@
     },
     {
       "name": "本町田",
-      "total": 4,
+      "total": 3,
       "rooms": {
         "２Ｋ": 2,
-        "２ＤＫ": 1,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
@@ -469,9 +468,9 @@
     },
     {
       "name": "落合",
-      "total": 14,
+      "total": 13,
       "rooms": {
-        "３ＤＫ": 14
+        "３ＤＫ": 13
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
