@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T17:27:39+09:00",
+  "updated_at": "2026-06-02T17:32:52+09:00",
   "properties": [
     {
       "name": "辰巳しののめ",
@@ -52,22 +52,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "西新井本町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180080/2180080000.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "45.0",
-          "rent": "68300",
-          "fee": "3600"
         }
       }
     },
