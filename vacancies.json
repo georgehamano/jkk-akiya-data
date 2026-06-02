@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-06-02T19:22:42+09:00",
+  "updated_at": "2026-06-02T19:27:40+09:00",
   "properties": [
-    {
-      "name": "辰巳しののめ",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880190/0880190001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.39",
-          "rent": "84900",
-          "fee": "3800"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
