@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T17:12:47+09:00",
+  "updated_at": "2026-06-02T17:17:50+09:00",
   "properties": [
     {
       "name": "辰巳しののめ",
@@ -14,22 +14,6 @@
           "area": "46.39",
           "rent": "84900",
           "fee": "3800"
-        }
-      }
-    },
-    {
-      "name": "トミンハイム玉川田園調布",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280560/1280560999.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "58.02",
-          "rent": "179400",
-          "fee": "9000"
         }
       }
     },
@@ -195,16 +179,16 @@
     },
     {
       "name": "富士見町",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
       "location": "立川市",
       "room_details": {
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "46300",
+          "rent": "45200",
           "fee": "2200"
         },
         "２Ｋ": {
