@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T14:32:45+09:00",
+  "updated_at": "2026-06-02T14:37:38+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -41,9 +41,9 @@
     },
     {
       "name": "八王子泉町",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/3180040000.jpg",
       "location": "八王子市",
@@ -110,9 +110,9 @@
     },
     {
       "name": "富士見町",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
       "location": "立川市",
@@ -126,6 +126,22 @@
           "area": "32.31",
           "rent": "41100",
           "fee": "2200"
+        }
+      }
+    },
+    {
+      "name": "富士見町東",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/3280070000.jpg",
+      "location": "立川市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "64800",
+          "fee": "2100"
         }
       }
     },
@@ -288,6 +304,32 @@
           "area": "39.9",
           "rent": "43800",
           "fee": "2100"
+        }
+      }
+    },
+    {
+      "name": "大和上北台",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "43500",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "37.64",
+          "rent": "44400",
+          "fee": "1900"
+        },
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "59600",
+          "fee": "1900"
         }
       }
     },
