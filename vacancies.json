@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T17:12:43+09:00",
+  "updated_at": "2026-06-03T17:17:46+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -36,27 +36,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム光が丘第一",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg",
-      "location": "練馬区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.17",
-          "rent": "103100",
-          "fee": "3200"
-        },
-        "２ＬＤＫ": {
-          "area": "60.17",
-          "rent": "100100",
-          "fee": "3200"
         }
       }
     },
@@ -497,16 +476,16 @@
     },
     {
       "name": "落合",
-      "total": 2,
+      "total": 12,
       "rooms": {
-        "３ＤＫ": 2
+        "３ＤＫ": 12
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
-          "area": "52.59",
-          "rent": "56300",
+          "area": "51.38～52.59",
+          "rent": "55200～56300",
           "fee": "2300～3000"
         },
         "２ＤＫ": {
