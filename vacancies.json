@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T14:22:52+09:00",
+  "updated_at": "2026-06-03T14:28:09+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
@@ -62,22 +62,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "カーメスト新高円寺",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "45.16",
-          "rent": "131500",
-          "fee": "7800"
         }
       }
     },
@@ -268,9 +252,8 @@
     },
     {
       "name": "霞台",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1,
         "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
@@ -466,41 +449,20 @@
       }
     },
     {
-      "name": "福生加美平",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
-      "location": "福生市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "29300",
-          "fee": "1700"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "31200",
-          "fee": "1700"
-        }
-      }
-    },
-    {
       "name": "大和芝中",
-      "total": 9,
+      "total": 11,
       "rooms": {
         "３Ｋ": 2,
         "２Ｋ": 2,
         "２ＤＫ": 4,
-        "２ＤＫＳ": 1
+        "２ＤＫＳ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
       "location": "東大和市",
       "room_details": {
         "２ＤＫＳ": {
           "area": "51.74",
-          "rent": "56200",
+          "rent": "54100～56200",
           "fee": "2100"
         },
         "２Ｋ": {
@@ -517,6 +479,32 @@
           "area": "39.9",
           "rent": "43800",
           "fee": "2100"
+        }
+      }
+    },
+    {
+      "name": "大和上北台",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "45200",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "37.64",
+          "rent": "44400",
+          "fee": "1900"
+        },
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "59600",
+          "fee": "1900"
         }
       }
     }
