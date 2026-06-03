@@ -1,27 +1,11 @@
 {
-  "updated_at": "2026-06-03T15:42:51+09:00",
+  "updated_at": "2026-06-03T15:47:43+09:00",
   "properties": [
     {
-      "name": "南砂",
+      "name": "コーシャハイム大森東",
       "total": 1,
       "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "47.46",
-          "rent": "80900",
-          "fee": "2650"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム大森東",
-      "total": 2,
-      "rooms": {
-        "３ＤＫ": 2
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/1180210000.jpg",
       "location": "大田区",
@@ -33,7 +17,7 @@
         },
         "３ＤＫ": {
           "area": "62.97",
-          "rent": "118900～125000",
+          "rent": "125000",
           "fee": "3900"
         }
       }
@@ -511,6 +495,32 @@
           "area": "39.9",
           "rent": "43800",
           "fee": "2100"
+        }
+      }
+    },
+    {
+      "name": "大和上北台",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "45200",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "37.64",
+          "rent": "44400",
+          "fee": "1900"
+        },
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "59600",
+          "fee": "1900"
         }
       }
     }
