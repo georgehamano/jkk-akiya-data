@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-06-03T14:28:09+09:00",
+  "updated_at": "2026-06-03T14:32:49+09:00",
   "properties": [
-    {
-      "name": "カーメスト大蔵の杜",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "50.7",
-          "rent": "144400",
-          "fee": "5300"
-        },
-        "１ＤＫ": {
-          "area": "33.25",
-          "rent": "106200",
-          "fee": "5300"
-        },
-        "２Ｋ": {
-          "area": "38.34",
-          "rent": "126600",
-          "fee": "5300"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
@@ -62,27 +36,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム北千住",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180430/2180430001.jpg",
-      "location": "足立区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "49.72",
-          "rent": "127500",
-          "fee": "5000"
-        },
-        "１ＤＫ": {
-          "area": "34.01",
-          "rent": "98500",
-          "fee": "5000"
         }
       }
     },
@@ -484,9 +437,10 @@
     },
     {
       "name": "大和上北台",
-      "total": 2,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 2,
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
       "location": "東大和市",
@@ -505,6 +459,27 @@
           "area": "51.75",
           "rent": "59600",
           "fee": "1900"
+        }
+      }
+    },
+    {
+      "name": "清瀬台田",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
+      "location": "清瀬市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "29900",
+          "fee": "1700"
+        },
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "33000",
+          "fee": "1700"
         }
       }
     }
