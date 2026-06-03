@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T16:27:40+09:00",
+  "updated_at": "2026-06-03T16:32:46+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -57,27 +57,6 @@
           "area": "63.04",
           "rent": "133100",
           "fee": "4300"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム小松川一丁目",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/2380150000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "61.29",
-          "rent": "113400",
-          "fee": "3500"
-        },
-        "２ＬＤＫ": {
-          "area": "54.08",
-          "rent": "106000",
-          "fee": "3500"
         }
       }
     },
@@ -512,6 +491,27 @@
           "area": "39.9",
           "rent": "37700",
           "fee": "2000"
+        }
+      }
+    },
+    {
+      "name": "落合",
+      "total": 2,
+      "rooms": {
+        "３ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "52.59",
+          "rent": "56300",
+          "fee": "2300～3000"
+        },
+        "２ＤＫ": {
+          "area": "43.82",
+          "rent": "54600",
+          "fee": "3600"
         }
       }
     }
