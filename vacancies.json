@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T17:32:52+09:00",
+  "updated_at": "2026-06-04T17:37:44+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -423,27 +423,6 @@
       }
     },
     {
-      "name": "田無南芝",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680030/4680030000.jpg",
-      "location": "西東京市",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "66200",
-          "fee": "1600"
-        },
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "39400",
-          "fee": "1600"
-        }
-      }
-    },
-    {
       "name": "大和芝中",
       "total": 9,
       "rooms": {
@@ -506,9 +485,10 @@
     },
     {
       "name": "久留米西",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 1,
+        "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
       "location": "東久留米市",
