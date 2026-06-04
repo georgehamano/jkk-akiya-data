@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T18:57:52+09:00",
+  "updated_at": "2026-06-04T19:02:56+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -62,27 +62,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム臨海町二丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380160/2380160000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "59.88",
-          "rent": "88000",
-          "fee": "3800"
-        },
-        "２ＬＤＫ": {
-          "area": "57.38",
-          "rent": "87300",
-          "fee": "3800"
         }
       }
     },
@@ -485,17 +464,17 @@
     },
     {
       "name": "落合",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "３ＤＫ": 1
+        "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
-          "area": "51.38",
-          "rent": "56200",
-          "fee": "3000"
+          "area": "52.59",
+          "rent": "56300",
+          "fee": "2300"
         },
         "２ＤＫ": {
           "area": "43.82",
