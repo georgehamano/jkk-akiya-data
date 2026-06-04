@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T22:52:46+09:00",
+  "updated_at": "2026-06-04T22:57:45+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -334,10 +334,10 @@
     },
     {
       "name": "町田木曽",
-      "total": 16,
+      "total": 15,
       "rooms": {
         "３Ｋ": 7,
-        "２ＤＫ": 9
+        "２ＤＫ": 8
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
@@ -496,6 +496,32 @@
           "area": "48.32",
           "rent": "61300",
           "fee": "3000"
+        }
+      }
+    },
+    {
+      "name": "平尾",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
+      "location": "稲城市",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "34.56",
+          "rent": "51000",
+          "fee": "1900"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "51200",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "42400",
+          "fee": "1900"
         }
       }
     }
