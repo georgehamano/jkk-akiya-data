@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T05:12:45+09:00",
+  "updated_at": "2026-06-05T05:17:43+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -189,16 +189,16 @@
     },
     {
       "name": "霞台",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 2
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
       "location": "青梅市",
       "room_details": {
         "３Ｋ": {
           "area": "39.9",
-          "rent": "40400～41600",
+          "rent": "41600",
           "fee": "1800"
         },
         "２ＤＫ": {
