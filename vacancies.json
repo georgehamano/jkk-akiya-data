@@ -1,53 +1,6 @@
 {
-  "updated_at": "2026-06-04T10:22:48+09:00",
+  "updated_at": "2026-06-04T10:27:46+09:00",
   "properties": [
-    {
-      "name": "越中島",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880070/0880070027.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.25",
-          "rent": "90400",
-          "fee": "3300"
-        }
-      }
-    },
-    {
-      "name": "カーメスト大蔵の杜",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "50.7",
-          "rent": "144400",
-          "fee": "5300"
-        },
-        "１ＤＫ": {
-          "area": "33.25",
-          "rent": "106200",
-          "fee": "5300"
-        },
-        "２Ｋ": {
-          "area": "38.34",
-          "rent": "126600",
-          "fee": "5300"
-        },
-        "２ＬＤＫ": {
-          "area": "67.13",
-          "rent": "186000",
-          "fee": "5300"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
@@ -99,22 +52,6 @@
           "area": "43.21",
           "rent": "69700",
           "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム光が丘第四",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080090/2080090009.jpg",
-      "location": "練馬区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "59.8",
-          "rent": "111000",
-          "fee": "4300"
         }
       }
     },
@@ -553,22 +490,64 @@
     },
     {
       "name": "落合",
-      "total": 11,
+      "total": 12,
       "rooms": {
-        "３ＤＫ": 11
+        "３ＤＫ": 12
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
-          "area": "51.38～52.59",
-          "rent": "55200～56300",
-          "fee": "2300～3000"
+          "area": "51.38",
+          "rent": "56200",
+          "fee": "3000"
         },
         "２ＤＫ": {
           "area": "43.82",
           "rent": "54600",
           "fee": "3600"
+        }
+      }
+    },
+    {
+      "name": "東寺方",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/5480100000.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "61300",
+          "fee": "3000"
+        }
+      }
+    },
+    {
+      "name": "平尾",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
+      "location": "稲城市",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "34.56",
+          "rent": "51000",
+          "fee": "1900"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "51200",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "42400",
+          "fee": "1900"
         }
       }
     }
