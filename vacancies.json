@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T12:57:39+09:00",
+  "updated_at": "2026-06-05T13:02:55+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -355,6 +355,22 @@
           "area": "34.56",
           "rent": "41500",
           "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム美園町",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4180140/4180140001.jpg",
+      "location": "小平市",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "63.84",
+          "rent": "104500",
+          "fee": "3000"
         }
       }
     },
