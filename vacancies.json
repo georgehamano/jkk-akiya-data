@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T13:22:45+09:00",
+  "updated_at": "2026-06-06T13:27:40+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -40,37 +40,6 @@
           "area": "46.39",
           "rent": "85700",
           "fee": "3800"
-        }
-      }
-    },
-    {
-      "name": "カーメスト大蔵の杜",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "50.7",
-          "rent": "144400",
-          "fee": "5300"
-        },
-        "１ＤＫ": {
-          "area": "33.25",
-          "rent": "108900",
-          "fee": "5300"
-        },
-        "２Ｋ": {
-          "area": "38.34",
-          "rent": "126600",
-          "fee": "5300"
-        },
-        "２ＬＤＫ": {
-          "area": "67.13",
-          "rent": "186000",
-          "fee": "5300"
         }
       }
     },
@@ -542,6 +511,27 @@
           "area": "38.48",
           "rent": "39900",
           "fee": "1400"
+        }
+      }
+    },
+    {
+      "name": "落合",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "52.59",
+          "rent": "56300",
+          "fee": "2300"
+        },
+        "２ＤＫ": {
+          "area": "43.82",
+          "rent": "54600",
+          "fee": "3600"
         }
       }
     }
