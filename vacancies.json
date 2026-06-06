@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T13:17:40+09:00",
+  "updated_at": "2026-06-06T13:22:45+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -251,32 +251,6 @@
       }
     },
     {
-      "name": "霞台",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
-      "location": "青梅市",
-      "room_details": {
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "41600",
-          "fee": "1800"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "34100",
-          "fee": "1800"
-        },
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "49600",
-          "fee": "1800"
-        }
-      }
-    },
-    {
       "name": "高ケ坂",
       "total": 2,
       "rooms": {
@@ -522,8 +496,8 @@
       "name": "久留米西",
       "total": 2,
       "rooms": {
-        "２ＤＫ": 1,
-        "３Ｋ": 1
+        "３Ｋ": 1,
+        "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
       "location": "東久留米市",
@@ -547,6 +521,27 @@
           "area": "39.9",
           "rent": "39100",
           "fee": "2000"
+        }
+      }
+    },
+    {
+      "name": "久留米下里",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.01",
+          "rent": "46000",
+          "fee": "1400"
+        },
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "39900",
+          "fee": "1400"
         }
       }
     }
