@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T22:47:41+09:00",
+  "updated_at": "2026-06-07T22:52:42+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -179,32 +179,6 @@
           "area": "39.96",
           "rent": "46800",
           "fee": "1400"
-        }
-      }
-    },
-    {
-      "name": "森野",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "45300",
-          "fee": "2600"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "51000",
-          "fee": "2600"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "59000",
-          "fee": "2600"
         }
       }
     },
