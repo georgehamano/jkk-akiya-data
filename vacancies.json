@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T02:27:38+09:00",
+  "updated_at": "2026-06-08T02:32:47+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -468,9 +468,9 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
@@ -487,7 +487,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "43400～44800",
+          "rent": "43400",
           "fee": "1900"
         }
       }
