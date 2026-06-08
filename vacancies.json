@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T16:42:41+09:00",
+  "updated_at": "2026-06-08T16:47:51+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -283,9 +283,9 @@
     },
     {
       "name": "高ケ坂",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 2
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
       "location": "町田市",
