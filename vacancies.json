@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T16:57:43+09:00",
+  "updated_at": "2026-06-08T17:03:02+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -472,6 +472,37 @@
       }
     },
     {
+      "name": "久留米西",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "30700",
+          "fee": "2000"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "48200",
+          "fee": "2000"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "33300",
+          "fee": "2000"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "39100",
+          "fee": "2000"
+        }
+      }
+    },
+    {
       "name": "久留米下里",
       "total": 2,
       "rooms": {
@@ -489,27 +520,6 @@
           "area": "38.48",
           "rent": "39900",
           "fee": "1400"
-        }
-      }
-    },
-    {
-      "name": "落合",
-      "total": 2,
-      "rooms": {
-        "３ＤＫ": 2
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "51.38～52.59",
-          "rent": "56200～56300",
-          "fee": "2300～3000"
-        },
-        "２ＤＫ": {
-          "area": "43.82",
-          "rent": "54600",
-          "fee": "3600"
         }
       }
     }
