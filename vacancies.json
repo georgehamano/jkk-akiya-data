@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T18:17:44+09:00",
+  "updated_at": "2026-06-08T18:22:44+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -509,9 +509,9 @@
     },
     {
       "name": "落合",
-      "total": 16,
+      "total": 15,
       "rooms": {
-        "３ＤＫ": 16
+        "３ＤＫ": 15
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
