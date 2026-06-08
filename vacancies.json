@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T16:47:51+09:00",
+  "updated_at": "2026-06-08T16:52:45+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -24,32 +24,6 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム白鬚東",
-      "total": 1,
-      "rooms": {
-        "４ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0780030/0780030001.jpg",
-      "location": "墨田区",
-      "room_details": {
-        "３ＬＤＫ": {
-          "area": "68.4",
-          "rent": "109500",
-          "fee": "3200"
-        },
-        "４ＤＫ": {
-          "area": "73.15",
-          "rent": "122000",
-          "fee": "3200"
-        },
-        "４ＬＤＫ": {
-          "area": "82.58",
-          "rent": "144100",
-          "fee": "3200"
         }
       }
     },
@@ -530,9 +504,9 @@
     },
     {
       "name": "久留米下里",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "３Ｋ": 1
+        "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
       "location": "東久留米市",
@@ -543,8 +517,8 @@
           "fee": "1400"
         },
         "３Ｋ": {
-          "area": "40.8",
-          "rent": "50100",
+          "area": "38.48",
+          "rent": "39900",
           "fee": "1400"
         }
       }
