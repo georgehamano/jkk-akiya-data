@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-08T15:12:44+09:00",
+  "updated_at": "2026-06-08T15:17:51+09:00",
   "properties": [
+    {
+      "name": "トミンタワー台場一番街",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/0380100001.jpg",
+      "location": "港区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "72.95",
+          "rent": "287600",
+          "fee": "5500"
+        },
+        "３ＬＤＫ": {
+          "area": "73.3",
+          "rent": "298000",
+          "fee": "5500"
+        },
+        "２ＤＫ": {
+          "area": "55.07",
+          "rent": "192600",
+          "fee": "5500"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 18,
@@ -36,6 +62,22 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "中台町",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/1980080999.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "42300",
+          "fee": "1400"
         }
       }
     },
@@ -483,48 +525,6 @@
           "area": "43.82",
           "rent": "54600",
           "fee": "3600"
-        }
-      }
-    },
-    {
-      "name": "東寺方",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/5480100000.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "48.32",
-          "rent": "61300",
-          "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "平尾",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
-      "location": "稲城市",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.56",
-          "rent": "51000",
-          "fee": "1900"
-        },
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "51200",
-          "fee": "1900"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "45700",
-          "fee": "1900"
         }
       }
     }
