@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T16:17:49+09:00",
+  "updated_at": "2026-06-08T16:22:48+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -453,22 +453,6 @@
       }
     },
     {
-      "name": "コーシャハイム美園町",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4180140/4180140001.jpg",
-      "location": "小平市",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "63.84",
-          "rent": "104500",
-          "fee": "3000"
-        }
-      }
-    },
-    {
       "name": "大和芝中",
       "total": 10,
       "rooms": {
@@ -526,6 +510,37 @@
           "area": "51.75",
           "rent": "59600",
           "fee": "1900"
+        }
+      }
+    },
+    {
+      "name": "久留米西",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "30700",
+          "fee": "2000"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "48200",
+          "fee": "2000"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "33300",
+          "fee": "2000"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "39100",
+          "fee": "2000"
         }
       }
     }
