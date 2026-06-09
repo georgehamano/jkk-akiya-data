@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T11:57:41+09:00",
+  "updated_at": "2026-06-09T12:02:56+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -402,10 +402,11 @@
     },
     {
       "name": "大和芝中",
-      "total": 7,
+      "total": 10,
       "rooms": {
         "３Ｋ": 2,
-        "２ＤＫ": 2,
+        "２Ｋ": 1,
+        "２ＤＫ": 4,
         "２ＤＫＳ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
@@ -546,32 +547,6 @@
           "area": "48.32",
           "rent": "61300",
           "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "平尾",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
-      "location": "稲城市",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.56",
-          "rent": "51000",
-          "fee": "1900"
-        },
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "51200",
-          "fee": "1900"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "43400",
-          "fee": "1900"
         }
       }
     }
