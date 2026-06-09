@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T19:47:44+09:00",
+  "updated_at": "2026-06-09T19:52:46+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -324,27 +324,6 @@
           "area": "34.56",
           "rent": "41500",
           "fee": "1700"
-        }
-      }
-    },
-    {
-      "name": "小金井貫井",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020002.jpg",
-      "location": "小金井市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "27.44",
-          "rent": "35300",
-          "fee": "3500"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "44900",
-          "fee": "3500"
         }
       }
     },
