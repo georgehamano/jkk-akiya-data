@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T15:32:55+09:00",
+  "updated_at": "2026-06-10T15:37:41+09:00",
   "properties": [
     {
       "name": "コーシャハイム三軒茶屋",
@@ -136,16 +136,16 @@
     },
     {
       "name": "松枝",
-      "total": 2,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
       "location": "八王子市",
       "room_details": {
         "２ＤＫ": {
-          "area": "35.52",
-          "rent": "31400",
+          "area": "39.6",
+          "rent": "36600",
           "fee": "3200"
         }
       }
@@ -205,6 +205,32 @@
           "area": "48.32",
           "rent": "64800～68200",
           "fee": "2100"
+        }
+      }
+    },
+    {
+      "name": "霞台",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+      "location": "青梅市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "41600",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "33300",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "49600",
+          "fee": "1800"
         }
       }
     },
@@ -274,10 +300,10 @@
     },
     {
       "name": "境川",
-      "total": 6,
+      "total": 7,
       "rooms": {
         "２Ｋ": 2,
-        "２ＤＫ": 2,
+        "２ＤＫ": 3,
         "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
@@ -300,7 +326,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "40800",
+          "rent": "39900～40800",
           "fee": "1800"
         }
       }
@@ -338,6 +364,27 @@
         "１ＤＫ": {
           "area": "34.56",
           "rent": "41500",
+          "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "福生加美平",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
+      "location": "福生市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "29700",
+          "fee": "1700"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "31200",
           "fee": "1700"
         }
       }
@@ -474,49 +521,6 @@
           "area": "43.82",
           "rent": "54600",
           "fee": "3600"
-        }
-      }
-    },
-    {
-      "name": "東寺方",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/5480100000.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "48.32",
-          "rent": "61300",
-          "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "平尾",
-      "total": 2,
-      "rooms": {
-        "２ＤＫ": 1,
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
-      "location": "稲城市",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.56",
-          "rent": "51000",
-          "fee": "1900"
-        },
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "51200",
-          "fee": "1900"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "43400",
-          "fee": "1900"
         }
       }
     }
