@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T15:27:39+09:00",
+  "updated_at": "2026-06-10T15:32:55+09:00",
   "properties": [
     {
       "name": "コーシャハイム三軒茶屋",
@@ -120,9 +120,9 @@
     },
     {
       "name": "松が谷",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "３ＤＫ": 3
+        "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/3180060000.jpg",
       "location": "八王子市",
