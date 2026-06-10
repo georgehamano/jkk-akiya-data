@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T14:47:57+09:00",
+  "updated_at": "2026-06-10T14:52:42+09:00",
   "properties": [
     {
       "name": "越中島",
@@ -99,32 +99,6 @@
           "area": "49.75",
           "rent": "142200",
           "fee": "3300"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム駒込",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1680130/1680130001.jpg",
-      "location": "豊島区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "43.7",
-          "rent": "130100",
-          "fee": "6400"
-        },
-        "１ＬＤＫ": {
-          "area": "43.39",
-          "rent": "134500",
-          "fee": "6400"
-        },
-        "２ＤＫ": {
-          "area": "50.01",
-          "rent": "137300",
-          "fee": "6400"
         }
       }
     },
@@ -532,6 +506,32 @@
           "area": "48.32",
           "rent": "61300",
           "fee": "3000"
+        }
+      }
+    },
+    {
+      "name": "平尾",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
+      "location": "稲城市",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "34.56",
+          "rent": "51000",
+          "fee": "1900"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "51200",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "43400",
+          "fee": "1900"
         }
       }
     }
