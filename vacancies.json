@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T14:37:43+09:00",
+  "updated_at": "2026-06-11T14:42:46+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -61,22 +61,6 @@
           "area": "62.97",
           "rent": "125000",
           "fee": "3900"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム三軒茶屋",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280920/1280920000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "37.18",
-          "rent": "137800",
-          "fee": "6600"
         }
       }
     },
@@ -557,9 +541,9 @@
     },
     {
       "name": "平尾",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
@@ -576,7 +560,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "45700",
+          "rent": "43400",
           "fee": "1900"
         }
       }
