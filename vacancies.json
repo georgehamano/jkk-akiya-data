@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T16:17:44+09:00",
+  "updated_at": "2026-06-12T16:22:59+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -110,6 +110,27 @@
           "area": "35.52",
           "rent": "31400",
           "fee": "3200"
+        }
+      }
+    },
+    {
+      "name": "横川町",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "51300",
+          "fee": "3100"
+        },
+        "３ＤＫ": {
+          "area": "58.28",
+          "rent": "57900",
+          "fee": "3100"
         }
       }
     },
@@ -326,11 +347,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 14,
+      "total": 15,
       "rooms": {
         "３Ｋ": 6,
         "２Ｋ": 1,
-        "２ＤＫ": 7
+        "２ＤＫ": 8
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
@@ -375,6 +396,22 @@
           "area": "39.96",
           "rent": "73400",
           "fee": "1900"
+        }
+      }
+    },
+    {
+      "name": "平山",
+      "total": 2,
+      "rooms": {
+        "２Ｋ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg",
+      "location": "日野市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "27.44",
+          "rent": "30400",
+          "fee": "1400"
         }
       }
     },
@@ -440,9 +477,9 @@
     },
     {
       "name": "久留米下里",
-      "total": 2,
+      "total": 3,
       "rooms": {
-        "３Ｋ": 1,
+        "３Ｋ": 2,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
@@ -454,8 +491,8 @@
           "fee": "1400"
         },
         "３Ｋ": {
-          "area": "40.8",
-          "rent": "50100",
+          "area": "38.48",
+          "rent": "39900",
           "fee": "1400"
         }
       }
