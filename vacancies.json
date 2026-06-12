@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-06-12T09:57:55+09:00",
+  "updated_at": "2026-06-12T10:02:56+09:00",
   "properties": [
-    {
-      "name": "南砂",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "48.37",
-          "rent": "80100",
-          "fee": "2650"
-        }
-      }
-    },
     {
       "name": "コーシャハイム千歳烏山",
       "total": 1,
