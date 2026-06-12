@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-06-12T09:52:45+09:00",
+  "updated_at": "2026-06-12T09:57:55+09:00",
   "properties": [
+    {
+      "name": "南砂",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.37",
+          "rent": "80100",
+          "fee": "2650"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム千歳烏山",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840000.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.03",
+          "rent": "145200",
+          "fee": "5300"
+        },
+        "１ＬＤＫ": {
+          "area": "40.46",
+          "rent": "130800",
+          "fee": "5300"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
@@ -189,11 +226,11 @@
     },
     {
       "name": "境川",
-      "total": 6,
+      "total": 7,
       "rooms": {
         "２Ｋ": 1,
         "２ＤＫ": 4,
-        "３Ｋ": 1
+        "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
       "location": "町田市",
@@ -205,7 +242,7 @@
         },
         "３Ｋ": {
           "area": "39.96",
-          "rent": "47500",
+          "rent": "47000",
           "fee": "1800"
         },
         "２ＤＫＳ": {
