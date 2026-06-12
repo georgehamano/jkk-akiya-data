@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T19:47:31+09:00",
+  "updated_at": "2026-06-12T19:49:56+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -99,9 +99,9 @@
     },
     {
       "name": "松枝",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
       "location": "八王子市",
