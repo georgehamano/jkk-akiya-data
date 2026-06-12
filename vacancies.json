@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T00:27:42+09:00",
+  "updated_at": "2026-06-13T00:32:50+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -110,27 +110,6 @@
           "area": "35.52",
           "rent": "31400",
           "fee": "3200"
-        }
-      }
-    },
-    {
-      "name": "横川町",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "48.32",
-          "rent": "51300",
-          "fee": "3100"
-        },
-        "３ＤＫ": {
-          "area": "58.28",
-          "rent": "57900",
-          "fee": "3100"
         }
       }
     },
