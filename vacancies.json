@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T14:52:41+09:00",
+  "updated_at": "2026-06-12T14:57:37+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -455,37 +455,6 @@
       }
     },
     {
-      "name": "久留米西",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
-      "location": "東久留米市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "30700",
-          "fee": "2000"
-        },
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "47700",
-          "fee": "2000"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "33300",
-          "fee": "2000"
-        },
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "39100",
-          "fee": "2000"
-        }
-      }
-    },
-    {
       "name": "久留米下里",
       "total": 2,
       "rooms": {
@@ -562,9 +531,9 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
