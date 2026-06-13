@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T13:12:51+09:00",
+  "updated_at": "2026-06-13T13:17:57+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -24,6 +24,38 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム小日向",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0580150/0580150001.jpg",
+      "location": "文京区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "50.01",
+          "rent": "158600",
+          "fee": "7000"
+        }
+      }
+    },
+    {
+      "name": "越中島",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880070/0880070027.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.25",
+          "rent": "90400",
+          "fee": "3300"
         }
       }
     },
@@ -62,6 +94,59 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "興野町",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/2180040000.jpg",
+      "location": "足立区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "29.94",
+          "rent": "41900",
+          "fee": "1800"
+        }
+      }
+    },
+    {
+      "name": "南葛西",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380090/2380090000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "46.7",
+          "rent": "84500",
+          "fee": "4900"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム清新",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "63.04",
+          "rent": "107200",
+          "fee": "4300"
+        },
+        "２ＬＤＫ": {
+          "area": "63.04",
+          "rent": "135800",
+          "fee": "4300"
         }
       }
     },
@@ -262,9 +347,9 @@
     },
     {
       "name": "境川",
-      "total": 5,
+      "total": 6,
       "rooms": {
-        "２Ｋ": 1,
+        "２Ｋ": 2,
         "２ＤＫ": 3,
         "３Ｋ": 1
       },
@@ -407,6 +492,37 @@
       }
     },
     {
+      "name": "久留米西",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "30700",
+          "fee": "2000"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "48200",
+          "fee": "2000"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "33300",
+          "fee": "2000"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "39100",
+          "fee": "2000"
+        }
+      }
+    },
+    {
       "name": "久留米下里",
       "total": 3,
       "rooms": {
@@ -462,32 +578,6 @@
           "area": "48.32",
           "rent": "61300",
           "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "平尾",
-      "total": 2,
-      "rooms": {
-        "２ＤＫ": 2
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
-      "location": "稲城市",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.56",
-          "rent": "51000",
-          "fee": "1900"
-        },
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "51200",
-          "fee": "1900"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "43400",
-          "fee": "1900"
         }
       }
     }
