@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T11:47:48+09:00",
+  "updated_at": "2026-06-13T11:52:46+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -425,22 +425,6 @@
           "area": "38.48",
           "rent": "39900",
           "fee": "1400"
-        }
-      }
-    },
-    {
-      "name": "愛宕第一",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/5480030002.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "40.2",
-          "rent": "45900",
-          "fee": "3100"
         }
       }
     },
