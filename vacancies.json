@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T21:57:47+09:00",
+  "updated_at": "2026-06-14T22:03:00+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -300,11 +300,11 @@
     },
     {
       "name": "大和芝中",
-      "total": 8,
+      "total": 7,
       "rooms": {
         "２ＤＫ": 4,
         "３Ｋ": 1,
-        "２ＤＫＳ": 3
+        "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
       "location": "東大和市",
