@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T10:22:42+09:00",
+  "updated_at": "2026-06-15T10:27:45+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -36,6 +36,38 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム新中野テラス",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260001.jpg",
+      "location": "杉並区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "51.33",
+          "rent": "177600",
+          "fee": "6300"
+        }
+      }
+    },
+    {
+      "name": "春江町椿",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/2380070000[1].jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.35",
+          "rent": "68600",
+          "fee": "3200"
         }
       }
     },
@@ -147,6 +179,27 @@
           "area": "51.74",
           "rent": "49600",
           "fee": "1800"
+        }
+      }
+    },
+    {
+      "name": "昭島田中町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
+      "location": "昭島市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "39.98",
+          "rent": "39300",
+          "fee": "2400"
+        },
+        "３ＤＫ": {
+          "area": "58.28",
+          "rent": "54000",
+          "fee": "2400"
         }
       }
     },
@@ -279,6 +332,27 @@
           "area": "34.56",
           "rent": "41500",
           "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "小金井貫井",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020002.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "27.44",
+          "rent": "35300",
+          "fee": "3500"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "44900",
+          "fee": "3500"
         }
       }
     },
