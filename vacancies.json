@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T11:02:55+09:00",
+  "updated_at": "2026-06-15T11:07:54+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -251,11 +251,10 @@
     },
     {
       "name": "境川",
-      "total": 5,
+      "total": 4,
       "rooms": {
         "２Ｋ": 1,
-        "２ＤＫ": 3,
-        "３Ｋ": 1
+        "２ＤＫ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
       "location": "町田市",
