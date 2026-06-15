@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T10:27:45+09:00",
+  "updated_at": "2026-06-15T10:32:58+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -36,22 +36,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム新中野テラス",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "51.33",
-          "rent": "177600",
-          "fee": "6300"
         }
       }
     },
