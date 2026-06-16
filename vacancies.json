@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T16:47:45+09:00",
+  "updated_at": "2026-06-16T16:52:50+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -83,37 +83,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム杉並和田",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/1580240001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "33.77",
-          "rent": "99900",
-          "fee": "3300"
-        },
-        "１ＬＤＫ": {
-          "area": "45.35",
-          "rent": "115600",
-          "fee": "3300"
-        },
-        "２Ｋ": {
-          "area": "43.53",
-          "rent": "123800",
-          "fee": "3300"
-        },
-        "２ＤＫ": {
-          "area": "49.75",
-          "rent": "142200",
-          "fee": "3300"
         }
       }
     },
@@ -632,17 +601,17 @@
     },
     {
       "name": "落合",
-      "total": 2,
+      "total": 14,
       "rooms": {
-        "３ＤＫ": 2
+        "３ＤＫ": 14
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
           "area": "51.38～52.59",
-          "rent": "56200～56300",
-          "fee": "2300～3000"
+          "rent": "55200～58200",
+          "fee": "3000"
         },
         "２ＤＫ": {
           "area": "43.82",
