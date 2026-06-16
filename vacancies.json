@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-06-16T15:03:13+09:00",
+  "updated_at": "2026-06-16T15:07:58+09:00",
   "properties": [
-    {
-      "name": "東雲都橋",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "50.62",
-          "rent": "90700",
-          "fee": "3000"
-        }
-      }
-    },
     {
       "name": "西大島",
       "total": 1,
