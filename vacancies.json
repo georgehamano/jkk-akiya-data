@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-06-16T14:57:47+09:00",
+  "updated_at": "2026-06-16T15:03:13+09:00",
   "properties": [
+    {
+      "name": "東雲都橋",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
+      "location": "江東区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "50.62",
+          "rent": "90700",
+          "fee": "3000"
+        }
+      }
+    },
+    {
+      "name": "西大島",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/0880170000.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "47.7",
+          "rent": "94100",
+          "fee": "3900"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
@@ -350,16 +382,16 @@
     },
     {
       "name": "平山",
-      "total": 2,
+      "total": 6,
       "rooms": {
-        "２Ｋ": 2
+        "２Ｋ": 6
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg",
       "location": "日野市",
       "room_details": {
         "２Ｋ": {
-          "area": "27.44",
-          "rent": "30400",
+          "area": "32.85",
+          "rent": "36100",
           "fee": "1400"
         }
       }
