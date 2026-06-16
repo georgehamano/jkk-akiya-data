@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T16:17:55+09:00",
+  "updated_at": "2026-06-16T16:22:51+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -24,22 +24,6 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
-        }
-      }
-    },
-    {
-      "name": "塩浜",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880130/0880130000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "45.51",
-          "rent": "96000",
-          "fee": "3500"
         }
       }
     },
@@ -642,9 +626,9 @@
     },
     {
       "name": "久留米下里",
-      "total": 2,
+      "total": 3,
       "rooms": {
-        "３Ｋ": 1,
+        "３Ｋ": 2,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
@@ -656,8 +640,8 @@
           "fee": "1400"
         },
         "３Ｋ": {
-          "area": "40.8",
-          "rent": "50100",
+          "area": "38.48",
+          "rent": "39900",
           "fee": "1400"
         }
       }
