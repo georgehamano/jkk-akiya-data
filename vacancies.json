@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T14:03:02+09:00",
+  "updated_at": "2026-06-16T14:07:44+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -427,10 +427,9 @@
     },
     {
       "name": "清瀬台田",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 2,
-        "３Ｋ": 1
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
       "location": "清瀬市",
