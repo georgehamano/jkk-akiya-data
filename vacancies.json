@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T17:22:52+09:00",
+  "updated_at": "2026-06-16T17:27:49+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -553,9 +553,9 @@
     },
     {
       "name": "久留米下里",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "３Ｋ": 2,
+        "３Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
@@ -567,8 +567,8 @@
           "fee": "1400"
         },
         "３Ｋ": {
-          "area": "38.48",
-          "rent": "39900",
+          "area": "40.8",
+          "rent": "50100",
           "fee": "1400"
         }
       }
@@ -591,6 +591,22 @@
           "area": "43.82",
           "rent": "54600",
           "fee": "3600"
+        }
+      }
+    },
+    {
+      "name": "東寺方",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/5480100000.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "61300",
+          "fee": "3000"
         }
       }
     }
