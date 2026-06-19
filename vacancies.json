@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-06-19T16:12:54+09:00",
+  "updated_at": "2026-06-19T16:17:48+09:00",
   "properties": [
-    {
-      "name": "トミンタワー東雲",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/0880290001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "３ＬＤＫ": {
-          "area": "85.28",
-          "rent": "205600",
-          "fee": "7700"
-        },
-        "２ＬＤＫＳ": {
-          "area": "66.87",
-          "rent": "177300",
-          "fee": "7700"
-        }
-      }
-    },
     {
       "name": "コーシャハイム大森東",
       "total": 1,
