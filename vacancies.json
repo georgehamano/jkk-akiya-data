@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T17:47:47+09:00",
+  "updated_at": "2026-06-19T17:52:50+09:00",
   "properties": [
     {
       "name": "コーシャハイム大森東",
@@ -355,11 +355,11 @@
     },
     {
       "name": "大和芝中",
-      "total": 8,
+      "total": 7,
       "rooms": {
-        "３Ｋ": 2,
         "２Ｋ": 1,
         "２ＤＫ": 3,
+        "３Ｋ": 1,
         "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
