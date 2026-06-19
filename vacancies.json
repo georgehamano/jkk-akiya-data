@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T14:47:53+09:00",
+  "updated_at": "2026-06-19T14:52:49+09:00",
   "properties": [
     {
       "name": "コーシャハイム大森東",
@@ -19,27 +19,6 @@
           "area": "62.97",
           "rent": "125000",
           "fee": "3900"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム久我山",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/1280850000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "54.55",
-          "rent": "143500",
-          "fee": "7600"
-        },
-        "２Ｋ": {
-          "area": "40.63",
-          "rent": "113900",
-          "fee": "7600"
         }
       }
     },
