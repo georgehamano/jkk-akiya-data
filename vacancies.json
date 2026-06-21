@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T11:12:46+09:00",
+  "updated_at": "2026-06-21T20:10:13+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -153,9 +153,9 @@
     },
     {
       "name": "境川",
-      "total": 5,
+      "total": 4,
       "rooms": {
-        "２Ｋ": 2,
+        "２Ｋ": 1,
         "２ＤＫ": 2,
         "３Ｋ": 1
       },
@@ -164,7 +164,7 @@
       "room_details": {
         "２Ｋ": {
           "area": "32.85",
-          "rent": "38500",
+          "rent": "38400",
           "fee": "1800"
         },
         "３Ｋ": {
@@ -186,11 +186,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 16,
+      "total": 15,
       "rooms": {
         "３Ｋ": 6,
         "２Ｋ": 2,
-        "２ＤＫ": 8
+        "２ＤＫ": 7
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
@@ -250,9 +250,9 @@
     },
     {
       "name": "平山",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２Ｋ": 3
+        "２Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg",
       "location": "日野市",
@@ -321,9 +321,9 @@
     },
     {
       "name": "大和上北台",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 3,
+        "２ＤＫ": 2,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
@@ -336,7 +336,7 @@
         },
         "２ＤＫ": {
           "area": "37.64",
-          "rent": "43100～44400",
+          "rent": "44400",
           "fee": "1900"
         },
         "２ＤＫＳ": {
@@ -369,9 +369,9 @@
     },
     {
       "name": "落合",
-      "total": 16,
+      "total": 14,
       "rooms": {
-        "３ＤＫ": 16
+        "３ＤＫ": 14
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
