@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-06-22T10:02:58+09:00",
+  "updated_at": "2026-06-22T10:07:39+09:00",
   "properties": [
+    {
+      "name": "烏山北",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "51300",
+          "fee": "2700"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "76400",
+          "fee": "2700"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
@@ -240,9 +261,9 @@
     },
     {
       "name": "田無西原",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫＳ": 1
+        "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
       "location": "西東京市",
@@ -260,10 +281,30 @@
       }
     },
     {
-      "name": "大和芝中",
-      "total": 6,
+      "name": "田無南芝",
+      "total": 1,
       "rooms": {
-        "２Ｋ": 1,
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680030/4680030000.jpg",
+      "location": "西東京市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "66200",
+          "fee": "1600"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "39400",
+          "fee": "1600"
+        }
+      }
+    },
+    {
+      "name": "大和芝中",
+      "total": 5,
+      "rooms": {
         "２ＤＫ": 2,
         "３Ｋ": 1,
         "２ＤＫＳ": 2
@@ -295,9 +336,9 @@
     },
     {
       "name": "大和上北台",
-      "total": 2,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
       "location": "東大和市",
@@ -316,6 +357,37 @@
           "area": "51.75",
           "rent": "59600",
           "fee": "1900"
+        }
+      }
+    },
+    {
+      "name": "久留米西",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "31400",
+          "fee": "2000"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "48200",
+          "fee": "2000"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "33300",
+          "fee": "2000"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "39100",
+          "fee": "2000"
         }
       }
     },
