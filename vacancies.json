@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T15:42:51+09:00",
+  "updated_at": "2026-06-24T15:47:47+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
@@ -29,27 +29,6 @@
           "area": "67.13",
           "rent": "186000",
           "fee": "5300"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム三軒茶屋",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280920/1280920000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "37.18",
-          "rent": "137800",
-          "fee": "6600"
-        },
-        "２ＬＤＫ": {
-          "area": "51.78",
-          "rent": "172000",
-          "fee": "6600"
         }
       }
     },
