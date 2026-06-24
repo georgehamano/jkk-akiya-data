@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T10:12:50+09:00",
+  "updated_at": "2026-06-24T10:17:47+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -23,6 +23,43 @@
         "２ＤＫ": {
           "area": "55.07",
           "rent": "192600",
+          "fee": "5500"
+        }
+      }
+    },
+    {
+      "name": "越中島",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880070/0880070027.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.25",
+          "rent": "85600",
+          "fee": "3300"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム多摩川",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180480/1180480001.jpg",
+      "location": "大田区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "61.95",
+          "rent": "142500",
+          "fee": "5500"
+        },
+        "３ＬＤＫ": {
+          "area": "66.73",
+          "rent": "161400",
           "fee": "5500"
         }
       }
@@ -78,6 +115,22 @@
           "area": "29.94",
           "rent": "41900",
           "fee": "1800"
+        }
+      }
+    },
+    {
+      "name": "新田第二",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.96",
+          "rent": "84000",
+          "fee": "3500"
         }
       }
     },
