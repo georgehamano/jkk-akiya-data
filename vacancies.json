@@ -1,38 +1,6 @@
 {
-  "updated_at": "2026-06-25T11:27:51+09:00",
+  "updated_at": "2026-06-25T11:33:03+09:00",
   "properties": [
-    {
-      "name": "南砂",
-      "total": 2,
-      "rooms": {
-        "２ＤＫ": 2
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.06～48.32",
-          "rent": "73400～85900",
-          "fee": "2650"
-        }
-      }
-    },
-    {
-      "name": "東雲都橋",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "50.62",
-          "rent": "90900",
-          "fee": "3000"
-        }
-      }
-    },
     {
       "name": "西大島",
       "total": 1,
@@ -46,22 +14,6 @@
           "area": "47.7",
           "rent": "87800",
           "fee": "3900"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム八潮西",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980110/0980110000.jpg",
-      "location": "品川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.18",
-          "rent": "102400",
-          "fee": "4400"
         }
       }
     },
@@ -100,37 +52,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム小竹町",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/2080570000.jpg",
-      "location": "練馬区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.13",
-          "rent": "92800",
-          "fee": "5900"
-        },
-        "２ＤＫ": {
-          "area": "44.27",
-          "rent": "111600",
-          "fee": "5900"
-        },
-        "２Ｋ": {
-          "area": "40.09",
-          "rent": "110800",
-          "fee": "5900"
-        },
-        "１ＬＤＫ": {
-          "area": "40.46",
-          "rent": "109700",
-          "fee": "5900"
         }
       }
     },
