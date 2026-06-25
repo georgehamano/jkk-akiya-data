@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-06-25T17:07:46+09:00",
+  "updated_at": "2026-06-25T17:12:47+09:00",
   "properties": [
-    {
-      "name": "越中島",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880070/0880070027.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.25",
-          "rent": "90400",
-          "fee": "3300"
-        }
-      }
-    },
     {
       "name": "コーシャハイム大森東",
       "total": 1,
@@ -110,16 +94,16 @@
     },
     {
       "name": "松が谷",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "３ＤＫ": 3
+        "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/3180060000.jpg",
       "location": "八王子市",
       "room_details": {
         "３ＤＫ": {
-          "area": "52.59",
-          "rent": "57500",
+          "area": "51.38～52.59",
+          "rent": "57500～57800",
           "fee": "2400"
         }
       }
