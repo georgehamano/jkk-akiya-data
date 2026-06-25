@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-25T17:03:02+09:00",
+  "updated_at": "2026-06-25T17:07:46+09:00",
   "properties": [
     {
       "name": "越中島",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880070/0880070027.jpg",
       "location": "江東区",
       "room_details": {
         "２ＤＫ": {
           "area": "41.25",
-          "rent": "86400",
+          "rent": "90400",
           "fee": "3300"
         }
       }
@@ -89,27 +89,6 @@
           "area": "59.99",
           "rent": "187000",
           "fee": "7800"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム北千住",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180430/2180430001.jpg",
-      "location": "足立区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "49.72",
-          "rent": "127500",
-          "fee": "5000"
-        },
-        "１ＤＫ": {
-          "area": "34.01",
-          "rent": "98500",
-          "fee": "5000"
         }
       }
     },
