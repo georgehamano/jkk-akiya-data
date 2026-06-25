@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-06-25T11:42:54+09:00",
+  "updated_at": "2026-06-25T11:47:44+09:00",
   "properties": [
-    {
-      "name": "西大島",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/0880170000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "47.7",
-          "rent": "87800",
-          "fee": "3900"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
@@ -314,9 +298,9 @@
     },
     {
       "name": "大和上北台",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 3
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
       "location": "東大和市",
