@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T16:07:41+09:00",
+  "updated_at": "2026-06-30T16:12:49+09:00",
   "properties": [
     {
       "name": "越中島",
@@ -52,22 +52,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "春江町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.25",
-          "rent": "65100",
-          "fee": "2900"
         }
       }
     },
@@ -190,27 +174,6 @@
           "area": "34.56",
           "rent": "41500",
           "fee": "1700"
-        }
-      }
-    },
-    {
-      "name": "小金井貫井",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020002.jpg",
-      "location": "小金井市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "42300",
-          "fee": "3500"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "44900",
-          "fee": "3500"
         }
       }
     },
