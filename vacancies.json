@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-06-30T09:52:42+09:00",
+  "updated_at": "2026-06-30T09:57:42+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム緑四丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0780050/0780050001.jpg",
+      "location": "墨田区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.8",
+          "rent": "143800",
+          "fee": "4000"
+        }
+      }
+    },
+    {
+      "name": "南砂",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.37",
+          "rent": "85200",
+          "fee": "2650"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 15,
@@ -40,6 +72,22 @@
       }
     },
     {
+      "name": "コーシャハイム南葛西五丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.47",
+          "rent": "94800",
+          "fee": "3100"
+        }
+      }
+    },
+    {
       "name": "八王子泉町",
       "total": 2,
       "rooms": {
@@ -73,6 +121,22 @@
           "area": "35.52",
           "rent": "42000",
           "fee": "2400"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム南大沢第二",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/3180210000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "65.06",
+          "rent": "75200",
+          "fee": "3000"
         }
       }
     },
@@ -247,9 +311,9 @@
     },
     {
       "name": "清瀬台田",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
       "location": "清瀬市",
@@ -341,9 +405,8 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 1,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
