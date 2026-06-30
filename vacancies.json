@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T10:37:37+09:00",
+  "updated_at": "2026-06-30T10:42:46+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -93,22 +93,6 @@
       }
     },
     {
-      "name": "コーシャハイム南大沢第二",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/3180210000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "65.06",
-          "rent": "75200",
-          "fee": "3000"
-        }
-      }
-    },
-    {
       "name": "富士見町東",
       "total": 1,
       "rooms": {
@@ -190,32 +174,6 @@
           "area": "34.56",
           "rent": "41500",
           "fee": "1700"
-        }
-      }
-    },
-    {
-      "name": "田無西原",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
-      "location": "西東京市",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "51.75",
-          "rent": "60400",
-          "fee": "2200"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "48700",
-          "fee": "2200"
-        },
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "40400",
-          "fee": "2200"
         }
       }
     },
