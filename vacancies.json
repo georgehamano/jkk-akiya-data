@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T20:12:43+09:00",
+  "updated_at": "2026-07-01T20:17:43+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -157,10 +157,9 @@
     },
     {
       "name": "富士見町",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 1,
-        "２ＤＫ": 1
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
       "location": "立川市",
@@ -554,6 +553,22 @@
           "area": "40.8",
           "rent": "50100",
           "fee": "1400"
+        }
+      }
+    },
+    {
+      "name": "愛宕第一",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/5480030002.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "40.2",
+          "rent": "45400～46500",
+          "fee": "3100"
         }
       }
     }
