@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-07-01T10:12:41+09:00",
+  "updated_at": "2026-07-01T10:17:42+09:00",
   "properties": [
-    {
-      "name": "コーシャタワー佃",
-      "total": 2,
-      "rooms": {
-        "１ＬＤＫ": 1,
-        "４ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/0280070001.jpg",
-      "location": "中央区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "49.77",
-          "rent": "210600",
-          "fee": "5300"
-        },
-        "４ＬＤＫ": {
-          "area": "87.26",
-          "rent": "371000",
-          "fee": "5300"
-        }
-      }
-    },
     {
       "name": "コーシャハイム多摩川",
       "total": 1,
