@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T19:37:39+09:00",
+  "updated_at": "2026-07-01T19:42:44+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -335,12 +335,12 @@
     },
     {
       "name": "町田木曽",
-      "total": 27,
+      "total": 26,
       "rooms": {
         "３Ｋ": 8,
         "１ＤＫ": 2,
         "２Ｋ": 3,
-        "２ＤＫ": 14
+        "２ＤＫ": 13
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
@@ -532,9 +532,10 @@
     },
     {
       "name": "久留米西",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２Ｋ": 1
+        "２Ｋ": 1,
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
       "location": "東久留米市",
