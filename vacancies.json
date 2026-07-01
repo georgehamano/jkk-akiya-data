@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T16:57:40+09:00",
+  "updated_at": "2026-07-01T17:02:55+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -436,27 +436,6 @@
       }
     },
     {
-      "name": "平山",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg",
-      "location": "日野市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "36100",
-          "fee": "1400"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "38200",
-          "fee": "1400"
-        }
-      }
-    },
-    {
       "name": "田無西原",
       "total": 1,
       "rooms": {
@@ -553,6 +532,27 @@
           "area": "74.13",
           "rent": "98100",
           "fee": "4800"
+        }
+      }
+    },
+    {
+      "name": "清瀬台田",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
+      "location": "清瀬市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "29900",
+          "fee": "1700"
+        },
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "33000",
+          "fee": "1700"
         }
       }
     }
