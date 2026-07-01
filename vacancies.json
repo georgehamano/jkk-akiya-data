@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T16:02:59+09:00",
+  "updated_at": "2026-07-01T16:07:45+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -24,27 +24,6 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム三軒茶屋",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280920/1280920000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "37.18",
-          "rent": "137800",
-          "fee": "6600"
-        },
-        "２ＬＤＫ": {
-          "area": "51.78",
-          "rent": "172000",
-          "fee": "6600"
         }
       }
     },
@@ -115,22 +94,6 @@
           "area": "43.0",
           "rent": "76300～77800",
           "fee": "3900"
-        }
-      }
-    },
-    {
-      "name": "春江町椿",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/2380070000[1].jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.35",
-          "rent": "68000",
-          "fee": "3200"
         }
       }
     },
@@ -547,27 +510,6 @@
           "area": "32.85",
           "rent": "40400",
           "fee": "2200"
-        }
-      }
-    },
-    {
-      "name": "福生加美平",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
-      "location": "福生市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "29700",
-          "fee": "1700"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "31200",
-          "fee": "1700"
         }
       }
     },
