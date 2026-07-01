@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T14:07:40+09:00",
+  "updated_at": "2026-07-01T14:12:48+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -152,6 +152,53 @@
       }
     },
     {
+      "name": "霞台",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+      "location": "青梅市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "40400",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "33300",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "49600",
+          "fee": "1800"
+        }
+      }
+    },
+    {
+      "name": "昭島田中町",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
+      "location": "昭島市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "48900",
+          "fee": "2400"
+        },
+        "３ＤＫ": {
+          "area": "58.28",
+          "rent": "54000",
+          "fee": "2400"
+        }
+      }
+    },
+    {
       "name": "多摩川",
       "total": 1,
       "rooms": {
@@ -252,6 +299,90 @@
       }
     },
     {
+      "name": "平山",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg",
+      "location": "日野市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "36100",
+          "fee": "1400"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "38200",
+          "fee": "1400"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム日野大坂上",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280100/4280100000.jpg",
+      "location": "日野市",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "76.48",
+          "rent": "90600",
+          "fee": "7400"
+        }
+      }
+    },
+    {
+      "name": "田無西原",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
+      "location": "西東京市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "60400",
+          "fee": "2200"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "48700",
+          "fee": "2200"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "40400",
+          "fee": "2200"
+        }
+      }
+    },
+    {
+      "name": "福生加美平",
+      "total": 2,
+      "rooms": {
+        "２Ｋ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
+      "location": "福生市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "29700",
+          "fee": "1700"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "31200",
+          "fee": "1700"
+        }
+      }
+    },
+    {
       "name": "大和芝中",
       "total": 4,
       "rooms": {
@@ -310,6 +441,22 @@
       }
     },
     {
+      "name": "コーシャハイム玉川上水第二",
+      "total": 1,
+      "rooms": {
+        "４ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080110/5080110000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "４ＤＫ": {
+          "area": "74.13",
+          "rent": "98100",
+          "fee": "4800"
+        }
+      }
+    },
+    {
       "name": "清瀬台田",
       "total": 2,
       "rooms": {
@@ -332,16 +479,17 @@
     },
     {
       "name": "久留米西",
-      "total": 1,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 1
+        "２Ｋ": 1,
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
       "location": "東久留米市",
       "room_details": {
         "２Ｋ": {
           "area": "32.85",
-          "rent": "31400",
+          "rent": "30700",
           "fee": "2000"
         },
         "２ＤＫＳ": {
