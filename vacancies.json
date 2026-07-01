@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-07-01T15:57:55+09:00",
+  "updated_at": "2026-07-01T16:02:59+09:00",
   "properties": [
-    {
-      "name": "コーシャタワー佃",
-      "total": 1,
-      "rooms": {
-        "４ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/0280070001.jpg",
-      "location": "中央区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "49.77",
-          "rent": "209000",
-          "fee": "5300"
-        },
-        "４ＬＤＫ": {
-          "area": "87.26",
-          "rent": "371000",
-          "fee": "5300"
-        }
-      }
-    },
     {
       "name": "トミンタワー台場一番街",
       "total": 1,
@@ -779,9 +758,9 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 1,
+        "２ＤＫ": 2,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
@@ -799,7 +778,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "44300",
+          "rent": "44400",
           "fee": "1900"
         }
       }
