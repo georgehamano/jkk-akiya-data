@@ -1,6 +1,49 @@
 {
-  "updated_at": "2026-07-01T09:57:39+09:00",
+  "updated_at": "2026-07-01T10:03:14+09:00",
   "properties": [
+    {
+      "name": "コーシャタワー佃",
+      "total": 2,
+      "rooms": {
+        "１ＬＤＫ": 1,
+        "４ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/0280070001.jpg",
+      "location": "中央区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "49.77",
+          "rent": "210600",
+          "fee": "5300"
+        },
+        "４ＬＤＫ": {
+          "area": "87.26",
+          "rent": "371000",
+          "fee": "5300"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム多摩川",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180480/1180480001.jpg",
+      "location": "大田区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "61.95",
+          "rent": "141800",
+          "fee": "5500"
+        },
+        "３ＬＤＫ": {
+          "area": "66.73",
+          "rent": "161400",
+          "fee": "5500"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 15,
@@ -263,6 +306,37 @@
           "area": "38.48",
           "rent": "33000",
           "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "久留米西",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "31400",
+          "fee": "2000"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "48200",
+          "fee": "2000"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "33300",
+          "fee": "2000"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "39100",
+          "fee": "2000"
         }
       }
     },
