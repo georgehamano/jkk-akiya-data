@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-07-02T12:52:47+09:00",
+  "updated_at": "2026-07-02T12:57:57+09:00",
   "properties": [
+    {
+      "name": "コーシャタワー佃",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/0280070001.jpg",
+      "location": "中央区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "49.77",
+          "rent": "209000",
+          "fee": "5300"
+        },
+        "４ＬＤＫ": {
+          "area": "87.26",
+          "rent": "371000",
+          "fee": "5300"
+        }
+      }
+    },
     {
       "name": "トミンタワー台場一番街",
       "total": 1,
@@ -66,6 +87,22 @@
       }
     },
     {
+      "name": "春江町椿",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/2380070000[1].jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.35",
+          "rent": "68000",
+          "fee": "3200"
+        }
+      }
+    },
+    {
       "name": "八王子泉町",
       "total": 2,
       "rooms": {
@@ -104,16 +141,16 @@
     },
     {
       "name": "松枝",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
       "location": "八王子市",
       "room_details": {
         "２ＤＫ": {
           "area": "39.6",
-          "rent": "36600",
+          "rent": "36300～36600",
           "fee": "3200"
         }
       }
@@ -152,6 +189,32 @@
           "area": "58.28",
           "rent": "54000",
           "fee": "2400"
+        }
+      }
+    },
+    {
+      "name": "森野",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "44900",
+          "fee": "2600"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "51000",
+          "fee": "2600"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "59000",
+          "fee": "2600"
         }
       }
     },
