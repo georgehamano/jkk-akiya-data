@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T10:22:45+09:00",
+  "updated_at": "2026-07-02T10:27:36+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -189,9 +189,8 @@
     },
     {
       "name": "本町田",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "３Ｋ": 1,
         "２Ｋ": 1,
         "２ＤＫ": 1,
         "２ＤＫＳ": 1
@@ -425,9 +424,8 @@
     },
     {
       "name": "久留米西",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
