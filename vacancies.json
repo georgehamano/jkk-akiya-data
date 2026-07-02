@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T15:52:48+09:00",
+  "updated_at": "2026-07-02T15:57:36+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -280,9 +280,9 @@
     },
     {
       "name": "町田木曽",
-      "total": 24,
+      "total": 23,
       "rooms": {
-        "３Ｋ": 7,
+        "３Ｋ": 6,
         "１ＤＫ": 1,
         "２Ｋ": 2,
         "２ＤＫ": 14
@@ -542,9 +542,10 @@
     },
     {
       "name": "平尾",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "３Ｋ": 1
+        "３Ｋ": 1,
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
