@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T12:03:00+09:00",
+  "updated_at": "2026-07-02T12:07:41+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -24,22 +24,6 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
-        }
-      }
-    },
-    {
-      "name": "塩浜",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880130/0880130000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "45.51",
-          "rent": "95100",
-          "fee": "3500"
         }
       }
     },
@@ -342,32 +326,6 @@
           "area": "34.56",
           "rent": "44900",
           "fee": "3500"
-        }
-      }
-    },
-    {
-      "name": "カーメスト武蔵小金井",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080120/4080120001.jpg",
-      "location": "小金井市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.94",
-          "rent": "120600",
-          "fee": "6500"
-        },
-        "２ＬＤＫ": {
-          "area": "54.71",
-          "rent": "154900",
-          "fee": "6500"
-        },
-        "３ＬＤＫ": {
-          "area": "64.79",
-          "rent": "174600",
-          "fee": "6500"
         }
       }
     },
