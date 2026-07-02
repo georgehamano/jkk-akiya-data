@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T16:52:49+09:00",
+  "updated_at": "2026-07-02T16:57:45+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -521,22 +521,6 @@
           "area": "44.74",
           "rent": "55200",
           "fee": "3600"
-        }
-      }
-    },
-    {
-      "name": "落合三丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480110/5480110000.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "58.42",
-          "rent": "74700",
-          "fee": "3500"
         }
       }
     },
