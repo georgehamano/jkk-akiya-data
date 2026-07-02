@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T09:52:52+09:00",
+  "updated_at": "2026-07-02T09:57:40+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -24,27 +24,6 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム緑四丁目",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0780050/0780050001.jpg",
-      "location": "墨田区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.8",
-          "rent": "143800",
-          "fee": "4000"
-        },
-        "２ＬＤＫ": {
-          "area": "57.0",
-          "rent": "135200",
-          "fee": "4000"
         }
       }
     },
@@ -99,32 +78,6 @@
           "area": "43.21",
           "rent": "69100～70400",
           "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム向原",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/1980340000.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "51.45",
-          "rent": "129900",
-          "fee": "5900"
-        },
-        "１ＬＤＫ": {
-          "area": "50.05",
-          "rent": "125400",
-          "fee": "5900"
-        },
-        "２ＤＫ": {
-          "area": "44.4",
-          "rent": "121700",
-          "fee": "5900"
         }
       }
     },
@@ -600,17 +553,17 @@
     },
     {
       "name": "落合",
-      "total": 1,
+      "total": 9,
       "rooms": {
-        "３ＤＫ": 1
+        "３ＤＫ": 9
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
-          "area": "52.59",
-          "rent": "56300",
-          "fee": "2300"
+          "area": "51.38",
+          "rent": "56200",
+          "fee": "3000"
         },
         "２ＤＫ": {
           "area": "43.82",
