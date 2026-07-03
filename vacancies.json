@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T15:17:45+09:00",
+  "updated_at": "2026-07-03T15:22:51+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -41,16 +41,16 @@
     },
     {
       "name": "コーシャハイム中村北",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 2
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080530/2080530000.jpg",
       "location": "練馬区",
       "room_details": {
         "２Ｋ": {
           "area": "43.73",
-          "rent": "94400～97100",
+          "rent": "97100",
           "fee": "4200"
         }
       }
