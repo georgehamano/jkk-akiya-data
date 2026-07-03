@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T16:37:41+09:00",
+  "updated_at": "2026-07-03T16:42:53+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -40,27 +40,6 @@
           "area": "60.18",
           "rent": "99500",
           "fee": "4000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム多摩川",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180480/1180480001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "61.95",
-          "rent": "141800",
-          "fee": "5500"
-        },
-        "３ＬＤＫ": {
-          "area": "66.73",
-          "rent": "161400",
-          "fee": "5500"
         }
       }
     },
