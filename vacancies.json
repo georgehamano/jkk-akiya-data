@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T19:07:39+09:00",
+  "updated_at": "2026-07-03T19:12:48+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -240,9 +240,8 @@
     },
     {
       "name": "境川",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
