@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T10:47:46+09:00",
+  "updated_at": "2026-07-03T10:52:48+09:00",
   "properties": [
     {
       "name": "コーシャハイム久我山",
@@ -54,27 +54,6 @@
       }
     },
     {
-      "name": "コーシャハイム経堂フォレスト",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280930/1280930001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "39.87",
-          "rent": "121000",
-          "fee": "6200"
-        },
-        "１ＬＤＫ": {
-          "area": "45.62",
-          "rent": "145100",
-          "fee": "6200"
-        }
-      }
-    },
-    {
       "name": "カーメスト用賀馬事公苑",
       "total": 15,
       "rooms": {
@@ -109,27 +88,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム新中野テラス",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "49.99",
-          "rent": "179000",
-          "fee": "6300"
-        },
-        "１ＤＫ": {
-          "area": "35.61",
-          "rent": "123100",
-          "fee": "6300"
         }
       }
     },
@@ -220,37 +178,6 @@
           "area": "58.28",
           "rent": "54000",
           "fee": "2400"
-        }
-      }
-    },
-    {
-      "name": "木曽",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/3980070000.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "27.44",
-          "rent": "27800",
-          "fee": "2000"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "40400",
-          "fee": "2000"
-        },
-        "２ＤＫＳ": {
-          "area": "51.75",
-          "rent": "51800",
-          "fee": "2000"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "36500",
-          "fee": "2000"
         }
       }
     },
