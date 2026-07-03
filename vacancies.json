@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T16:57:42+09:00",
+  "updated_at": "2026-07-03T17:03:05+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -24,22 +24,6 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム八潮西",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980110/0980110000.jpg",
-      "location": "品川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.18",
-          "rent": "99500",
-          "fee": "4000"
         }
       }
     },
