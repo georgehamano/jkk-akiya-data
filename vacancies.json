@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T19:22:45+09:00",
+  "updated_at": "2026-07-03T19:27:38+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -136,9 +136,9 @@
     },
     {
       "name": "昭島田中町",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 3
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
       "location": "昭島市",
