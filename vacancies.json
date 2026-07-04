@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-04T17:02:56+09:00",
+  "updated_at": "2026-07-04T17:07:41+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "１ＤＫ": 2
+        "１ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
       "location": "世田谷区",
@@ -17,7 +17,7 @@
         },
         "１ＤＫ": {
           "area": "35.05",
-          "rent": "102800～111700",
+          "rent": "102800",
           "fee": "5300"
         },
         "２Ｋ": {
@@ -29,27 +29,6 @@
           "area": "67.13",
           "rent": "186000",
           "fee": "5300"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム経堂フォレスト",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280930/1280930001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "39.87",
-          "rent": "121000",
-          "fee": "6200"
-        },
-        "１ＬＤＫ": {
-          "area": "45.62",
-          "rent": "145100",
-          "fee": "6200"
         }
       }
     },
