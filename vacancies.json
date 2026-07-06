@@ -1,53 +1,6 @@
 {
-  "updated_at": "2026-07-06T16:58:19+09:00",
+  "updated_at": "2026-07-06T17:03:13+09:00",
   "properties": [
-    {
-      "name": "トミンタワー台場一番街",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/0380100001.jpg",
-      "location": "港区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "72.95",
-          "rent": "287600",
-          "fee": "5500"
-        },
-        "３ＬＤＫ": {
-          "area": "73.3",
-          "rent": "298000",
-          "fee": "5500"
-        },
-        "２ＤＫ": {
-          "area": "55.07",
-          "rent": "192600",
-          "fee": "5500"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム多摩川",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180480/1180480001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "61.95",
-          "rent": "142500",
-          "fee": "5500"
-        },
-        "３ＬＤＫ": {
-          "area": "66.73",
-          "rent": "161400",
-          "fee": "5500"
-        }
-      }
-    },
     {
       "name": "カーメスト大蔵の杜",
       "total": 1,
@@ -114,48 +67,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "新田",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.0",
-          "rent": "77000",
-          "fee": "3900"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム小松川一丁目",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/2380150000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "61.29",
-          "rent": "113400",
-          "fee": "3500"
-        },
-        "２ＬＤＫ": {
-          "area": "54.08",
-          "rent": "106000",
-          "fee": "3500"
-        },
-        "３ＬＤＫ": {
-          "area": "75.27",
-          "rent": "140500",
-          "fee": "3500"
         }
       }
     },
