@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-07-06T10:27:40+09:00",
+  "updated_at": "2026-07-06T10:33:05+09:00",
   "properties": [
+    {
+      "name": "南砂",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "85100",
+          "fee": "2650"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 15,
@@ -36,6 +52,59 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "新田",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.0",
+          "rent": "77000",
+          "fee": "3900"
+        }
+      }
+    },
+    {
+      "name": "春江町椿",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/2380070000[1].jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.35",
+          "rent": "68600",
+          "fee": "3200"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム清新",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "64.22",
+          "rent": "112600",
+          "fee": "4300"
+        },
+        "２ＬＤＫ": {
+          "area": "63.04",
+          "rent": "135800",
+          "fee": "4300"
         }
       }
     },
@@ -89,6 +158,27 @@
           "area": "39.6",
           "rent": "36600",
           "fee": "3200"
+        }
+      }
+    },
+    {
+      "name": "トミンハイム鑓水",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180450/3180450000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "67.85",
+          "rent": "85900",
+          "fee": "6800"
+        },
+        "３ＬＤＫ": {
+          "area": "76.75",
+          "rent": "101700",
+          "fee": "6800"
         }
       }
     },
@@ -295,6 +385,27 @@
           "area": "46.0",
           "rent": "53100",
           "fee": "3000"
+        }
+      }
+    },
+    {
+      "name": "小金井本町",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "73200",
+          "fee": "1900"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "49500",
+          "fee": "1900"
         }
       }
     },
