@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T16:57:50+09:00",
+  "updated_at": "2026-07-07T17:03:02+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -67,15 +67,15 @@
     },
     {
       "name": "松が谷",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３ＤＫ": 2
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/3180060000.jpg",
       "location": "八王子市",
       "room_details": {
         "３ＤＫ": {
-          "area": "52.59",
+          "area": "51.38",
           "rent": "57500",
           "fee": "2400"
         },
