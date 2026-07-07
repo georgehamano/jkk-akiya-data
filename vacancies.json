@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T15:40:51+09:00",
+  "updated_at": "2026-07-07T15:43:38+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -28,22 +28,6 @@
       }
     },
     {
-      "name": "コーシャハイム八潮西",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980110/0980110000.jpg",
-      "location": "品川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.18",
-          "rent": "99500",
-          "fee": "4000"
-        }
-      }
-    },
-    {
       "name": "コーシャハイム久我山",
       "total": 1,
       "rooms": {
@@ -61,27 +45,6 @@
           "area": "40.63",
           "rent": "112700",
           "fee": "7600"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム三軒茶屋",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280920/1280920000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "37.18",
-          "rent": "137800",
-          "fee": "6600"
-        },
-        "２ＬＤＫ": {
-          "area": "51.78",
-          "rent": "172000",
-          "fee": "6600"
         }
       }
     },
@@ -141,32 +104,6 @@
           "area": "63.04",
           "rent": "135800",
           "fee": "4300"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム小松川一丁目",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/2380150000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "61.29",
-          "rent": "113000",
-          "fee": "3500"
-        },
-        "２ＬＤＫ": {
-          "area": "54.08",
-          "rent": "106000",
-          "fee": "3500"
-        },
-        "３ＬＤＫ": {
-          "area": "75.27",
-          "rent": "140500",
-          "fee": "3500"
         }
       }
     },
@@ -575,22 +512,6 @@
           "area": "44.74",
           "rent": "55200",
           "fee": "3600"
-        }
-      }
-    },
-    {
-      "name": "落合三丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480110/5480110000.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "58.42",
-          "rent": "74700",
-          "fee": "3500"
         }
       }
     },
