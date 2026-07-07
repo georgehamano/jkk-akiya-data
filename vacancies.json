@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T22:57:43+09:00",
+  "updated_at": "2026-07-07T23:03:03+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -364,9 +364,9 @@
     },
     {
       "name": "久留米西",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 3
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
       "location": "東久留米市",
