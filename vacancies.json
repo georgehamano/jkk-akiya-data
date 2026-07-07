@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-07-07T12:37:34+09:00",
+  "updated_at": "2026-07-07T12:43:01+09:00",
   "properties": [
+    {
+      "name": "南砂",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "42.06",
+          "rent": "80800～81500",
+          "fee": "2650"
+        }
+      }
+    },
+    {
+      "name": "塩浜",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880130/0880130000.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.51",
+          "rent": "94200",
+          "fee": "3500"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 15,
@@ -36,6 +68,38 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "新田第二",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.96",
+          "rent": "82100",
+          "fee": "3500"
+        }
+      }
+    },
+    {
+      "name": "コーシャタワー小松川",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/2380200001.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.01",
+          "rent": "128200",
+          "fee": "5700"
         }
       }
     },
@@ -78,16 +142,16 @@
     },
     {
       "name": "松枝",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
       "location": "八王子市",
       "room_details": {
         "２ＤＫ": {
-          "area": "39.6",
-          "rent": "36600",
+          "area": "35.52～39.6",
+          "rent": "31400～36600",
           "fee": "3200"
         }
       }
