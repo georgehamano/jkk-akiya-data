@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T14:52:51+09:00",
+  "updated_at": "2026-07-07T14:57:38+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -94,9 +94,9 @@
     },
     {
       "name": "昭島田中町",
-      "total": 2,
+      "total": 4,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
       "location": "昭島市",
@@ -115,9 +115,9 @@
     },
     {
       "name": "高ケ坂",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２Ｋ": 1
+        "２Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
       "location": "町田市",
@@ -136,8 +136,9 @@
     },
     {
       "name": "本町田",
-      "total": 1,
+      "total": 2,
       "rooms": {
+        "３Ｋ": 1,
         "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
@@ -155,7 +156,7 @@
         },
         "３Ｋ": {
           "area": "39.96",
-          "rent": "57000",
+          "rent": "58000",
           "fee": "1100"
         },
         "２ＤＫＳ": {
@@ -221,6 +222,27 @@
       }
     },
     {
+      "name": "小金井本町",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "73200",
+          "fee": "1900"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "49500",
+          "fee": "1900"
+        }
+      }
+    },
+    {
       "name": "大和芝中",
       "total": 2,
       "rooms": {
@@ -280,9 +302,9 @@
     },
     {
       "name": "久留米西",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
       "location": "東久留米市",
