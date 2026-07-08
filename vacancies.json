@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-07-08T12:57:41+09:00",
+  "updated_at": "2026-07-08T13:03:18+09:00",
   "properties": [
+    {
+      "name": "南砂",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "42.06～48.37",
+          "rent": "75600～86100",
+          "fee": "2650"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
