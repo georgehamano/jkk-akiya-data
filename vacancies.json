@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T11:42:47+09:00",
+  "updated_at": "2026-07-08T11:47:44+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -84,27 +84,6 @@
           "area": "60.0",
           "rent": "101700",
           "fee": "3800"
-        }
-      }
-    },
-    {
-      "name": "松が谷",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/3180060000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "51.38",
-          "rent": "57500",
-          "fee": "2400"
-        },
-        "２ＤＫ": {
-          "area": "35.52",
-          "rent": "42000",
-          "fee": "2400"
         }
       }
     },
@@ -242,37 +221,6 @@
           "area": "51.74",
           "rent": "60000",
           "fee": "1100"
-        }
-      }
-    },
-    {
-      "name": "境川",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "38400",
-          "fee": "1800"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "47000",
-          "fee": "1800"
-        },
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "58400",
-          "fee": "1800"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "39900",
-          "fee": "1800"
         }
       }
     },
