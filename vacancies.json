@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T11:12:51+09:00",
+  "updated_at": "2026-07-08T11:17:43+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -264,22 +264,6 @@
           "area": "32.85",
           "rent": "35000",
           "fee": "1700"
-        }
-      }
-    },
-    {
-      "name": "真光寺",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980180/3980180000.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.0",
-          "rent": "53100",
-          "fee": "3000"
         }
       }
     },
