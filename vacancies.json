@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-08T13:03:18+09:00",
+  "updated_at": "2026-07-08T13:07:37+09:00",
   "properties": [
     {
       "name": "南砂",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
       "location": "江東区",
       "room_details": {
         "２ＤＫ": {
-          "area": "42.06～48.37",
-          "rent": "75600～86100",
+          "area": "42.06",
+          "rent": "75600",
           "fee": "2650"
         }
       }
