@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T11:52:46+09:00",
+  "updated_at": "2026-07-08T11:57:36+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -40,22 +40,6 @@
       }
     },
     {
-      "name": "新田",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.0",
-          "rent": "77800",
-          "fee": "3900"
-        }
-      }
-    },
-    {
       "name": "新田第二",
       "total": 1,
       "rooms": {
@@ -89,16 +73,16 @@
     },
     {
       "name": "松枝",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
       "location": "八王子市",
       "room_details": {
         "２ＤＫ": {
-          "area": "35.52～39.6",
-          "rent": "31400～36600",
+          "area": "35.52",
+          "rent": "31400",
           "fee": "3200"
         }
       }
