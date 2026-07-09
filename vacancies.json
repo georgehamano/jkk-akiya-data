@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T15:07:46+09:00",
+  "updated_at": "2026-07-09T15:12:56+09:00",
   "properties": [
     {
       "name": "コーシャハイム千歳烏山",
@@ -19,27 +19,6 @@
           "area": "40.46",
           "rent": "130800",
           "fee": "5300"
-        }
-      }
-    },
-    {
-      "name": "カーメスト桜新町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/1280940001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "36.3",
-          "rent": "131900",
-          "fee": "7200"
-        },
-        "２ＤＫ": {
-          "area": "47.41",
-          "rent": "183300",
-          "fee": "7200"
         }
       }
     },
