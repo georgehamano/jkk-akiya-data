@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T13:43:15+09:00",
+  "updated_at": "2026-07-13T13:47:54+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -52,27 +52,6 @@
           "area": "60.47",
           "rent": "94000",
           "fee": "3100"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム臨海町二丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380160/2380160000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "61.58",
-          "rent": "94500",
-          "fee": "3800"
-        },
-        "２ＬＤＫ": {
-          "area": "57.38",
-          "rent": "87300",
-          "fee": "3800"
         }
       }
     },
