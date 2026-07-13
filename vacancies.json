@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T09:57:42+09:00",
+  "updated_at": "2026-07-13T10:03:19+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -41,9 +41,9 @@
     },
     {
       "name": "コーシャハイム杉並和田",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "１ＤＫ": 2,
+        "１ＤＫ": 1,
         "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/1580240001.jpg",
@@ -51,7 +51,7 @@
       "room_details": {
         "１ＤＫ": {
           "area": "33.77",
-          "rent": "98900",
+          "rent": "97800",
           "fee": "3300"
         },
         "１ＬＤＫ": {
