@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T17:03:11+09:00",
+  "updated_at": "2026-07-14T17:07:41+09:00",
   "properties": [
     {
       "name": "コーシャハイム緑四丁目",
@@ -24,9 +24,9 @@
     },
     {
       "name": "越中島",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880070/0880070027.jpg",
       "location": "江東区",
