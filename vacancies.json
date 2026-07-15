@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T14:27:39+09:00",
+  "updated_at": "2026-07-15T14:33:05+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -317,27 +317,6 @@
           "area": "60.38",
           "rent": "80800～82400",
           "fee": "3400"
-        }
-      }
-    },
-    {
-      "name": "清瀬台田",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
-      "location": "清瀬市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "29900",
-          "fee": "1700"
-        },
-        "３Ｋ": {
-          "area": "38.48",
-          "rent": "33000",
-          "fee": "1700"
         }
       }
     },
