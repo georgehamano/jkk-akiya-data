@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-07-15T15:08:01+09:00",
+  "updated_at": "2026-07-15T15:13:27+09:00",
   "properties": [
-    {
-      "name": "コーシャタワー佃",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/0280070001.jpg",
-      "location": "中央区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "49.77",
-          "rent": "209000",
-          "fee": "5300"
-        },
-        "４ＬＤＫ": {
-          "area": "87.26",
-          "rent": "371000",
-          "fee": "5300"
-        }
-      }
-    },
     {
       "name": "越中島",
       "total": 1,
@@ -223,37 +202,6 @@
           "area": "51.74",
           "rent": "60000",
           "fee": "1100"
-        }
-      }
-    },
-    {
-      "name": "境川",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "38400",
-          "fee": "1800"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "48400",
-          "fee": "1800"
-        },
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "58400",
-          "fee": "1800"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "39900",
-          "fee": "1800"
         }
       }
     },
