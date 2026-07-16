@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T11:07:39+09:00",
+  "updated_at": "2026-07-16T11:12:55+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -40,22 +40,6 @@
       }
     },
     {
-      "name": "堀船",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780020/1780020999.jpg",
-      "location": "北区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.22",
-          "rent": "68000",
-          "fee": "1900"
-        }
-      }
-    },
-    {
       "name": "堀船第二",
       "total": 1,
       "rooms": {
@@ -68,27 +52,6 @@
           "area": "43.43",
           "rent": "92900",
           "fee": "1800"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム光が丘第一",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg",
-      "location": "練馬区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.17",
-          "rent": "101100",
-          "fee": "3200"
-        },
-        "２ＬＤＫ": {
-          "area": "60.17",
-          "rent": "100100",
-          "fee": "3200"
         }
       }
     },
