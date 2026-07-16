@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-07-16T13:57:43+09:00",
+  "updated_at": "2026-07-16T14:03:10+09:00",
   "properties": [
-    {
-      "name": "トミンタワー飯田橋三丁目",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/0180050001.jpg",
-      "location": "千代田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "75.87",
-          "rent": "272800",
-          "fee": "5200"
-        },
-        "１ＬＤＫ": {
-          "area": "59.87",
-          "rent": "235500",
-          "fee": "5200"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 13,
