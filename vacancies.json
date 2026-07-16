@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-07-16T13:47:43+09:00",
+  "updated_at": "2026-07-16T13:53:04+09:00",
   "properties": [
+    {
+      "name": "トミンタワー飯田橋三丁目",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/0180050001.jpg",
+      "location": "千代田区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "75.87",
+          "rent": "272800",
+          "fee": "5200"
+        },
+        "１ＬＤＫ": {
+          "area": "59.87",
+          "rent": "235500",
+          "fee": "5200"
+        }
+      }
+    },
+    {
+      "name": "南砂",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "42.06",
+          "rent": "82400",
+          "fee": "2650"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 13,
@@ -36,6 +73,22 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "宇喜田第一",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/2380010000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.25",
+          "rent": "62800",
+          "fee": "3000"
         }
       }
     },
