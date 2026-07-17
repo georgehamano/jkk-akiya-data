@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T15:58:03+09:00",
+  "updated_at": "2026-07-17T16:03:18+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -161,38 +161,6 @@
           "area": "49.75",
           "rent": "142200",
           "fee": "3300"
-        }
-      }
-    },
-    {
-      "name": "堀船",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780020/1780020999.jpg",
-      "location": "北区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.22",
-          "rent": "68000",
-          "fee": "1900"
-        }
-      }
-    },
-    {
-      "name": "西台",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/1980150005.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "43.21",
-          "rent": "70400",
-          "fee": "3000"
         }
       }
     },
@@ -415,11 +383,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 21,
+      "total": 20,
       "rooms": {
         "３Ｋ": 7,
-        "２Ｋ": 2,
-        "２ＤＫ": 12
+        "２ＤＫ": 12,
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
