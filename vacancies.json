@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T19:27:41+09:00",
+  "updated_at": "2026-07-17T19:32:54+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -78,22 +78,6 @@
           "area": "62.42",
           "rent": "62100",
           "fee": "3100"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム南大沢",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180200/3180200000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.52",
-          "rent": "71700",
-          "fee": "3000"
         }
       }
     },
