@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T14:03:23+09:00",
+  "updated_at": "2026-07-18T14:07:42+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -45,58 +45,6 @@
           "area": "40.46",
           "rent": "130800",
           "fee": "5300"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム経堂フォレスト",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280930/1280930001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "39.87",
-          "rent": "121000",
-          "fee": "6200"
-        },
-        "１ＬＤＫ": {
-          "area": "39.79",
-          "rent": "133400",
-          "fee": "6200"
-        },
-        "１Ｒ": {
-          "area": "35.29",
-          "rent": "116200",
-          "fee": "6200"
-        },
-        "２ＬＤＫ": {
-          "area": "53.27",
-          "rent": "167700",
-          "fee": "6200"
-        }
-      }
-    },
-    {
-      "name": "カーメスト桜新町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/1280940001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "36.3",
-          "rent": "131900",
-          "fee": "7200"
-        },
-        "２ＤＫ": {
-          "area": "47.41",
-          "rent": "183300",
-          "fee": "7200"
         }
       }
     },
