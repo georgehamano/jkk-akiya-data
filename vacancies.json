@@ -1,38 +1,6 @@
 {
-  "updated_at": "2026-07-21T10:17:59+09:00",
+  "updated_at": "2026-07-21T10:22:46+09:00",
   "properties": [
-    {
-      "name": "南砂",
-      "total": 2,
-      "rooms": {
-        "２ＤＫ": 2
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "48.32～48.37",
-          "rent": "80100～85900",
-          "fee": "2650"
-        }
-      }
-    },
-    {
-      "name": "亀戸九丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880180/0880180000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "59.92",
-          "rent": "97700",
-          "fee": "4100"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 15,
