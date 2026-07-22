@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T13:17:51+09:00",
+  "updated_at": "2026-07-22T13:22:44+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -465,9 +465,8 @@
     },
     {
       "name": "落合",
-      "total": 13,
+      "total": 12,
       "rooms": {
-        "２ＤＫ": 1,
         "３ＤＫ": 12
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
