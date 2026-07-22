@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T15:32:59+09:00",
+  "updated_at": "2026-07-22T15:37:55+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -24,27 +24,6 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム緑四丁目",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0780050/0780050001.jpg",
-      "location": "墨田区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.8",
-          "rent": "143800",
-          "fee": "4000"
-        },
-        "２ＬＤＫ": {
-          "area": "57.0",
-          "rent": "135200",
-          "fee": "4000"
         }
       }
     },
@@ -241,9 +220,9 @@
     },
     {
       "name": "横川町",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "３ＤＫ": 4
+        "３ＤＫ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
       "location": "八王子市",
