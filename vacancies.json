@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T14:58:17+09:00",
+  "updated_at": "2026-07-22T15:03:09+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -49,22 +49,6 @@
       }
     },
     {
-      "name": "越中島",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880070/0880070027.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.25",
-          "rent": "86400",
-          "fee": "3300"
-        }
-      }
-    },
-    {
       "name": "コーシャハイム大森東",
       "total": 1,
       "rooms": {
@@ -82,42 +66,6 @@
           "area": "62.97",
           "rent": "120000",
           "fee": "3900"
-        }
-      }
-    },
-    {
-      "name": "カーメスト大蔵の杜",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "50.7",
-          "rent": "144400",
-          "fee": "5300"
-        },
-        "１ＤＫ": {
-          "area": "35.05",
-          "rent": "102800",
-          "fee": "5300"
-        },
-        "２Ｋ": {
-          "area": "38.34",
-          "rent": "126600",
-          "fee": "5300"
-        },
-        "２ＬＤＫ": {
-          "area": "67.13",
-          "rent": "186000",
-          "fee": "5300"
-        },
-        "１ＬＤＫＳ": {
-          "area": "57.38",
-          "rent": "156700",
-          "fee": "5300"
         }
       }
     },
