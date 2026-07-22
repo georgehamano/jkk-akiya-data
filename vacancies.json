@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T13:52:41+09:00",
+  "updated_at": "2026-07-22T13:57:39+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -129,6 +129,22 @@
       }
     },
     {
+      "name": "松枝",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "39.6",
+          "rent": "36300",
+          "fee": "3200"
+        }
+      }
+    },
+    {
       "name": "横川町",
       "total": 3,
       "rooms": {
@@ -183,6 +199,32 @@
           "area": "48.32",
           "rent": "64800～68200",
           "fee": "2100"
+        }
+      }
+    },
+    {
+      "name": "霞台",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+      "location": "青梅市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "40400",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "35400",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "49600",
+          "fee": "1800"
         }
       }
     },
@@ -243,8 +285,9 @@
     },
     {
       "name": "境川",
-      "total": 1,
+      "total": 2,
       "rooms": {
+        "２Ｋ": 1,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
@@ -252,7 +295,7 @@
       "room_details": {
         "２Ｋ": {
           "area": "32.85",
-          "rent": "38400",
+          "rent": "39300",
           "fee": "1800"
         },
         "３Ｋ": {
