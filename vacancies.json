@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T14:42:48+09:00",
+  "updated_at": "2026-07-22T14:47:45+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -104,53 +104,6 @@
           "area": "46.1",
           "rent": "72700",
           "fee": "4000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム北千住",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180430/2180430001.jpg",
-      "location": "足立区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "49.72",
-          "rent": "127500",
-          "fee": "5000"
-        },
-        "１ＤＫ": {
-          "area": "34.01",
-          "rent": "98500",
-          "fee": "5000"
-        },
-        "２ＤＫ": {
-          "area": "45.03",
-          "rent": "122700",
-          "fee": "5000"
-        }
-      }
-    },
-    {
-      "name": "カーメスト興野町",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440001.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.29",
-          "rent": "106600",
-          "fee": "6000"
-        },
-        "１ＬＤＫ": {
-          "area": "52.0",
-          "rent": "106500",
-          "fee": "6000"
         }
       }
     },
