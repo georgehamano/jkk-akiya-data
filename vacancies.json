@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T15:25:32+09:00",
+  "updated_at": "2026-07-22T15:28:12+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -130,22 +130,6 @@
           "area": "44.65",
           "rent": "117700",
           "fee": "6000"
-        }
-      }
-    },
-    {
-      "name": "青井五丁目",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180090/2180090001.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.1",
-          "rent": "72700",
-          "fee": "4000"
         }
       }
     },
