@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T16:22:49+09:00",
+  "updated_at": "2026-07-22T16:27:42+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -120,27 +120,6 @@
           "area": "42.83",
           "rent": "73200",
           "fee": "3100"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム春江町五丁目",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380180/2380180001.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.0",
-          "rent": "101700",
-          "fee": "3800"
-        },
-        "３ＬＤＫ": {
-          "area": "73.5",
-          "rent": "118000",
-          "fee": "3800"
         }
       }
     },
