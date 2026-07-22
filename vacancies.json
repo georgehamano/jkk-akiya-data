@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T17:32:47+09:00",
+  "updated_at": "2026-07-22T17:37:53+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -88,22 +88,6 @@
           "area": "44.65",
           "rent": "117700",
           "fee": "6000"
-        }
-      }
-    },
-    {
-      "name": "春江町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.25",
-          "rent": "61300",
-          "fee": "2900"
         }
       }
     },
