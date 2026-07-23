@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T15:03:02+09:00",
+  "updated_at": "2026-07-23T15:07:45+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -387,9 +387,8 @@
     },
     {
       "name": "大和芝中",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1,
         "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
