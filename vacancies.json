@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T11:57:36+09:00",
+  "updated_at": "2026-07-23T12:02:59+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -88,22 +88,6 @@
           "area": "44.65",
           "rent": "117700",
           "fee": "6000"
-        }
-      }
-    },
-    {
-      "name": "宇喜田第二",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.83",
-          "rent": "73200",
-          "fee": "3100"
         }
       }
     },
