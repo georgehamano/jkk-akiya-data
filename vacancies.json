@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T14:42:45+09:00",
+  "updated_at": "2026-07-23T14:48:01+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -24,6 +24,37 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム経堂フォレスト",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280930/1280930001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "39.87",
+          "rent": "121000",
+          "fee": "6200"
+        },
+        "１ＬＤＫ": {
+          "area": "39.79",
+          "rent": "133400",
+          "fee": "6200"
+        },
+        "１Ｒ": {
+          "area": "35.29",
+          "rent": "116200",
+          "fee": "6200"
+        },
+        "２ＬＤＫ": {
+          "area": "53.27",
+          "rent": "167700",
+          "fee": "6200"
         }
       }
     },
@@ -66,18 +97,28 @@
       }
     },
     {
-      "name": "コーシャハイム坂下",
+      "name": "コーシャハイム上鷺宮",
       "total": 1,
       "rooms": {
-        "２ＤＫ": 1
+        "１ＬＤＫ": 1
       },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
-      "location": "板橋区",
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480330/1480330000.jpg",
+      "location": "中野区",
       "room_details": {
+        "２ＬＤＫ": {
+          "area": "58.83",
+          "rent": "152000",
+          "fee": "6000"
+        },
         "２ＤＫ": {
-          "area": "50.96",
-          "rent": "105900",
-          "fee": "6400"
+          "area": "50.84",
+          "rent": "141600",
+          "fee": "6000"
+        },
+        "１ＬＤＫ": {
+          "area": "44.65",
+          "rent": "117700",
+          "fee": "6000"
         }
       }
     },
@@ -183,9 +224,9 @@
     },
     {
       "name": "昭島田中町",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 3,
+        "２ＤＫ": 2,
         "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
