@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T11:47:46+09:00",
+  "updated_at": "2026-07-23T11:52:48+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -67,9 +67,8 @@
     },
     {
       "name": "コーシャハイム上鷺宮",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "１ＬＤＫ": 1,
         "２ＬＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480330/1480330000.jpg",
