@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T16:48:00+09:00",
+  "updated_at": "2026-07-23T16:52:48+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -360,9 +360,8 @@
     },
     {
       "name": "田無西原",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２Ｋ": 1,
         "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
