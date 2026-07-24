@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T10:07:41+09:00",
+  "updated_at": "2026-07-24T10:12:57+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -25,6 +25,22 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
+        }
+      }
+    },
+    {
+      "name": "トミンハイム宮坂二丁目",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280730/1280730001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "68.06",
+          "rent": "169900",
+          "fee": "7100"
         }
       }
     },
