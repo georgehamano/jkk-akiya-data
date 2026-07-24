@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T16:27:41+09:00",
+  "updated_at": "2026-07-24T16:32:50+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -167,6 +167,22 @@
       }
     },
     {
+      "name": "トミンハイム立川泉町",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280140/3280140001.jpg",
+      "location": "立川市",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "70.78",
+          "rent": "105700",
+          "fee": "4600"
+        }
+      }
+    },
+    {
       "name": "昭島田中町",
       "total": 3,
       "rooms": {
@@ -211,8 +227,9 @@
     },
     {
       "name": "本町田",
-      "total": 3,
+      "total": 4,
       "rooms": {
+        "２Ｋ": 1,
         "２ＤＫ": 2,
         "２ＤＫＳ": 1
       },
@@ -221,7 +238,7 @@
       "room_details": {
         "２Ｋ": {
           "area": "32.85",
-          "rent": "39100",
+          "rent": "38000",
           "fee": "1100"
         },
         "２ＤＫ": {
@@ -243,9 +260,10 @@
     },
     {
       "name": "境川",
-      "total": 2,
+      "total": 3,
       "rooms": {
         "２Ｋ": 1,
+        "２ＤＫ": 1,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
@@ -268,19 +286,19 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "39900",
+          "rent": "41300",
           "fee": "1800"
         }
       }
     },
     {
       "name": "町田木曽",
-      "total": 18,
+      "total": 22,
       "rooms": {
-        "３Ｋ": 6,
+        "３Ｋ": 8,
         "１ＤＫ": 1,
-        "２ＤＫ": 10,
-        "２Ｋ": 1
+        "２Ｋ": 2,
+        "２ＤＫ": 11
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
