@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T13:17:45+09:00",
+  "updated_at": "2026-07-24T13:22:47+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -275,12 +275,12 @@
     },
     {
       "name": "町田木曽",
-      "total": 18,
+      "total": 17,
       "rooms": {
         "３Ｋ": 6,
         "１ＤＫ": 1,
         "２Ｋ": 2,
-        "２ＤＫ": 9
+        "２ＤＫ": 8
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
