@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T14:42:54+09:00",
+  "updated_at": "2026-07-25T14:47:49+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -46,22 +46,6 @@
           "area": "57.0",
           "rent": "135200",
           "fee": "4000"
-        }
-      }
-    },
-    {
-      "name": "南砂",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "48.37",
-          "rent": "84400",
-          "fee": "2650"
         }
       }
     },
@@ -257,16 +241,16 @@
     },
     {
       "name": "新田",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
       "location": "江戸川区",
       "room_details": {
         "２ＤＫ": {
           "area": "43.0",
-          "rent": "76300～77800",
+          "rent": "77800",
           "fee": "3900"
         }
       }
@@ -664,6 +648,22 @@
           "area": "51.75",
           "rent": "59600",
           "fee": "1900"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム玉川上水",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.38",
+          "rent": "80800",
+          "fee": "3400"
         }
       }
     }
