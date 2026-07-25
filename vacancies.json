@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T10:17:40+09:00",
+  "updated_at": "2026-07-25T10:22:42+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -488,9 +488,8 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
