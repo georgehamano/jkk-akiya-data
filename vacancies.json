@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-07-27T12:23:27+09:00",
+  "updated_at": "2026-07-27T12:27:57+09:00",
   "properties": [
-    {
-      "name": "コーシャタワー佃",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/0280070001.jpg",
-      "location": "中央区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "49.77",
-          "rent": "209000",
-          "fee": "5300"
-        },
-        "４ＬＤＫ": {
-          "area": "87.26",
-          "rent": "371000",
-          "fee": "5300"
-        }
-      }
-    },
     {
       "name": "トミンタワー台場一番街",
       "total": 1,
@@ -45,22 +24,6 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
-        }
-      }
-    },
-    {
-      "name": "南砂",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.06",
-          "rent": "73400",
-          "fee": "2650"
         }
       }
     },
@@ -202,27 +165,6 @@
       }
     },
     {
-      "name": "コーシャハイム方南町ガーデンコート",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/1580250002.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "50.02",
-          "rent": "152900",
-          "fee": "6100"
-        },
-        "１ＬＤＫ": {
-          "area": "44.22",
-          "rent": "128900",
-          "fee": "6100"
-        }
-      }
-    },
-    {
       "name": "カーメスト新高円寺",
       "total": 2,
       "rooms": {
@@ -288,27 +230,6 @@
           "area": "43.35",
           "rent": "69300",
           "fee": "3200"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム清新",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "64.22",
-          "rent": "112600",
-          "fee": "4300"
-        },
-        "２ＬＤＫ": {
-          "area": "63.04",
-          "rent": "135800",
-          "fee": "4300"
         }
       }
     },
