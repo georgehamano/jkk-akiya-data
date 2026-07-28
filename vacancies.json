@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T16:12:51+09:00",
+  "updated_at": "2026-07-28T16:17:48+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -126,9 +126,8 @@
     },
     {
       "name": "コーシャハイム南大沢五丁目",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＬＤＫ": 1,
         "３ＬＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180270/3180270000.jpg",
