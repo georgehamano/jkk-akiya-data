@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T16:57:43+09:00",
+  "updated_at": "2026-07-28T17:02:57+09:00",
   "properties": [
     {
       "name": "トミンハイム宮坂二丁目",
@@ -255,18 +255,18 @@
     },
     {
       "name": "町田木曽",
-      "total": 21,
+      "total": 12,
       "rooms": {
-        "３Ｋ": 9,
+        "３Ｋ": 7,
         "２Ｋ": 2,
-        "２ＤＫ": 10
+        "２ＤＫ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
       "room_details": {
         "３Ｋ": {
           "area": "39.9",
-          "rent": "41200～42400",
+          "rent": "42400",
           "fee": "1700"
         },
         "２Ｋ": {
