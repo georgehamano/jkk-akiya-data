@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T17:37:43+09:00",
+  "updated_at": "2026-07-28T17:42:44+09:00",
   "properties": [
     {
       "name": "トミンハイム宮坂二丁目",
@@ -450,9 +450,9 @@
     },
     {
       "name": "落合",
-      "total": 7,
+      "total": 4,
       "rooms": {
-        "３ＤＫ": 7
+        "３ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
