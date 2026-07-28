@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T19:43:03+09:00",
+  "updated_at": "2026-07-28T19:47:43+09:00",
   "properties": [
     {
       "name": "トミンハイム宮坂二丁目",
@@ -191,9 +191,8 @@
     },
     {
       "name": "本町田",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "３Ｋ": 1,
         "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
