@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T10:22:46+09:00",
+  "updated_at": "2026-07-30T10:27:44+09:00",
   "properties": [
     {
       "name": "南砂",
@@ -426,16 +426,16 @@
     },
     {
       "name": "落合",
-      "total": 2,
+      "total": 4,
       "rooms": {
-        "３ＤＫ": 2
+        "３ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
-          "area": "52.59",
-          "rent": "56300",
+          "area": "51.38",
+          "rent": "56200",
           "fee": "3000"
         },
         "２ＤＫ": {
