@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-07-30T12:57:40+09:00",
+  "updated_at": "2026-07-30T13:03:12+09:00",
   "properties": [
-    {
-      "name": "南砂",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.06",
-          "rent": "80600",
-          "fee": "2650"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
@@ -68,6 +52,43 @@
           "area": "50.96",
           "rent": "105900",
           "fee": "6400"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム光が丘第一",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.17",
+          "rent": "101100",
+          "fee": "3200"
+        },
+        "２ＬＤＫ": {
+          "area": "60.17",
+          "rent": "100100",
+          "fee": "3200"
+        }
+      }
+    },
+    {
+      "name": "宇喜田第一",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/2380010000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.25",
+          "rent": "62200",
+          "fee": "3000"
         }
       }
     },
