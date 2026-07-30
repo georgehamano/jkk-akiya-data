@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T13:27:44+09:00",
+  "updated_at": "2026-07-30T13:32:51+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -52,27 +52,6 @@
           "area": "41.25",
           "rent": "62200",
           "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム清新",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "63.04",
-          "rent": "107200",
-          "fee": "4300"
-        },
-        "２ＬＤＫ": {
-          "area": "63.04",
-          "rent": "135800",
-          "fee": "4300"
         }
       }
     },
@@ -275,22 +254,6 @@
           "area": "32.85",
           "rent": "35000",
           "fee": "1700"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム美園町",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4180140/4180140001.jpg",
-      "location": "小平市",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "63.84",
-          "rent": "105600",
-          "fee": "3000"
         }
       }
     },
