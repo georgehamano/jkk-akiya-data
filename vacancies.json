@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-07-31T13:17:40+09:00",
+  "updated_at": "2026-07-31T13:23:08+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム南砂駅前",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880390/0880390001.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "68.25",
+          "rent": "180900",
+          "fee": "6500"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 16,
@@ -36,6 +52,22 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "新田",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.0",
+          "rent": "77800",
+          "fee": "3900"
         }
       }
     },
@@ -267,6 +299,32 @@
       }
     },
     {
+      "name": "福生加美平",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
+      "location": "福生市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "29700",
+          "fee": "1700"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "31200",
+          "fee": "1700"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "46400",
+          "fee": "1700"
+        }
+      }
+    },
+    {
       "name": "大和芝中",
       "total": 1,
       "rooms": {
@@ -299,8 +357,9 @@
     },
     {
       "name": "大和上北台",
-      "total": 1,
+      "total": 2,
       "rooms": {
+        "２ＤＫ": 1,
         "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
@@ -312,8 +371,8 @@
           "fee": "1900"
         },
         "２ＤＫ": {
-          "area": "37.64",
-          "rent": "44400",
+          "area": "34.56",
+          "rent": "41200",
           "fee": "1900"
         },
         "２ＤＫＳ": {
@@ -378,9 +437,9 @@
     },
     {
       "name": "落合",
-      "total": 4,
+      "total": 5,
       "rooms": {
-        "３ＤＫ": 4
+        "３ＤＫ": 5
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
