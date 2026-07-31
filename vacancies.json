@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T13:33:21+09:00",
+  "updated_at": "2026-07-31T13:37:38+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
@@ -129,33 +129,17 @@
       }
     },
     {
-      "name": "春江町椿",
+      "name": "新田第二",
       "total": 1,
       "rooms": {
         "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/2380070000[1].jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.35",
-          "rent": "68600",
-          "fee": "3200"
-        }
-      }
-    },
-    {
-      "name": "新田第二",
-      "total": 2,
-      "rooms": {
-        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
       "location": "江戸川区",
       "room_details": {
         "２ＤＫ": {
           "area": "45.96",
-          "rent": "83200～84000",
+          "rent": "84000",
           "fee": "3500"
         }
       }
