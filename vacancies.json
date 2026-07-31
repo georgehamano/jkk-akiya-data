@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-07-31T10:57:36+09:00",
+  "updated_at": "2026-07-31T11:02:57+09:00",
   "properties": [
-    {
-      "name": "カーメスト桜新町",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/1280940001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "36.3",
-          "rent": "137000",
-          "fee": "7200"
-        },
-        "２ＤＫ": {
-          "area": "47.41",
-          "rent": "183300",
-          "fee": "7200"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 15,
@@ -120,27 +99,6 @@
           "area": "71.85",
           "rent": "83800",
           "fee": "4100"
-        }
-      }
-    },
-    {
-      "name": "富士見町",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
-      "location": "立川市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "44800",
-          "fee": "2200"
-        },
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "42600",
-          "fee": "2200"
         }
       }
     },
@@ -247,11 +205,11 @@
     },
     {
       "name": "町田木曽",
-      "total": 7,
+      "total": 6,
       "rooms": {
         "３Ｋ": 3,
         "２Ｋ": 2,
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
@@ -268,7 +226,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "36100～36700",
+          "rent": "36100",
           "fee": "1700"
         },
         "２ＤＫＳ": {
