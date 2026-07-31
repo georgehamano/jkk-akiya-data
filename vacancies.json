@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T14:42:42+09:00",
+  "updated_at": "2026-07-31T14:47:43+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
@@ -347,9 +347,9 @@
     },
     {
       "name": "町田木曽",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "３Ｋ": 3,
+        "３Ｋ": 2,
         "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
