@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-03T10:03:18+09:00",
+  "updated_at": "2026-08-03T10:08:41+09:00",
   "properties": [
     {
       "name": "辰巳あけぼの",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＬＤＫ": 3
+        "２ＬＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
       "location": "江東区",
       "room_details": {
         "２ＬＤＫ": {
           "area": "59.92",
-          "rent": "108400～110500",
+          "rent": "108400～109500",
           "fee": "2500"
         }
       }
