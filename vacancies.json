@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-03T16:52:41+09:00",
+  "updated_at": "2026-08-03T16:58:45+09:00",
   "properties": [
+    {
+      "name": "辰巳あけぼの",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "59.92",
+          "rent": "109500",
+          "fee": "2500"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 10,
@@ -36,6 +52,69 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム光が丘第一",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.17",
+          "rent": "101100",
+          "fee": "3200"
+        },
+        "２ＬＤＫ": {
+          "area": "60.17",
+          "rent": "100100",
+          "fee": "3200"
+        }
+      }
+    },
+    {
+      "name": "千住東町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/2180060000.jpg",
+      "location": "足立区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.29",
+          "rent": "78300",
+          "fee": "2700"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム春江町五丁目",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380180/2380180001.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.0",
+          "rent": "101700",
+          "fee": "3800"
+        },
+        "３ＬＤＫ": {
+          "area": "73.5",
+          "rent": "118000",
+          "fee": "3800"
+        },
+        "２ＬＤＫ": {
+          "area": "57.72",
+          "rent": "94900",
+          "fee": "3800"
         }
       }
     },
@@ -180,9 +259,11 @@
     },
     {
       "name": "境川",
-      "total": 1,
+      "total": 3,
       "rooms": {
-        "２Ｋ": 1
+        "２Ｋ": 1,
+        "３Ｋ": 1,
+        "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
       "location": "町田市",
@@ -194,7 +275,7 @@
         },
         "３Ｋ": {
           "area": "39.96",
-          "rent": "48400",
+          "rent": "47000",
           "fee": "1800"
         },
         "２ＤＫＳ": {
@@ -273,9 +354,9 @@
     },
     {
       "name": "大和芝中",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＤＫＳ": 1
+        "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
       "location": "東大和市",
@@ -351,10 +432,10 @@
     },
     {
       "name": "落合",
-      "total": 4,
+      "total": 5,
       "rooms": {
         "２ＤＫ": 1,
-        "３ＤＫ": 3
+        "３ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
