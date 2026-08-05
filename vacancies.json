@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:27:47+09:00",
+  "updated_at": "2026-08-05T10:32:55+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -187,9 +187,9 @@
     },
     {
       "name": "境川",
-      "total": 2,
+      "total": 3,
       "rooms": {
-        "２Ｋ": 1,
+        "２Ｋ": 2,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
@@ -197,7 +197,7 @@
       "room_details": {
         "２Ｋ": {
           "area": "32.85",
-          "rent": "39700",
+          "rent": "38900",
           "fee": "1800"
         },
         "３Ｋ": {
@@ -219,9 +219,9 @@
     },
     {
       "name": "町田木曽",
-      "total": 6,
+      "total": 5,
       "rooms": {
-        "２ＤＫ": 5,
+        "２ＤＫ": 4,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
