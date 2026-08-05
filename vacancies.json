@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:32:55+09:00",
+  "updated_at": "2026-08-05T10:37:46+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -371,10 +371,10 @@
     },
     {
       "name": "大和上北台",
-      "total": 3,
+      "total": 2,
       "rooms": {
         "２ＤＫ": 1,
-        "２ＤＫＳ": 2
+        "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
       "location": "東大和市",
@@ -391,7 +391,7 @@
         },
         "２ＤＫＳ": {
           "area": "51.75",
-          "rent": "57400",
+          "rent": "59600",
           "fee": "1900"
         }
       }
