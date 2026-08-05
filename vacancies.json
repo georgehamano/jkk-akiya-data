@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T14:37:41+09:00",
+  "updated_at": "2026-08-05T14:42:55+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -66,22 +66,6 @@
       }
     },
     {
-      "name": "西台",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/1980150005.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "43.21",
-          "rent": "71100",
-          "fee": "3000"
-        }
-      }
-    },
-    {
       "name": "宇喜田第二",
       "total": 1,
       "rooms": {
@@ -131,6 +115,44 @@
           "area": "35.52",
           "rent": "42000",
           "fee": "2400"
+        }
+      }
+    },
+    {
+      "name": "松枝",
+      "total": 3,
+      "rooms": {
+        "２ＤＫ": 3
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "35.52～39.6",
+          "rent": "31400～36300",
+          "fee": "3200"
+        }
+      }
+    },
+    {
+      "name": "横川町",
+      "total": 6,
+      "rooms": {
+        "２ＤＫ": 4,
+        "３ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "51300",
+          "fee": "3100"
+        },
+        "３ＤＫ": {
+          "area": "56.12",
+          "rent": "58000",
+          "fee": "3100"
         }
       }
     },
