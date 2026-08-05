@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T15:57:38+09:00",
+  "updated_at": "2026-08-05T16:03:02+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -121,6 +121,48 @@
       }
     },
     {
+      "name": "江の島道東",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg",
+      "location": "立川市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "59900",
+          "fee": "2100"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "39500",
+          "fee": "2100"
+        }
+      }
+    },
+    {
+      "name": "富士見町",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
+      "location": "立川市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "44800",
+          "fee": "2200"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "42600",
+          "fee": "2200"
+        }
+      }
+    },
+    {
       "name": "富士見町東",
       "total": 2,
       "rooms": {
@@ -164,9 +206,10 @@
     },
     {
       "name": "昭島田中町",
-      "total": 1,
+      "total": 3,
       "rooms": {
-        "３ＤＫ": 1
+        "２ＤＫ": 1,
+        "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
       "location": "昭島市",
