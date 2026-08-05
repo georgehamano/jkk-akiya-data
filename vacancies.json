@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T13:57:51+09:00",
+  "updated_at": "2026-08-05T14:03:10+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -78,27 +78,6 @@
           "area": "43.21",
           "rent": "71100",
           "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム光が丘第二",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/2080070004.jpg",
-      "location": "練馬区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "60.17",
-          "rent": "104300",
-          "fee": "3400"
-        },
-        "３ＤＫ": {
-          "area": "60.17",
-          "rent": "105300",
-          "fee": "3400"
         }
       }
     },
