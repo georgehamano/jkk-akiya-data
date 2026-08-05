@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T13:22:45+09:00",
+  "updated_at": "2026-08-05T13:27:51+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -115,27 +115,6 @@
           "area": "43.29",
           "rent": "78300",
           "fee": "2700"
-        }
-      }
-    },
-    {
-      "name": "カーメスト興野町",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440001.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.29",
-          "rent": "106600",
-          "fee": "6000"
-        },
-        "１ＬＤＫ": {
-          "area": "52.0",
-          "rent": "106500",
-          "fee": "6000"
         }
       }
     },
