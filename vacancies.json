@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-08-06T13:44:23+09:00",
+  "updated_at": "2026-08-06T13:47:45+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム神田",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/0180060001.jpg",
-      "location": "千代田区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "55.74",
-          "rent": "172000",
-          "fee": "5200"
-        }
-      }
-    },
     {
       "name": "トミンタワー台場一番街",
       "total": 1,
@@ -40,22 +24,6 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム小日向",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0580150/0580150001.jpg",
-      "location": "文京区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "50.01",
-          "rent": "156300",
-          "fee": "7000"
         }
       }
     },
