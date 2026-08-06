@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:22:47+09:00",
+  "updated_at": "2026-08-06T10:28:07+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -24,6 +24,22 @@
           "area": "55.07",
           "rent": "192600",
           "fee": "5500"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム仲池上",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180500/1180500001.jpg",
+      "location": "大田区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "40.5",
+          "rent": "97100",
+          "fee": "5800"
         }
       }
     },
@@ -62,6 +78,38 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "蓮根三丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/1980170003.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "50.44",
+          "rent": "82700",
+          "fee": "3900"
+        }
+      }
+    },
+    {
+      "name": "千住東町",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/2180060000.jpg",
+      "location": "足立区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.29",
+          "rent": "76800～77500",
+          "fee": "2700"
         }
       }
     },
