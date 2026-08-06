@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T11:22:55+09:00",
+  "updated_at": "2026-08-06T11:27:51+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -62,22 +62,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "千住東町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/2180060000.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.29",
-          "rent": "76800",
-          "fee": "2700"
         }
       }
     },
