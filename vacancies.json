@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T15:17:44+09:00",
+  "updated_at": "2026-08-07T15:22:42+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -358,9 +358,9 @@
     },
     {
       "name": "清瀬台田",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
       "location": "清瀬市",
