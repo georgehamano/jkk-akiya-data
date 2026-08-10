@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-08-10T09:59:44+09:00",
+  "updated_at": "2026-08-10T10:03:16+09:00",
   "properties": [
+    {
+      "name": "トミンハイム北青山一丁目",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380110/0380110001.jpg",
+      "location": "港区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "57.12",
+          "rent": "252100",
+          "fee": "7200"
+        },
+        "２ＬＤＫ": {
+          "area": "61.68",
+          "rent": "272400",
+          "fee": "7200"
+        }
+      }
+    },
+    {
+      "name": "トミンハイム宮坂二丁目",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280730/1280730001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "68.06",
+          "rent": "169900",
+          "fee": "7100"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 5,
@@ -40,6 +77,22 @@
       }
     },
     {
+      "name": "新田",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.0",
+          "rent": "76300",
+          "fee": "3900"
+        }
+      }
+    },
+    {
       "name": "松枝",
       "total": 1,
       "rooms": {
@@ -57,9 +110,10 @@
     },
     {
       "name": "横川町",
-      "total": 3,
+      "total": 4,
       "rooms": {
-        "２ＤＫ": 3
+        "２ＤＫ": 3,
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
       "location": "八王子市",
@@ -70,8 +124,8 @@
           "fee": "3100"
         },
         "３ＤＫ": {
-          "area": "56.12",
-          "rent": "58000",
+          "area": "62.42",
+          "rent": "62100",
           "fee": "3100"
         }
       }
@@ -178,9 +232,9 @@
     },
     {
       "name": "町田木曽",
-      "total": 6,
+      "total": 7,
       "rooms": {
-        "２Ｋ": 3,
+        "２Ｋ": 4,
         "２ＤＫ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
