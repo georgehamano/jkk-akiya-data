@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T11:03:00+09:00",
+  "updated_at": "2026-08-10T11:07:45+09:00",
   "properties": [
     {
       "name": "トミンハイム宮坂二丁目",
@@ -122,6 +122,32 @@
           "area": "48.32",
           "rent": "64800～68200",
           "fee": "2100"
+        }
+      }
+    },
+    {
+      "name": "霞台",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+      "location": "青梅市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "38200",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "33300",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "49600",
+          "fee": "1800"
         }
       }
     },
@@ -289,9 +315,42 @@
       }
     },
     {
-      "name": "大和上北台",
+      "name": "大和芝中",
       "total": 2,
       "rooms": {
+        "３Ｋ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "54100",
+          "fee": "2100"
+        },
+        "２Ｋ": {
+          "area": "32.31",
+          "rent": "36200",
+          "fee": "2100"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "39100",
+          "fee": "2100"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "43800",
+          "fee": "2100"
+        }
+      }
+    },
+    {
+      "name": "大和上北台",
+      "total": 4,
+      "rooms": {
+        "２ＤＫ": 1,
+        "３Ｋ": 1,
         "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
@@ -299,7 +358,7 @@
       "room_details": {
         "３Ｋ": {
           "area": "38.48",
-          "rent": "45200",
+          "rent": "43500",
           "fee": "1900"
         },
         "２ＤＫ": {
