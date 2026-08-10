@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T17:12:46+09:00",
+  "updated_at": "2026-08-10T17:17:48+09:00",
   "properties": [
     {
       "name": "コーシャハイム大森東",
@@ -164,9 +164,8 @@
     },
     {
       "name": "本町田",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
