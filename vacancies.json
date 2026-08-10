@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T10:17:46+09:00",
+  "updated_at": "2026-08-10T10:22:54+09:00",
   "properties": [
     {
       "name": "トミンハイム宮坂二丁目",
@@ -290,9 +290,8 @@
     },
     {
       "name": "大和上北台",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 1,
         "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
