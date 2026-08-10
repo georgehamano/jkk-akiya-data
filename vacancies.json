@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-08-10T16:12:58+09:00",
+  "updated_at": "2026-08-10T16:17:58+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム大森東",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/1180210000.jpg",
+      "location": "大田区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "62.97",
+          "rent": "123500",
+          "fee": "3900"
+        },
+        "３ＤＫ": {
+          "area": "62.97",
+          "rent": "125000",
+          "fee": "3900"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム西馬込",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180490/1180490001.jpg",
+      "location": "大田区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "49.5",
+          "rent": "119200",
+          "fee": "4400"
+        },
+        "１ＤＫ": {
+          "area": "34.2",
+          "rent": "96200",
+          "fee": "4400"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 5,
@@ -74,6 +116,27 @@
           "area": "62.42",
           "rent": "62100",
           "fee": "3100"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム南大沢五丁目",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180270/3180270000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "61.97",
+          "rent": "73600",
+          "fee": "4100"
+        },
+        "３ＬＤＫ": {
+          "area": "77.36",
+          "rent": "93800",
+          "fee": "5800"
         }
       }
     },
