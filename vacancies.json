@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T14:32:50+09:00",
+  "updated_at": "2026-08-12T14:37:38+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -56,26 +56,10 @@
       }
     },
     {
-      "name": "松枝",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "35.52",
-          "rent": "31400",
-          "fee": "3200"
-        }
-      }
-    },
-    {
       "name": "横川町",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 3,
+        "２ＤＫ": 2,
         "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
