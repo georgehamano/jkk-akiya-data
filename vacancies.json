@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T16:58:28+09:00",
+  "updated_at": "2026-08-13T17:03:19+09:00",
   "properties": [
     {
       "name": "コーシャハイム緑四丁目",
@@ -78,58 +78,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム杉並和田",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/1580240001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "33.77",
-          "rent": "99900",
-          "fee": "3300"
-        },
-        "１ＬＤＫ": {
-          "area": "45.35",
-          "rent": "118100",
-          "fee": "3300"
-        },
-        "２Ｋ": {
-          "area": "43.53",
-          "rent": "125700",
-          "fee": "3300"
-        },
-        "２ＤＫ": {
-          "area": "49.75",
-          "rent": "142200",
-          "fee": "3300"
-        }
-      }
-    },
-    {
-      "name": "カーメスト新高円寺",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "39.52",
-          "rent": "133400",
-          "fee": "7800"
-        },
-        "１ＤＫ": {
-          "area": "35.61",
-          "rent": "109200",
-          "fee": "7800"
         }
       }
     },
@@ -230,22 +178,6 @@
           "area": "60.93",
           "rent": "94500",
           "fee": "3100"
-        }
-      }
-    },
-    {
-      "name": "コーシャタワー小松川",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/2380200001.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.01",
-          "rent": "128200",
-          "fee": "5700"
         }
       }
     },
