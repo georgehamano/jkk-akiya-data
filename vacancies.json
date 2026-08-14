@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-14T15:02:55+09:00",
+  "updated_at": "2026-08-14T15:07:54+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム八潮西",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980110/0980110000.jpg",
+      "location": "品川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.18",
+          "rent": "96200",
+          "fee": "4000"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 7,
@@ -74,6 +90,27 @@
           "area": "62.42",
           "rent": "62100",
           "fee": "3100"
+        }
+      }
+    },
+    {
+      "name": "トミンハイム鑓水",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180450/3180450000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "67.85",
+          "rent": "85900",
+          "fee": "6800"
+        },
+        "３ＬＤＫ": {
+          "area": "76.75",
+          "rent": "98000",
+          "fee": "6800"
         }
       }
     },
@@ -167,7 +204,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "36100",
+          "rent": "35400",
           "fee": "1700"
         },
         "２ＤＫＳ": {
@@ -301,6 +338,58 @@
           "area": "51.75",
           "rent": "57400",
           "fee": "1900"
+        }
+      }
+    },
+    {
+      "name": "久留米西",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "31400",
+          "fee": "2000"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "47700",
+          "fee": "2000"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "33800",
+          "fee": "2000"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "45600",
+          "fee": "2000"
+        }
+      }
+    },
+    {
+      "name": "久留米下里",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.01",
+          "rent": "46000",
+          "fee": "1400"
+        },
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "47100",
+          "fee": "1400"
         }
       }
     },
