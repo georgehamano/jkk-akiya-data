@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-08-14T15:18:02+09:00",
+  "updated_at": "2026-08-14T15:22:47+09:00",
   "properties": [
-    {
-      "name": "南砂",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.06",
-          "rent": "80600",
-          "fee": "2650"
-        },
-        "１ＬＤＫ": {
-          "area": "42.06",
-          "rent": "93700",
-          "fee": "2650"
-        }
-      }
-    },
     {
       "name": "コーシャハイム八潮西",
       "total": 1,
@@ -73,22 +52,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "千住東町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/2180060000.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.29",
-          "rent": "76800",
-          "fee": "2700"
         }
       }
     },
