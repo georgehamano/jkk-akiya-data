@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-08-17T13:52:40+09:00",
+  "updated_at": "2026-08-17T13:57:53+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム千石",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0580160/0580160000.jpg",
+      "location": "文京区",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "34.8",
+          "rent": "118800",
+          "fee": "5200"
+        },
+        "２ＤＫ": {
+          "area": "44.64",
+          "rent": "141200",
+          "fee": "5200"
+        },
+        "１ＬＤＫ": {
+          "area": "44.98",
+          "rent": "147500",
+          "fee": "5200"
+        },
+        "２ＬＤＫ": {
+          "area": "50.88",
+          "rent": "161500",
+          "fee": "5200"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 6,
@@ -36,6 +67,22 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
+        }
+      }
+    },
+    {
+      "name": "新田",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.0",
+          "rent": "76300",
+          "fee": "3900"
         }
       }
     },
@@ -98,10 +145,37 @@
       }
     },
     {
-      "name": "昭島田中町",
-      "total": 3,
+      "name": "霞台",
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 2,
+        "２ＤＫ": 1,
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+      "location": "青梅市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "40400",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "35800",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "49600",
+          "fee": "1800"
+        }
+      }
+    },
+    {
+      "name": "昭島田中町",
+      "total": 4,
+      "rooms": {
+        "２ＤＫ": 3,
         "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
@@ -142,9 +216,10 @@
     },
     {
       "name": "大和芝中",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "３Ｋ": 1
+        "３Ｋ": 1,
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
       "location": "東大和市",
@@ -161,7 +236,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "39100",
+          "rent": "37600",
           "fee": "2100"
         },
         "３Ｋ": {
