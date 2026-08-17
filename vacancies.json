@@ -1,48 +1,6 @@
 {
-  "updated_at": "2026-08-17T15:58:08+09:00",
+  "updated_at": "2026-08-17T16:03:09+09:00",
   "properties": [
-    {
-      "name": "トミンタワー飯田橋三丁目",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/0180050001.jpg",
-      "location": "千代田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "75.87",
-          "rent": "272800",
-          "fee": "5200"
-        },
-        "１ＬＤＫ": {
-          "area": "59.87",
-          "rent": "235500",
-          "fee": "5200"
-        }
-      }
-    },
-    {
-      "name": "南砂",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.06",
-          "rent": "80600",
-          "fee": "2650"
-        },
-        "１ＬＤＫ": {
-          "area": "42.06",
-          "rent": "93700",
-          "fee": "2650"
-        }
-      }
-    },
     {
       "name": "コーシャハイム大森東",
       "total": 1,
@@ -115,37 +73,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム杉並和田",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/1580240001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "33.77",
-          "rent": "99900",
-          "fee": "3300"
-        },
-        "１ＬＤＫ": {
-          "area": "45.35",
-          "rent": "118100",
-          "fee": "3300"
-        },
-        "２Ｋ": {
-          "area": "43.53",
-          "rent": "125700",
-          "fee": "3300"
-        },
-        "２ＤＫ": {
-          "area": "49.75",
-          "rent": "142200",
-          "fee": "3300"
         }
       }
     },
@@ -420,16 +347,16 @@
     },
     {
       "name": "熊川",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 2
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880010/4880010000.jpg",
       "location": "福生市",
       "room_details": {
         "２Ｋ": {
-          "area": "32.85",
-          "rent": "27500",
+          "area": "27.44",
+          "rent": "23000",
           "fee": "2200"
         },
         "３Ｋ": {
