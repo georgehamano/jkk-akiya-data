@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T15:07:40+09:00",
+  "updated_at": "2026-08-18T15:12:46+09:00",
   "properties": [
     {
       "name": "コーシャハイム大森東",
@@ -83,27 +83,6 @@
           "area": "45.03",
           "rent": "122700",
           "fee": "5000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム清新",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "64.22",
-          "rent": "111400",
-          "fee": "4300"
-        },
-        "２ＬＤＫ": {
-          "area": "63.04",
-          "rent": "135800",
-          "fee": "4300"
         }
       }
     },
@@ -363,9 +342,9 @@
     },
     {
       "name": "落合",
-      "total": 5,
+      "total": 4,
       "rooms": {
-        "３ＤＫ": 5
+        "３ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
