@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T14:48:05+09:00",
+  "updated_at": "2026-08-18T14:52:53+09:00",
   "properties": [
     {
       "name": "越中島",
@@ -19,9 +19,9 @@
     },
     {
       "name": "コーシャハイム大森東",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３ＤＫ": 2
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/1180210000.jpg",
       "location": "大田区",
@@ -33,39 +33,8 @@
         },
         "３ＤＫ": {
           "area": "62.97",
-          "rent": "118900～120000",
+          "rent": "120000",
           "fee": "3900"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム経堂フォレスト",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280930/1280930001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "39.87",
-          "rent": "121000",
-          "fee": "6200"
-        },
-        "１ＬＤＫ": {
-          "area": "39.79",
-          "rent": "133400",
-          "fee": "6200"
-        },
-        "１Ｒ": {
-          "area": "35.29",
-          "rent": "116200",
-          "fee": "6200"
-        },
-        "２ＬＤＫ": {
-          "area": "53.27",
-          "rent": "167700",
-          "fee": "6200"
         }
       }
     },
@@ -104,27 +73,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム中野弥生町",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480320/1480320000.jpg",
-      "location": "中野区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "52.81",
-          "rent": "154200",
-          "fee": "5400"
-        },
-        "２Ｋ": {
-          "area": "40.79",
-          "rent": "121300",
-          "fee": "5400"
         }
       }
     },
