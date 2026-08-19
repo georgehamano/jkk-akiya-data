@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T16:07:51+09:00",
+  "updated_at": "2026-08-19T16:12:41+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -36,32 +36,6 @@
           "area": "45.26",
           "rent": "213700",
           "fee": "10000"
-        }
-      }
-    },
-    {
-      "name": "カーメスト新高円寺",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "39.52",
-          "rent": "133400",
-          "fee": "7800"
-        },
-        "１ＤＫ": {
-          "area": "35.61",
-          "rent": "109200",
-          "fee": "7800"
-        },
-        "２ＬＤＫ": {
-          "area": "49.99",
-          "rent": "154400",
-          "fee": "7800"
         }
       }
     },
@@ -289,9 +263,8 @@
     },
     {
       "name": "大和上北台",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 1,
         "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
