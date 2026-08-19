@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T11:32:57+09:00",
+  "updated_at": "2026-08-19T11:37:42+09:00",
   "properties": [
     {
       "name": "カーメスト大蔵の杜",
@@ -93,22 +93,6 @@
           "area": "52.0",
           "rent": "106500",
           "fee": "6000"
-        }
-      }
-    },
-    {
-      "name": "宇喜田第一",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/2380010000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.25",
-          "rent": "62800",
-          "fee": "3000"
         }
       }
     },
