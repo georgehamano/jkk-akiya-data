@@ -1,12 +1,13 @@
 {
-  "updated_at": "2026-08-21T11:12:52+09:00",
+  "updated_at": "2026-08-21T11:17:51+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
-      "total": 5,
+      "total": 7,
       "rooms": {
         "１ＬＤＫ": 2,
-        "３ＬＤＫ": 3
+        "２ＬＤＫ": 1,
+        "３ＬＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095001.jpg",
       "location": "世田谷区",
@@ -39,38 +40,10 @@
       }
     },
     {
-      "name": "コーシャハイム上鷺宮",
+      "name": "コーシャハイム新中野テラス",
       "total": 1,
       "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480330/1480330000.jpg",
-      "location": "中野区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "60.97",
-          "rent": "139400",
-          "fee": "6000"
-        },
-        "２ＤＫ": {
-          "area": "50.84",
-          "rent": "141600",
-          "fee": "6000"
-        },
-        "１ＬＤＫ": {
-          "area": "44.65",
-          "rent": "106200",
-          "fee": "6000"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム新中野テラス",
-      "total": 3,
-      "rooms": {
-        "１ＬＤＫ": 1,
-        "２Ｋ": 1,
-        "２ＤＫ": 1
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260001.jpg",
       "location": "杉並区",
