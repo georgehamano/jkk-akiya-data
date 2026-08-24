@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T14:52:51+09:00",
+  "updated_at": "2026-08-24T14:57:42+09:00",
   "properties": [
     {
       "name": "コーシャハイム芦花公園",
@@ -24,27 +24,6 @@
           "area": "50.35",
           "rent": "128500",
           "fee": "4300"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム久我山",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/1280850000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "57.19",
-          "rent": "149800",
-          "fee": "7600"
-        },
-        "２Ｋ": {
-          "area": "40.63",
-          "rent": "112700",
-          "fee": "7600"
         }
       }
     },
