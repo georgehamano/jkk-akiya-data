@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T14:22:44+09:00",
+  "updated_at": "2026-08-25T14:27:41+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -41,16 +41,16 @@
     },
     {
       "name": "堀江",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/2380050000.jpg",
       "location": "江戸川区",
       "room_details": {
         "２ＤＫ": {
           "area": "43.0",
-          "rent": "68100～70100",
+          "rent": "68100",
           "fee": "4200"
         }
       }
