@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T15:22:43+09:00",
+  "updated_at": "2026-08-25T15:27:46+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -180,16 +180,16 @@
     },
     {
       "name": "富士見町東",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/3280070000.jpg",
       "location": "立川市",
       "room_details": {
         "２ＤＫ": {
           "area": "48.32",
-          "rent": "64800～68200",
+          "rent": "68200",
           "fee": "2100"
         }
       }
