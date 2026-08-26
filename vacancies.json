@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T01:22:45+09:00",
+  "updated_at": "2026-08-27T01:27:55+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -248,10 +248,9 @@
     },
     {
       "name": "平山",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 1,
-        "３Ｋ": 1
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg",
       "location": "日野市",
