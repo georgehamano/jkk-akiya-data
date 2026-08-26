@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T17:57:38+09:00",
+  "updated_at": "2026-08-26T18:02:57+09:00",
   "properties": [
     {
       "name": "コーシャハイム大森東",
@@ -62,9 +62,9 @@
     },
     {
       "name": "新田第二",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
       "location": "江戸川区",
