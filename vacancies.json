@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T17:22:48+09:00",
+  "updated_at": "2026-08-26T17:27:42+09:00",
   "properties": [
     {
       "name": "コーシャハイム大森東",
@@ -62,16 +62,16 @@
     },
     {
       "name": "新田第二",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 4
+        "２ＤＫ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
       "location": "江戸川区",
       "room_details": {
         "２ＤＫ": {
           "area": "45.96",
-          "rent": "81600～83200",
+          "rent": "82900～83200",
           "fee": "3500"
         }
       }
