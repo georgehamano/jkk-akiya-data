@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T17:27:42+09:00",
+  "updated_at": "2026-08-26T17:31:48+09:00",
   "properties": [
     {
       "name": "コーシャハイム大森東",
@@ -62,16 +62,16 @@
     },
     {
       "name": "新田第二",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 3
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
       "location": "江戸川区",
       "room_details": {
         "２ＤＫ": {
           "area": "45.96",
-          "rent": "82900～83200",
+          "rent": "83200",
           "fee": "3500"
         }
       }
@@ -94,22 +94,6 @@
           "area": "35.52",
           "rent": "42000",
           "fee": "2400"
-        }
-      }
-    },
-    {
-      "name": "松枝",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "35.52",
-          "rent": "31400",
-          "fee": "3200"
         }
       }
     },
