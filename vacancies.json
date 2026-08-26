@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T20:22:43+09:00",
+  "updated_at": "2026-08-26T20:27:01+09:00",
   "properties": [
     {
       "name": "コーシャハイム大森東",
@@ -248,9 +248,9 @@
     },
     {
       "name": "町田木曽",
-      "total": 5,
+      "total": 4,
       "rooms": {
-        "３Ｋ": 3,
+        "３Ｋ": 2,
         "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
