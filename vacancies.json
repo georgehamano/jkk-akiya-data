@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-08-28T09:37:41+09:00",
+  "updated_at": "2026-08-28T09:43:27+09:00",
   "properties": [
+    {
+      "name": "トミンハイム北青山一丁目",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380110/0380110001.jpg",
+      "location": "港区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "57.12",
+          "rent": "252100",
+          "fee": "7200"
+        },
+        "２ＬＤＫ": {
+          "area": "61.68",
+          "rent": "274100",
+          "fee": "7200"
+        }
+      }
+    },
+    {
+      "name": "コーシャハイム大井町",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980220/0980220001.jpg",
+      "location": "品川区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "43.7",
+          "rent": "124400",
+          "fee": "4000"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 6,
@@ -199,6 +236,27 @@
           "area": "32.85",
           "rent": "35000",
           "fee": "1700"
+        }
+      }
+    },
+    {
+      "name": "小金井本町",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "73200",
+          "fee": "1900"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "49500",
+          "fee": "1900"
         }
       }
     },
