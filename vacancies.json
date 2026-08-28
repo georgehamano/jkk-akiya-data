@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-08-28T09:52:44+09:00",
+  "updated_at": "2026-08-28T09:57:36+09:00",
   "properties": [
-    {
-      "name": "トミンハイム北青山一丁目",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380110/0380110001.jpg",
-      "location": "港区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "57.12",
-          "rent": "252100",
-          "fee": "7200"
-        },
-        "２ＬＤＫ": {
-          "area": "61.68",
-          "rent": "274100",
-          "fee": "7200"
-        }
-      }
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 6,
