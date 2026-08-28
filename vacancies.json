@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T09:43:27+09:00",
+  "updated_at": "2026-08-28T09:47:45+09:00",
   "properties": [
     {
       "name": "トミンハイム北青山一丁目",
@@ -19,22 +19,6 @@
           "area": "61.68",
           "rent": "274100",
           "fee": "7200"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム大井町",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980220/0980220001.jpg",
-      "location": "品川区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "43.7",
-          "rent": "124400",
-          "fee": "4000"
         }
       }
     },
