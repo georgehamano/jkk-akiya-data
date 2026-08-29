@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T16:37:59+09:00",
+  "updated_at": "2026-08-29T16:43:02+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -55,31 +55,26 @@
       }
     },
     {
-      "name": "コーシャハイム清新",
+      "name": "新田第二",
       "total": 1,
       "rooms": {
-        "３ＤＫ": 1
+        "２ＤＫ": 1
       },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
       "location": "江戸川区",
       "room_details": {
-        "３ＤＫ": {
-          "area": "63.04",
-          "rent": "110400",
-          "fee": "4300"
-        },
-        "２ＬＤＫ": {
-          "area": "63.04",
-          "rent": "135800",
-          "fee": "4300"
+        "２ＤＫ": {
+          "area": "45.96",
+          "rent": "82900",
+          "fee": "3500"
         }
       }
     },
     {
       "name": "横川町",
-      "total": 3,
+      "total": 4,
       "rooms": {
-        "２ＤＫ": 1,
+        "２ＤＫ": 2,
         "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
@@ -188,9 +183,10 @@
     },
     {
       "name": "町田木曽",
-      "total": 3,
+      "total": 4,
       "rooms": {
         "３Ｋ": 2,
+        "２Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
@@ -335,6 +331,27 @@
       }
     },
     {
+      "name": "清瀬台田",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
+      "location": "清瀬市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "29900",
+          "fee": "1700"
+        },
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "33000",
+          "fee": "1700"
+        }
+      }
+    },
+    {
       "name": "久留米西",
       "total": 2,
       "rooms": {
@@ -421,6 +438,32 @@
           "area": "72.51",
           "rent": "95400",
           "fee": "4600"
+        }
+      }
+    },
+    {
+      "name": "平尾",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
+      "location": "稲城市",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "34.56",
+          "rent": "49800",
+          "fee": "1900"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "51200",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "43800",
+          "fee": "1900"
         }
       }
     }
