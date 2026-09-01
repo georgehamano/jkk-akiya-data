@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-01T12:27:38+09:00",
+  "updated_at": "2026-09-01T12:33:12+09:00",
   "properties": [
+    {
+      "name": "辰巳しののめ",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880190/0880190001.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "46.39",
+          "rent": "87400",
+          "fee": "3800"
+        }
+      }
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 6,
@@ -38,6 +54,70 @@
       }
     },
     {
+      "name": "宇喜田第一",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/2380010000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.25",
+          "rent": "62200",
+          "fee": "3000"
+        }
+      }
+    },
+    {
+      "name": "春江町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.25",
+          "rent": "61900",
+          "fee": "2900"
+        }
+      }
+    },
+    {
+      "name": "宇喜田第二",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "42.83",
+          "rent": "76200",
+          "fee": "3100"
+        }
+      }
+    },
+    {
+      "name": "堀江",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/2380050000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.47",
+          "rent": "70800",
+          "fee": "4200"
+        }
+      }
+    },
+    {
       "name": "横川町",
       "total": 3,
       "rooms": {
@@ -60,10 +140,27 @@
       }
     },
     {
-      "name": "富士見町",
+      "name": "コーシャハイム南大沢",
       "total": 1,
       "rooms": {
-        "２Ｋ": 1
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180200/3180200000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.52",
+          "rent": "66900",
+          "fee": "3000"
+        }
+      }
+    },
+    {
+      "name": "富士見町",
+      "total": 5,
+      "rooms": {
+        "２Ｋ": 4,
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
       "location": "立川市",
@@ -75,7 +172,7 @@
         },
         "２Ｋ": {
           "area": "32.85",
-          "rent": "42600",
+          "rent": "41200～43700",
           "fee": "2200"
         }
       }
