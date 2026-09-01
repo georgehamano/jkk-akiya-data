@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-01T10:47:38+09:00",
+  "updated_at": "2026-09-01T10:52:50+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＬＤＫ": 2
+        "２ＬＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/0980190000.jpg",
       "location": "品川区",
       "room_details": {
         "２ＬＤＫ": {
           "area": "66.18",
-          "rent": "246200～265300",
+          "rent": "265300",
           "fee": "5400"
         }
       }
