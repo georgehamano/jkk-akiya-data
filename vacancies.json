@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T12:33:12+09:00",
+  "updated_at": "2026-09-01T12:37:44+09:00",
   "properties": [
     {
       "name": "辰巳しののめ",
@@ -70,22 +70,6 @@
       }
     },
     {
-      "name": "春江町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.25",
-          "rent": "61900",
-          "fee": "2900"
-        }
-      }
-    },
-    {
       "name": "宇喜田第二",
       "total": 1,
       "rooms": {
@@ -136,22 +120,6 @@
           "area": "56.12",
           "rent": "58000",
           "fee": "3100"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム南大沢",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180200/3180200000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.52",
-          "rent": "66900",
-          "fee": "3000"
         }
       }
     },
