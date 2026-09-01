@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T12:42:42+09:00",
+  "updated_at": "2026-09-01T12:48:07+09:00",
   "properties": [
     {
       "name": "辰巳しののめ",
@@ -66,22 +66,6 @@
           "area": "41.25",
           "rent": "62200",
           "fee": "3000"
-        }
-      }
-    },
-    {
-      "name": "宇喜田第二",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.83",
-          "rent": "76200",
-          "fee": "3100"
         }
       }
     },
