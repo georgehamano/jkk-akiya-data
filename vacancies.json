@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T12:07:50+09:00",
+  "updated_at": "2026-09-03T12:12:46+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -14,27 +14,6 @@
           "area": "66.18",
           "rent": "268700",
           "fee": "5400"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム大森東",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/1180210000.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "62.97",
-          "rent": "123500",
-          "fee": "3900"
-        },
-        "３ＤＫ": {
-          "area": "62.97",
-          "rent": "120000",
-          "fee": "3900"
         }
       }
     },
