@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:28:00+09:00",
+  "updated_at": "2026-09-03T11:32:58+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -162,22 +162,6 @@
           "area": "56.12",
           "rent": "58000",
           "fee": "3100"
-        }
-      }
-    },
-    {
-      "name": "コーシャハイム南大沢",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180200/3180200000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.52",
-          "rent": "66900",
-          "fee": "3000"
         }
       }
     },
