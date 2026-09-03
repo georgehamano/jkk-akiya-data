@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:57:41+09:00",
+  "updated_at": "2026-09-03T12:03:10+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -438,32 +438,6 @@
           "area": "72.51",
           "rent": "95400",
           "fee": "4600"
-        }
-      }
-    },
-    {
-      "name": "平尾",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
-      "location": "稲城市",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.56",
-          "rent": "49800",
-          "fee": "1900"
-        },
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "49500",
-          "fee": "1900"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "43400",
-          "fee": "1900"
         }
       }
     }
