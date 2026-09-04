@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:27:32+09:00",
+  "updated_at": "2026-09-05T06:32:47+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -110,36 +110,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/A1161-V-2DK.gif"
-      ]
-    },
-    {
-      "name": "春江町椿",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/2380070000[1].jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.35",
-          "rent": "68600",
-          "fee": "3200"
-        }
-      },
-      "transport": "都営地下鉄新宿線瑞江駅徒歩19分 都営地下鉄新宿線一之江駅バス10分春江中学校徒歩5分 都営地下鉄新宿線瑞江駅バス11分春江中学校徒歩5分 ＪＲ総武線小岩駅バス24分春江中学校徒歩5分",
-      "built": "1976/10/31",
-      "floors": "地上１０階建",
-      "total_units": "227",
-      "term": "10年間",
-      "notes": "※給湯は２ヶ所です。※保育園があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/2380070000[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000a[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000e[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000c[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000d[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/L1171-V-2DK.gif"
       ]
     },
     {
