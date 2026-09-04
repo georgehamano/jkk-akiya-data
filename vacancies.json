@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T07:12:47+09:00",
+  "updated_at": "2026-09-05T07:17:41+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -563,36 +563,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/A1112-NS-3DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム愛宕四丁目",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/5480170003.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "３ＬＤＫ": {
-          "area": "72.51",
-          "rent": "95400",
-          "fee": "4600"
-        }
-      },
-      "transport": "多摩都市モノレール多摩都市モノレール松が谷駅徒歩12～13分 京王相模原線京王多摩センター駅徒歩16分 小田急多摩線小田急多摩センター駅徒歩16分 多摩都市モノレール多摩都市モノレール多摩センター駅徒歩16分 京王相模原線京王多摩センター駅バス14分愛宕四丁目徒歩2～4分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
-      "built": "1993/08/03",
-      "floors": "地上５階建",
-      "total_units": "24",
-      "term": "定期借家契約ではありません",
-      "notes": "※当住宅は愛宕第二住宅のフロントスタッフが管理しております。 ※テレビ受信については別途ケーブル会社との契約が必要です。（有料） 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/5480170003.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/548017000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/548017000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/548017000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/548017000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/A1742-HL2-3LDK.gif"
       ]
     }
   ]
