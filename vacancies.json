@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T09:34:15+09:00",
+  "updated_at": "2026-09-04T09:37:36+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -124,9 +124,9 @@
     },
     {
       "name": "高ケ坂",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 2
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
       "location": "町田市",
@@ -164,10 +164,9 @@
     },
     {
       "name": "本町田",
-      "total": 5,
+      "total": 4,
       "rooms": {
-        "２Ｋ": 4,
-        "２ＤＫ": 1
+        "２Ｋ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
       "location": "町田市",
