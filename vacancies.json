@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T15:47:43+09:00",
+  "updated_at": "2026-09-04T15:52:46+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -426,10 +426,9 @@
     },
     {
       "name": "久留米西",
-      "total": 6,
+      "total": 5,
       "rooms": {
         "２ＤＫ": 3,
-        "３Ｋ": 1,
         "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
