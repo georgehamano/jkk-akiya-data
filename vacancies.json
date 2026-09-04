@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T01:52:45+09:00",
+  "updated_at": "2026-09-05T01:57:41+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -386,56 +386,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/Z0841-LZ2-2DKS.gif"
-      ]
-    },
-    {
-      "name": "町田木曽",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
-      "location": "町田市",
-      "room_details": {
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "41800",
-          "fee": "1700"
-        },
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "33500",
-          "fee": "1700"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "36600",
-          "fee": "1700"
-        },
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "52000",
-          "fee": "1700"
-        },
-        "１ＤＫ": {
-          "area": "32.85",
-          "rent": "35000",
-          "fee": "1700"
-        }
-      },
-      "transport": "ＪＲ横浜線町田駅バス15分山崎団地センター徒歩1～13分 小田急小田原線町田駅バス15分山崎団地センター徒歩1～13分",
-      "built": "1970/04/02",
-      "floors": "地上５階建",
-      "total_units": "4330",
-      "term": "5年間",
-      "notes": "※航空機による騒音が予想されます。（不定期） ※敷地内に保育園、幼稚園、医療施設、防犯拠点、店舗等があります。 ※給湯はリフレッシュ住戸、一部住戸のみ３ヶ所です。（他は２ヶ所です） ※一部住戸はシャワールームタイプです。　※コインパーキングがあります。 ※カーシェアリングを設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/A0852-B-2DK.gif"
       ]
     },
     {
