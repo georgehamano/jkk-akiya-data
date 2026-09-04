@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-09-04T10:42:49+09:00",
+  "updated_at": "2026-09-04T10:48:05+09:00",
   "properties": [
-    {
-      "name": "南砂",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.06",
-          "rent": "73200",
-          "fee": "2650"
-        },
-        "１ＬＤＫ": {
-          "area": "42.06",
-          "rent": "93700",
-          "fee": "2650"
-        }
-      },
-      "transport": "東京メトロ東西線東陽町駅徒歩4～10分",
-      "built": "1975/03/10 他",
-      "floors": "地上１４階建",
-      "total_units": "2778",
-      "term": "10年間",
-      "notes": "※給湯は浴室のみです。(リニューアル住戸のみ給湯は3ヶ所です。) ※キッチンには小型湯沸器を設置可能ですが、設置する場合はお客様の負担となります。 ※敷地内に保育園、幼稚園、児童館、高齢者在宅サービスセンター、医療施設、金融機関、店舗等があります。 ※コインパーキングがあります。※持ち込みができる家具等の大きさに制限があります。※敷地内が江東区の広 域避難場所に指定されています。※CATVがご利用いただけません。※共用部に防犯カメラが設置されております",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/0880080000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/088008000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/088008000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/088008000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/088008000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880080/A1071-V3-2DK.gif"
-      ]
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 8,
