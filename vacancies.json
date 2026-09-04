@@ -1,35 +1,6 @@
 {
-  "updated_at": "2026-09-04T17:03:30+09:00",
+  "updated_at": "2026-09-04T17:07:42+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム東新宿",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480200/0480200001.jpg",
-      "location": "新宿区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.2",
-          "rent": "129700",
-          "fee": "6200"
-        }
-      },
-      "transport": "都営地下鉄大江戸線東新宿駅徒歩7分 東京メトロ副都心線東新宿駅徒歩7分 都営地下鉄大江戸線若松河田駅徒歩7分",
-      "built": "2008/01/07",
-      "floors": "地上２～５階建",
-      "total_units": "71",
-      "term": "25年間",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480200/0480200001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480200/048020000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480200/048020000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480200/048020000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480200/048020000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480200/L8271-A1-1DK.gif"
-      ]
-    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
@@ -229,36 +200,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/208006000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/208006000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/A1482-H-3DK.gif"
-      ]
-    },
-    {
-      "name": "千住東町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/2180060000.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.29",
-          "rent": "76800",
-          "fee": "2700"
-        }
-      },
-      "transport": "東武伊勢崎線牛田駅徒歩4～5分 京成京成線京成関屋駅徒歩4～5分 東京メトロ日比谷線北千住駅徒歩9～10分 東京メトロ千代田線北千住駅徒歩9～10分 ＪＲ常磐線北千住駅徒歩9～10分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
-      "built": "1973/08/30",
-      "floors": "地上１２階建",
-      "total_units": "354",
-      "term": "10年間",
-      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に交番があります。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/2180060000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/218006000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/218006000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/218006000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/218006000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180060/L1051-V-2DK.gif"
       ]
     },
     {
