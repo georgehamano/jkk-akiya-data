@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T19:57:42+09:00",
+  "updated_at": "2026-09-04T20:02:57+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -206,46 +206,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/A1311-KN-2DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム下柚木三丁目",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/3180370001.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＬＤＫ": {
-          "area": "71.7",
-          "rent": "89200",
-          "fee": "5400"
-        },
-        "４ＬＤＫＤＫ": {
-          "area": "100.84",
-          "rent": "120300",
-          "fee": "5400"
-        },
-        "２ＬＤＫ": {
-          "area": "64.26",
-          "rent": "82500",
-          "fee": "5400"
-        }
-      },
-      "transport": "京王相模原線南大沢駅徒歩13分",
-      "built": "1995/02/21",
-      "floors": "地上９階建",
-      "total_units": "270",
-      "term": "定期借家契約ではありません",
-      "notes": "※横田基地を使用する航空機による騒音が予想されます。 ※テレビ受信についてはケーブルテレビとの契約が必要です。（有料） ※１～３号棟のみモニター付きインターホンを設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/3180370001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/318037000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/318037000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/318037000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/318037000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180370/A1792-HL1-3LDK-1.gif"
       ]
     },
     {
