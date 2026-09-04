@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T17:07:42+09:00",
+  "updated_at": "2026-09-04T17:12:44+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -63,56 +63,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/A1461-H-3DK.gif"
-      ]
-    },
-    {
-      "name": "カーメスト大蔵の杜",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "40.09",
-          "rent": "129600",
-          "fee": "5300"
-        },
-        "１ＤＫ": {
-          "area": "35.05",
-          "rent": "102800",
-          "fee": "5300"
-        },
-        "２Ｋ": {
-          "area": "38.34",
-          "rent": "126600",
-          "fee": "5300"
-        },
-        "２ＬＤＫ": {
-          "area": "67.13",
-          "rent": "186000",
-          "fee": "5300"
-        },
-        "１ＬＤＫＳ": {
-          "area": "51.91",
-          "rent": "158100",
-          "fee": "5300"
-        }
-      },
-      "transport": "小田急小田原線祖師ヶ谷大蔵駅徒歩18～20分 小田急小田原線成城学園前駅徒歩19～25分 小田急小田原線成城学園前駅バス10分東宝前徒歩2～7分",
-      "built": "2022/07/01",
-      "floors": "地上９階建て",
-      "total_units": "381",
-      "term": "25年間",
-      "notes": "土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。 ８・９号棟は建物内（各住戸内も含む）及び敷地内を全面禁煙としています。 ソニーネットワークコミュニケーションズコネクト（株）が提供するインターネ ット設備（Wi-Fi機能付）が導入されてます。マルチサロン和み（６号棟のみ）、 ラウンジ（９号棟のみ）、エレベータ内に防犯カメラを設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/L8772-A2a-1DK.gif"
       ]
     },
     {
