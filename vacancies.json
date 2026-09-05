@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T17:47:41+09:00",
+  "updated_at": "2026-09-05T17:52:40+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -109,36 +109,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/A1231-H-3DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム光が丘第三",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/2080080005.jpg",
-      "location": "練馬区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "59.69",
-          "rent": "108500",
-          "fee": "4400"
-        }
-      },
-      "transport": "都営地下鉄大江戸線光が丘駅徒歩7分 西武池袋線練馬高野台駅バス20分光が丘三丁目徒歩4分 東京メトロ有楽町線地下鉄成増駅バス21分光が丘三丁目徒歩4分 東京メトロ副都心線地下鉄成増駅バス21分光が丘三丁目徒歩4分 東武東上線成増駅バス21分光が丘三丁目徒歩4分",
-      "built": "1986/03/15",
-      "floors": "地上１４階建",
-      "total_units": "157",
-      "term": "定期借家契約ではありません",
-      "notes": "※熱給湯システム（東京熱供給株式会社）採用につき、別途使用料が必要です。 ※1階部分に幼稚園があります。 ※当住宅の管理員はコーシャハイム光が丘第四の管理も行っております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/2080080005.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/A1532-HW-3DK.gif"
       ]
     },
     {
