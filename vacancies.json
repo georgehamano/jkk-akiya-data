@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T17:17:41+09:00",
+  "updated_at": "2026-09-05T17:22:41+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -28,46 +28,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/C5361-LR1-2LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム千歳烏山",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "45.03",
-          "rent": "143100",
-          "fee": "5300"
-        },
-        "１ＬＤＫ": {
-          "area": "40.46",
-          "rent": "122100",
-          "fee": "5300"
-        },
-        "２ＬＤＫ": {
-          "area": "52.13",
-          "rent": "164000",
-          "fee": "5300"
-        }
-      },
-      "transport": "京王京王線千歳烏山駅徒歩2～5分 京王京王線千歳烏山駅徒歩5分コーシャハイム千歳烏山（１１号棟）",
-      "built": "2010/02/16",
-      "floors": "地上５階建",
-      "total_units": "513",
-      "term": "25年間",
-      "notes": "※１～８・１１号棟は一般賃貸住宅です。（11号棟は一部）※９～１１号棟はサービス付き高齢者向け住宅 です。（11号棟は一部）※５～８号棟には温水洗浄便座・モニター付インターホンが設置されています。 ※９号棟に介護事業所、地域交流スペース（レストラン）、１２号棟に多世代交流施設（カフェ）、 保育所があります。※電気自動車用充電設備付駐車場があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840005.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840007.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840011.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/L8333-AL1-1LDK.gif"
       ]
     },
     {
