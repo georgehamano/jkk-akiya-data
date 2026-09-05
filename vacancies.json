@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T10:47:38+09:00",
+  "updated_at": "2026-09-05T10:52:53+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -80,36 +80,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "堀江",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/2380050000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.0",
-          "rent": "68100",
-          "fee": "4200"
-        }
-      },
-      "transport": "ＪＲ京葉線葛西臨海公園駅バス5分堀江団地徒歩1～3分 東京メトロ東西線葛西駅バス8分堀江団地徒歩1～3分 東京メトロ東西線西葛西駅バス10分堀江団地入口徒歩1～3分 東京メトロ東西線西葛西駅バス11分堀江団地徒歩1～3分",
-      "built": "1975/10/31",
-      "floors": "地上８階建",
-      "total_units": "865",
-      "term": "10年間",
-      "notes": "※給湯はリニューアル住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、子育てひろば、交番があります。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/2380050000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/A1161-V-2DK.gif"
       ]
     },
     {
