@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T03:37:37+09:00",
+  "updated_at": "2026-09-06T03:42:45+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -79,36 +79,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "蓮根三丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/1980170003.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "50.44",
-          "rent": "84300",
-          "fee": "3900"
-        }
-      },
-      "transport": "都営地下鉄三田線西台駅徒歩8分",
-      "built": "1978/08/05",
-      "floors": "地上１１階建",
-      "total_units": "99",
-      "term": "定期借家契約ではありません",
-      "notes": "※周辺には工場等があり、騒音・臭気等の影響が予想されます。 ※給湯は２ヶ所です。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/1980170003.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/A1231-H-3DK.gif"
       ]
     },
     {
