@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T10:57:41+09:00",
+  "updated_at": "2026-09-06T11:02:56+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -280,51 +280,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/L0771-C-2K.gif"
-      ]
-    },
-    {
-      "name": "境川",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "39300",
-          "fee": "1800"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "47000",
-          "fee": "1800"
-        },
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "60700",
-          "fee": "1800"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "40800",
-          "fee": "1800"
-        }
-      },
-      "transport": "ＪＲ横浜線古淵駅徒歩8～15分 ＪＲ横浜線町田駅バス11分境川団地中央徒歩1～8分 小田急小田原線町田駅バス11分境川団地中央徒歩1～8分 ＪＲ横浜線淵野辺駅バス19分境川団地中央徒歩1～8分",
-      "built": "1968/06/22",
-      "floors": "地上５階建",
-      "total_units": "2239",
-      "term": "5年間",
-      "notes": "※航空機による騒音が予想されます(不定期)。※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、幼稚園、店舗等があります。　※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/Z0841-LZ2-2DKS.gif"
       ]
     },
     {
