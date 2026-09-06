@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T20:12:40+09:00",
+  "updated_at": "2026-09-06T20:17:41+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -189,51 +189,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/L0641-E-2K.gif"
-      ]
-    },
-    {
-      "name": "木曽",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/3980070000.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "34500",
-          "fee": "2000"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "50300",
-          "fee": "2000"
-        },
-        "２ＤＫＳ": {
-          "area": "51.75",
-          "rent": "51800",
-          "fee": "2000"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "36700",
-          "fee": "2000"
-        }
-      },
-      "transport": "ＪＲ横浜線古淵駅徒歩17～21分 ＪＲ横浜線町田駅バス15分木曽住宅徒歩2～6分 小田急小田原線町田駅バス15分木曽住宅徒歩2～6分",
-      "built": "1963/08/03",
-      "floors": "地上５階建",
-      "total_units": "905",
-      "term": "5年間",
-      "notes": "※航空機による騒音が予想されます。（不定期） ※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/3980070000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/Z0711-LZ-2DKS.gif"
       ]
     },
     {
