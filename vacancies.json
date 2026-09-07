@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T10:37:37+09:00",
+  "updated_at": "2026-09-07T10:42:39+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -83,9 +83,9 @@
     },
     {
       "name": "横川町",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 2,
+        "２ＤＫ": 1,
         "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
@@ -542,10 +542,9 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 1,
-        "２ＤＫ": 1
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
