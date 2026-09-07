@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T09:53:05+09:00",
+  "updated_at": "2026-09-07T09:57:42+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -78,41 +78,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャタワー小松川",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/2380200001.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.01",
-          "rent": "128200",
-          "fee": "5700"
-        },
-        "２ＬＤＫ": {
-          "area": "65.76",
-          "rent": "138200",
-          "fee": "5700"
-        }
-      },
-      "transport": "都営地下鉄新宿線東大島駅徒歩3分",
-      "built": "1993/03/12",
-      "floors": "地上２９階建",
-      "total_units": "224",
-      "term": "定期借家契約ではありません",
-      "notes": "※敷地内に幼稚園があります。 ※当住宅のフロントスタッフはトミンハイム小松川の管理も行っております。 ※網戸は15階以上の住戸には設置していません。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/2380200001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/238020000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/238020000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/238020000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/238020000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/A1702-L6-2LDK.gif"
       ]
     },
     {
