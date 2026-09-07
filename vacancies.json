@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T10:02:56+09:00",
+  "updated_at": "2026-09-07T10:07:49+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -32,8 +32,9 @@
     },
     {
       "name": "カーメスト用賀馬事公苑",
-      "total": 5,
+      "total": 6,
       "rooms": {
+        "１ＬＤＫ": 1,
         "３ＬＤＫ": 5
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095001.jpg",
