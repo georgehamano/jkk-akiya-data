@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:12:39+09:00",
+  "updated_at": "2026-09-07T21:17:43+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -79,51 +79,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム杉並和田",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/1580240001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "33.77",
-          "rent": "99900",
-          "fee": "3300"
-        },
-        "１ＬＤＫ": {
-          "area": "45.35",
-          "rent": "118100",
-          "fee": "3300"
-        },
-        "２Ｋ": {
-          "area": "43.53",
-          "rent": "125700",
-          "fee": "3300"
-        },
-        "２ＤＫ": {
-          "area": "49.75",
-          "rent": "142200",
-          "fee": "3300"
-        }
-      },
-      "transport": "東京メトロ丸ノ内線方南町駅徒歩7分 東京メトロ丸ノ内線中野富士見町駅徒歩10分",
-      "built": "2007/01/22",
-      "floors": "地上３～１０階建",
-      "total_units": "280",
-      "term": "25年間",
-      "notes": "※電気自動車用充電設備付駐車場があります。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/1580240001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/158024000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/158024000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/158024000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/158024000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/L8225-C1-2K.gif"
       ]
     },
     {
