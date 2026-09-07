@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T09:47:48+09:00",
+  "updated_at": "2026-09-07T09:53:05+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -81,6 +81,41 @@
       ]
     },
     {
+      "name": "コーシャタワー小松川",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/2380200001.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.01",
+          "rent": "128200",
+          "fee": "5700"
+        },
+        "２ＬＤＫ": {
+          "area": "65.76",
+          "rent": "138200",
+          "fee": "5700"
+        }
+      },
+      "transport": "都営地下鉄新宿線東大島駅徒歩3分",
+      "built": "1993/03/12",
+      "floors": "地上２９階建",
+      "total_units": "224",
+      "term": "定期借家契約ではありません",
+      "notes": "※敷地内に幼稚園があります。 ※当住宅のフロントスタッフはトミンハイム小松川の管理も行っております。 ※網戸は15階以上の住戸には設置していません。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/2380200001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/238020000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/238020000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/238020000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/238020000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380200/A1702-L6-2LDK.gif"
+      ]
+    },
+    {
       "name": "横川町",
       "total": 3,
       "rooms": {
@@ -149,6 +184,51 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/A1272-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "多摩川",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
+      "location": "狛江市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "44.52",
+          "rent": "61300",
+          "fee": "2500"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "49400",
+          "fee": "2000"
+        },
+        "２Ｋ": {
+          "area": "27.44",
+          "rent": "39100",
+          "fee": "2000"
+        },
+        "３ＤＫ": {
+          "area": "43.06",
+          "rent": "59100",
+          "fee": "2500"
+        }
+      },
+      "transport": "京王京王線国領駅徒歩15～19分調布市 小田急小田原線狛江駅徒歩25～27分調布市 小田急小田原線狛江駅バス11分シティテラス多摩川徒歩3～7分調布市 京王京王線調布駅バス19分シティテラス多摩川徒歩2～6分調布市 京王京王線国領駅徒歩17～21分狛江市\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "1966/08/01",
+      "floors": "地上５階建",
+      "total_units": "1827",
+      "term": "7年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に幼稚園、医療施設、金融機関、交番、店舗等があります。 ※コインパーキングがあります。※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/L0811-E-2K.gif"
       ]
     },
     {
@@ -374,9 +454,9 @@
     },
     {
       "name": "大和上北台",
-      "total": 4,
+      "total": 6,
       "rooms": {
-        "２ＤＫ": 2,
+        "２ＤＫ": 4,
         "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
@@ -496,8 +576,9 @@
     },
     {
       "name": "平尾",
-      "total": 1,
+      "total": 2,
       "rooms": {
+        "３Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
