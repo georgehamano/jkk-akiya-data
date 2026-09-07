@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-09-07T10:07:49+09:00",
+  "updated_at": "2026-09-07T10:13:19+09:00",
   "properties": [
+    {
+      "name": "トミンタワー飯田橋三丁目",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/0180050001.jpg",
+      "location": "千代田区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "75.87",
+          "rent": "272800",
+          "fee": "5200"
+        },
+        "１ＬＤＫ": {
+          "area": "59.87",
+          "rent": "235500",
+          "fee": "5200"
+        }
+      },
+      "transport": "東京メトロ東西線飯田橋駅徒歩5分 東京メトロ有楽町線飯田橋駅徒歩7分 東京メトロ南北線飯田橋駅徒歩7分 都営地下鉄大江戸線飯田橋駅徒歩7分 ＪＲ総武線飯田橋駅徒歩8分",
+      "built": "1996/02/15",
+      "floors": "地上２５階　地下３階建",
+      "total_units": "95",
+      "term": "定期借家契約ではありません",
+      "notes": "※１階～１２階は東京都の施設です。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/0180050001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/C5156-V1R2-1LDK.gif"
+      ]
+    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
@@ -83,9 +118,9 @@
     },
     {
       "name": "横川町",
-      "total": 3,
+      "total": 4,
       "rooms": {
-        "２ＤＫ": 1,
+        "２ＤＫ": 2,
         "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
@@ -239,9 +274,9 @@
     },
     {
       "name": "本町田",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２Ｋ": 3
+        "２Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
       "location": "町田市",
