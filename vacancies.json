@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T11:32:49+09:00",
+  "updated_at": "2026-09-07T11:37:40+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -199,9 +199,9 @@
     },
     {
       "name": "高ケ坂",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 2
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
       "location": "町田市",
