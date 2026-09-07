@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:32:50+09:00",
+  "updated_at": "2026-09-07T21:37:38+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -420,9 +420,9 @@
     },
     {
       "name": "大和上北台",
-      "total": 6,
+      "total": 5,
       "rooms": {
-        "２ＤＫ": 4,
+        "２ＤＫ": 3,
         "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
