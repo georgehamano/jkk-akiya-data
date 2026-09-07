@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T08:57:36+09:00",
+  "updated_at": "2026-09-07T09:03:00+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -82,9 +82,9 @@
     },
     {
       "name": "横川町",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 2,
+        "２ＤＫ": 1,
         "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
