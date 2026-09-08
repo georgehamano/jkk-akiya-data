@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T13:02:58+09:00",
+  "updated_at": "2026-09-08T13:07:37+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -63,46 +63,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/128023000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/128023000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/L0791-C-2K.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム久我山",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/1280850000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "57.19",
-          "rent": "149800",
-          "fee": "7600"
-        },
-        "２Ｋ": {
-          "area": "40.63",
-          "rent": "112700",
-          "fee": "7600"
-        },
-        "１ＬＤＫ": {
-          "area": "41.49",
-          "rent": "112500",
-          "fee": "7600"
-        }
-      },
-      "transport": "京王井の頭線久我山駅徒歩12分",
-      "built": "2012/03/29",
-      "floors": "地上５階建",
-      "total_units": "351",
-      "term": "25年間",
-      "notes": "※LW（2LDK)タイプは高齢の方や車イスを使用している方に、より配慮した設備・仕様となっています。 （IH調理器・温水洗浄便座等） ※Ｄ・Ｅ棟は温水洗浄便座・モニター付きインターホンが設置されています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/1280850000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/128085000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/128085000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/128085000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/128085000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/L8372-AL2-1LDK.gif"
       ]
     },
     {
