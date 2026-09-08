@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:22:43+09:00",
+  "updated_at": "2026-09-08T12:27:38+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -416,46 +416,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/428002000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/428002000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/L0764-F-3K.gif"
-      ]
-    },
-    {
-      "name": "田無西原",
-      "total": 1,
-      "rooms": {
-        "２ＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
-      "location": "西東京市",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "51.75",
-          "rent": "60400",
-          "fee": "2200"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "48200",
-          "fee": "2200"
-        },
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "40400",
-          "fee": "2200"
-        }
-      },
-      "transport": "西武新宿線田無駅バス11分六角地蔵尊前徒歩5～8分 西武新宿線田無駅バス12分西武バス西原車庫徒歩1～5分 西武池袋線ひばりヶ丘駅バス15分六角地蔵尊前徒歩5～8分 西武池袋線ひばりヶ丘駅バス16分西武バス西原車庫徒歩1～5分 ＪＲ中央線武蔵境駅バス25分六角地蔵尊前徒歩5～8分",
-      "built": "1958/06/15",
-      "floors": "地上５階建",
-      "total_units": "523",
-      "term": "5年間",
-      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/Z0701-LZ-2DKS.gif"
       ]
     },
     {
