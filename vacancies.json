@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:42:48+09:00",
+  "updated_at": "2026-09-08T11:47:41+09:00",
   "properties": [
     {
       "name": "トミンタワー飯田橋三丁目",
@@ -114,46 +114,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム中野弥生町",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480320/1480320000.jpg",
-      "location": "中野区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "52.81",
-          "rent": "154200",
-          "fee": "5400"
-        },
-        "２Ｋ": {
-          "area": "40.79",
-          "rent": "121300",
-          "fee": "5400"
-        },
-        "１ＬＤＫ": {
-          "area": "40.89",
-          "rent": "132100",
-          "fee": "5400"
-        }
-      },
-      "transport": "東京メトロ丸ノ内線方南町駅徒歩6～7分 東京メトロ丸ノ内線中野富士見町駅徒歩9～10分",
-      "built": "2010/01/05",
-      "floors": "地上１４階建",
-      "total_units": "390",
-      "term": "25年間",
-      "notes": "※１・２号棟１４階のご入居者は、１階共用部分のトランクルームが利用できます。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。 ※電気自動車用充電設備付駐車場があります。※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480320/1480320000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480320/148032000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480320/148032000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480320/148032000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480320/148032000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480320/L8323-AL1-1LDK.gif"
       ]
     },
     {
@@ -370,46 +330,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/L0641-E-2K.gif"
-      ]
-    },
-    {
-      "name": "森野",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "45300",
-          "fee": "2600"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "51000",
-          "fee": "2600"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "59000",
-          "fee": "2600"
-        }
-      },
-      "transport": "小田急小田原線町田駅徒歩5～7分 ＪＲ横浜線町田駅徒歩5～8分",
-      "built": "1963/04/05",
-      "floors": "地上５階建",
-      "total_units": "433",
-      "term": "2030/06/30",
-      "notes": "※航空機による騒音が予想されます（不定期）。 ※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/L0671-C-2K.gif"
       ]
     },
     {
