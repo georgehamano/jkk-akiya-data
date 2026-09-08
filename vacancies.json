@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T22:57:34+09:00",
+  "updated_at": "2026-09-08T23:00:39+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -28,41 +28,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/C5361-LR1-2LDK.gif"
-      ]
-    },
-    {
-      "name": "烏山北",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "51300",
-          "fee": "2700"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "76400",
-          "fee": "2700"
-        }
-      },
-      "transport": "京王京王線千歳烏山駅徒歩13～20分 京王井の頭線富士見ヶ丘駅徒歩14～18分 京王井の頭線久我山駅徒歩14～22分",
-      "built": "1966/02/05 他",
-      "floors": "地上５階建",
-      "total_units": "365",
-      "term": "2031/11/30",
-      "notes": "※高速道路に面した住戸は日照の影響と騒音が予想されます。 ※保育園・店舗等があります。 ※給湯はリフレッシュ住戸（１２、１３、１４号棟の一部）のみ３ヶ所です。（他は２ヶ所です）",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/128023000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/128023000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/128023000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/128023000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/L0791-C-2K.gif"
       ]
     },
     {
