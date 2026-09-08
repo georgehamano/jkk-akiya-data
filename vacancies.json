@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T17:52:42+09:00",
+  "updated_at": "2026-09-08T17:57:49+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -455,9 +455,9 @@
     },
     {
       "name": "福生加美平",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 2
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
       "location": "福生市",
