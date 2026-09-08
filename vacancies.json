@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T02:32:53+09:00",
+  "updated_at": "2026-09-09T02:37:37+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -513,16 +513,16 @@
     },
     {
       "name": "久留米下里",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
       "location": "東久留米市",
       "room_details": {
         "２ＤＫ": {
-          "area": "34.48",
-          "rent": "38400",
+          "area": "34.67",
+          "rent": "39000",
           "fee": "1400"
         },
         "３Ｋ": {
