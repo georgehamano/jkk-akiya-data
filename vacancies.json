@@ -1,6 +1,106 @@
 {
-  "updated_at": "2026-09-09T12:17:39+09:00",
+  "updated_at": "2026-09-09T12:23:13+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム神田",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/0180060001.jpg",
+      "location": "千代田区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "55.74",
+          "rent": "172000",
+          "fee": "5200"
+        }
+      },
+      "transport": "都営地下鉄新宿線岩本町駅徒歩5分 東京メトロ日比谷線秋葉原駅徒歩7分 ＪＲ山手線秋葉原駅徒歩8分 ＪＲ京浜東北線秋葉原駅徒歩8分 ＪＲ総武線秋葉原駅徒歩8分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "2003/05/26",
+      "floors": "地上１５階建",
+      "total_units": "55",
+      "term": "25年間",
+      "notes": "※１～７階は千代田区の施設です。 ※共用部の管理は公社と区指定管理者が委託した管理会社が行っています。 ※区施設の空調等の騒音、西側高速道路の騒音が予想されます。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/0180060001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/018006000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/018006000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/018006000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/018006000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/L1831-AL-1LDK.gif"
+      ]
+    },
+    {
+      "name": "トミンタワー台場一番街",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/0380100001.jpg",
+      "location": "港区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "72.95",
+          "rent": "287600",
+          "fee": "5500"
+        },
+        "３ＬＤＫ": {
+          "area": "73.3",
+          "rent": "298000",
+          "fee": "5500"
+        },
+        "２ＤＫ": {
+          "area": "55.07",
+          "rent": "192600",
+          "fee": "5500"
+        }
+      },
+      "transport": "東京臨海新交通ゆりかもめお台場海浜公園駅徒歩9分 東京臨海高速鉄道りんかい線東京テレポート駅徒歩13分",
+      "built": "2000/02/08",
+      "floors": "地下２階・地上３２階建",
+      "total_units": "310",
+      "term": "定期借家契約ではありません",
+      "notes": "※東京国際空港の滑走路の進入コースに位置していること及び首都高速道路の騒音が予想されるため、 防音サッシによる遮音措置を講じています。また、航空法の規定により、航空障害灯が設置されているため、 管理上住戸に立ち入る場合があります。※網戸は15階以上の住戸には設置されていません。 ※トイレの洗浄水は再生水が使用されており、飲用等には使用できません。※温水洗浄便座の取付 （届出が必要です。）に際しては、上水用の水栓から別途接続してください。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/0380100001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/C5413-HL1R3-3LDK.gif"
+      ]
+    },
+    {
+      "name": "辰巳あけぼの",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "59.92",
+          "rent": "109500",
+          "fee": "2500"
+        }
+      },
+      "transport": "ＪＲ京葉線潮見駅徒歩10分 東京メトロ有楽町線辰巳駅徒歩18分",
+      "built": "1982/05/10",
+      "floors": "地上１４階建",
+      "total_units": "291",
+      "term": "定期借家契約ではありません",
+      "notes": "※港湾関連施設が多い地域にあるため、トラック等の交通混雑・騒音が予想されます。 ※共用部に防犯カメラが設置されております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/C1401-HR1-2LDK.gif"
+      ]
+    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
@@ -82,6 +182,76 @@
       ]
     },
     {
+      "name": "コーシャハイム坂下",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "54.88",
+          "rent": "118300",
+          "fee": "6400"
+        },
+        "２ＬＤＫ": {
+          "area": "54.88",
+          "rent": "117000",
+          "fee": "6400"
+        },
+        "３ＤＫ": {
+          "area": "62.23",
+          "rent": "123400",
+          "fee": "6400"
+        }
+      },
+      "transport": "都営地下鉄三田線蓮根駅徒歩3～6分",
+      "built": "2005/03/17",
+      "floors": "地上８階建（一部７階建）",
+      "total_units": "430",
+      "term": "25年間",
+      "notes": "※保育所・地域施設があります。 ※駐車場は改修工事をしています。（完了時期未定）工事期間中は新規募集を停止しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/L1843-V5-2DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム光が丘第三",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/2080080005.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "59.69",
+          "rent": "108500",
+          "fee": "4400"
+        }
+      },
+      "transport": "都営地下鉄大江戸線光が丘駅徒歩7分 西武池袋線練馬高野台駅バス20分光が丘三丁目徒歩4分 東京メトロ有楽町線地下鉄成増駅バス21分光が丘三丁目徒歩4分 東京メトロ副都心線地下鉄成増駅バス21分光が丘三丁目徒歩4分 東武東上線成増駅バス21分光が丘三丁目徒歩4分",
+      "built": "1986/03/15",
+      "floors": "地上１４階建",
+      "total_units": "157",
+      "term": "定期借家契約ではありません",
+      "notes": "※熱給湯システム（東京熱供給株式会社）採用につき、別途使用料が必要です。 ※1階部分に幼稚園があります。 ※当住宅の管理員はコーシャハイム光が丘第四の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/2080080005.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/A1532-HW-3DK.gif"
+      ]
+    },
+    {
       "name": "宇喜田第二",
       "total": 2,
       "rooms": {
@@ -109,6 +279,36 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/F1061-V0-2DK.gif"
+      ]
+    },
+    {
+      "name": "松枝",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "39.6",
+          "rent": "36300",
+          "fee": "3200"
+        }
+      },
+      "transport": "ＪＲ中央線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ横浜線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ八高線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ中央線西八王子駅バス30分松枝住宅徒歩1～5分 京王京王線京王八王子駅バス32分松枝住宅徒歩1～5分",
+      "built": "1976/02/28",
+      "floors": "地上７階建",
+      "total_units": "545",
+      "term": "5年間",
+      "notes": "※エレベータは７階建（２、３、６、７号棟）のみ設置されています。 ※給湯は２ヶ所です。 ※保育園、店舗等があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/A1141-V-2DK.gif"
       ]
     },
     {
@@ -277,11 +477,57 @@
       ]
     },
     {
-      "name": "町田木曽",
-      "total": 4,
+      "name": "境川",
+      "total": 2,
       "rooms": {
         "２Ｋ": 1,
-        "２ＤＫ": 3
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "39700",
+          "fee": "1800"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "47000",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "60700",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "40800",
+          "fee": "1800"
+        }
+      },
+      "transport": "ＪＲ横浜線古淵駅徒歩8～15分 ＪＲ横浜線町田駅バス11分境川団地中央徒歩1～8分 小田急小田原線町田駅バス11分境川団地中央徒歩1～8分 ＪＲ横浜線淵野辺駅バス19分境川団地中央徒歩1～8分",
+      "built": "1968/06/22",
+      "floors": "地上５階建",
+      "total_units": "2239",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます(不定期)。※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、幼稚園、店舗等があります。　※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/Z0841-LZ2-2DKS.gif"
+      ]
+    },
+    {
+      "name": "町田木曽",
+      "total": 5,
+      "rooms": {
+        "２Ｋ": 1,
+        "２ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
@@ -325,6 +571,46 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/A0852-B-2DK.gif"
+      ]
+    },
+    {
+      "name": "福生加美平",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
+      "location": "福生市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "29700",
+          "fee": "1700"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "31200",
+          "fee": "1700"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "46400",
+          "fee": "1700"
+        }
+      },
+      "transport": "ＪＲ青梅線羽村駅徒歩13～18分 ＪＲ青梅線福生駅徒歩16～21分 ＪＲ青梅線福生駅バス11分加美平団地中央徒歩1～4分",
+      "built": "1967/02/15 他",
+      "floors": "地上５階建",
+      "total_units": "1044",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、店舗等があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020004.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020008.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020012.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020019.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/A0821-C-2K.gif"
       ]
     },
     {
@@ -374,9 +660,9 @@
     },
     {
       "name": "大和上北台",
-      "total": 5,
+      "total": 7,
       "rooms": {
-        "２ＤＫ": 3,
+        "２ＤＫ": 5,
         "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
@@ -411,6 +697,41 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/508006000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/508006000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/A0921-BS-2DK.gif"
+      ]
+    },
+    {
+      "name": "清瀬台田",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
+      "location": "清瀬市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "29900",
+          "fee": "1700"
+        },
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "33000",
+          "fee": "1700"
+        }
+      },
+      "transport": "西武池袋線清瀬駅バス15分台田団地中央徒歩1～6分",
+      "built": "1972/05/10",
+      "floors": "地上５階建",
+      "total_units": "961",
+      "term": "5年間",
+      "notes": "※給湯は２ヶ所です。 ※当住宅のフロントスタッフはコーシャハイム清瀬台田の管理も行っております。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/5180020000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/518002000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/518002000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/518002000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/518002000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5180020/A0941-BN-2DK.gif"
       ]
     },
     {
@@ -492,9 +813,9 @@
     },
     {
       "name": "落合",
-      "total": 6,
+      "total": 7,
       "rooms": {
-        "３ＤＫ": 6
+        "３ＤＫ": 7
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
