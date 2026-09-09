@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:02:59+09:00",
+  "updated_at": "2026-09-09T16:08:03+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -122,6 +122,156 @@
       ]
     },
     {
+      "name": "西台",
+      "total": 2,
+      "rooms": {
+        "３ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/1980150005.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "43.21",
+          "rent": "69700",
+          "fee": "3000"
+        }
+      },
+      "transport": "都営地下鉄三田線西台駅徒歩2分",
+      "built": "1972/12/05",
+      "floors": "地上１４階建",
+      "total_units": "399",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/1980150005.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/198015000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/198015000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/198015000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/198015000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/A1011-H-3DK.gif"
+      ]
+    },
+    {
+      "name": "蓮根三丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/1980170003.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "50.44",
+          "rent": "82700",
+          "fee": "3900"
+        }
+      },
+      "transport": "都営地下鉄三田線西台駅徒歩8分",
+      "built": "1978/08/05",
+      "floors": "地上１１階建",
+      "total_units": "99",
+      "term": "定期借家契約ではありません",
+      "notes": "※周辺には工場等があり、騒音・臭気等の影響が予想されます。 ※給湯は２ヶ所です。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/1980170003.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/A1231-H-3DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム向原",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/1980340000.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "52.59",
+          "rent": "140200",
+          "fee": "5900"
+        },
+        "１ＬＤＫ": {
+          "area": "40.01",
+          "rent": "116700",
+          "fee": "5900"
+        },
+        "２ＤＫ": {
+          "area": "44.4",
+          "rent": "121700",
+          "fee": "5900"
+        },
+        "１Ｋ": {
+          "area": "33.97",
+          "rent": "98000",
+          "fee": "5900"
+        },
+        "２Ｋ": {
+          "area": "40.21",
+          "rent": "115200",
+          "fee": "5900"
+        }
+      },
+      "transport": "東京メトロ有楽町線小竹向原駅徒歩7～11分 東京メトロ副都心線小竹向原駅徒歩7～11分 西武有楽町線小竹向原駅徒歩7～11分",
+      "built": "2010/06/17",
+      "floors": "地上８階建",
+      "total_units": "686",
+      "term": "25年間",
+      "notes": "※１～６号棟は一般賃貸住宅です。※７号棟はサービス付き高齢者向け住宅で、介護事業所・保育所・地域 交流スペース（レストラン）・コンビニエンスストア等があります。※コインパーキングがあります。 ※１・２号棟の、AL１タイプの１階住戸及びX1・X2・L7・L8タイプの住戸には専用入口にモニター付き インターホンが設置されています。なお、専用入口はオートロックシステムではありません。 ※５・６号棟の住戸のみ温水洗浄便座・モニター付きインターホンが設置されています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/1980340000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/L8353-C2-2K.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム向原ガーデンコート",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/1980342001.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "61.42",
+          "rent": "174300",
+          "fee": "5400"
+        },
+        "１ＤＫ": {
+          "area": "34.72",
+          "rent": "99900",
+          "fee": "5400"
+        },
+        "２Ｋ": {
+          "area": "41.03",
+          "rent": "119000",
+          "fee": "5400"
+        }
+      },
+      "transport": "西武有楽町線小竹向原駅徒歩3～5分 東京メトロ有楽町線小竹向原駅徒歩3～5分 東京メトロ副都心線小竹向原駅徒歩3～5分",
+      "built": "2018/06/01",
+      "floors": "地上８階建て（地下１階）",
+      "total_units": "333",
+      "term": "25年間",
+      "notes": "※電気自動車用充電設備付駐車場があります。 ※東京都が義務付けた環境配慮等の取組みについて評価を受けています。 ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/1980342001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/L8734-C2-2K.gif"
+      ]
+    },
+    {
       "name": "松枝",
       "total": 1,
       "rooms": {
@@ -149,6 +299,46 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/A1141-V-2DK.gif"
+      ]
+    },
+    {
+      "name": "霞台",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+      "location": "青梅市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "40400",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "35800",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "49600",
+          "fee": "1800"
+        }
+      },
+      "transport": "ＪＲ青梅線河辺駅徒歩5～10分１～１２号棟 ＪＲ青梅線河辺駅徒歩9～13分１３～２３号棟",
+      "built": "1971/05/10",
+      "floors": "地上５階建",
+      "total_units": "1010",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）　※コインパーキングがあります。 ※霞台第一（1～１２号棟）は徒歩５～１０分、霞台第二（１３～２３号棟）は徒歩９～１３分となります。 ※霞台第一（１～１２号棟）カーシェアリングを設置しています。 ※霞台第一（１～１２号棟）敷地内に店舗等があります。　※霞台第一の 駐車場は改修工事をしています。（令和9年3月完了予定）工事期間中は一部区画の新規募集を停止しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/A0891-B-2DK.gif"
       ]
     },
     {
