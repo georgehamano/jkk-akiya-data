@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:12:53+09:00",
+  "updated_at": "2026-09-09T16:17:54+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -123,9 +123,9 @@
     },
     {
       "name": "西台",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３ＤＫ": 2
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/1980150005.jpg",
       "location": "板橋区",
@@ -179,56 +179,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/198017000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980170/A1231-H-3DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム向原",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/1980340000.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "52.59",
-          "rent": "140200",
-          "fee": "5900"
-        },
-        "１ＬＤＫ": {
-          "area": "40.01",
-          "rent": "116700",
-          "fee": "5900"
-        },
-        "２ＤＫ": {
-          "area": "44.4",
-          "rent": "121700",
-          "fee": "5900"
-        },
-        "１Ｋ": {
-          "area": "33.97",
-          "rent": "98000",
-          "fee": "5900"
-        },
-        "２Ｋ": {
-          "area": "40.21",
-          "rent": "115200",
-          "fee": "5900"
-        }
-      },
-      "transport": "東京メトロ有楽町線小竹向原駅徒歩7～11分 東京メトロ副都心線小竹向原駅徒歩7～11分 西武有楽町線小竹向原駅徒歩7～11分",
-      "built": "2010/06/17",
-      "floors": "地上８階建",
-      "total_units": "686",
-      "term": "25年間",
-      "notes": "※１～６号棟は一般賃貸住宅です。※７号棟はサービス付き高齢者向け住宅で、介護事業所・保育所・地域 交流スペース（レストラン）・コンビニエンスストア等があります。※コインパーキングがあります。 ※１・２号棟の、AL１タイプの１階住戸及びX1・X2・L7・L8タイプの住戸には専用入口にモニター付き インターホンが設置されています。なお、専用入口はオートロックシステムではありません。 ※５・６号棟の住戸のみ温水洗浄便座・モニター付きインターホンが設置されています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/1980340000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/L8353-C2-2K.gif"
       ]
     },
     {
