@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T17:07:36+09:00",
+  "updated_at": "2026-09-09T17:12:47+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -682,46 +682,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/A1112-NS-3DK.gif"
-      ]
-    },
-    {
-      "name": "平尾",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
-      "location": "稲城市",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.56",
-          "rent": "49800",
-          "fee": "1900"
-        },
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "49500",
-          "fee": "1900"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "43400",
-          "fee": "1900"
-        }
-      },
-      "transport": "小田急多摩線栗平駅徒歩8～17分 京王相模原線若葉台駅バス13分平尾団地徒歩1～11分 小田急小田原線新百合ヶ丘駅バス16分平尾団地徒歩1～11分 京王相模原線稲城駅バス20分平尾団地徒歩1～11分",
-      "built": "1970/06/10",
-      "floors": "地上５階建",
-      "total_units": "1650",
-      "term": "5年間",
-      "notes": "※給湯はリフレッシュ住戸のみ３ヵ所です。（他は２ヶ所です。） ※敷地内に保育園、幼稚園、交番、医療施設、稲城市役所出張所、郵便局、金融機関、店舗等があります。 ※コインパーキングがあります。　※カーシェアリングを設置しています。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/558001000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/558001000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/558001000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/558001000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/L0881-BD-2DK_diy.gif"
       ]
     }
   ]
