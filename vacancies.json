@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:07:37+09:00",
+  "updated_at": "2026-09-09T11:12:45+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -79,41 +79,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "横川町",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "48.32",
-          "rent": "51300",
-          "fee": "3100"
-        },
-        "３ＤＫ": {
-          "area": "56.12",
-          "rent": "58000",
-          "fee": "3100"
-        }
-      },
-      "transport": "ＪＲ中央線西八王子駅バス16分住宅中央徒歩2～5分 ＪＲ中央線八王子駅バス19分住宅中央徒歩2～5分 ＪＲ横浜線八王子駅バス19分住宅中央徒歩2～5分 ＪＲ八高線八王子駅バス19分住宅中央徒歩2～5分 京王京王線京王八王子駅バス24分住宅中央徒歩2～5分",
-      "built": "1980/01/08",
-      "floors": "地上５階建",
-      "total_units": "927",
-      "term": "定期借家契約ではありません",
-      "notes": "※エレベータは７号棟（８階建）、８号棟（１１階建）のみ設置されています。 ※敷地内に学童クラブ、保育園、幼稚園、店舗等があります。 ※コインパーキングがあります。※駐車場シェアリング（予約制駐車場）区画があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/A1311-KN-2DK.gif"
       ]
     },
     {
