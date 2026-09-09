@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-09-09T12:23:13+09:00",
+  "updated_at": "2026-09-09T12:27:50+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム神田",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/0180060001.jpg",
-      "location": "千代田区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "55.74",
-          "rent": "172000",
-          "fee": "5200"
-        }
-      },
-      "transport": "都営地下鉄新宿線岩本町駅徒歩5分 東京メトロ日比谷線秋葉原駅徒歩7分 ＪＲ山手線秋葉原駅徒歩8分 ＪＲ京浜東北線秋葉原駅徒歩8分 ＪＲ総武線秋葉原駅徒歩8分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
-      "built": "2003/05/26",
-      "floors": "地上１５階建",
-      "total_units": "55",
-      "term": "25年間",
-      "notes": "※１～７階は千代田区の施設です。 ※共用部の管理は公社と区指定管理者が委託した管理会社が行っています。 ※区施設の空調等の騒音、西側高速道路の騒音が予想されます。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/0180060001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/018006000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/018006000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/018006000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/018006000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180060/L1831-AL-1LDK.gif"
-      ]
-    },
     {
       "name": "トミンタワー台場一番街",
       "total": 1,
@@ -69,36 +39,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/C5413-HL1R3-3LDK.gif"
-      ]
-    },
-    {
-      "name": "辰巳あけぼの",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "59.92",
-          "rent": "109500",
-          "fee": "2500"
-        }
-      },
-      "transport": "ＪＲ京葉線潮見駅徒歩10分 東京メトロ有楽町線辰巳駅徒歩18分",
-      "built": "1982/05/10",
-      "floors": "地上１４階建",
-      "total_units": "291",
-      "term": "定期借家契約ではありません",
-      "notes": "※港湾関連施設が多い地域にあるため、トラック等の交通混雑・騒音が予想されます。 ※共用部に防犯カメラが設置されております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/C1401-HR1-2LDK.gif"
       ]
     },
     {
