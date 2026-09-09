@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T23:45:15+09:00",
+  "updated_at": "2026-09-09T23:47:50+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -39,35 +39,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/C5413-HL1R3-3LDK.gif"
-      ]
-    },
-    {
-      "name": "トミンハイム西五反田四丁目",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/0980190000.jpg",
-      "location": "品川区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "66.18",
-          "rent": "265300",
-          "fee": "5400"
-        }
-      },
-      "transport": "東急目黒線不動前駅徒歩4～5分 ＪＲ山手線目黒駅徒歩14～15分 東京メトロ南北線目黒駅徒歩14～15分 都営地下鉄三田線目黒駅徒歩14～15分",
-      "built": "1998/03/04",
-      "floors": "地上６階建",
-      "total_units": "151",
-      "term": "定期借家契約ではありません",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/0980190000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/C5361-LR1-2LDK.gif"
       ]
     },
     {
