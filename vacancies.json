@@ -1,46 +1,6 @@
 {
-  "updated_at": "2026-09-10T07:42:39+09:00",
+  "updated_at": "2026-09-10T07:47:42+09:00",
   "properties": [
-    {
-      "name": "トミンタワー台場一番街",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/0380100001.jpg",
-      "location": "港区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "72.95",
-          "rent": "287600",
-          "fee": "5500"
-        },
-        "３ＬＤＫ": {
-          "area": "73.3",
-          "rent": "298000",
-          "fee": "5500"
-        },
-        "２ＤＫ": {
-          "area": "55.07",
-          "rent": "192600",
-          "fee": "5500"
-        }
-      },
-      "transport": "東京臨海新交通ゆりかもめお台場海浜公園駅徒歩9分 東京臨海高速鉄道りんかい線東京テレポート駅徒歩13分",
-      "built": "2000/02/08",
-      "floors": "地下２階・地上３２階建",
-      "total_units": "310",
-      "term": "定期借家契約ではありません",
-      "notes": "※東京国際空港の滑走路の進入コースに位置していること及び首都高速道路の騒音が予想されるため、 防音サッシによる遮音措置を講じています。また、航空法の規定により、航空障害灯が設置されているため、 管理上住戸に立ち入る場合があります。※網戸は15階以上の住戸には設置されていません。 ※トイレの洗浄水は再生水が使用されており、飲用等には使用できません。※温水洗浄便座の取付 （届出が必要です。）に際しては、上水用の水栓から別途接続してください。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/0380100001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/C5413-HL1R3-3LDK.gif"
-      ]
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 6,
