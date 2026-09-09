@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:37:36+09:00",
+  "updated_at": "2026-09-09T11:43:02+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -79,6 +79,106 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム光が丘第二",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/2080070004.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "60.17",
+          "rent": "104300",
+          "fee": "3400"
+        },
+        "３ＤＫ": {
+          "area": "60.17",
+          "rent": "107400",
+          "fee": "3400"
+        }
+      },
+      "transport": "都営地下鉄大江戸線光が丘駅徒歩6分 東武東上線成増駅バス23分光が丘南通り徒歩4分 西武池袋線練馬高野台駅バス17分光が丘南通り徒歩5分 東京メトロ副都心線地下鉄成増駅バス23分光が丘南通り徒歩4分 東京メトロ有楽町線地下鉄成増駅バス23分光が丘南通り徒歩4分",
+      "built": "1985/03/24",
+      "floors": "地上１４階建",
+      "total_units": "331",
+      "term": "定期借家契約ではありません",
+      "notes": "※熱給湯システム（東京熱供給株式会社に申込が必要です）採用につき、別途使用料が必要です。 ※1階部分に医療施設があります。 ※当住宅はコーシャハイム光が丘第一のフロントスタッフが管理しております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/2080070004.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/208007000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/208007000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/208007000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/208007000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/A1492-H-3DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム光が丘第四",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080090/2080090009.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "59.8",
+          "rent": "111000",
+          "fee": "4300"
+        },
+        "２ＬＤＫ": {
+          "area": "55.65",
+          "rent": "104300",
+          "fee": "4300"
+        }
+      },
+      "transport": "都営地下鉄大江戸線光が丘駅徒歩7分 西武池袋線練馬高野台駅バス20分光が丘三丁目徒歩3分 東京メトロ有楽町線地下鉄成増駅バス21分光が丘三丁目徒歩3分 東京メトロ副都心線地下鉄成増駅バス21分光が丘三丁目徒歩3分 東武東上線成増駅バス21分光が丘三丁目徒歩3分",
+      "built": "1988/03/11",
+      "floors": "地上１４階建",
+      "total_units": "150",
+      "term": "定期借家契約ではありません",
+      "notes": "※熱給湯システム（東京熱供給株式会社）採用に付き、別途使用料が必要です。 ※エレベーターの停止階は１階、４階、７階、１０階、１３階です。 ※当住宅はコーシャハイム光が丘第三のフロントスタッフが管理しております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080090/2080090009.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080090/208009000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080090/208009000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080090/208009000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080090/208009000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080090/A1571-L-2LDK.gif"
+      ]
+    },
+    {
+      "name": "宇喜田第二",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "42.83",
+          "rent": "71700～73200",
+          "fee": "3100"
+        }
+      },
+      "transport": "都営地下鉄新宿線船堀駅徒歩17～18分 東京メトロ東西線西葛西駅バス6分小島徒歩5～7分 都営地下鉄新宿線船堀駅バス9分小島徒歩5～6分 東京メトロ東西線西葛西駅徒歩19～21分",
+      "built": "1973/12/01",
+      "floors": "地上１２階建",
+      "total_units": "712",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）　※保育園があります",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/F1061-V0-2DK.gif"
       ]
     },
     {
