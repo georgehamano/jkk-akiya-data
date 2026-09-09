@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:42:59+09:00",
+  "updated_at": "2026-09-09T14:47:46+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -119,46 +119,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム坂下",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "54.88",
-          "rent": "118300",
-          "fee": "6400"
-        },
-        "２ＬＤＫ": {
-          "area": "54.88",
-          "rent": "117000",
-          "fee": "6400"
-        },
-        "３ＤＫ": {
-          "area": "62.23",
-          "rent": "123400",
-          "fee": "6400"
-        }
-      },
-      "transport": "都営地下鉄三田線蓮根駅徒歩3～6分",
-      "built": "2005/03/17",
-      "floors": "地上８階建（一部７階建）",
-      "total_units": "430",
-      "term": "25年間",
-      "notes": "※保育所・地域施設があります。 ※駐車場は改修工事をしています。（完了時期未定）工事期間中は新規募集を停止しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/L1843-V5-2DK.gif"
       ]
     },
     {
