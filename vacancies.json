@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:08:03+09:00",
+  "updated_at": "2026-09-09T16:12:53+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -229,46 +229,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/L8353-C2-2K.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム向原ガーデンコート",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/1980342001.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "61.42",
-          "rent": "174300",
-          "fee": "5400"
-        },
-        "１ＤＫ": {
-          "area": "34.72",
-          "rent": "99900",
-          "fee": "5400"
-        },
-        "２Ｋ": {
-          "area": "41.03",
-          "rent": "119000",
-          "fee": "5400"
-        }
-      },
-      "transport": "西武有楽町線小竹向原駅徒歩3～5分 東京メトロ有楽町線小竹向原駅徒歩3～5分 東京メトロ副都心線小竹向原駅徒歩3～5分",
-      "built": "2018/06/01",
-      "floors": "地上８階建て（地下１階）",
-      "total_units": "333",
-      "term": "25年間",
-      "notes": "※電気自動車用充電設備付駐車場があります。 ※東京都が義務付けた環境配慮等の取組みについて評価を受けています。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/1980342001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/L8734-C2-2K.gif"
       ]
     },
     {
