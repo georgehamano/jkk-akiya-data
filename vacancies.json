@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:22:51+09:00",
+  "updated_at": "2026-09-09T16:27:45+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -179,46 +179,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/A1141-V-2DK.gif"
-      ]
-    },
-    {
-      "name": "霞台",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
-      "location": "青梅市",
-      "room_details": {
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "40400",
-          "fee": "1800"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "35800",
-          "fee": "1800"
-        },
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "49600",
-          "fee": "1800"
-        }
-      },
-      "transport": "ＪＲ青梅線河辺駅徒歩5～10分１～１２号棟 ＪＲ青梅線河辺駅徒歩9～13分１３～２３号棟",
-      "built": "1971/05/10",
-      "floors": "地上５階建",
-      "total_units": "1010",
-      "term": "5年間",
-      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）　※コインパーキングがあります。 ※霞台第一（1～１２号棟）は徒歩５～１０分、霞台第二（１３～２３号棟）は徒歩９～１３分となります。 ※霞台第一（１～１２号棟）カーシェアリングを設置しています。 ※霞台第一（１～１２号棟）敷地内に店舗等があります。　※霞台第一の 駐車場は改修工事をしています。（令和9年3月完了予定）工事期間中は一部区画の新規募集を停止しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/A0891-B-2DK.gif"
       ]
     },
     {
