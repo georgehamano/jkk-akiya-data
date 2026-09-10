@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T13:22:45+09:00",
+  "updated_at": "2026-09-10T13:27:42+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -181,6 +181,71 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/A1311-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "トミンハイム南大沢東",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/3180410000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "75.75",
+          "rent": "82200",
+          "fee": "6000"
+        },
+        "２ＬＤＫ": {
+          "area": "66.17",
+          "rent": "66900",
+          "fee": "6000"
+        }
+      },
+      "transport": "京王相模原線南大沢駅徒歩17～20分 京王相模原線南大沢駅バス5分南大沢団地徒歩3～6分",
+      "built": "1998/02/20",
+      "floors": "地上６階建",
+      "total_units": "226",
+      "term": "定期借家契約ではありません",
+      "notes": "※横田基地を使用する航空機による騒音が予想されます。 ※テレビ受信については別途ケーブルテレビ会社との契約が必要です。（有料） ※２号棟にエレベーターは設置していません。渡り廊下を使って、３号棟のエレベーターをご利用ください。 ※当住宅のフロントスタッフはトミンハイム南大沢西の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/3180410000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/318041000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/318041000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/318041000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/318041000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/T0242-L1-2LDK.gif"
+      ]
+    },
+    {
+      "name": "富士見町東",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/3280070000.jpg",
+      "location": "立川市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "68200",
+          "fee": "2100"
+        }
+      },
+      "transport": "ＪＲ中央線立川駅バス10分富士見町七丁目徒歩3～4分 ＪＲ青梅線立川駅バス10分富士見町七丁目徒歩3～4分 ＪＲ南武線立川駅バス10分富士見町七丁目徒歩3～4分",
+      "built": "1978/02/10",
+      "floors": "地上５階建",
+      "total_units": "210",
+      "term": "定期借家契約ではありません",
+      "notes": "※敷地内に保育園があります。 ※当住宅は富士見町住宅のフロントスタッフが管理しております。 ※給湯は２ヶ所です。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/3280070000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/A1191-KN-2DK.gif"
       ]
     },
     {
@@ -624,6 +689,46 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/A1112-NS-3DK.gif"
+      ]
+    },
+    {
+      "name": "平尾",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
+      "location": "稲城市",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "34.56",
+          "rent": "49800",
+          "fee": "1900"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "54000",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "43400",
+          "fee": "1900"
+        }
+      },
+      "transport": "小田急多摩線栗平駅徒歩8～17分 京王相模原線若葉台駅バス13分平尾団地徒歩1～11分 小田急小田原線新百合ヶ丘駅バス16分平尾団地徒歩1～11分 京王相模原線稲城駅バス20分平尾団地徒歩1～11分",
+      "built": "1970/06/10",
+      "floors": "地上５階建",
+      "total_units": "1650",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヵ所です。（他は２ヶ所です。） ※敷地内に保育園、幼稚園、交番、医療施設、稲城市役所出張所、郵便局、金融機関、店舗等があります。 ※コインパーキングがあります。　※カーシェアリングを設置しています。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/558001000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/558001000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/558001000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/558001000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/L0881-BD-2DK_diy.gif"
       ]
     }
   ]
