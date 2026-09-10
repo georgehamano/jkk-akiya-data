@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-09-10T15:52:55+09:00",
+  "updated_at": "2026-09-10T15:58:05+09:00",
   "properties": [
+    {
+      "name": "トミンタワー飯田橋三丁目",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/0180050001.jpg",
+      "location": "千代田区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "75.87",
+          "rent": "272800",
+          "fee": "5200"
+        },
+        "１ＬＤＫ": {
+          "area": "59.87",
+          "rent": "235500",
+          "fee": "5200"
+        }
+      },
+      "transport": "東京メトロ東西線飯田橋駅徒歩5分 東京メトロ有楽町線飯田橋駅徒歩7分 東京メトロ南北線飯田橋駅徒歩7分 都営地下鉄大江戸線飯田橋駅徒歩7分 ＪＲ総武線飯田橋駅徒歩8分",
+      "built": "1996/02/15",
+      "floors": "地上２５階　地下３階建",
+      "total_units": "95",
+      "term": "定期借家契約ではありません",
+      "notes": "※１階～１２階は東京都の施設です。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/0180050001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/C5156-V1R2-1LDK.gif"
+      ]
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 8,
@@ -51,6 +86,36 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
+      ]
+    },
+    {
+      "name": "宇喜田第二",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "42.83",
+          "rent": "72500",
+          "fee": "3100"
+        }
+      },
+      "transport": "都営地下鉄新宿線船堀駅徒歩17～18分 東京メトロ東西線西葛西駅バス6分小島徒歩5～7分 都営地下鉄新宿線船堀駅バス9分小島徒歩5～6分 東京メトロ東西線西葛西駅徒歩19～21分",
+      "built": "1973/12/01",
+      "floors": "地上１２階建",
+      "total_units": "712",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）　※保育園があります",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/F1061-V0-2DK.gif"
       ]
     },
     {
@@ -184,6 +249,51 @@
       ]
     },
     {
+      "name": "多摩川",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
+      "location": "狛江市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "44.52",
+          "rent": "61300",
+          "fee": "2500"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "49400",
+          "fee": "2000"
+        },
+        "２Ｋ": {
+          "area": "27.44",
+          "rent": "38800",
+          "fee": "2000"
+        },
+        "３ＤＫ": {
+          "area": "43.06",
+          "rent": "59100",
+          "fee": "2500"
+        }
+      },
+      "transport": "京王京王線国領駅徒歩15～19分調布市 小田急小田原線狛江駅徒歩25～27分調布市 小田急小田原線狛江駅バス11分シティテラス多摩川徒歩3～7分調布市 京王京王線調布駅バス19分シティテラス多摩川徒歩2～6分調布市 京王京王線国領駅徒歩17～21分狛江市\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "1966/08/01",
+      "floors": "地上５階建",
+      "total_units": "1827",
+      "term": "7年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に幼稚園、医療施設、金融機関、交番、店舗等があります。 ※コインパーキングがあります。※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/L0811-E-2K.gif"
+      ]
+    },
+    {
       "name": "木曽",
       "total": 1,
       "rooms": {
@@ -274,10 +384,55 @@
       ]
     },
     {
-      "name": "町田木曽",
-      "total": 3,
+      "name": "境川",
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 3
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "39300",
+          "fee": "1800"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "47000",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "60700",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "40800",
+          "fee": "1800"
+        }
+      },
+      "transport": "ＪＲ横浜線古淵駅徒歩8～15分 ＪＲ横浜線町田駅バス11分境川団地中央徒歩1～8分 小田急小田原線町田駅バス11分境川団地中央徒歩1～8分 ＪＲ横浜線淵野辺駅バス19分境川団地中央徒歩1～8分",
+      "built": "1968/06/22",
+      "floors": "地上５階建",
+      "total_units": "2239",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます(不定期)。※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、幼稚園、店舗等があります。　※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/Z0841-LZ2-2DKS.gif"
+      ]
+    },
+    {
+      "name": "町田木曽",
+      "total": 4,
+      "rooms": {
+        "２ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
