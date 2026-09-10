@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T10:22:50+09:00",
+  "updated_at": "2026-09-10T10:27:40+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -50,36 +50,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "中台町",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/1980080999.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "42000",
-          "fee": "1400"
-        }
-      },
-      "transport": "東武東上線上板橋駅徒歩13～16分",
-      "built": "1962/11/07",
-      "floors": "地上５階建",
-      "total_units": "400",
-      "term": "2031/11/30",
-      "notes": "※給湯は２ヶ所です。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/1980080999.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/198008000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/198008000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/198008000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/198008000e.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/L0632-C-2K.gif"
       ]
     },
     {
