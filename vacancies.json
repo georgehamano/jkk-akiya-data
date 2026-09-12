@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T01:47:41+09:00",
+  "updated_at": "2026-09-13T01:52:40+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -184,46 +184,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/L0641-E-2K.gif"
-      ]
-    },
-    {
-      "name": "森野",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "45300",
-          "fee": "2600"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "51000",
-          "fee": "2600"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "59000",
-          "fee": "2600"
-        }
-      },
-      "transport": "小田急小田原線町田駅徒歩5～7分 ＪＲ横浜線町田駅徒歩5～8分",
-      "built": "1963/04/05",
-      "floors": "地上５階建",
-      "total_units": "433",
-      "term": "2030/06/30",
-      "notes": "※航空機による騒音が予想されます（不定期）。 ※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/L0671-C-2K.gif"
       ]
     },
     {
