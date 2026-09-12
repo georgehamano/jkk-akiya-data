@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T14:07:36+09:00",
+  "updated_at": "2026-09-12T14:12:42+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -427,36 +427,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/528002000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/528002000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/A0862-B-2DK.gif"
-      ]
-    },
-    {
-      "name": "愛宕第二",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480050/5480050001.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.12",
-          "rent": "60100",
-          "fee": "2700"
-        }
-      },
-      "transport": "多摩都市モノレール多摩都市モノレール松が谷駅徒歩11分 京王相模原線京王多摩センター駅徒歩16～18分 小田急多摩線小田急多摩センター駅徒歩16～18分 多摩都市モノレール多摩都市モノレール多摩センター駅徒歩16～18分 京王相模原線京王多摩センター駅バス14分愛宕四丁目徒歩2分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
-      "built": "1973/06/10",
-      "floors": "地上１１階建",
-      "total_units": "75",
-      "term": "5年間",
-      "notes": "※給湯は２ヶ所です。 ※VR1タイプの住戸バルコニーには、耐震補強のための鉄骨ブレース（斜材）が設置されており、日常的に バルコニーとして使用できません。※１、２階部分に医療施設、金融機関、店舗等があります。 ※当住宅のフロントスタッフはコーシャハイム愛宕四丁目の管理も行っています。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480050/5480050001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480050/548005000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480050/548005000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480050/548005000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480050/548005000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480050/A1021-V-2DK.gif"
       ]
     },
     {
