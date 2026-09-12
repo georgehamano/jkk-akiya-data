@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:12:40+09:00",
+  "updated_at": "2026-09-12T17:17:42+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -28,41 +28,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/C5361-LR1-2LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム大森東",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/1180210000.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "62.97",
-          "rent": "123500",
-          "fee": "3900"
-        },
-        "３ＤＫ": {
-          "area": "62.97",
-          "rent": "122600",
-          "fee": "3900"
-        }
-      },
-      "transport": "京浜急行京浜急行線平和島駅徒歩9～10分",
-      "built": "1983/06/15",
-      "floors": "地上１１階建",
-      "total_units": "283",
-      "term": "定期借家契約ではありません",
-      "notes": "※住宅周辺には工業団地、東京国際空港等があり騒音が予想されます。 ※4号棟1階部分に店舗等があります。　※コインパーキングがあります。 ※浴室改修団地のため、台所に給湯リモコンがある住戸とない住戸があります",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/1180210000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/A1461-H-3DK.gif"
       ]
     },
     {
@@ -153,16 +118,16 @@
     },
     {
       "name": "新田第二",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
       "location": "江戸川区",
       "room_details": {
         "２ＤＫ": {
           "area": "45.96",
-          "rent": "82900～83200",
+          "rent": "82900",
           "fee": "3500"
         }
       },
