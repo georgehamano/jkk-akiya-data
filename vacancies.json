@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T15:47:45+09:00",
+  "updated_at": "2026-09-14T15:52:49+09:00",
   "properties": [
     {
       "name": "コーシャハイム芦花公園",
@@ -91,35 +91,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "トミンハイム南台三丁目",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480271/1480271001.jpg",
-      "location": "中野区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "52.73",
-          "rent": "133300",
-          "fee": "6100"
-        }
-      },
-      "transport": "東京メトロ丸ノ内線中野富士見町駅徒歩12分 東京メトロ丸ノ内線方南町駅徒歩12分",
-      "built": "2001/02/20",
-      "floors": "地上８～１１階建",
-      "total_units": "59",
-      "term": "定期借家契約ではありません",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480271/1480271001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480271/148027100a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480271/148027100b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480271/148027100c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480271/148027100d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1480271/A8072-V-2DK.gif"
       ]
     },
     {
