@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T19:27:37+09:00",
+  "updated_at": "2026-09-14T19:32:55+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -28,46 +28,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/C5361-LR1-2LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム芦花公園",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/1280820000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "41.11",
-          "rent": "119000",
-          "fee": "4300"
-        },
-        "２ＤＫ": {
-          "area": "43.92",
-          "rent": "126500",
-          "fee": "4300"
-        },
-        "２ＬＤＫ": {
-          "area": "50.35",
-          "rent": "128500",
-          "fee": "4300"
-        }
-      },
-      "transport": "京王京王線芦花公園駅徒歩8～10分 京王京王線千歳烏山駅徒歩9～10分",
-      "built": "2008/01/11",
-      "floors": "地上６階建",
-      "total_units": "312",
-      "term": "25年間",
-      "notes": "※電気自動車用充電設備付駐車場があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/1280820000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/128082000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/128082000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/128082000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/128082000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280820/L8253-V1-2DK.gif"
       ]
     },
     {
