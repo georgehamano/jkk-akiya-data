@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T15:18:10+09:00",
+  "updated_at": "2026-09-14T15:22:44+09:00",
   "properties": [
     {
       "name": "コーシャハイム芦花公園",
@@ -259,10 +259,10 @@
     },
     {
       "name": "町田木曽",
-      "total": 4,
+      "total": 3,
       "rooms": {
         "２Ｋ": 1,
-        "２ＤＫ": 3
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
