@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T17:22:47+09:00",
+  "updated_at": "2026-09-14T17:27:35+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -150,41 +150,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/198008000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/198008000e.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980080/L0632-C-2K.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム南葛西五丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.47",
-          "rent": "90500",
-          "fee": "3100"
-        },
-        "２ＬＤＫ": {
-          "area": "60.93",
-          "rent": "94500",
-          "fee": "3100"
-        }
-      },
-      "transport": "ＪＲ京葉線葛西臨海公園駅徒歩15～19分 東京メトロ東西線葛西駅バス19分コーシャハイム南葛西徒歩1～4分",
-      "built": "1986/03/25",
-      "floors": "地上１４階建",
-      "total_units": "879",
-      "term": "定期借家契約ではありません",
-      "notes": "※首都高速湾岸線による騒音が予想されます。 ※教育相談室、保育園、店舗等があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/A1522-H-3DK_2_3_4.gif"
       ]
     },
     {
