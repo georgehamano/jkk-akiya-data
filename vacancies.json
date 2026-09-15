@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T10:03:28+09:00",
+  "updated_at": "2026-09-15T10:07:44+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -63,42 +63,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/A1461-H-3DK.gif"
-      ]
-    },
-    {
-      "name": "カーメスト石川台",
-      "total": 2,
-      "rooms": {
-        "１ＤＫ": 2
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/1180510001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "56.04",
-          "rent": "168400",
-          "fee": "6600"
-        },
-        "１ＤＫ": {
-          "area": "34.3",
-          "rent": "125100～130900",
-          "fee": "6600"
-        }
-      },
-      "transport": "東急池上線石川台駅徒歩9分 東急大井町線緑が丘駅徒歩11分 東急目黒線大岡山駅徒歩14分 東急大井町線大岡山駅徒歩14分",
-      "built": "2023/12/28",
-      "floors": "地上３階建",
-      "total_units": "118",
-      "term": "25年間",
-      "notes": "Ａ号棟は住宅敷地、階段、廊下、バルコニー等の共用部と専用部（各住戸内）を全面禁煙としています。 Ｂ号棟は住宅敷地、階段、廊下、バルコニー等の共用部を全面禁煙としています。 当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されています。入居された日からインターネットがご利用になれます。 一部住戸はシャワーブースタイプです。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/1180510001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/L8811-A1-1DK_3.gif",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/L8811-A1-1DK_4.gif"
       ]
     },
     {
