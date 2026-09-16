@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T17:52:55+09:00",
+  "updated_at": "2026-09-16T17:57:36+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -110,36 +110,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000c[1].jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000d[1].jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/L1171-V-2DK.gif"
-      ]
-    },
-    {
-      "name": "新田第二",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "45.96",
-          "rent": "82900",
-          "fee": "3500"
-        }
-      },
-      "transport": "東京メトロ東西線西葛西駅徒歩15～16分 東京メトロ東西線西葛西駅バス3分新田住宅徒歩3～5分",
-      "built": "1979/06/30",
-      "floors": "地上１２階建 他",
-      "total_units": "571",
-      "term": "定期借家契約ではありません",
-      "notes": "※敷地内に医療施設、学習・教育相談室、保育園、店舗等があります。 ※当住宅は新田住宅のフロントスタッフが管理しております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/A1301-K-2DK.gif"
       ]
     },
     {
