@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T15:27:45+09:00",
+  "updated_at": "2026-09-16T15:33:24+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -80,6 +80,116 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム向原ガーデンコート",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/1980342001.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "61.42",
+          "rent": "174300",
+          "fee": "5400"
+        },
+        "１ＤＫ": {
+          "area": "34.72",
+          "rent": "99900",
+          "fee": "5400"
+        },
+        "２Ｋ": {
+          "area": "41.03",
+          "rent": "118500",
+          "fee": "5400"
+        }
+      },
+      "transport": "西武有楽町線小竹向原駅徒歩3～5分 東京メトロ有楽町線小竹向原駅徒歩3～5分 東京メトロ副都心線小竹向原駅徒歩3～5分",
+      "built": "2018/06/01",
+      "floors": "地上８階建て（地下１階）",
+      "total_units": "333",
+      "term": "25年間",
+      "notes": "※電気自動車用充電設備付駐車場があります。 ※東京都が義務付けた環境配慮等の取組みについて評価を受けています。 ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/1980342001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/198034200d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980342/L8734-C2-2K.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム光が丘第一",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.17",
+          "rent": "101100",
+          "fee": "3200"
+        },
+        "２ＬＤＫ": {
+          "area": "60.17",
+          "rent": "100100",
+          "fee": "3200"
+        }
+      },
+      "transport": "都営地下鉄大江戸線光が丘駅徒歩8～9分 東武東上線成増駅バス23分光が丘南通り徒歩2～5分 西武池袋線練馬高野台駅バス17分光が丘南通り徒歩3～5分 東京メトロ有楽町線地下鉄成増駅バス23分光が丘南通り徒歩2～5分 東京メトロ副都心線地下鉄成増駅バス23分光が丘南通り徒歩2～5分",
+      "built": "1984/03/01",
+      "floors": "地上１４階建",
+      "total_units": "445",
+      "term": "定期借家契約ではありません",
+      "notes": "※給湯は一部住戸のみ3ヶ所です。（他は2ヶ所です） ※熱給湯システム（東京熱供給株式会社に申込が必要です）採用につき別途使用料が必要です。 ※学童クラブ、教育相談所、保育園があります。敷地内に交番があります。 ※当住宅のフロントスタッフはコーシャハイム光が丘第二の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/208006000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/208006000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/208006000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/208006000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/A1482-H-3DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム光が丘第二",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/2080070004.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "60.17",
+          "rent": "104300",
+          "fee": "3400"
+        },
+        "３ＤＫ": {
+          "area": "60.17",
+          "rent": "105300",
+          "fee": "3400"
+        }
+      },
+      "transport": "都営地下鉄大江戸線光が丘駅徒歩6分 東武東上線成増駅バス23分光が丘南通り徒歩4分 西武池袋線練馬高野台駅バス17分光が丘南通り徒歩5分 東京メトロ副都心線地下鉄成増駅バス23分光が丘南通り徒歩4分 東京メトロ有楽町線地下鉄成増駅バス23分光が丘南通り徒歩4分",
+      "built": "1985/03/24",
+      "floors": "地上１４階建",
+      "total_units": "331",
+      "term": "定期借家契約ではありません",
+      "notes": "※熱給湯システム（東京熱供給株式会社に申込が必要です）採用につき、別途使用料が必要です。 ※1階部分に医療施設があります。 ※当住宅はコーシャハイム光が丘第一のフロントスタッフが管理しております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/2080070004.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/208007000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/208007000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/208007000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/208007000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/A1492-H-3DK.gif"
       ]
     },
     {
@@ -234,16 +344,17 @@
     },
     {
       "name": "高ケ坂",
-      "total": 2,
+      "total": 4,
       "rooms": {
-        "２Ｋ": 2
+        "２Ｋ": 3,
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
       "location": "町田市",
       "room_details": {
         "２Ｋ": {
           "area": "32.85",
-          "rent": "39400",
+          "rent": "38400～39400",
           "fee": "1400"
         },
         "３Ｋ": {
@@ -253,7 +364,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "40300",
+          "rent": "40800",
           "fee": "1400"
         }
       },
