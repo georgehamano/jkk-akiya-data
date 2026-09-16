@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T14:32:52+09:00",
+  "updated_at": "2026-09-16T14:37:43+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -584,9 +584,9 @@
     },
     {
       "name": "落合",
-      "total": 4,
+      "total": 5,
       "rooms": {
-        "３ＤＫ": 4
+        "３ＤＫ": 5
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
