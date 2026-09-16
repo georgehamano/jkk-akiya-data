@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T16:42:54+09:00",
+  "updated_at": "2026-09-16T16:47:48+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -110,36 +110,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/238001000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/238001000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/L0961-W-2DK.gif"
-      ]
-    },
-    {
-      "name": "春江町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "41.25",
-          "rent": "64000",
-          "fee": "2900"
-        }
-      },
-      "transport": "都営地下鉄新宿線瑞江駅徒歩17～18分 都営地下鉄新宿線一之江駅バス11分京葉口徒歩2～4分 都営地下鉄新宿線瑞江駅バス12分京葉口徒歩2～4分 ＪＲ総武線小岩駅バス23分京葉口徒歩2～4分",
-      "built": "1972/06/10",
-      "floors": "地上１１階建",
-      "total_units": "399",
-      "term": "10年間",
-      "notes": "※給湯はリフレッシュ住戸は３ヶ所です。（他は２ヶ所です） ※建物の耐震改修工事に伴い、一部住戸のバルコニー及び窓の外側に耐震構造材（斜材）を設置しているため、 眺望・採光等への影響があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000a[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000b[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000c[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000d[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/G0971-V-2DK.gif"
       ]
     },
     {
