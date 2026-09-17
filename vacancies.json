@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T12:03:48+09:00",
+  "updated_at": "2026-09-17T12:07:40+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -32,11 +32,10 @@
     },
     {
       "name": "コーシャハイム久我山",
-      "total": 3,
+      "total": 2,
       "rooms": {
         "２Ｋ": 1,
-        "２ＤＫ": 1,
-        "２ＬＤＫ": 1
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280850/1280850000.jpg",
       "location": "世田谷区",
