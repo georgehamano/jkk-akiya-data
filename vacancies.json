@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T19:42:42+09:00",
+  "updated_at": "2026-09-17T19:47:42+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -325,13 +325,12 @@
     },
     {
       "name": "多摩川",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 1,
-        "３ＤＫ": 1
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
-      "location": "調布市",
+      "location": "狛江市",
       "room_details": {
         "３Ｋ": {
           "area": "44.52",
