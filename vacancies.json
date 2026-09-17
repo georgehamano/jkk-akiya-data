@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T17:04:10+09:00",
+  "updated_at": "2026-09-17T17:07:54+09:00",
   "properties": [
     {
       "name": "トミンタワー飯田橋三丁目",
@@ -34,41 +34,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/C5156-V1R2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャタワー佃",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/0280070001.jpg",
-      "location": "中央区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "49.77",
-          "rent": "210600",
-          "fee": "5300"
-        },
-        "４ＬＤＫ": {
-          "area": "87.26",
-          "rent": "371000",
-          "fee": "5300"
-        }
-      },
-      "transport": "東京メトロ有楽町線月島駅徒歩6分 都営地下鉄大江戸線月島駅徒歩6分",
-      "built": "1991/03/08",
-      "floors": "地上３７階建",
-      "total_units": "426",
-      "term": "定期借家契約ではありません",
-      "notes": "※管理上、居室内に立ち入る場合があります。 ※網戸は１５階以上の住戸には設置していません。 ※コインパーキンがあります。※カーシェアリングを設置しています。 ※サイクルシェアポートがあります。（予告なく廃止する場合があります。）",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/0280070001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/028007000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/028007000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/028007000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/028007000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0280070/C1673-V1R2-1LDK.gif"
       ]
     },
     {
