@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T17:12:52+09:00",
+  "updated_at": "2026-09-17T17:17:55+09:00",
   "properties": [
     {
       "name": "トミンタワー飯田橋三丁目",
@@ -180,41 +180,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/A1532-HW-3DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム清新",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "63.04",
-          "rent": "108300",
-          "fee": "4300"
-        },
-        "２ＬＤＫ": {
-          "area": "63.04",
-          "rent": "135800",
-          "fee": "4300"
-        }
-      },
-      "transport": "東京メトロ東西線西葛西駅徒歩10～12分",
-      "built": "1983/01/19",
-      "floors": "地上１１階建",
-      "total_units": "322",
-      "term": "定期借家契約ではありません",
-      "notes": "※当住宅北西側に鉄橋があり電車による騒音が予想されます。 ※敷地内ににコミュニティ会館、保育園があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/A1421-H-3DK.gif"
       ]
     },
     {
