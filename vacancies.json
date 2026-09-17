@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T15:27:48+09:00",
+  "updated_at": "2026-09-17T15:32:55+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -120,36 +120,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/L1843-V5-2DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム加賀",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/1980350001.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "37.51",
-          "rent": "100500",
-          "fee": "4900"
-        }
-      },
-      "transport": "ＪＲ埼京線十条駅徒歩8分 都営地下鉄三田線板橋区役所前駅徒歩15分",
-      "built": "2015/08/31",
-      "floors": "地上８階建",
-      "total_units": "78",
-      "term": "25年間",
-      "notes": "※敷地東側に隣接して学校があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/1980350001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/198035000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/198035000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/198035000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/198035000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/L8702-A1-1DK.gif"
       ]
     },
     {
