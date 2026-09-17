@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T15:17:41+09:00",
+  "updated_at": "2026-09-17T15:23:03+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -83,6 +83,106 @@
       ]
     },
     {
+      "name": "コーシャハイム坂下",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "54.88",
+          "rent": "107000",
+          "fee": "6400"
+        },
+        "２ＬＤＫ": {
+          "area": "54.88",
+          "rent": "117000",
+          "fee": "6400"
+        },
+        "３ＤＫ": {
+          "area": "62.23",
+          "rent": "123400",
+          "fee": "6400"
+        }
+      },
+      "transport": "都営地下鉄三田線蓮根駅徒歩3～6分",
+      "built": "2005/03/17",
+      "floors": "地上８階建（一部７階建）",
+      "total_units": "430",
+      "term": "25年間",
+      "notes": "※保育所・地域施設があります。 ※駐車場は改修工事をしています。（完了時期未定）工事期間中は新規募集を停止しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/L1843-V5-2DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム加賀",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/1980350001.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "１ＤＫ": {
+          "area": "37.51",
+          "rent": "100500",
+          "fee": "4900"
+        }
+      },
+      "transport": "ＪＲ埼京線十条駅徒歩8分 都営地下鉄三田線板橋区役所前駅徒歩15分",
+      "built": "2015/08/31",
+      "floors": "地上８階建",
+      "total_units": "78",
+      "term": "25年間",
+      "notes": "※敷地東側に隣接して学校があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/1980350001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/198035000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/198035000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/198035000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/198035000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980350/L8702-A1-1DK.gif"
+      ]
+    },
+    {
+      "name": "八王子泉町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/3180040000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "29800",
+          "fee": "2500"
+        }
+      },
+      "transport": "ＪＲ中央線西八王子駅バス27分泉町住宅徒歩1～3分 ＪＲ中央線八王子駅バス24分四谷中入口徒歩3～5分 ＪＲ横浜線八王子駅バス24分四谷中入口徒歩3～5分 ＪＲ八高線八王子駅バス24分四谷中入口徒歩3～5分 京王京王線京王八王子駅バス29分四谷中入口徒歩3～5分",
+      "built": "1972/02/01",
+      "floors": "地上５階建",
+      "total_units": "291",
+      "term": "5年間",
+      "notes": "※給湯は２ヶ所です。 ※横田基地を使用する航空機による騒音が予想されます。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/3180040000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/3180040003.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/3180040005.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/3180040006.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/3180040007.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180040/A0911-BN-2DK.gif"
+      ]
+    },
+    {
       "name": "松枝",
       "total": 1,
       "rooms": {
@@ -146,6 +246,81 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/A1311-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "トミンハイム南大沢東",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/3180410000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "75.75",
+          "rent": "82200",
+          "fee": "6000"
+        },
+        "２ＬＤＫ": {
+          "area": "66.17",
+          "rent": "72700",
+          "fee": "6000"
+        }
+      },
+      "transport": "京王相模原線南大沢駅徒歩17～20分 京王相模原線南大沢駅バス5分南大沢団地徒歩3～6分",
+      "built": "1998/02/20",
+      "floors": "地上６階建",
+      "total_units": "226",
+      "term": "定期借家契約ではありません",
+      "notes": "※横田基地を使用する航空機による騒音が予想されます。 ※テレビ受信については別途ケーブルテレビ会社との契約が必要です。（有料） ※２号棟にエレベーターは設置していません。渡り廊下を使って、３号棟のエレベーターをご利用ください。 ※当住宅のフロントスタッフはトミンハイム南大沢西の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/3180410000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/318041000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/318041000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/318041000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/318041000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180410/T0242-L1-2LDK.gif"
+      ]
+    },
+    {
+      "name": "トミンハイム鑓水",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180450/3180450000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "67.85",
+          "rent": "85900",
+          "fee": "6800"
+        },
+        "３ＬＤＫ": {
+          "area": "76.75",
+          "rent": "98000",
+          "fee": "6800"
+        },
+        "２ＤＫ": {
+          "area": "56.69",
+          "rent": "75500",
+          "fee": "6800"
+        }
+      },
+      "transport": "京王相模原線南大沢駅徒歩17～20分 京王相模原線南大沢駅バス7分三徳プラザ前徒歩2～5分 京王相模原線南大沢駅バス9分児童公園徒歩2～4分",
+      "built": "1998/02/27",
+      "floors": "１０階建",
+      "total_units": "300",
+      "term": "定期借家契約ではありません",
+      "notes": "※横田基地を使用する航空機による騒音が予想されます。 ※テレビ受信について別途ケーブルテレビ会社との契約が必要です。（有料） ※３号棟にエレベーターはありません。　※コインパーキングがあります。 ※カーシェアリングを設置しています。　※駐車場シェアリング（予約制駐車場）区画があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180450/3180450000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180450/318045000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180450/318045000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180450/318045000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180450/318045000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180450/T0312-V2-2DK_2.gif"
       ]
     },
     {
