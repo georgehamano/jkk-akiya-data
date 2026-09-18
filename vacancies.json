@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T15:27:51+09:00",
+  "updated_at": "2026-09-18T15:32:54+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -518,9 +518,9 @@
     },
     {
       "name": "小金井貫井",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 2
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020002.jpg",
       "location": "小金井市",
