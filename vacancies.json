@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-09-18T11:37:48+09:00",
+  "updated_at": "2026-09-18T11:42:49+09:00",
   "properties": [
-    {
-      "name": "トミンハイム薬王寺",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480171/0480171001.jpg",
-      "location": "新宿区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "40.83",
-          "rent": "104900",
-          "fee": "5400"
-        }
-      },
-      "transport": "都営地下鉄新宿線曙橋駅徒歩6分 都営地下鉄大江戸線牛込柳町駅徒歩8分 都営地下鉄大江戸線若松河田駅徒歩9分",
-      "built": "1998/05/27",
-      "floors": "地上１１階建",
-      "total_units": "48",
-      "term": "15年間",
-      "notes": "※近隣の医療施設等による騒音が予想されます。 ※当住宅はトミンハイム仲之町の管理も行っております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480171/0480171001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480171/048017100a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480171/048017100b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480171/048017100c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480171/048017100d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480171/L8031-AL1-1LDK.gif"
-      ]
-    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 2,
