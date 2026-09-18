@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T11:54:16+09:00",
+  "updated_at": "2026-09-18T11:57:45+09:00",
   "properties": [
     {
       "name": "辰巳しののめ",
@@ -617,11 +617,10 @@
     },
     {
       "name": "本町田",
-      "total": 3,
+      "total": 2,
       "rooms": {
         "２Ｋ": 1,
-        "２ＤＫ": 1,
-        "２ＤＫＳ": 1
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
       "location": "町田市",
