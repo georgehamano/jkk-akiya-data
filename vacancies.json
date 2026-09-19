@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T08:47:40+09:00",
+  "updated_at": "2026-09-20T08:50:11+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -560,9 +560,9 @@
     },
     {
       "name": "久留米西",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＤＫＳ": 3
+        "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
       "location": "東久留米市",
