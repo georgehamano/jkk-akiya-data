@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T17:32:50+09:00",
+  "updated_at": "2026-09-21T17:37:37+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -560,36 +560,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/A1112-NS-3DK.gif"
-      ]
-    },
-    {
-      "name": "落合三丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480110/5480110000.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "58.42",
-          "rent": "72600",
-          "fee": "3500"
-        }
-      },
-      "transport": "京王相模原線京王多摩センター駅徒歩12～14分 小田急多摩線小田急多摩センター駅徒歩12～14分 多摩都市モノレール多摩都市モノレール多摩センター駅徒歩12～14分 京王相模原線京王多摩センター駅バス3分豊ヶ丘小学校徒歩4～5分 小田急多摩線小田急多摩センター駅バス3分豊ヶ丘小学校徒歩4～5分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
-      "built": "1980/02/29",
-      "floors": "地上５階建",
-      "total_units": "160",
-      "term": "定期借家契約ではありません",
-      "notes": "※当住宅は落合住宅のフロントスタッフが管理しております。 ※給湯は２ヶ所です。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480110/5480110000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480110/548011000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480110/548011000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480110/548011000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480110/548011000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480110/A1321-NS-3DK.gif"
       ]
     }
   ]
