@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T17:52:38+09:00",
+  "updated_at": "2026-09-22T17:57:45+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -85,36 +85,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "松枝",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "35.52",
-          "rent": "31400",
-          "fee": "3200"
-        }
-      },
-      "transport": "ＪＲ中央線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ横浜線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ八高線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ中央線西八王子駅バス30分松枝住宅徒歩1～5分 京王京王線京王八王子駅バス32分松枝住宅徒歩1～5分",
-      "built": "1976/02/28",
-      "floors": "地上７階建",
-      "total_units": "545",
-      "term": "5年間",
-      "notes": "※エレベータは７階建（２、３、６、７号棟）のみ設置されています。 ※給湯は２ヶ所です。 ※保育園、店舗等があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/A1141-V-2DK.gif"
       ]
     },
     {
