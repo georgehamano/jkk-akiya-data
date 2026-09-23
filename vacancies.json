@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:52:44+09:00",
+  "updated_at": "2026-09-23T15:57:36+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -120,51 +120,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/A1311-KN-2DK.gif"
-      ]
-    },
-    {
-      "name": "本町田",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "38000",
-          "fee": "1100"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "41500",
-          "fee": "1100"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "57000",
-          "fee": "1100"
-        },
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "57800",
-          "fee": "1100"
-        }
-      },
-      "transport": "ＪＲ横浜線町田駅バス11分ストアー前徒歩2～7分 小田急小田原線町田駅バス11分ストアー前徒歩2～7分",
-      "built": "1965/04/10",
-      "floors": "地上５階建",
-      "total_units": "918",
-      "term": "5年間",
-      "notes": "※航空機による騒音が予想されます（不定期）※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※保育園、店舗等があります。　※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/L0771-C-2K.gif"
       ]
     },
     {
