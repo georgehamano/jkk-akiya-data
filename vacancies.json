@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T16:07:38+09:00",
+  "updated_at": "2026-09-24T16:13:16+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -88,6 +88,36 @@
       ]
     },
     {
+      "name": "西台",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/1980150005.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "43.21",
+          "rent": "75800",
+          "fee": "3000"
+        }
+      },
+      "transport": "都営地下鉄三田線西台駅徒歩2分",
+      "built": "1972/12/05",
+      "floors": "地上１４階建",
+      "total_units": "399",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/1980150005.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/198015000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/198015000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/198015000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/198015000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980150/A1011-H-3DK.gif"
+      ]
+    },
+    {
       "name": "横川町",
       "total": 2,
       "rooms": {
@@ -150,6 +180,41 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/A1191-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "昭島田中町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
+      "location": "昭島市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "39.98",
+          "rent": "39300",
+          "fee": "2400"
+        },
+        "３ＤＫ": {
+          "area": "58.28",
+          "rent": "54000",
+          "fee": "2400"
+        }
+      },
+      "transport": "ＪＲ青梅線昭島駅バス19分田中町団地徒歩1～6分 ＪＲ中央線立川駅バス29分田中徒歩3～8分 ＪＲ青梅線立川駅バス29分田中徒歩3～8分 ＪＲ南武線立川駅バス29分田中徒歩3～8分",
+      "built": "1979/03/01",
+      "floors": "地上５階建",
+      "total_units": "897",
+      "term": "定期借家契約ではありません",
+      "notes": "※航空機等による騒音が予想されます※エレベータは17号棟のみ設置されています。 ※敷地内に保育園、学童クラブ、医療施設、店舗等があります。※給湯は２ヶ所です。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/A1272-KN-2DK.gif"
       ]
     },
     {
