@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-09-24T13:38:36+09:00",
+  "updated_at": "2026-09-24T13:42:45+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム高田馬場",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/0480190000.jpg",
-      "location": "新宿区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "47.36",
-          "rent": "150300",
-          "fee": "6800"
-        },
-        "１ＬＤＫ": {
-          "area": "44.92",
-          "rent": "140500",
-          "fee": "6800"
-        }
-      },
-      "transport": "ＪＲ山手線高田馬場駅徒歩3～4分 西武新宿線高田馬場駅徒歩3～4分 東京メトロ東西線高田馬場駅徒歩7～8分",
-      "built": "2002/10/02",
-      "floors": "地上５階建",
-      "total_units": "154",
-      "term": "25年間",
-      "notes": "※コインパーキングがあります。　※電気自動車用充電設備付駐車場があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/0480190000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/L8111-ALA-1LDK.gif"
-      ]
-    },
     {
       "name": "西大島",
       "total": 1,
