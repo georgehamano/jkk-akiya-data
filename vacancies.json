@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T10:57:36+09:00",
+  "updated_at": "2026-09-24T11:02:57+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -297,26 +297,28 @@
     },
     {
       "name": "久留米西",
-      "total": 2,
+      "total": 5,
       "rooms": {
-        "２ＤＫＳ": 2
+        "２Ｋ": 1,
+        "２ＤＫ": 1,
+        "２ＤＫＳ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
       "location": "東久留米市",
       "room_details": {
         "２Ｋ": {
           "area": "32.85",
-          "rent": "30700",
+          "rent": "31600",
           "fee": "2000"
         },
         "２ＤＫＳ": {
           "area": "51.74",
-          "rent": "47700～48200",
+          "rent": "46900",
           "fee": "2000"
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "33800",
+          "rent": "33300",
           "fee": "2000"
         },
         "３Ｋ": {
@@ -338,6 +340,71 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/528002000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/528002000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/A0862-B-2DK.gif"
+      ]
+    },
+    {
+      "name": "久留米下里",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.48",
+          "rent": "38400",
+          "fee": "1400"
+        },
+        "３Ｋ": {
+          "area": "38.48",
+          "rent": "47100",
+          "fee": "1400"
+        }
+      },
+      "transport": "西武池袋線清瀬駅バス13分下里団地徒歩1～4分 西武新宿線花小金井駅バス26分下里団地徒歩1～4分",
+      "built": "1973/03/18",
+      "floors": "地上５階建",
+      "total_units": "685",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）※敷地内に保育園、店舗等があります。 ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/528003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/528003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/528003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/528003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/A1001-BN-2DK.gif"
+      ]
+    },
+    {
+      "name": "下里第二",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/5280040000.jpg",
+      "location": "東久留米市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "63.38",
+          "rent": "68300",
+          "fee": "1400"
+        }
+      },
+      "transport": "西武池袋線清瀬駅バス12分押出し橋徒歩4～5分",
+      "built": "1982/08/31",
+      "floors": "地上５階建",
+      "total_units": "241",
+      "term": "定期借家契約ではありません",
+      "notes": "※給湯は２ヶ所です。 ※学童保育所があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/5280040000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/528004000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/528004000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/528004000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/528004000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/A1411-NN-3DK.gif"
       ]
     },
     {
