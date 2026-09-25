@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T06:22:41+09:00",
+  "updated_at": "2026-09-26T06:27:39+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -604,9 +604,8 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 1,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
