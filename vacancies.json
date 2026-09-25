@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-09-25T17:09:17+09:00",
+  "updated_at": "2026-09-25T17:12:42+09:00",
   "properties": [
-    {
-      "name": "西大島",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/0880170000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "47.7",
-          "rent": "87800",
-          "fee": "3900"
-        }
-      },
-      "transport": "都営地下鉄新宿線西大島駅徒歩5～6分",
-      "built": "1980/09/16",
-      "floors": "地上９階建",
-      "total_units": "207",
-      "term": "定期借家契約ではありません",
-      "notes": "※エレベーター停止階は８号棟が４・７階、９号棟が５・８階のみです。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/0880170000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/A1341-KN-2DK.gif"
-      ]
-    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
