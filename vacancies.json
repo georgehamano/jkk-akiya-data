@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T17:12:42+09:00",
+  "updated_at": "2026-09-25T17:17:42+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -170,86 +170,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム新中野テラス",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "45.71",
-          "rent": "156200",
-          "fee": "6300"
-        },
-        "１ＤＫ": {
-          "area": "35.61",
-          "rent": "123100",
-          "fee": "6300"
-        },
-        "２Ｋ": {
-          "area": "39.98",
-          "rent": "139600",
-          "fee": "6300"
-        },
-        "２ＤＫ": {
-          "area": "45.27",
-          "rent": "154900",
-          "fee": "6300"
-        }
-      },
-      "transport": "東京メトロ丸ノ内線中野富士見町駅徒歩7分 東京メトロ丸ノ内線新中野駅徒歩9分",
-      "built": "2020/07/21",
-      "floors": "地上５階建て",
-      "total_units": "85",
-      "term": "25年間",
-      "notes": "当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されてます。入居された日からインターネットがご利用になれます。エレベータは 専用アプリを使用し、スマートフォンで自動呼出しを行うことができます。別敷地駐車場、風除室、メール コーナー投函側、マルチサロン和み、シアターリビング、エレベータ内に防犯カメラを設置しています。電気自 動車用充電設備付駐車場があります。全住戸の浴室にミストサウナ機能付き浴室暖房乾燥機を設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260002.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260003.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260004.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260005.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/L8754-C-2K_105.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム南葛西五丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.47",
-          "rent": "94800",
-          "fee": "3100"
-        },
-        "２ＬＤＫ": {
-          "area": "60.93",
-          "rent": "94500",
-          "fee": "3100"
-        }
-      },
-      "transport": "ＪＲ京葉線葛西臨海公園駅徒歩15～19分 東京メトロ東西線葛西駅バス19分コーシャハイム南葛西徒歩1～4分",
-      "built": "1986/03/25",
-      "floors": "地上１４階建",
-      "total_units": "879",
-      "term": "定期借家契約ではありません",
-      "notes": "※首都高速湾岸線による騒音が予想されます。 ※教育相談室、保育園、店舗等があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/A1522-H-3DK_2_3_4.gif"
       ]
     },
     {
