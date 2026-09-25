@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T17:27:46+09:00",
+  "updated_at": "2026-09-25T17:32:50+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -37,9 +37,9 @@
     },
     {
       "name": "コーシャハイム大森東",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３ＤＫ": 2
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/1180210000.jpg",
       "location": "大田区",
