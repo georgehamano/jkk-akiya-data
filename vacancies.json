@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T16:18:20+09:00",
+  "updated_at": "2026-09-25T16:22:45+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -120,41 +120,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/A1311-KN-2DK.gif"
-      ]
-    },
-    {
-      "name": "昭島田中町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
-      "location": "昭島市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "39.98",
-          "rent": "39300",
-          "fee": "2400"
-        },
-        "３ＤＫ": {
-          "area": "58.28",
-          "rent": "54000",
-          "fee": "2400"
-        }
-      },
-      "transport": "ＪＲ青梅線昭島駅バス19分田中町団地徒歩1～6分 ＪＲ中央線立川駅バス29分田中徒歩3～8分 ＪＲ青梅線立川駅バス29分田中徒歩3～8分 ＪＲ南武線立川駅バス29分田中徒歩3～8分",
-      "built": "1979/03/01",
-      "floors": "地上５階建",
-      "total_units": "897",
-      "term": "定期借家契約ではありません",
-      "notes": "※航空機等による騒音が予想されます※エレベータは17号棟のみ設置されています。 ※敷地内に保育園、学童クラブ、医療施設、店舗等があります。※給湯は２ヶ所です。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/A1272-KN-2DK.gif"
       ]
     },
     {
@@ -523,9 +488,9 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
@@ -542,7 +507,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "43100",
+          "rent": "43800",
           "fee": "1900"
         }
       },
