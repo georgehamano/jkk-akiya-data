@@ -1,11 +1,12 @@
 {
-  "updated_at": "2026-09-25T13:32:46+09:00",
+  "updated_at": "2026-09-25T13:38:16+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "２ＬＤＫ": 1
+        "２ＬＤＫ": 1,
+        "３ＬＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/0980190000.jpg",
       "location": "品川区",
