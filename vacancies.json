@@ -1,6 +1,101 @@
 {
-  "updated_at": "2026-09-25T16:52:42+09:00",
+  "updated_at": "2026-09-25T16:58:56+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム高田馬場",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/0480190000.jpg",
+      "location": "新宿区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "47.36",
+          "rent": "150300",
+          "fee": "6800"
+        },
+        "１ＬＤＫ": {
+          "area": "44.92",
+          "rent": "140500",
+          "fee": "6800"
+        }
+      },
+      "transport": "ＪＲ山手線高田馬場駅徒歩3～4分 西武新宿線高田馬場駅徒歩3～4分 東京メトロ東西線高田馬場駅徒歩7～8分",
+      "built": "2002/10/02",
+      "floors": "地上５階建",
+      "total_units": "154",
+      "term": "25年間",
+      "notes": "※コインパーキングがあります。　※電気自動車用充電設備付駐車場があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/0480190000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/L8111-ALA-1LDK.gif"
+      ]
+    },
+    {
+      "name": "西大島",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/0880170000.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "47.7",
+          "rent": "87800",
+          "fee": "3900"
+        }
+      },
+      "transport": "都営地下鉄新宿線西大島駅徒歩5～6分",
+      "built": "1980/09/16",
+      "floors": "地上９階建",
+      "total_units": "207",
+      "term": "定期借家契約ではありません",
+      "notes": "※エレベーター停止階は８号棟が４・７階、９号棟が５・８階のみです。 ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/0880170000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/A1341-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "辰巳あけぼの",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "59.92",
+          "rent": "109500",
+          "fee": "2500"
+        }
+      },
+      "transport": "ＪＲ京葉線潮見駅徒歩10分 東京メトロ有楽町線辰巳駅徒歩18分",
+      "built": "1982/05/10",
+      "floors": "地上１４階建",
+      "total_units": "291",
+      "term": "定期借家契約ではありません",
+      "notes": "※港湾関連施設が多い地域にあるため、トラック等の交通混雑・騒音が予想されます。 ※共用部に防犯カメラが設置されております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/C1401-HR1-2LDK.gif"
+      ]
+    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
@@ -33,6 +128,91 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/C5361-LR1-2LDK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム大森東",
+      "total": 2,
+      "rooms": {
+        "３ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/1180210000.jpg",
+      "location": "大田区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "62.97",
+          "rent": "123500",
+          "fee": "3900"
+        },
+        "３ＤＫ": {
+          "area": "62.97",
+          "rent": "125000",
+          "fee": "3900"
+        }
+      },
+      "transport": "京浜急行京浜急行線平和島駅徒歩9～10分",
+      "built": "1983/06/15",
+      "floors": "地上１１階建",
+      "total_units": "283",
+      "term": "定期借家契約ではありません",
+      "notes": "※住宅周辺には工業団地、東京国際空港等があり騒音が予想されます。 ※4号棟1階部分に店舗等があります。　※コインパーキングがあります。 ※浴室改修団地のため、台所に給湯リモコンがある住戸とない住戸があります",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/1180210000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/A1461-H-3DK.gif"
+      ]
+    },
+    {
+      "name": "カーメスト大蔵の杜",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "40.09",
+          "rent": "129600",
+          "fee": "5300"
+        },
+        "１ＤＫ": {
+          "area": "35.05",
+          "rent": "102800",
+          "fee": "5300"
+        },
+        "２Ｋ": {
+          "area": "38.34",
+          "rent": "126600",
+          "fee": "5300"
+        },
+        "２ＬＤＫ": {
+          "area": "67.13",
+          "rent": "186000",
+          "fee": "5300"
+        },
+        "１ＬＤＫＳ": {
+          "area": "51.91",
+          "rent": "158100",
+          "fee": "5300"
+        }
+      },
+      "transport": "小田急小田原線祖師ヶ谷大蔵駅徒歩18～20分 小田急小田原線成城学園前駅徒歩19～25分 小田急小田原線成城学園前駅バス10分東宝前徒歩2～7分",
+      "built": "2022/07/01",
+      "floors": "地上９階建て",
+      "total_units": "381",
+      "term": "25年間",
+      "notes": "土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。 ８・９号棟は建物内（各住戸内も含む）及び敷地内を全面禁煙としています。 ソニーネットワークコミュニケーションズコネクト（株）が提供するインターネ ット設備（Wi-Fi機能付）が導入されてます。マルチサロン和み（６号棟のみ）、 ラウンジ（９号棟のみ）、エレベータ内に防犯カメラを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/L8772-A2a-1DK.gif"
       ]
     },
     {
@@ -88,6 +268,117 @@
       ]
     },
     {
+      "name": "コーシャハイム新中野テラス",
+      "total": 2,
+      "rooms": {
+        "２Ｋ": 1,
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260001.jpg",
+      "location": "杉並区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "45.71",
+          "rent": "156200",
+          "fee": "6300"
+        },
+        "１ＤＫ": {
+          "area": "35.61",
+          "rent": "123100",
+          "fee": "6300"
+        },
+        "２Ｋ": {
+          "area": "39.98",
+          "rent": "139600",
+          "fee": "6300"
+        },
+        "２ＤＫ": {
+          "area": "45.27",
+          "rent": "154900",
+          "fee": "6300"
+        }
+      },
+      "transport": "東京メトロ丸ノ内線中野富士見町駅徒歩7分 東京メトロ丸ノ内線新中野駅徒歩9分",
+      "built": "2020/07/21",
+      "floors": "地上５階建て",
+      "total_units": "85",
+      "term": "25年間",
+      "notes": "当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されてます。入居された日からインターネットがご利用になれます。エレベータは 専用アプリを使用し、スマートフォンで自動呼出しを行うことができます。別敷地駐車場、風除室、メール コーナー投函側、マルチサロン和み、シアターリビング、エレベータ内に防犯カメラを設置しています。電気自 動車用充電設備付駐車場があります。全住戸の浴室にミストサウナ機能付き浴室暖房乾燥機を設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260002.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260003.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260004.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260005.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/L8754-C-2K_105.gif"
+      ]
+    },
+    {
+      "name": "春江町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.25",
+          "rent": "61900",
+          "fee": "2900"
+        }
+      },
+      "transport": "都営地下鉄新宿線瑞江駅徒歩17～18分 都営地下鉄新宿線一之江駅バス11分京葉口徒歩2～4分 都営地下鉄新宿線瑞江駅バス12分京葉口徒歩2～4分 ＪＲ総武線小岩駅バス23分京葉口徒歩2～4分",
+      "built": "1972/06/10",
+      "floors": "地上１１階建",
+      "total_units": "399",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住戸は３ヶ所です。（他は２ヶ所です） ※建物の耐震改修工事に伴い、一部住戸のバルコニー及び窓の外側に耐震構造材（斜材）を設置しているため、 眺望・採光等への影響があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000a[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000b[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000c[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000d[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/G0971-V-2DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム南葛西五丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.47",
+          "rent": "94800",
+          "fee": "3100"
+        },
+        "２ＬＤＫ": {
+          "area": "60.93",
+          "rent": "94500",
+          "fee": "3100"
+        }
+      },
+      "transport": "ＪＲ京葉線葛西臨海公園駅徒歩15～19分 東京メトロ東西線葛西駅バス19分コーシャハイム南葛西徒歩1～4分",
+      "built": "1986/03/25",
+      "floors": "地上１４階建",
+      "total_units": "879",
+      "term": "定期借家契約ではありません",
+      "notes": "※首都高速湾岸線による騒音が予想されます。 ※教育相談室、保育園、店舗等があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/A1522-H-3DK_2_3_4.gif"
+      ]
+    },
+    {
       "name": "横川町",
       "total": 1,
       "rooms": {
@@ -120,6 +411,177 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/A1311-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "多摩川",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
+      "location": "狛江市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "44.52",
+          "rent": "61300",
+          "fee": "2500"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "49400",
+          "fee": "2000"
+        },
+        "２Ｋ": {
+          "area": "27.44",
+          "rent": "38800",
+          "fee": "2000"
+        },
+        "３ＤＫ": {
+          "area": "43.06",
+          "rent": "59100",
+          "fee": "2500"
+        }
+      },
+      "transport": "京王京王線国領駅徒歩15～19分調布市 小田急小田原線狛江駅徒歩25～27分調布市 小田急小田原線狛江駅バス11分シティテラス多摩川徒歩3～7分調布市 京王京王線調布駅バス19分シティテラス多摩川徒歩2～6分調布市 京王京王線国領駅徒歩17～21分狛江市\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "1966/08/01",
+      "floors": "地上５階建",
+      "total_units": "1827",
+      "term": "7年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に幼稚園、医療施設、金融機関、交番、店舗等があります。 ※コインパーキングがあります。※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/L0811-E-2K.gif"
+      ]
+    },
+    {
+      "name": "高ケ坂",
+      "total": 2,
+      "rooms": {
+        "３Ｋ": 1,
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38400",
+          "fee": "1400"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "59000",
+          "fee": "1400"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "40800",
+          "fee": "1400"
+        }
+      },
+      "transport": "ＪＲ横浜線町田駅徒歩19～23分 小田急小田原線町田駅徒歩21～25分 ＪＲ横浜線町田駅バス9分高ケ坂団地徒歩1～4分 小田急小田原線町田駅バス9分高ケ坂団地徒歩1～4分",
+      "built": "1962/04/21",
+      "floors": "地上５階建",
+      "total_units": "833",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます（不定期）※給湯はリフレッシュ住戸のみ３ヵ所です。（他は２ヶ所です） ※コインパーキングがあります。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/L0641-E-2K.gif"
+      ]
+    },
+    {
+      "name": "森野",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "45300",
+          "fee": "2600"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "51000",
+          "fee": "2600"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "59000",
+          "fee": "2600"
+        }
+      },
+      "transport": "小田急小田原線町田駅徒歩5～7分 ＪＲ横浜線町田駅徒歩5～8分",
+      "built": "1963/04/05",
+      "floors": "地上５階建",
+      "total_units": "433",
+      "term": "2030/06/30",
+      "notes": "※航空機による騒音が予想されます（不定期）。 ※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/L0671-C-2K.gif"
+      ]
+    },
+    {
+      "name": "木曽",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/3980070000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "34500",
+          "fee": "2000"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "50300",
+          "fee": "2000"
+        },
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "51800",
+          "fee": "2000"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "36700",
+          "fee": "2000"
+        }
+      },
+      "transport": "ＪＲ横浜線古淵駅徒歩17～21分 ＪＲ横浜線町田駅バス15分木曽住宅徒歩2～6分 小田急小田原線町田駅バス15分木曽住宅徒歩2～6分",
+      "built": "1963/08/03",
+      "floors": "地上５階建",
+      "total_units": "905",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます。（不定期） ※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/3980070000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/Z0711-LZ-2DKS.gif"
       ]
     },
     {
@@ -210,6 +672,101 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/Z0841-LZ2-2DKS.gif"
+      ]
+    },
+    {
+      "name": "町田木曽",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "41800",
+          "fee": "1700"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "33500",
+          "fee": "1700"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "35400",
+          "fee": "1700"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "52000",
+          "fee": "1700"
+        },
+        "１ＤＫ": {
+          "area": "32.85",
+          "rent": "35000",
+          "fee": "1700"
+        }
+      },
+      "transport": "ＪＲ横浜線町田駅バス15分山崎団地センター徒歩1～13分 小田急小田原線町田駅バス15分山崎団地センター徒歩1～13分",
+      "built": "1970/04/02",
+      "floors": "地上５階建",
+      "total_units": "4330",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます。（不定期） ※敷地内に保育園、幼稚園、医療施設、防犯拠点、店舗等があります。 ※給湯はリフレッシュ住戸、一部住戸のみ３ヶ所です。（他は２ヶ所です） ※一部住戸はシャワールームタイプです。　※コインパーキングがあります。 ※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/A0852-B-2DK.gif"
+      ]
+    },
+    {
+      "name": "カーメスト武蔵小金井",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080120/4080120001.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.94",
+          "rent": "120600",
+          "fee": "6500"
+        },
+        "２ＬＤＫ": {
+          "area": "54.71",
+          "rent": "154900",
+          "fee": "6500"
+        },
+        "３ＬＤＫ": {
+          "area": "64.79",
+          "rent": "174600",
+          "fee": "6500"
+        },
+        "１ＬＤＫ": {
+          "area": "40.26",
+          "rent": "116400",
+          "fee": "6500"
+        }
+      },
+      "transport": "ＪＲ中央線武蔵小金井駅徒歩16分 ＪＲ中央線武蔵小金井駅バス9分本町住宅徒歩3分",
+      "built": "2024/10/31",
+      "floors": "地上７階建",
+      "total_units": "244",
+      "term": "25年間",
+      "notes": "カーメスト武蔵小金井（シニア住宅）と一緒に駐車場、バイク駐車場を利用します。　住宅敷地、階段、廊下、 バルコニー等の共用部を禁煙とし、W棟以外の住棟では、専有部（各住戸内）も禁煙としています。 当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されています。入居された日からインターネットがご利用いただけます。 電気自動車区画は当社の指定する事業者と充電設備の利用契約を締結していただきます。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080120/4080120001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080120/408012000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080120/408012000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080120/408012000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080120/408012000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080120/L8834-AL1-1LDK.gif"
       ]
     },
     {
@@ -377,10 +934,10 @@
     },
     {
       "name": "久留米西",
-      "total": 3,
+      "total": 4,
       "rooms": {
         "３Ｋ": 1,
-        "２ＤＫＳ": 2
+        "２ＤＫＳ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
       "location": "東久留米市",
@@ -453,9 +1010,9 @@
     },
     {
       "name": "落合",
-      "total": 4,
+      "total": 5,
       "rooms": {
-        "３ＤＫ": 4
+        "３ＤＫ": 5
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
@@ -487,10 +1044,41 @@
       ]
     },
     {
-      "name": "平尾",
+      "name": "コーシャハイム愛宕四丁目",
       "total": 1,
       "rooms": {
-        "２ＤＫ": 1
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/5480170003.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "72.51",
+          "rent": "95400",
+          "fee": "4600"
+        }
+      },
+      "transport": "多摩都市モノレール多摩都市モノレール松が谷駅徒歩12～13分 京王相模原線京王多摩センター駅徒歩16分 小田急多摩線小田急多摩センター駅徒歩16分 多摩都市モノレール多摩都市モノレール多摩センター駅徒歩16分 京王相模原線京王多摩センター駅バス14分愛宕四丁目徒歩2～4分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "1993/08/03",
+      "floors": "地上５階建",
+      "total_units": "24",
+      "term": "定期借家契約ではありません",
+      "notes": "※当住宅は愛宕第二住宅のフロントスタッフが管理しております。 ※テレビ受信については別途ケーブル会社との契約が必要です。（有料） 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/5480170003.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/548017000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/548017000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/548017000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/548017000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/A1742-HL2-3LDK.gif"
+      ]
+    },
+    {
+      "name": "平尾",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 1,
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
@@ -502,7 +1090,7 @@
         },
         "３Ｋ": {
           "area": "39.9",
-          "rent": "54000",
+          "rent": "49500",
           "fee": "1900"
         },
         "２ＤＫ": {
