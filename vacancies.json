@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T17:03:43+09:00",
+  "updated_at": "2026-09-25T17:09:17+09:00",
   "properties": [
     {
       "name": "西大島",
@@ -204,9 +204,8 @@
     },
     {
       "name": "コーシャハイム新中野テラス",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580260/1580260001.jpg",
