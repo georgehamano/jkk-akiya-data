@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T14:37:35+09:00",
+  "updated_at": "2026-09-26T14:42:41+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -33,36 +33,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/C5361-LR1-2LDK.gif"
-      ]
-    },
-    {
-      "name": "南烏山三丁目",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/1280100000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "３Ｋ": {
-          "area": "45.19",
-          "rent": "88800",
-          "fee": "1600"
-        }
-      },
-      "transport": "京王京王線芦花公園駅徒歩4分",
-      "built": "1973/10/01",
-      "floors": "地上５階建",
-      "total_units": "40",
-      "term": "10年間",
-      "notes": "※給湯はリフレッシュ住宅のみ３ヶ所です。（他は２ヶ所です）",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/1280100000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/L1041-I-3K.gif"
       ]
     },
     {
