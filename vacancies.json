@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T14:32:52+09:00",
+  "updated_at": "2026-09-28T14:37:36+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -151,41 +151,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/A1532-HW-3DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム南大沢五丁目",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180270/3180270000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "61.97",
-          "rent": "73600",
-          "fee": "4100"
-        },
-        "３ＬＤＫ": {
-          "area": "75.83",
-          "rent": "87400",
-          "fee": "5800"
-        }
-      },
-      "transport": "京王相模原線南大沢駅徒歩18～21分 京王相模原線南大沢駅バス9分パークフィーネ前徒歩2～4分 京王相模原線南大沢駅バス9分児童公園徒歩4～6分",
-      "built": "1993/03/11",
-      "floors": "地上８階建",
-      "total_units": "151",
-      "term": "定期借家契約ではありません",
-      "notes": "※横田基地を使用する航空機による騒音が予想されます。 ※エレベータは１、６、１１号棟のみ設置されています。（１１号棟は１、３、５階のみ停止します） ※１１号棟１階部分に学童クラブがあります。 ※テレビ受信については別途ケーブルテレビ会社との契約が要です。（有料） ※カーシェアリングを設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180270/3180270000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180270/318027000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180270/318027000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180270/318027000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180270/318027000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180270/A1732-HL4-3LDK_4-8.gif"
       ]
     },
     {
