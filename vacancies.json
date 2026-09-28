@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T15:39:09+09:00",
+  "updated_at": "2026-09-28T15:43:23+09:00",
   "properties": [
     {
       "name": "トミンタワー飯田橋三丁目",
@@ -103,81 +103,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/A1461-H-3DK.gif"
-      ]
-    },
-    {
-      "name": "烏山北",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "52400",
-          "fee": "2700"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "76400",
-          "fee": "2700"
-        }
-      },
-      "transport": "京王京王線千歳烏山駅徒歩13～20分 京王井の頭線富士見ヶ丘駅徒歩14～18分 京王井の頭線久我山駅徒歩14～22分",
-      "built": "1966/02/05 他",
-      "floors": "地上５階建",
-      "total_units": "365",
-      "term": "2031/11/30",
-      "notes": "※高速道路に面した住戸は日照の影響と騒音が予想されます。 ※保育園・店舗等があります。 ※給湯はリフレッシュ住戸（１２、１３、１４号棟の一部）のみ３ヶ所です。（他は２ヶ所です）",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/1280230000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/128023000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/128023000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/128023000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/128023000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280230/L0791-C-2K.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム千歳烏山",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "45.03",
-          "rent": "143100",
-          "fee": "5300"
-        },
-        "１ＬＤＫ": {
-          "area": "40.46",
-          "rent": "122100",
-          "fee": "5300"
-        },
-        "２ＬＤＫ": {
-          "area": "52.13",
-          "rent": "164000",
-          "fee": "5300"
-        }
-      },
-      "transport": "京王京王線千歳烏山駅徒歩2～5分 京王京王線千歳烏山駅徒歩5分コーシャハイム千歳烏山（１１号棟）",
-      "built": "2010/02/16",
-      "floors": "地上５階建",
-      "total_units": "513",
-      "term": "25年間",
-      "notes": "※１～８・１１号棟は一般賃貸住宅です。（11号棟は一部）※９～１１号棟はサービス付き高齢者向け住宅 です。（11号棟は一部）※５～８号棟には温水洗浄便座・モニター付インターホンが設置されています。 ※９号棟に介護事業所、地域交流スペース（レストラン）、１２号棟に多世代交流施設（カフェ）、 保育所があります。※電気自動車用充電設備付駐車場があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840005.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840007.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840011.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/L8333-AL1-1LDK.gif"
       ]
     },
     {
@@ -575,36 +500,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/A1141-V-2DK.gif"
-      ]
-    },
-    {
-      "name": "富士見町東",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/3280070000.jpg",
-      "location": "立川市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "48.32",
-          "rent": "64800",
-          "fee": "2100"
-        }
-      },
-      "transport": "ＪＲ中央線立川駅バス10分富士見町七丁目徒歩3～4分 ＪＲ青梅線立川駅バス10分富士見町七丁目徒歩3～4分 ＪＲ南武線立川駅バス10分富士見町七丁目徒歩3～4分",
-      "built": "1978/02/10",
-      "floors": "地上５階建",
-      "total_units": "210",
-      "term": "定期借家契約ではありません",
-      "notes": "※敷地内に保育園があります。 ※当住宅は富士見町住宅のフロントスタッフが管理しております。 ※給湯は２ヶ所です。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/3280070000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/A1191-KN-2DK.gif"
       ]
     },
     {
