@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-28T13:38:32+09:00",
+  "updated_at": "2026-09-28T13:42:43+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
-      "total": 3,
+      "total": 1,
       "rooms": {
-        "２ＬＤＫ": 3
+        "２ＬＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/0980190000.jpg",
       "location": "品川区",
@@ -37,11 +37,11 @@
     },
     {
       "name": "カーメスト用賀馬事公苑",
-      "total": 27,
+      "total": 9,
       "rooms": {
-        "１ＬＤＫ": 6,
-        "２ＬＤＫ": 3,
-        "３ＬＤＫ": 18
+        "１ＬＤＫ": 2,
+        "２ＬＤＫ": 1,
+        "３ＬＤＫ": 6
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/128095001.jpg",
       "location": "世田谷区",
@@ -89,10 +89,10 @@
     },
     {
       "name": "コーシャハイム光が丘第二",
-      "total": 6,
+      "total": 2,
       "rooms": {
-        "２ＬＤＫ": 3,
-        "３ＤＫ": 3
+        "２ＬＤＫ": 1,
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/2080070004.jpg",
       "location": "練馬区",
@@ -125,9 +125,9 @@
     },
     {
       "name": "コーシャハイム光が丘第三",
-      "total": 3,
+      "total": 1,
       "rooms": {
-        "３ＤＫ": 3
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/2080080005.jpg",
       "location": "練馬区",
@@ -155,9 +155,9 @@
     },
     {
       "name": "横川町",
-      "total": 3,
+      "total": 1,
       "rooms": {
-        "３ＤＫ": 3
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
       "location": "八王子市",
@@ -190,9 +190,9 @@
     },
     {
       "name": "高ケ坂",
-      "total": 3,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 3
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
       "location": "町田市",
@@ -230,9 +230,9 @@
     },
     {
       "name": "本町田",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 2
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
       "location": "町田市",
@@ -275,9 +275,9 @@
     },
     {
       "name": "町田木曽",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
@@ -325,9 +325,9 @@
     },
     {
       "name": "平山",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 2
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg",
       "location": "日野市",
@@ -365,10 +365,10 @@
     },
     {
       "name": "大和芝中",
-      "total": 6,
+      "total": 3,
       "rooms": {
-        "２Ｋ": 2,
-        "２ＤＫＳ": 4
+        "２Ｋ": 1,
+        "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
       "location": "東大和市",
@@ -411,11 +411,11 @@
     },
     {
       "name": "大和上北台",
-      "total": 8,
+      "total": 4,
       "rooms": {
-        "３Ｋ": 2,
-        "２ＤＫ": 2,
-        "２ＤＫＳ": 4
+        "３Ｋ": 1,
+        "２ＤＫ": 1,
+        "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
       "location": "東大和市",
@@ -453,10 +453,10 @@
     },
     {
       "name": "久留米西",
-      "total": 6,
+      "total": 3,
       "rooms": {
-        "３Ｋ": 2,
-        "２ＤＫＳ": 4
+        "３Ｋ": 1,
+        "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/5280020002.jpg",
       "location": "東久留米市",
@@ -499,9 +499,9 @@
     },
     {
       "name": "久留米下里",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280030/5280030000.jpg",
       "location": "東久留米市",
@@ -534,9 +534,9 @@
     },
     {
       "name": "下里第二",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３ＤＫ": 2
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/5280040000.jpg",
       "location": "東久留米市",
@@ -564,9 +564,9 @@
     },
     {
       "name": "落合",
-      "total": 10,
+      "total": 5,
       "rooms": {
-        "３ＤＫ": 10
+        "３ＤＫ": 5
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
@@ -599,9 +599,9 @@
     },
     {
       "name": "コーシャハイム愛宕四丁目",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３ＬＤＫ": 2
+        "３ＬＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480170/5480170003.jpg",
       "location": "多摩市",
@@ -629,9 +629,9 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "３Ｋ": 2
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
