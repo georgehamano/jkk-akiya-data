@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T13:37:46+09:00",
+  "updated_at": "2026-09-29T13:42:42+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -145,36 +145,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/A1261-NN-3DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム松が谷第三",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/3180260000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "65.08",
-          "rent": "75900",
-          "fee": "4000"
-        }
-      },
-      "transport": "多摩都市モノレール多摩都市モノレール松が谷駅徒歩4分 京王相模原線京王多摩センター駅バス7分モノレール松が谷駅（山根入）徒歩5分 小田急多摩線小田急多摩センター駅バス7分モノレール松が谷駅（山根入）徒歩5分 多摩都市モノレール多摩都市モノレール多摩センター駅バス7分モノレール松が谷駅（山根入）徒歩5分",
-      "built": "1988/03/11",
-      "floors": "地上５階建",
-      "total_units": "40",
-      "term": "定期借家契約ではありません",
-      "notes": "※横田基地を使用する航空機による騒音が予想されます。 ※当住宅は松が谷住宅のフロントスタッフが管理しております。 ※駐車場は改修工事をしています。（令和8年10月完了予定）工事期間中は新規募集を停止しています。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/3180260000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/318026000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/318026000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/318026000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/318026000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/A1562-H-3DK.gif"
       ]
     },
     {
