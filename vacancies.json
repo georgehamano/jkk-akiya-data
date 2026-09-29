@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-09-29T11:22:56+09:00",
+  "updated_at": "2026-09-29T11:28:14+09:00",
   "properties": [
-    {
-      "name": "トミンタワー飯田橋三丁目",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/0180050001.jpg",
-      "location": "千代田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "75.87",
-          "rent": "272800",
-          "fee": "5200"
-        },
-        "１ＬＤＫ": {
-          "area": "59.87",
-          "rent": "235500",
-          "fee": "5200"
-        }
-      },
-      "transport": "東京メトロ東西線飯田橋駅徒歩5分 東京メトロ有楽町線飯田橋駅徒歩7分 東京メトロ南北線飯田橋駅徒歩7分 都営地下鉄大江戸線飯田橋駅徒歩7分 ＪＲ総武線飯田橋駅徒歩8分",
-      "built": "1996/02/15",
-      "floors": "地上２５階　地下３階建",
-      "total_units": "95",
-      "term": "定期借家契約ではありません",
-      "notes": "※１階～１２階は東京都の施設です。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/0180050001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/018005000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0180050/C5156-V1R2-1LDK.gif"
-      ]
-    },
     {
       "name": "西大島",
       "total": 1,
@@ -147,11 +112,11 @@
     },
     {
       "name": "カーメスト用賀馬事公苑",
-      "total": 9,
+      "total": 10,
       "rooms": {
         "１ＬＤＫ": 2,
         "２ＬＤＫ": 1,
-        "３ＬＤＫ": 6
+        "３ＬＤＫ": 7
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/128095001.jpg",
       "location": "世田谷区",
@@ -172,8 +137,8 @@
           "fee": "10000"
         },
         "３ＬＤＫ": {
-          "area": "72.11",
-          "rent": "319100",
+          "area": "65.27",
+          "rent": "290500",
           "fee": "10000"
         },
         "２ＤＫ": {
@@ -343,6 +308,41 @@
       ]
     },
     {
+      "name": "松が谷",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/3180060000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "51.38",
+          "rent": "57500",
+          "fee": "2400"
+        },
+        "２ＤＫ": {
+          "area": "35.52",
+          "rent": "42000",
+          "fee": "2400"
+        }
+      },
+      "transport": "多摩都市モノレール多摩都市モノレール松が谷駅徒歩13～14分 小田急多摩線小田急多摩センター駅バス10分松が谷小学校徒歩2～3分 京王相模原線京王多摩センター駅バス10分松が谷小学校徒歩2～3分 多摩都市モノレール多摩都市モノレール多摩センター駅バス10分松が谷小学校徒歩2～3分",
+      "built": "1976/02/28",
+      "floors": "地上５階建",
+      "total_units": "251",
+      "term": "5年間",
+      "notes": "※横田基地を使用する航空機による騒音が予想されます。※ｺｲﾝﾊﾟｰｷﾝｸﾞがあります。ｶｰｼｪｱﾘﾝｸﾞを設置して います。※給湯は2ヶ所です。（ﾘﾆｭｰｱﾙ住戸のみ3ヶ所です）※当住宅のフロントスタッフは松が谷第二　、 ｺｰｼｬﾊｲﾑ松が谷、ｺｰｼｬﾊｲﾑ松が谷、ｺｰｼｬﾊｲﾑ松が谷第二、ｺｰｼｬﾊｲﾑ松が谷第三の管理も行なっております。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/3180060000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/318006000a[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/318006000b[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/318006000c[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/318006000d[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/A1121-BW-2DK.gif"
+      ]
+    },
+    {
       "name": "松枝",
       "total": 1,
       "rooms": {
@@ -370,6 +370,66 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/A1141-V-2DK.gif"
+      ]
+    },
+    {
+      "name": "松が谷第二",
+      "total": 2,
+      "rooms": {
+        "３ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/3180130002.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "58.28",
+          "rent": "60600",
+          "fee": "4000"
+        }
+      },
+      "transport": "多摩都市モノレール多摩都市モノレール松が谷駅徒歩15～16分 京王相模原線京王多摩センター駅バス10分松が谷小学校徒歩4～5分 小田急多摩線小田急多摩センター駅バス10分松が谷小学校徒歩4～5分 多摩都市モノレール多摩都市モノレール多摩センター駅バス10分松が谷小学校徒歩4～5分",
+      "built": "1979/03/10",
+      "floors": "地上４階建",
+      "total_units": "134",
+      "term": "定期借家契約ではありません",
+      "notes": "※横田基地を使用する航空機の騒音が予想されます。※給湯は２ヶ所です。 ※当住宅は松が谷住宅のフロントスタッフが管理しております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/3180130002.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/A1261-NN-3DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム松が谷第三",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/3180260000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "65.08",
+          "rent": "75900",
+          "fee": "4000"
+        }
+      },
+      "transport": "多摩都市モノレール多摩都市モノレール松が谷駅徒歩4分 京王相模原線京王多摩センター駅バス7分モノレール松が谷駅（山根入）徒歩5分 小田急多摩線小田急多摩センター駅バス7分モノレール松が谷駅（山根入）徒歩5分 多摩都市モノレール多摩都市モノレール多摩センター駅バス7分モノレール松が谷駅（山根入）徒歩5分",
+      "built": "1988/03/11",
+      "floors": "地上５階建",
+      "total_units": "40",
+      "term": "定期借家契約ではありません",
+      "notes": "※横田基地を使用する航空機による騒音が予想されます。 ※当住宅は松が谷住宅のフロントスタッフが管理しております。 ※駐車場は改修工事をしています。（令和8年10月完了予定）工事期間中は新規募集を停止しています。 ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/3180260000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/318026000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/318026000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/318026000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/318026000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180260/A1562-H-3DK.gif"
       ]
     },
     {
