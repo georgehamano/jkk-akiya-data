@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:17:42+09:00",
+  "updated_at": "2026-09-29T12:22:44+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -318,41 +318,6 @@
       ]
     },
     {
-      "name": "昭島田中町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
-      "location": "昭島市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "39.98",
-          "rent": "39300",
-          "fee": "2400"
-        },
-        "３ＤＫ": {
-          "area": "58.28",
-          "rent": "54000",
-          "fee": "2400"
-        }
-      },
-      "transport": "ＪＲ青梅線昭島駅バス19分田中町団地徒歩1～6分 ＪＲ中央線立川駅バス29分田中徒歩3～8分 ＪＲ青梅線立川駅バス29分田中徒歩3～8分 ＪＲ南武線立川駅バス29分田中徒歩3～8分",
-      "built": "1979/03/01",
-      "floors": "地上５階建",
-      "total_units": "897",
-      "term": "定期借家契約ではありません",
-      "notes": "※航空機等による騒音が予想されます※エレベータは17号棟のみ設置されています。 ※敷地内に保育園、学童クラブ、医療施設、店舗等があります。※給湯は２ヶ所です。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/A1272-KN-2DK.gif"
-      ]
-    },
-    {
       "name": "高ケ坂",
       "total": 1,
       "rooms": {
@@ -435,51 +400,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/L0771-C-2K.gif"
-      ]
-    },
-    {
-      "name": "境川",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
-      "location": "町田市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "39300",
-          "fee": "1800"
-        },
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "47000",
-          "fee": "1800"
-        },
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "60700",
-          "fee": "1800"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "40800",
-          "fee": "1800"
-        }
-      },
-      "transport": "ＪＲ横浜線古淵駅徒歩8～15分 ＪＲ横浜線町田駅バス11分境川団地中央徒歩1～8分 小田急小田原線町田駅バス11分境川団地中央徒歩1～8分 ＪＲ横浜線淵野辺駅バス19分境川団地中央徒歩1～8分",
-      "built": "1968/06/22",
-      "floors": "地上５階建",
-      "total_units": "2239",
-      "term": "5年間",
-      "notes": "※航空機による騒音が予想されます(不定期)。※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、幼稚園、店舗等があります。　※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/Z0841-LZ2-2DKS.gif"
       ]
     },
     {
