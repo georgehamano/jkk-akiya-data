@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-09-29T15:02:54+09:00",
+  "updated_at": "2026-09-29T15:07:41+09:00",
   "properties": [
-    {
-      "name": "辰巳あけぼの",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "59.92",
-          "rent": "106300",
-          "fee": "2500"
-        }
-      },
-      "transport": "ＪＲ京葉線潮見駅徒歩10分 東京メトロ有楽町線辰巳駅徒歩18分",
-      "built": "1982/05/10",
-      "floors": "地上１４階建",
-      "total_units": "291",
-      "term": "定期借家契約ではありません",
-      "notes": "※港湾関連施設が多い地域にあるため、トラック等の交通混雑・騒音が予想されます。 ※共用部に防犯カメラが設置されております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/C1401-HR1-2LDK.gif"
-      ]
-    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
