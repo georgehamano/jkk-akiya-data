@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T17:47:41+09:00",
+  "updated_at": "2026-09-30T17:52:44+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -220,36 +220,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/A1141-V-2DK.gif"
-      ]
-    },
-    {
-      "name": "松が谷第二",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/3180130002.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "58.28",
-          "rent": "60600",
-          "fee": "4000"
-        }
-      },
-      "transport": "多摩都市モノレール多摩都市モノレール松が谷駅徒歩15～16分 京王相模原線京王多摩センター駅バス10分松が谷小学校徒歩4～5分 小田急多摩線小田急多摩センター駅バス10分松が谷小学校徒歩4～5分 多摩都市モノレール多摩都市モノレール多摩センター駅バス10分松が谷小学校徒歩4～5分",
-      "built": "1979/03/10",
-      "floors": "地上４階建",
-      "total_units": "134",
-      "term": "定期借家契約ではありません",
-      "notes": "※横田基地を使用する航空機の騒音が予想されます。※給湯は２ヶ所です。 ※当住宅は松が谷住宅のフロントスタッフが管理しております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/3180130002.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/A1261-NN-3DK.gif"
       ]
     },
     {
