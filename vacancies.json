@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:17:41+09:00",
+  "updated_at": "2026-10-01T13:22:42+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -179,9 +179,9 @@
     },
     {
       "name": "コーシャハイム光が丘第二",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＬＤＫ": 2
+        "２ＬＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080070/2080070004.jpg",
       "location": "練馬区",
