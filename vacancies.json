@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T11:42:36+09:00",
+  "updated_at": "2026-10-02T11:47:45+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -150,6 +150,144 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/A1191-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "高ケ坂",
+      "total": 4,
+      "rooms": {
+        "２Ｋ": 2,
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "27.44",
+          "rent": "31600",
+          "fee": "1400"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "59000",
+          "fee": "1400"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "40800",
+          "fee": "1400"
+        }
+      },
+      "transport": "ＪＲ横浜線町田駅徒歩19～23分 小田急小田原線町田駅徒歩21～25分 ＪＲ横浜線町田駅バス9分高ケ坂団地徒歩1～4分 小田急小田原線町田駅バス9分高ケ坂団地徒歩1～4分",
+      "built": "1962/04/21",
+      "floors": "地上５階建",
+      "total_units": "833",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます（不定期）※給湯はリフレッシュ住戸のみ３ヵ所です。（他は２ヶ所です） ※コインパーキングがあります。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/L0641-E-2K.gif"
+      ]
+    },
+    {
+      "name": "境川",
+      "total": 4,
+      "rooms": {
+        "２Ｋ": 2,
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38400",
+          "fee": "1800"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "47000",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "60700",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "41800",
+          "fee": "1800"
+        }
+      },
+      "transport": "ＪＲ横浜線古淵駅徒歩8～15分 ＪＲ横浜線町田駅バス11分境川団地中央徒歩1～8分 小田急小田原線町田駅バス11分境川団地中央徒歩1～8分 ＪＲ横浜線淵野辺駅バス19分境川団地中央徒歩1～8分",
+      "built": "1968/06/22",
+      "floors": "地上５階建",
+      "total_units": "2239",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます(不定期)。※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、幼稚園、店舗等があります。　※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/Z0841-LZ2-2DKS.gif"
+      ]
+    },
+    {
+      "name": "町田木曽",
+      "total": 5,
+      "rooms": {
+        "２ＤＫ": 4,
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "41800",
+          "fee": "1700"
+        },
+        "２Ｋ": {
+          "area": "32.31",
+          "rent": "33800",
+          "fee": "1700"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "36200",
+          "fee": "1700"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "52000",
+          "fee": "1700"
+        },
+        "１ＤＫ": {
+          "area": "32.85",
+          "rent": "35000",
+          "fee": "1700"
+        }
+      },
+      "transport": "ＪＲ横浜線町田駅バス15分山崎団地センター徒歩1～13分 小田急小田原線町田駅バス15分山崎団地センター徒歩1～13分",
+      "built": "1970/04/02",
+      "floors": "地上５階建",
+      "total_units": "4330",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます。（不定期） ※敷地内に保育園、幼稚園、医療施設、防犯拠点、店舗等があります。 ※給湯はリフレッシュ住戸、一部住戸のみ３ヶ所です。（他は２ヶ所です） ※一部住戸はシャワールームタイプです。　※コインパーキングがあります。 ※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/A0852-B-2DK.gif"
       ]
     },
     {
