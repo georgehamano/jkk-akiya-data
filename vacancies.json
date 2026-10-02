@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T12:17:45+09:00",
+  "updated_at": "2026-10-02T13:08:42+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -195,10 +195,10 @@
     },
     {
       "name": "境川",
-      "total": 4,
+      "total": 2,
       "rooms": {
-        "２Ｋ": 2,
-        "２ＤＫ": 2
+        "２Ｋ": 1,
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
       "location": "町田市",
