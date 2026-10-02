@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T16:47:41+09:00",
+  "updated_at": "2026-10-02T16:52:41+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -240,10 +240,9 @@
     },
     {
       "name": "町田木曽",
-      "total": 5,
+      "total": 4,
       "rooms": {
-        "２ＤＫ": 4,
-        "２Ｋ": 1
+        "２ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
