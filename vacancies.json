@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T11:17:44+09:00",
+  "updated_at": "2026-10-03T11:22:55+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -69,42 +69,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/A1461-H-3DK.gif"
-      ]
-    },
-    {
-      "name": "カーメスト石川台",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/1180510001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "56.04",
-          "rent": "168400",
-          "fee": "6600"
-        },
-        "１ＤＫ": {
-          "area": "34.3",
-          "rent": "130900",
-          "fee": "6600"
-        }
-      },
-      "transport": "東急池上線石川台駅徒歩9分 東急大井町線緑が丘駅徒歩11分 東急目黒線大岡山駅徒歩14分 東急大井町線大岡山駅徒歩14分",
-      "built": "2023/12/28",
-      "floors": "地上３階建",
-      "total_units": "118",
-      "term": "25年間",
-      "notes": "Ａ号棟は住宅敷地、階段、廊下、バルコニー等の共用部と専用部（各住戸内）を全面禁煙としています。 Ｂ号棟は住宅敷地、階段、廊下、バルコニー等の共用部を全面禁煙としています。 当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されています。入居された日からインターネットがご利用になれます。 一部住戸はシャワーブースタイプです。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/1180510001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/L8811-A1-1DK_3.gif",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/L8811-A1-1DK_4.gif"
       ]
     },
     {
@@ -187,96 +151,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/H8021-ALR2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム坂下",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "54.88",
-          "rent": "119100",
-          "fee": "6400"
-        },
-        "２ＬＤＫ": {
-          "area": "54.88",
-          "rent": "116700",
-          "fee": "6400"
-        },
-        "３ＤＫ": {
-          "area": "62.23",
-          "rent": "123400",
-          "fee": "6400"
-        }
-      },
-      "transport": "都営地下鉄三田線蓮根駅徒歩3～6分",
-      "built": "2005/03/17",
-      "floors": "地上８階建（一部７階建）",
-      "total_units": "430",
-      "term": "25年間",
-      "notes": "※保育所・地域施設があります。 ※駐車場は改修工事をしています。（完了時期未定）工事期間中は新規募集を停止しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/L1843-V5-2DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム向原",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/1980340000.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "60.31",
-          "rent": "149100",
-          "fee": "5900"
-        },
-        "１ＬＤＫ": {
-          "area": "40.01",
-          "rent": "118700",
-          "fee": "5900"
-        },
-        "２ＤＫ": {
-          "area": "44.4",
-          "rent": "121700",
-          "fee": "5900"
-        },
-        "１Ｋ": {
-          "area": "33.97",
-          "rent": "98000",
-          "fee": "5900"
-        },
-        "２Ｋ": {
-          "area": "40.21",
-          "rent": "115200",
-          "fee": "5900"
-        }
-      },
-      "transport": "東京メトロ有楽町線小竹向原駅徒歩7～11分 東京メトロ副都心線小竹向原駅徒歩7～11分 西武有楽町線小竹向原駅徒歩7～11分",
-      "built": "2010/06/17",
-      "floors": "地上８階建",
-      "total_units": "686",
-      "term": "25年間",
-      "notes": "※１～６号棟は一般賃貸住宅です。※７号棟はサービス付き高齢者向け住宅で、介護事業所・保育所・地域 交流スペース（レストラン）・コンビニエンスストア等があります。※コインパーキングがあります。 ※１・２号棟の、AL１タイプの１階住戸及びX1・X2・L7・L8タイプの住戸には専用入口にモニター付き インターホンが設置されています。なお、専用入口はオートロックシステムではありません。 ※５・６号棟の住戸のみ温水洗浄便座・モニター付きインターホンが設置されています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/1980340000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/198034000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980340/L8353-C2-2K.gif"
       ]
     },
     {
