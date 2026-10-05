@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T01:42:42+09:00",
+  "updated_at": "2026-10-06T01:47:40+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -289,9 +289,8 @@
     },
     {
       "name": "多摩川",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "２ＬＤＫ": 1,
         "２Ｋ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
