@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T13:38:24+09:00",
+  "updated_at": "2026-10-05T13:43:18+09:00",
   "properties": [
     {
       "name": "東雲都橋",
@@ -181,46 +181,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/H8021-ALR2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "カーメスト新高円寺",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "39.52",
-          "rent": "133400",
-          "fee": "7800"
-        },
-        "１ＤＫ": {
-          "area": "35.61",
-          "rent": "109200",
-          "fee": "7800"
-        },
-        "２ＬＤＫ": {
-          "area": "49.99",
-          "rent": "154000",
-          "fee": "7800"
-        }
-      },
-      "transport": "東京メトロ丸ノ内線新高円寺駅徒歩16～17分 京王井の頭線永福町駅徒歩22分 ＪＲ中央線高円寺駅バス13分松ノ木公園徒歩4～5分 ＪＲ総武線高円寺駅バス13分松ノ木公園徒歩4～5分",
-      "built": "2023/08/15",
-      "floors": "地上４階建",
-      "total_units": "206",
-      "term": "25年間",
-      "notes": "A号棟は住宅敷地、階段、廊下、バルコニー等の共用部を全面禁煙としています。 B・C号棟は住宅敷地、階段、廊下、バルコニー等の共用部と専用部（各住戸内）を全面禁煙としています。 当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されています。入居された日からインターネットがご利用になれます。 B201、B301、B401号室には専用のトランクルームを設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/158027000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/158027000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/158027000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/158027000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/L8805-L1-2LDK_1.gif"
       ]
     },
     {
@@ -1072,16 +1032,16 @@
     },
     {
       "name": "落合",
-      "total": 1,
+      "total": 7,
       "rooms": {
-        "３ＤＫ": 1
+        "３ＤＫ": 7
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
-          "area": "51.38",
-          "rent": "56200",
+          "area": "51.38～52.59",
+          "rent": "55200～56300",
           "fee": "3000"
         },
         "２ＤＫ": {
