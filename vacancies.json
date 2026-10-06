@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T12:17:43+09:00",
+  "updated_at": "2026-10-06T12:22:47+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -289,9 +289,9 @@
     },
     {
       "name": "多摩川",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２Ｋ": 3
+        "２Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
       "location": "調布市",
@@ -308,7 +308,7 @@
         },
         "２Ｋ": {
           "area": "32.85",
-          "rent": "46500～47000",
+          "rent": "47000",
           "fee": "2500"
         },
         "３ＤＫ": {
