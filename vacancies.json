@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-10-06T13:58:04+09:00",
+  "updated_at": "2026-10-06T14:03:00+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム港南三丁目",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380130/0380130001.jpg",
-      "location": "港区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "50.71",
-          "rent": "140600",
-          "fee": "4100"
-        }
-      },
-      "transport": "ＪＲ山手線品川駅徒歩15分 ＪＲ京浜東北線品川駅徒歩15分 東京臨海高速鉄道りんかい線天王洲アイル駅徒歩19分 ＪＲ山手線品川駅バス3分港南中学校前徒歩3分 ＪＲ京浜東北線品川駅バス3分港南中学校前徒歩3分",
-      "built": "2003/04/08",
-      "floors": "地上８階建",
-      "total_units": "82",
-      "term": "25年間",
-      "notes": "※全住戸のご入居者が、１・２階共用部のトランクルームを利用できます。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380130/0380130001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380130/038013000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380130/038013000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380130/038013000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380130/038013000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380130/L1822-AL3-1LDK.gif"
-      ]
-    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
@@ -63,41 +33,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/C5361-LR1-2LDK.gif"
-      ]
-    },
-    {
-      "name": "トミンハイム久が原五丁目",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/1180431001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "51.75",
-          "rent": "100100",
-          "fee": "5100"
-        },
-        "２Ｋ": {
-          "area": "44.89",
-          "rent": "88900",
-          "fee": "5100"
-        }
-      },
-      "transport": "都営地下鉄浅草線西馬込駅徒歩13分 東急池上線池上駅徒歩13分",
-      "built": "2002/08/22",
-      "floors": "地上１０階建",
-      "total_units": "72",
-      "term": "定期借家契約ではありません",
-      "notes": "※コミュニティサロンは地域開放型です。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/1180431001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/118043100a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/118043100b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/118043100c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/118043100d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/A8101-V-2DK.gif"
       ]
     },
     {
