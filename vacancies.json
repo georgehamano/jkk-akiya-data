@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-10-06T10:42:46+09:00",
+  "updated_at": "2026-10-06T10:47:43+09:00",
   "properties": [
-    {
-      "name": "東雲都橋",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "50.62",
-          "rent": "93500",
-          "fee": "3000"
-        }
-      },
-      "transport": "東京臨海高速鉄道りんかい線東雲駅徒歩9～10分 東京メトロ有楽町線豊洲駅バス12分都橋住宅前徒歩2分",
-      "built": "1978/11/10",
-      "floors": "地上１４階建",
-      "total_units": "418",
-      "term": "定期借家契約ではありません",
-      "notes": "※敷地内に幼稚園、店舗等があります。 ※コインパーキングがあります。　※共用部に防犯カメラが設置されております。 ※隣接に小・中学校、高校、大学があります。 ※サイクルシェアポートがあります。（予告なく廃止する場合があります。）",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/A1281-H-3DK.gif"
-      ]
-    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
@@ -115,41 +85,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "カーメスト興野町",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440001.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.29",
-          "rent": "106600",
-          "fee": "6000"
-        },
-        "１ＬＤＫ": {
-          "area": "52.0",
-          "rent": "110400",
-          "fee": "6000"
-        }
-      },
-      "transport": "新交通システム日暮里・舎人ライナー江北駅徒歩13分 東武大師線大師前駅徒歩14分 東武伊勢崎線西新井駅徒歩20分 東武大師線西新井駅徒歩20分 ＪＲ常磐線北千住駅バス23分興野公団住宅徒歩4分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
-      "built": "2022/09/30",
-      "floors": "地上８階建て",
-      "total_units": "128",
-      "term": "25年間",
-      "notes": "※当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されてます。入居された日からインターネットがご利用になれます。 ※風除室、メールコーナー、マルチサロン和み、コワーキングスペース、エレベータ内に防犯カメラ を設置しています。 ※当住宅のフロントスタッフは興野町の管理も行っております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440002.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440003.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440004.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440005.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/L8792-AL4-1LDK_2.gif"
       ]
     },
     {
