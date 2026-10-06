@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T14:22:43+09:00",
+  "updated_at": "2026-10-06T14:27:35+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -415,41 +415,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/L0771-C-2K.gif"
-      ]
-    },
-    {
-      "name": "小金井本町",
-      "total": 1,
-      "rooms": {
-        "３Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg",
-      "location": "小金井市",
-      "room_details": {
-        "３Ｋ": {
-          "area": "39.96",
-          "rent": "73200",
-          "fee": "1900"
-        },
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "49500",
-          "fee": "1900"
-        }
-      },
-      "transport": "ＪＲ中央線武蔵小金井駅徒歩13～16分 ＪＲ中央線武蔵小金井駅バス9分本町住宅徒歩1～4分",
-      "built": "1962/04/01",
-      "floors": "地上５階建",
-      "total_units": "831",
-      "term": "7年間",
-      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/408001000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/408001000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/408001000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/408001000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/G0651-F-3K.gif"
       ]
     },
     {
