@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T12:07:34+09:00",
+  "updated_at": "2026-10-07T12:12:41+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -205,46 +205,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000c[1].jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000d[1].jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/L1171-V-2DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム小松川一丁目",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/2380150000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "61.29",
-          "rent": "113000",
-          "fee": "3500"
-        },
-        "２ＬＤＫ": {
-          "area": "54.08",
-          "rent": "108100",
-          "fee": "3500"
-        },
-        "３ＬＤＫ": {
-          "area": "75.27",
-          "rent": "140500",
-          "fee": "3500"
-        }
-      },
-      "transport": "都営地下鉄新宿線東大島駅徒歩2分",
-      "built": "1988/12/15",
-      "floors": "地上１１階建",
-      "total_units": "396",
-      "term": "定期借家契約ではありません",
-      "notes": "※保育園があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/2380150000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/A1601-L-2LDK.gif"
       ]
     },
     {
