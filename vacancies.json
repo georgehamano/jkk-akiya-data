@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T23:07:36+09:00",
+  "updated_at": "2026-10-07T23:12:42+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -150,36 +150,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/A1261-NN-3DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム南大沢第二",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/3180210000.jpg",
-      "location": "八王子市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "65.06",
-          "rent": "76400",
-          "fee": "3000"
-        }
-      },
-      "transport": "京王相模原線南大沢駅徒歩12分",
-      "built": "1988/04/18",
-      "floors": "地上５階建",
-      "total_units": "70",
-      "term": "定期借家契約ではありません",
-      "notes": "※横田基地を使用する航空機による騒音が予想されます。 ※当住宅はコーシャハイム南大沢のフロントスタッフが管理しております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/3180210000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/318021000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/318021000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/318021000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/318021000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180210/A1582-H-3DK-2.gif"
       ]
     },
     {
