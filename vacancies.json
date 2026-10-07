@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T11:37:56+09:00",
+  "updated_at": "2026-10-07T11:43:41+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -118,6 +118,66 @@
       ]
     },
     {
+      "name": "宇喜田第一",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/2380010000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.25",
+          "rent": "62200",
+          "fee": "3000"
+        }
+      },
+      "transport": "東京メトロ東西線西葛西駅徒歩16～17分 東京メトロ東西線葛西駅バス11分宇喜田第一住宅徒歩2～3分 都営地下鉄新宿線船堀駅バス8分宇喜田第一住宅徒歩2～3分",
+      "built": "1970/04/01",
+      "floors": "地上１０階建",
+      "total_units": "362",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/2380010000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/238001000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/238001000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/238001000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/238001000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380010/L0961-W-2DK.gif"
+      ]
+    },
+    {
+      "name": "春江町",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.25",
+          "rent": "61900",
+          "fee": "2900"
+        }
+      },
+      "transport": "都営地下鉄新宿線瑞江駅徒歩17～18分 都営地下鉄新宿線一之江駅バス11分京葉口徒歩2～4分 都営地下鉄新宿線瑞江駅バス12分京葉口徒歩2～4分 ＪＲ総武線小岩駅バス23分京葉口徒歩2～4分",
+      "built": "1972/06/10",
+      "floors": "地上１１階建",
+      "total_units": "399",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住戸は３ヶ所です。（他は２ヶ所です） ※建物の耐震改修工事に伴い、一部住戸のバルコニー及び窓の外側に耐震構造材（斜材）を設置しているため、 眺望・採光等への影響があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/2380020000[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000a[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000b[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000c[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000d[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/G0971-V-2DK.gif"
+      ]
+    },
+    {
       "name": "春江町椿",
       "total": 1,
       "rooms": {
@@ -145,6 +205,176 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000c[1].jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000d[1].jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/L1171-V-2DK.gif"
+      ]
+    },
+    {
+      "name": "新田第二",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.96",
+          "rent": "82100",
+          "fee": "3500"
+        }
+      },
+      "transport": "東京メトロ東西線西葛西駅徒歩15～16分 東京メトロ東西線西葛西駅バス3分新田住宅徒歩3～5分",
+      "built": "1979/06/30",
+      "floors": "地上１２階建 他",
+      "total_units": "571",
+      "term": "定期借家契約ではありません",
+      "notes": "※敷地内に医療施設、学習・教育相談室、保育園、店舗等があります。 ※当住宅は新田住宅のフロントスタッフが管理しております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/A1301-K-2DK.gif"
+      ]
+    },
+    {
+      "name": "東葛西第一",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/2380111001.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.57",
+          "rent": "91100",
+          "fee": "2000"
+        }
+      },
+      "transport": "東京メトロ東西線葛西駅徒歩14分",
+      "built": "1982/01/25",
+      "floors": "地上９階建",
+      "total_units": "291",
+      "term": "定期借家契約ではありません",
+      "notes": "※当住宅のフロントスタッフは東葛西第二住宅の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/2380111001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/A1371-H-3DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム清新",
+      "total": 2,
+      "rooms": {
+        "３ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "63.04",
+          "rent": "108300～112700",
+          "fee": "4300"
+        },
+        "２ＬＤＫ": {
+          "area": "63.04",
+          "rent": "135800",
+          "fee": "4300"
+        }
+      },
+      "transport": "東京メトロ東西線西葛西駅徒歩10～12分",
+      "built": "1983/01/19",
+      "floors": "地上１１階建",
+      "total_units": "322",
+      "term": "定期借家契約ではありません",
+      "notes": "※当住宅北西側に鉄橋があり電車による騒音が予想されます。 ※敷地内ににコミュニティ会館、保育園があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/A1421-H-3DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム小松川一丁目",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/2380150000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "61.29",
+          "rent": "113000",
+          "fee": "3500"
+        },
+        "２ＬＤＫ": {
+          "area": "54.08",
+          "rent": "108100",
+          "fee": "3500"
+        },
+        "３ＬＤＫ": {
+          "area": "75.27",
+          "rent": "140500",
+          "fee": "3500"
+        }
+      },
+      "transport": "都営地下鉄新宿線東大島駅徒歩2分",
+      "built": "1988/12/15",
+      "floors": "地上１１階建",
+      "total_units": "396",
+      "term": "定期借家契約ではありません",
+      "notes": "※保育園があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/2380150000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/A1601-L-2LDK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム臨海町二丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380160/2380160000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "59.88",
+          "rent": "88300",
+          "fee": "3800"
+        },
+        "２ＬＤＫ": {
+          "area": "57.38",
+          "rent": "87300",
+          "fee": "3800"
+        }
+      },
+      "transport": "ＪＲ京葉線葛西臨海公園駅徒歩20～22分 東京メトロ東西線西葛西駅バス14分紅葉川高校前徒歩2～3分 東京メトロ東西線西葛西駅バス14分臨海町二丁目団地前徒歩2～3分",
+      "built": "1989/01/31",
+      "floors": "地上１４階建",
+      "total_units": "296",
+      "term": "定期借家契約ではありません",
+      "notes": "※エレベータの停止階は７号棟：１・４・７・１０・１３階、８号棟：各階、９号棟：１・４・７・１０階です ※コミュニティ会館・店舗等があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380160/2380160000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380160/238016000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380160/238016000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380160/238016000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380160/238016000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380160/A1612-H-3DK_7_9.gif"
       ]
     },
     {
