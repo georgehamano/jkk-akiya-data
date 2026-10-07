@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T11:22:40+09:00",
+  "updated_at": "2026-10-07T11:27:43+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -512,36 +512,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/528004000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/528004000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280040/A1411-NN-3DK.gif"
-      ]
-    },
-    {
-      "name": "愛宕第一",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/5480030002.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "40.2",
-          "rent": "46100",
-          "fee": "3100"
-        }
-      },
-      "transport": "多摩都市モノレール多摩都市モノレール松が谷駅バス4分愛宕東徒歩1～2分 京王相模原線京王多摩センター駅バス12分愛宕東徒歩1～2分 小田急多摩線小田急多摩センター駅バス12分愛宕東徒歩1～2分 多摩都市モノレール多摩都市モノレール多摩センター駅バス12分愛宕東徒歩1～2分 京王京王線聖蹟桜ヶ丘駅バス14分愛宕東徒歩1～2分",
-      "built": "1972/06/01",
-      "floors": "地上１２階建",
-      "total_units": "121",
-      "term": "5年間",
-      "notes": "※給湯は２ヶ所です。 ※敷地内に店舗等があります。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/5480030002.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/548003000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/548003000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/548003000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/548003000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/A0931-V-2DK.gif"
       ]
     },
     {
