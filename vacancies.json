@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T23:22:44+09:00",
+  "updated_at": "2026-10-08T23:27:45+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -445,11 +445,11 @@
     },
     {
       "name": "平尾",
-      "total": 6,
+      "total": 5,
       "rooms": {
         "３Ｋ": 2,
         "１ＤＫ": 1,
-        "２ＤＫ": 3
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
