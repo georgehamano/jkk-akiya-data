@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:37:46+09:00",
+  "updated_at": "2026-10-08T13:42:44+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -224,9 +224,9 @@
     },
     {
       "name": "多摩川",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 2
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
       "location": "狛江市",
@@ -243,7 +243,7 @@
         },
         "２Ｋ": {
           "area": "27.44",
-          "rent": "39100",
+          "rent": "38000",
           "fee": "2000"
         },
         "３ＤＫ": {
