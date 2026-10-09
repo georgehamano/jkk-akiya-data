@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T09:57:37+09:00",
+  "updated_at": "2026-10-09T10:02:55+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -51,36 +51,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "興野町",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/2180040000.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "29.94",
-          "rent": "41900",
-          "fee": "1800"
-        }
-      },
-      "transport": "新交通システム日暮里・舎人ライナー江北駅徒歩11～14分 東武大師線大師前駅徒歩13～14分 東武大師線大師前駅バス13分興野公団住宅徒歩4～6分 東京メトロ千代田線北千住駅バス23分興野公団住宅徒歩4～6分 東京メトロ日比谷線北千住駅バス23分興野公団住宅徒歩4～6分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
-      "built": "1956/10/03",
-      "floors": "地上４階建",
-      "total_units": "761",
-      "term": "10年間",
-      "notes": "※給湯は２ヶ所です。 ※共用階段の清掃は各階段で交代制です。 ※当住宅はカーメスト興野町のフロントスタッフが管理しております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/2180040000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/H0563-CR3-2K.gif"
       ]
     },
     {
