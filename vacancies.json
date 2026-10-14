@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-10-14T11:58:32+09:00",
+  "updated_at": "2026-10-14T12:03:10+09:00",
   "properties": [
-    {
-      "name": "西大島",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/0880170000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "47.7",
-          "rent": "94100",
-          "fee": "3900"
-        }
-      },
-      "transport": "都営地下鉄新宿線西大島駅徒歩5～6分",
-      "built": "1980/09/16",
-      "floors": "地上９階建",
-      "total_units": "207",
-      "term": "定期借家契約ではありません",
-      "notes": "※エレベーター停止階は８号棟が４・７階、９号棟が５・８階のみです。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/0880170000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/088017000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880170/A1341-KN-2DK.gif"
-      ]
-    },
     {
       "name": "辰巳あけぼの",
       "total": 1,
@@ -93,41 +63,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/098019000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0980190/C5361-LR1-2LDK.gif"
-      ]
-    },
-    {
-      "name": "トミンハイム久が原五丁目",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/1180431001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "51.75",
-          "rent": "100100",
-          "fee": "5100"
-        },
-        "２Ｋ": {
-          "area": "44.89",
-          "rent": "88900",
-          "fee": "5100"
-        }
-      },
-      "transport": "都営地下鉄浅草線西馬込駅徒歩13分 東急池上線池上駅徒歩13分",
-      "built": "2002/08/22",
-      "floors": "地上１０階建",
-      "total_units": "72",
-      "term": "定期借家契約ではありません",
-      "notes": "※コミュニティサロンは地域開放型です。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/1180431001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/118043100a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/118043100b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/118043100c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/118043100d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180431/A8101-V-2DK.gif"
       ]
     },
     {
@@ -249,46 +184,6 @@
       ]
     },
     {
-      "name": "カーメスト新高円寺",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "39.52",
-          "rent": "133400",
-          "fee": "7800"
-        },
-        "１ＤＫ": {
-          "area": "35.61",
-          "rent": "109200",
-          "fee": "7800"
-        },
-        "２ＬＤＫ": {
-          "area": "49.99",
-          "rent": "154000",
-          "fee": "7800"
-        }
-      },
-      "transport": "東京メトロ丸ノ内線新高円寺駅徒歩16～17分 京王井の頭線永福町駅徒歩22分 ＪＲ中央線高円寺駅バス13分松ノ木公園徒歩4～5分 ＪＲ総武線高円寺駅バス13分松ノ木公園徒歩4～5分",
-      "built": "2023/08/15",
-      "floors": "地上４階建",
-      "total_units": "206",
-      "term": "25年間",
-      "notes": "A号棟は住宅敷地、階段、廊下、バルコニー等の共用部を全面禁煙としています。 B・C号棟は住宅敷地、階段、廊下、バルコニー等の共用部と専用部（各住戸内）を全面禁煙としています。 当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されています。入居された日からインターネットがご利用になれます。 B201、B301、B401号室には専用のトランクルームを設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/1580270001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/158027000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/158027000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/158027000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/158027000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580270/L8805-L1-2LDK_1.gif"
-      ]
-    },
-    {
       "name": "コーシャハイム小竹町",
       "total": 1,
       "rooms": {
@@ -376,46 +271,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440004.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440005.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/L8792-AL4-1LDK_2.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム小松川一丁目",
-      "total": 1,
-      "rooms": {
-        "２ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/2380150000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "61.29",
-          "rent": "113000",
-          "fee": "3500"
-        },
-        "２ＬＤＫ": {
-          "area": "54.08",
-          "rent": "108100",
-          "fee": "3500"
-        },
-        "３ＬＤＫ": {
-          "area": "75.27",
-          "rent": "140500",
-          "fee": "3500"
-        }
-      },
-      "transport": "都営地下鉄新宿線東大島駅徒歩2分",
-      "built": "1988/12/15",
-      "floors": "地上１１階建",
-      "total_units": "396",
-      "term": "定期借家契約ではありません",
-      "notes": "※保育園があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/2380150000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/238015000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380150/A1601-L-2LDK.gif"
       ]
     },
     {
