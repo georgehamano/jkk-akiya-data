@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T12:03:10+09:00",
+  "updated_at": "2026-10-14T12:07:45+09:00",
   "properties": [
     {
       "name": "辰巳あけぼの",
@@ -181,96 +181,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム小竹町",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/2080570000.jpg",
-      "location": "練馬区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.13",
-          "rent": "92800",
-          "fee": "5900"
-        },
-        "２ＤＫ": {
-          "area": "47.02",
-          "rent": "120400",
-          "fee": "5900"
-        },
-        "２Ｋ": {
-          "area": "40.09",
-          "rent": "109700",
-          "fee": "5900"
-        },
-        "１ＬＤＫ": {
-          "area": "40.46",
-          "rent": "109200",
-          "fee": "5900"
-        },
-        "２ＬＤＫ": {
-          "area": "54.79",
-          "rent": "132600",
-          "fee": "5900"
-        }
-      },
-      "transport": "東京メトロ副都心線小竹向原駅徒歩7～9分 東京メトロ有楽町線小竹向原駅徒歩7～9分 西武池袋線江古田駅徒歩8～9分 都営地下鉄大江戸線新江古田駅徒歩16分 西武有楽町線小竹向原駅徒歩7～9分",
-      "built": "2011/03/30",
-      "floors": "地上３～６階",
-      "total_units": "230",
-      "term": "25年間",
-      "notes": "※電気自動車用充電設備付駐車場があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/2080570000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/208057000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/208057000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/208057000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/208057000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/L8362-C3-2K.gif"
-      ]
-    },
-    {
-      "name": "カーメスト興野町",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440001.jpg",
-      "location": "足立区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "46.29",
-          "rent": "106600",
-          "fee": "6000"
-        },
-        "１ＬＤＫ": {
-          "area": "52.0",
-          "rent": "110400",
-          "fee": "6000"
-        },
-        "２ＬＤＫ": {
-          "area": "56.0",
-          "rent": "116300",
-          "fee": "6000"
-        }
-      },
-      "transport": "新交通システム日暮里・舎人ライナー江北駅徒歩13分 東武大師線大師前駅徒歩14分 東武伊勢崎線西新井駅徒歩20分 東武大師線西新井駅徒歩20分 ＪＲ常磐線北千住駅バス23分興野公団住宅徒歩4分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
-      "built": "2022/09/30",
-      "floors": "地上８階建て",
-      "total_units": "128",
-      "term": "25年間",
-      "notes": "※当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されてます。入居された日からインターネットがご利用になれます。 ※風除室、メールコーナー、マルチサロン和み、コワーキングスペース、エレベータ内に防犯カメラ を設置しています。 ※当住宅のフロントスタッフは興野町の管理も行っております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440002.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440003.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440004.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440005.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/L8792-AL4-1LDK_2.gif"
       ]
     },
     {
