@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-14T12:27:42+09:00",
+  "updated_at": "2026-10-14T12:33:26+09:00",
   "properties": [
+    {
+      "name": "東雲都橋",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
+      "location": "江東区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "50.62",
+          "rent": "90700",
+          "fee": "3000"
+        }
+      },
+      "transport": "東京臨海高速鉄道りんかい線東雲駅徒歩9～10分 東京メトロ有楽町線豊洲駅バス12分都橋住宅前徒歩2分",
+      "built": "1978/11/10",
+      "floors": "地上１４階建",
+      "total_units": "418",
+      "term": "定期借家契約ではありません",
+      "notes": "※敷地内に幼稚園、店舗等があります。 ※コインパーキングがあります。　※共用部に防犯カメラが設置されております。 ※隣接に小・中学校、高校、大学があります。 ※サイクルシェアポートがあります。（予告なく廃止する場合があります。）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/A1281-H-3DK.gif"
+      ]
+    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
@@ -115,6 +145,66 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
+      ]
+    },
+    {
+      "name": "新田",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.0",
+          "rent": "77800",
+          "fee": "3900"
+        }
+      },
+      "transport": "東京メトロ東西線西葛西駅徒歩14～16分 東京メトロ東西線西葛西駅バス3分新田住宅徒歩3～4分",
+      "built": "1975/08/30",
+      "floors": "地上１２階建",
+      "total_units": "572",
+      "term": "10年間",
+      "notes": "※給湯は２ヶ所です（一部住戸は３ヶ所です）。※保育園があります。 ※Ｖ型の一部住戸において、複層ガラス・エアコン設備等の改修を実施しています。 現状での引渡しとなりますので、内見時に当該設備をご確認ください。 ※当住宅のフロントスタッフは新田第二住宅の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/238004000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/238004000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/238004000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/238004000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/A1131-V-2DK.gif"
+      ]
+    },
+    {
+      "name": "新田第二",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.96",
+          "rent": "81300",
+          "fee": "3500"
+        }
+      },
+      "transport": "東京メトロ東西線西葛西駅徒歩15～16分 東京メトロ東西線西葛西駅バス3分新田住宅徒歩3～5分",
+      "built": "1979/06/30",
+      "floors": "地上１２階建 他",
+      "total_units": "571",
+      "term": "定期借家契約ではありません",
+      "notes": "※敷地内に医療施設、学習・教育相談室、保育園、店舗等があります。 ※当住宅は新田住宅のフロントスタッフが管理しております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/2380080000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/238008000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380080/A1301-K-2DK.gif"
       ]
     },
     {
