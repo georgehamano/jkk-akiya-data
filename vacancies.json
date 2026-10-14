@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T14:57:41+09:00",
+  "updated_at": "2026-10-14T15:02:59+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -370,10 +370,9 @@
     },
     {
       "name": "コーシャハイム玉川上水",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＬＤＫ": 1,
-        "３ＤＫ": 1
+        "２ＬＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
       "location": "東大和市",
@@ -486,10 +485,9 @@
     },
     {
       "name": "平尾",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 2,
-        "３Ｋ": 1
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
