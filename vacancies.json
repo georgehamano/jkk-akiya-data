@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T11:43:00+09:00",
+  "updated_at": "2026-10-15T11:47:55+09:00",
   "properties": [
     {
       "name": "東雲都橋",
@@ -131,46 +131,6 @@
       ]
     },
     {
-      "name": "コーシャハイム千歳烏山",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840000.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "45.03",
-          "rent": "143100",
-          "fee": "5300"
-        },
-        "１ＬＤＫ": {
-          "area": "40.46",
-          "rent": "122100",
-          "fee": "5300"
-        },
-        "２ＬＤＫ": {
-          "area": "52.13",
-          "rent": "164000",
-          "fee": "5300"
-        }
-      },
-      "transport": "京王京王線千歳烏山駅徒歩2～5分 京王京王線千歳烏山駅徒歩5分コーシャハイム千歳烏山（１１号棟）",
-      "built": "2010/02/16",
-      "floors": "地上５階建",
-      "total_units": "513",
-      "term": "25年間",
-      "notes": "※１～８・１１号棟は一般賃貸住宅です。（11号棟は一部）※９～１１号棟はサービス付き高齢者向け住宅 です。（11号棟は一部）※５～８号棟には温水洗浄便座・モニター付インターホンが設置されています。 ※９号棟に介護事業所、地域交流スペース（レストラン）、１２号棟に多世代交流施設（カフェ）、 保育所があります。※電気自動車用充電設備付駐車場があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840005.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840007.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840011.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/L8333-AL1-1LDK.gif"
-      ]
-    },
-    {
       "name": "カーメスト用賀馬事公苑",
       "total": 10,
       "rooms": {
@@ -220,36 +180,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム神宮前五丁目",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/1380100_00_202108.jpg",
-      "location": "渋谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "51.0",
-          "rent": "206200",
-          "fee": "5000"
-        }
-      },
-      "transport": "東京メトロ千代田線明治神宮前駅徒歩7分 東京メトロ副都心線明治神宮前駅徒歩7分 ＪＲ山手線原宿駅徒歩11分 ＪＲ山手線渋谷駅徒歩14分",
-      "built": "1994/11/24",
-      "floors": "地上３階建",
-      "total_units": "60",
-      "term": "15年間",
-      "notes": "※リニューアル住戸には、ビルトインコンロ、温水洗浄便座、モニター付きインターホンを設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/1380100_00_202108.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/H8021-ALR2-1LDK.gif"
       ]
     },
     {
