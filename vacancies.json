@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T12:42:42+09:00",
+  "updated_at": "2026-10-15T12:47:43+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -526,41 +526,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/508006000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/508006000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/A0921-BS-2DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム玉川上水",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
-      "location": "東大和市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "59.56",
-          "rent": "81900",
-          "fee": "3400"
-        },
-        "２ＬＤＫ": {
-          "area": "57.61",
-          "rent": "82000",
-          "fee": "3400"
-        }
-      },
-      "transport": "西武拝島線玉川上水駅徒歩1～3分 多摩都市モノレール多摩都市モノレール玉川上水駅徒歩1～3分",
-      "built": "1987/03/09",
-      "floors": "地上５階建",
-      "total_units": "121",
-      "term": "定期借家契約ではありません",
-      "notes": "※給湯は２ヶ所です。 ※敷地内に金融機関、店舗等があります。 ※当住宅のフロントスタッフはコーシャハイム玉川上水第二の管理も行っています。 ※カーシェアリングを設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/A1541-L-2LDK.gif"
       ]
     },
     {
