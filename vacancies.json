@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T11:49:20+09:00",
+  "updated_at": "2026-10-16T11:52:44+09:00",
   "properties": [
     {
       "name": "辰巳あけぼの",
@@ -98,42 +98,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/118021000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180210/A1461-H-3DK.gif"
-      ]
-    },
-    {
-      "name": "カーメスト石川台",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/1180510001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "50.4",
-          "rent": "168500",
-          "fee": "6600"
-        },
-        "１ＤＫ": {
-          "area": "34.3",
-          "rent": "125100",
-          "fee": "6600"
-        }
-      },
-      "transport": "東急池上線石川台駅徒歩9分 東急大井町線緑が丘駅徒歩11分 東急目黒線大岡山駅徒歩14分 東急大井町線大岡山駅徒歩14分",
-      "built": "2023/12/28",
-      "floors": "地上３階建",
-      "total_units": "118",
-      "term": "25年間",
-      "notes": "Ａ号棟は住宅敷地、階段、廊下、バルコニー等の共用部と専用部（各住戸内）を全面禁煙としています。 Ｂ号棟は住宅敷地、階段、廊下、バルコニー等の共用部を全面禁煙としています。 当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されています。入居された日からインターネットがご利用になれます。 一部住戸はシャワーブースタイプです。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/1180510001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/118051000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/L8811-A1-1DK_3.gif",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180510/L8811-A1-1DK_4.gif"
       ]
     },
     {
@@ -316,116 +280,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/158024000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/158024000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/L8225-C1-2K.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム小竹町",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/2080570000.jpg",
-      "location": "練馬区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "34.13",
-          "rent": "92800",
-          "fee": "5900"
-        },
-        "２ＤＫ": {
-          "area": "47.02",
-          "rent": "120400",
-          "fee": "5900"
-        },
-        "２Ｋ": {
-          "area": "40.09",
-          "rent": "109700",
-          "fee": "5900"
-        },
-        "１ＬＤＫ": {
-          "area": "40.46",
-          "rent": "109200",
-          "fee": "5900"
-        },
-        "２ＬＤＫ": {
-          "area": "54.79",
-          "rent": "132600",
-          "fee": "5900"
-        }
-      },
-      "transport": "東京メトロ副都心線小竹向原駅徒歩7～9分 東京メトロ有楽町線小竹向原駅徒歩7～9分 西武池袋線江古田駅徒歩8～9分 都営地下鉄大江戸線新江古田駅徒歩16分 西武有楽町線小竹向原駅徒歩7～9分",
-      "built": "2011/03/30",
-      "floors": "地上３～６階",
-      "total_units": "230",
-      "term": "25年間",
-      "notes": "※電気自動車用充電設備付駐車場があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/2080570000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/208057000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/208057000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/208057000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/208057000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080570/L8362-C3-2K.gif"
-      ]
-    },
-    {
-      "name": "宇喜田第二",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "42.83",
-          "rent": "72500",
-          "fee": "3100"
-        }
-      },
-      "transport": "都営地下鉄新宿線船堀駅徒歩17～18分 東京メトロ東西線西葛西駅バス6分小島徒歩5～7分 都営地下鉄新宿線船堀駅バス9分小島徒歩5～6分 東京メトロ東西線西葛西駅徒歩19～21分",
-      "built": "1973/12/01",
-      "floors": "地上１２階建",
-      "total_units": "712",
-      "term": "10年間",
-      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）　※保育園があります",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/F1061-V0-2DK.gif"
-      ]
-    },
-    {
-      "name": "新田",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.0",
-          "rent": "77800",
-          "fee": "3900"
-        }
-      },
-      "transport": "東京メトロ東西線西葛西駅徒歩14～16分 東京メトロ東西線西葛西駅バス3分新田住宅徒歩3～4分",
-      "built": "1975/08/30",
-      "floors": "地上１２階建",
-      "total_units": "572",
-      "term": "10年間",
-      "notes": "※給湯は２ヶ所です（一部住戸は３ヶ所です）。※保育園があります。 ※Ｖ型の一部住戸において、複層ガラス・エアコン設備等の改修を実施しています。 現状での引渡しとなりますので、内見時に当該設備をご確認ください。 ※当住宅のフロントスタッフは新田第二住宅の管理も行っております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/2380040000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/238004000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/238004000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/238004000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/238004000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380040/A1131-V-2DK.gif"
       ]
     },
     {
