@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T14:27:39+09:00",
+  "updated_at": "2026-10-16T14:32:49+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -124,9 +124,9 @@
     },
     {
       "name": "昭島田中町",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "２ＤＫ": 3
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
       "location": "昭島市",
