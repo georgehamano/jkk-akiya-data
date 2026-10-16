@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T12:22:38+09:00",
+  "updated_at": "2026-10-16T12:27:36+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -85,51 +85,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム杉並和田",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/1580240001.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "33.77",
-          "rent": "99900",
-          "fee": "3300"
-        },
-        "１ＬＤＫ": {
-          "area": "45.35",
-          "rent": "118100",
-          "fee": "3300"
-        },
-        "２Ｋ": {
-          "area": "43.53",
-          "rent": "125700",
-          "fee": "3300"
-        },
-        "２ＤＫ": {
-          "area": "49.75",
-          "rent": "142200",
-          "fee": "3300"
-        }
-      },
-      "transport": "東京メトロ丸ノ内線方南町駅徒歩7分 東京メトロ丸ノ内線中野富士見町駅徒歩10分",
-      "built": "2007/01/22",
-      "floors": "地上３～１０階建",
-      "total_units": "280",
-      "term": "25年間",
-      "notes": "※電気自動車用充電設備付駐車場があります。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/1580240001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/158024000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/158024000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/158024000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/158024000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580240/L8225-C1-2K.gif"
       ]
     },
     {
@@ -458,41 +413,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/508006000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/508006000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/A0921-BS-2DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム玉川上水",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
-      "location": "東大和市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.38",
-          "rent": "82400",
-          "fee": "3400"
-        },
-        "２ＬＤＫ": {
-          "area": "57.61",
-          "rent": "82000",
-          "fee": "3400"
-        }
-      },
-      "transport": "西武拝島線玉川上水駅徒歩1～3分 多摩都市モノレール多摩都市モノレール玉川上水駅徒歩1～3分",
-      "built": "1987/03/09",
-      "floors": "地上５階建",
-      "total_units": "121",
-      "term": "定期借家契約ではありません",
-      "notes": "※給湯は２ヶ所です。 ※敷地内に金融機関、店舗等があります。 ※当住宅のフロントスタッフはコーシャハイム玉川上水第二の管理も行っています。 ※カーシェアリングを設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/A1541-L-2LDK.gif"
       ]
     },
     {
