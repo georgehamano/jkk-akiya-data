@@ -1,46 +1,6 @@
 {
-  "updated_at": "2026-10-19T16:58:42+09:00",
+  "updated_at": "2026-10-19T17:02:59+09:00",
   "properties": [
-    {
-      "name": "トミンタワー東雲",
-      "total": 1,
-      "rooms": {
-        "３ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/0880290001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "３ＬＤＫ": {
-          "area": "85.28",
-          "rent": "191900",
-          "fee": "7700"
-        },
-        "２ＬＤＫＳ": {
-          "area": "66.87",
-          "rent": "189400",
-          "fee": "7700"
-        },
-        "２ＬＤＫ": {
-          "area": "71.35",
-          "rent": "188200",
-          "fee": "7700"
-        }
-      },
-      "transport": "東京臨海高速鉄道りんかい線東雲駅徒歩8分 東京メトロ有楽町線辰巳駅徒歩12分",
-      "built": "1997/02/24",
-      "floors": "地下１階地上３６階建",
-      "total_units": "336",
-      "term": "定期借家契約ではありません",
-      "notes": "※高速道路、その他施設等による騒音が予想されます※網戸は15階以上の住戸には設置されていません。 ※10階以上の各居室天井に火災感知器、ｽﾌﾟﾘﾝｸﾗｰが設置されており点検のため 居室内に立ち入る場合があります。 ※１階に学童ｸﾗﾌﾞ、２階に図書館があります。※コインパーキングがあります。 ※共用部に防犯カメラが設置されております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/0880290001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/088029000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/088029000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/088029000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/088029000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/C5104-L2R1-2LDKS_503_703_2903.gif"
-      ]
-    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
@@ -699,9 +659,8 @@
     },
     {
       "name": "福生加美平",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
