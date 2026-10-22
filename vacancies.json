@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T10:12:48+09:00",
+  "updated_at": "2026-10-22T10:17:41+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -84,36 +84,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "東葛西第一",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/2380111001.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "60.57",
-          "rent": "88200",
-          "fee": "2000"
-        }
-      },
-      "transport": "東京メトロ東西線葛西駅徒歩14分",
-      "built": "1982/01/25",
-      "floors": "地上９階建",
-      "total_units": "291",
-      "term": "定期借家契約ではありません",
-      "notes": "※当住宅のフロントスタッフは東葛西第二住宅の管理も行っております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/2380111001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/A1371-H-3DK.gif"
       ]
     },
     {
