@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-22T10:06:34+09:00",
+  "updated_at": "2026-10-22T10:09:53+09:00",
   "properties": [
+    {
+      "name": "トミンタワー東雲",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/0880290001.jpg",
+      "location": "江東区",
+      "room_details": {
+        "３ＬＤＫ": {
+          "area": "85.28",
+          "rent": "191900",
+          "fee": "7700"
+        },
+        "２ＬＤＫＳ": {
+          "area": "66.87",
+          "rent": "175600",
+          "fee": "7700"
+        },
+        "２ＬＤＫ": {
+          "area": "71.35",
+          "rent": "188200",
+          "fee": "7700"
+        }
+      },
+      "transport": "東京臨海高速鉄道りんかい線東雲駅徒歩8分 東京メトロ有楽町線辰巳駅徒歩12分",
+      "built": "1997/02/24",
+      "floors": "地下１階地上３６階建",
+      "total_units": "336",
+      "term": "定期借家契約ではありません",
+      "notes": "※高速道路、その他施設等による騒音が予想されます※網戸は15階以上の住戸には設置されていません。 ※10階以上の各居室天井に火災感知器、ｽﾌﾟﾘﾝｸﾗｰが設置されており点検のため 居室内に立ち入る場合があります。 ※１階に学童ｸﾗﾌﾞ、２階に図書館があります。※コインパーキングがあります。 ※共用部に防犯カメラが設置されております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/0880290001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/088029000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/088029000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/088029000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/088029000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880290/C5104-L2R1-2LDKS_503_703_2903.gif"
+      ]
+    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
@@ -84,6 +124,36 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
+      ]
+    },
+    {
+      "name": "東葛西第一",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/2380111001.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.57",
+          "rent": "88200",
+          "fee": "2000"
+        }
+      },
+      "transport": "東京メトロ東西線葛西駅徒歩14分",
+      "built": "1982/01/25",
+      "floors": "地上９階建",
+      "total_units": "291",
+      "term": "定期借家契約ではありません",
+      "notes": "※当住宅のフロントスタッフは東葛西第二住宅の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/2380111001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/238011100d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380111/A1371-H-3DK.gif"
       ]
     },
     {
@@ -310,6 +380,46 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/508006000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/508006000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/A0921-BS-2DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム玉川上水",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "59.65",
+          "rent": "81200",
+          "fee": "3400"
+        },
+        "２ＬＤＫ": {
+          "area": "57.61",
+          "rent": "82000",
+          "fee": "3400"
+        },
+        "３ＬＤＫ": {
+          "area": "70.9",
+          "rent": "94700",
+          "fee": "3400"
+        }
+      },
+      "transport": "西武拝島線玉川上水駅徒歩1～3分 多摩都市モノレール多摩都市モノレール玉川上水駅徒歩1～3分",
+      "built": "1987/03/09",
+      "floors": "地上５階建",
+      "total_units": "121",
+      "term": "定期借家契約ではありません",
+      "notes": "※給湯は２ヶ所です。 ※敷地内に金融機関、店舗等があります。 ※当住宅のフロントスタッフはコーシャハイム玉川上水第二の管理も行っています。 ※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/A1541-L-2LDK.gif"
       ]
     },
     {
