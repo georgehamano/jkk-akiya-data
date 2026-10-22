@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T11:32:46+09:00",
+  "updated_at": "2026-10-22T11:37:38+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -354,9 +354,8 @@
     },
     {
       "name": "落合",
-      "total": 5,
+      "total": 4,
       "rooms": {
-        "２ＤＫ": 1,
         "３ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
