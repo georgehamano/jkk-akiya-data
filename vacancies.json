@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-10-23T09:42:48+09:00",
+  "updated_at": "2026-10-23T09:47:45+09:00",
   "properties": [
-    {
-      "name": "東雲都橋",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "50.62",
-          "rent": "90900",
-          "fee": "3000"
-        }
-      },
-      "transport": "東京臨海高速鉄道りんかい線東雲駅徒歩9～10分 東京メトロ有楽町線豊洲駅バス12分都橋住宅前徒歩2分",
-      "built": "1978/11/10",
-      "floors": "地上１４階建",
-      "total_units": "418",
-      "term": "定期借家契約ではありません",
-      "notes": "※敷地内に幼稚園、店舗等があります。 ※コインパーキングがあります。　※共用部に防犯カメラが設置されております。 ※隣接に小・中学校、高校、大学があります。 ※サイクルシェアポートがあります。（予告なく廃止する場合があります。）",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/A1281-H-3DK.gif"
-      ]
-    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
@@ -114,51 +84,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム方南町ガーデンコート",
-      "total": 1,
-      "rooms": {
-        "１ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/1580250002.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "50.02",
-          "rent": "152900",
-          "fee": "6100"
-        },
-        "１ＬＤＫ": {
-          "area": "43.47",
-          "rent": "125000",
-          "fee": "6100"
-        },
-        "１ＬＤＫＳ": {
-          "area": "50.02",
-          "rent": "138300",
-          "fee": "6100"
-        },
-        "１ＤＫ": {
-          "area": "36.16",
-          "rent": "104900",
-          "fee": "6100"
-        }
-      },
-      "transport": "東京メトロ丸ノ内線方南町駅徒歩5分",
-      "built": "2014/02/21",
-      "floors": "地上５階",
-      "total_units": "170",
-      "term": "25年間",
-      "notes": "※２号棟は東京都が義務付けた環境配慮の取組みについて評価を受けています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/1580250002.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/158025000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/158025000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/158025000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/158025000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/L8631-A2-1DK.gif"
       ]
     },
     {
