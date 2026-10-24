@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T16:52:40+09:00",
+  "updated_at": "2026-10-24T16:58:26+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -50,6 +50,101 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム神宮前五丁目",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/1380100_00_202108.jpg",
+      "location": "渋谷区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "41.0",
+          "rent": "172200",
+          "fee": "5000"
+        }
+      },
+      "transport": "東京メトロ千代田線明治神宮前駅徒歩7分 東京メトロ副都心線明治神宮前駅徒歩7分 ＪＲ山手線原宿駅徒歩11分 ＪＲ山手線渋谷駅徒歩14分",
+      "built": "1994/11/24",
+      "floors": "地上３階建",
+      "total_units": "60",
+      "term": "15年間",
+      "notes": "※リニューアル住戸には、ビルトインコンロ、温水洗浄便座、モニター付きインターホンを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/1380100_00_202108.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/H8021-ALR2-1LDK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム光が丘第一",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.17",
+          "rent": "102100",
+          "fee": "3200"
+        },
+        "２ＬＤＫ": {
+          "area": "60.17",
+          "rent": "100100",
+          "fee": "3200"
+        }
+      },
+      "transport": "都営地下鉄大江戸線光が丘駅徒歩8～9分 東武東上線成増駅バス23分光が丘南通り徒歩2～5分 西武池袋線練馬高野台駅バス17分光が丘南通り徒歩3～5分 東京メトロ有楽町線地下鉄成増駅バス23分光が丘南通り徒歩2～5分 東京メトロ副都心線地下鉄成増駅バス23分光が丘南通り徒歩2～5分",
+      "built": "1984/03/01",
+      "floors": "地上１４階建",
+      "total_units": "445",
+      "term": "定期借家契約ではありません",
+      "notes": "※給湯は一部住戸のみ3ヶ所です。（他は2ヶ所です） ※熱給湯システム（東京熱供給株式会社に申込が必要です）採用につき別途使用料が必要です。 ※学童クラブ、教育相談所、保育園があります。敷地内に交番があります。 ※当住宅のフロントスタッフはコーシャハイム光が丘第二の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/2080060001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/208006000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/208006000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/208006000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/208006000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080060/A1482-H-3DK.gif"
+      ]
+    },
+    {
+      "name": "宇喜田第二",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "42.83",
+          "rent": "71000",
+          "fee": "3100"
+        }
+      },
+      "transport": "都営地下鉄新宿線船堀駅徒歩17～18分 東京メトロ東西線西葛西駅バス6分小島徒歩5～7分 都営地下鉄新宿線船堀駅バス9分小島徒歩5～6分 東京メトロ東西線西葛西駅徒歩19～21分",
+      "built": "1973/12/01",
+      "floors": "地上１２階建",
+      "total_units": "712",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）　※保育園があります",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/2380030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/F1061-V0-2DK.gif"
       ]
     },
     {
@@ -210,9 +305,80 @@
       ]
     },
     {
-      "name": "落合",
-      "total": 4,
+      "name": "コーシャハイム玉川上水",
+      "total": 1,
       "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "59.65",
+          "rent": "81200",
+          "fee": "3400"
+        },
+        "２ＬＤＫ": {
+          "area": "57.61",
+          "rent": "82000",
+          "fee": "3400"
+        },
+        "３ＬＤＫ": {
+          "area": "70.9",
+          "rent": "94700",
+          "fee": "3400"
+        }
+      },
+      "transport": "西武拝島線玉川上水駅徒歩1～3分 多摩都市モノレール多摩都市モノレール玉川上水駅徒歩1～3分",
+      "built": "1987/03/09",
+      "floors": "地上５階建",
+      "total_units": "121",
+      "term": "定期借家契約ではありません",
+      "notes": "※給湯は２ヶ所です。 ※敷地内に金融機関、店舗等があります。 ※当住宅のフロントスタッフはコーシャハイム玉川上水第二の管理も行っています。 ※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/A1541-L-2LDK.gif"
+      ]
+    },
+    {
+      "name": "愛宕第一",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/5480030002.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "40.2",
+          "rent": "46100",
+          "fee": "3100"
+        }
+      },
+      "transport": "多摩都市モノレール多摩都市モノレール松が谷駅バス4分愛宕東徒歩1～2分 京王相模原線京王多摩センター駅バス12分愛宕東徒歩1～2分 小田急多摩線小田急多摩センター駅バス12分愛宕東徒歩1～2分 多摩都市モノレール多摩都市モノレール多摩センター駅バス12分愛宕東徒歩1～2分 京王京王線聖蹟桜ヶ丘駅バス14分愛宕東徒歩1～2分",
+      "built": "1972/06/01",
+      "floors": "地上１２階建",
+      "total_units": "121",
+      "term": "5年間",
+      "notes": "※給湯は２ヶ所です。 ※敷地内に店舗等があります。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/5480030002.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/548003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/548003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/548003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/548003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480030/A0931-V-2DK.gif"
+      ]
+    },
+    {
+      "name": "落合",
+      "total": 5,
+      "rooms": {
+        "２ＤＫ": 1,
         "３ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
