@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T13:32:53+09:00",
+  "updated_at": "2026-10-26T13:38:22+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -53,6 +53,137 @@
       ]
     },
     {
+      "name": "前野町第二",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/1980160000.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.29",
+          "rent": "69700",
+          "fee": "2900"
+        }
+      },
+      "transport": "東武東上線ときわ台駅徒歩14分",
+      "built": "1973/08/30",
+      "floors": "地上１０階建",
+      "total_units": "196",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/1980160000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/198016000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/198016000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/198016000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/198016000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/A1031-V-2DK.gif"
+      ]
+    },
+    {
+      "name": "興野町",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/2180040000.jpg",
+      "location": "足立区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "29.94",
+          "rent": "41900",
+          "fee": "1800"
+        }
+      },
+      "transport": "新交通システム日暮里・舎人ライナー江北駅徒歩11～14分 東武大師線大師前駅徒歩13～14分 東武大師線大師前駅バス13分興野公団住宅徒歩4～6分 東京メトロ千代田線北千住駅バス23分興野公団住宅徒歩4～6分 東京メトロ日比谷線北千住駅バス23分興野公団住宅徒歩4～6分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "1956/10/03",
+      "floors": "地上４階建",
+      "total_units": "761",
+      "term": "10年間",
+      "notes": "※給湯は２ヶ所です。 ※共用階段の清掃は各階段で交代制です。 ※当住宅はカーメスト興野町のフロントスタッフが管理しております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/2180040000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/H0563-CR3-2K.gif"
+      ]
+    },
+    {
+      "name": "松が谷",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/3180060000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "51.38",
+          "rent": "57500",
+          "fee": "2400"
+        },
+        "２ＤＫ": {
+          "area": "35.52",
+          "rent": "42000",
+          "fee": "2400"
+        }
+      },
+      "transport": "多摩都市モノレール多摩都市モノレール松が谷駅徒歩13～14分 小田急多摩線小田急多摩センター駅バス10分松が谷小学校徒歩2～3分 京王相模原線京王多摩センター駅バス10分松が谷小学校徒歩2～3分 多摩都市モノレール多摩都市モノレール多摩センター駅バス10分松が谷小学校徒歩2～3分",
+      "built": "1976/02/28",
+      "floors": "地上５階建",
+      "total_units": "251",
+      "term": "5年間",
+      "notes": "※横田基地を使用する航空機による騒音が予想されます。※ｺｲﾝﾊﾟｰｷﾝｸﾞがあります。ｶｰｼｪｱﾘﾝｸﾞを設置して います。※給湯は2ヶ所です。（ﾘﾆｭｰｱﾙ住戸のみ3ヶ所です）※当住宅のフロントスタッフは松が谷第二　、 ｺｰｼｬﾊｲﾑ松が谷、ｺｰｼｬﾊｲﾑ松が谷、ｺｰｼｬﾊｲﾑ松が谷第二、ｺｰｼｬﾊｲﾑ松が谷第三の管理も行なっております。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/3180060000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/318006000a[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/318006000b[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/318006000c[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/318006000d[1].jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/A1121-BW-2DK.gif"
+      ]
+    },
+    {
+      "name": "横川町",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 1,
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.64",
+          "rent": "51600",
+          "fee": "3200"
+        },
+        "３ＤＫ": {
+          "area": "56.12",
+          "rent": "58000",
+          "fee": "3100"
+        }
+      },
+      "transport": "ＪＲ中央線西八王子駅バス16分住宅中央徒歩2～5分 ＪＲ中央線八王子駅バス19分住宅中央徒歩2～5分 ＪＲ横浜線八王子駅バス19分住宅中央徒歩2～5分 ＪＲ八高線八王子駅バス19分住宅中央徒歩2～5分 京王京王線京王八王子駅バス24分住宅中央徒歩2～5分",
+      "built": "1980/01/08",
+      "floors": "地上５階建",
+      "total_units": "927",
+      "term": "定期借家契約ではありません",
+      "notes": "※エレベータは７号棟（８階建）、８号棟（１１階建）のみ設置されています。 ※敷地内に学童クラブ、保育園、幼稚園、店舗等があります。 ※コインパーキングがあります。※駐車場シェアリング（予約制駐車場）区画があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/A1311-KN-2DK.gif"
+      ]
+    },
+    {
       "name": "富士見町東",
       "total": 1,
       "rooms": {
@@ -80,6 +211,91 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/A1191-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "昭島田中町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
+      "location": "昭島市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "48900",
+          "fee": "2400"
+        },
+        "３ＤＫ": {
+          "area": "58.28",
+          "rent": "54000",
+          "fee": "2400"
+        }
+      },
+      "transport": "ＪＲ青梅線昭島駅バス19分田中町団地徒歩1～6分 ＪＲ中央線立川駅バス29分田中徒歩3～8分 ＪＲ青梅線立川駅バス29分田中徒歩3～8分 ＪＲ南武線立川駅バス29分田中徒歩3～8分",
+      "built": "1979/03/01",
+      "floors": "地上５階建",
+      "total_units": "897",
+      "term": "定期借家契約ではありません",
+      "notes": "※航空機等による騒音が予想されます※エレベータは17号棟のみ設置されています。 ※敷地内に保育園、学童クラブ、医療施設、店舗等があります。※給湯は２ヶ所です。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/A1272-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "多摩川",
+      "total": 2,
+      "rooms": {
+        "２Ｋ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
+      "location": "調布市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "44.52",
+          "rent": "61300",
+          "fee": "2500"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "47500",
+          "fee": "2000"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "46500",
+          "fee": "2500"
+        },
+        "３ＤＫ": {
+          "area": "43.06",
+          "rent": "59100",
+          "fee": "2500"
+        },
+        "２ＬＤＫ": {
+          "area": "44.52",
+          "rent": "72300",
+          "fee": "2500"
+        }
+      },
+      "transport": "京王京王線国領駅徒歩15～19分調布市 小田急小田原線狛江駅徒歩25～27分調布市 小田急小田原線狛江駅バス11分シティテラス多摩川徒歩3～7分調布市 京王京王線調布駅バス19分シティテラス多摩川徒歩2～6分調布市 京王京王線国領駅徒歩17～21分狛江市\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "1966/08/01",
+      "floors": "地上５階建",
+      "total_units": "1827",
+      "term": "7年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に幼稚園、医療施設、金融機関、交番、店舗等があります。 ※コインパーキングがあります。※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/L0811-E-2K.gif"
       ]
     },
     {
@@ -125,6 +341,56 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/Z0711-LZ-2DKS.gif"
+      ]
+    },
+    {
+      "name": "町田木曽",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "41900",
+          "fee": "1700"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "34000",
+          "fee": "1700"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "36100",
+          "fee": "1700"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "52000",
+          "fee": "1700"
+        },
+        "１ＤＫ": {
+          "area": "32.85",
+          "rent": "35000",
+          "fee": "1700"
+        }
+      },
+      "transport": "ＪＲ横浜線町田駅バス15分山崎団地センター徒歩1～13分 小田急小田原線町田駅バス15分山崎団地センター徒歩1～13分",
+      "built": "1970/04/02",
+      "floors": "地上５階建",
+      "total_units": "4330",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます。（不定期） ※敷地内に保育園、幼稚園、医療施設、防犯拠点、店舗等があります。 ※給湯はリフレッシュ住戸、一部住戸のみ３ヶ所です。（他は２ヶ所です） ※一部住戸はシャワールームタイプです。　※コインパーキングがあります。 ※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/A0852-B-2DK.gif"
       ]
     },
     {
@@ -286,6 +552,36 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/A1112-NS-3DK.gif"
+      ]
+    },
+    {
+      "name": "東寺方",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/5480100000.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "61300",
+          "fee": "3000"
+        }
+      },
+      "transport": "京王京王線聖蹟桜ヶ丘駅徒歩20～21分 京王京王線聖蹟桜ヶ丘駅バス11分総合体育館入口徒歩1～3分",
+      "built": "1979/03/30",
+      "floors": "地上５階建",
+      "total_units": "190",
+      "term": "定期借家契約ではありません",
+      "notes": "※給湯は２ヶ所です ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/5480100000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/548010000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/548010000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/548010000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/548010000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/A1291-KN-2DK.gif"
       ]
     },
     {
