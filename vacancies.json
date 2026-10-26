@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T12:03:08+09:00",
+  "updated_at": "2026-10-26T12:07:46+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -80,6 +80,181 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/328007000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280070/A1191-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "森野",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "45300",
+          "fee": "2600"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "51000",
+          "fee": "2600"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "59000",
+          "fee": "2600"
+        }
+      },
+      "transport": "小田急小田原線町田駅徒歩5～7分 ＪＲ横浜線町田駅徒歩5～8分",
+      "built": "1963/04/05",
+      "floors": "地上５階建",
+      "total_units": "433",
+      "term": "2030/06/30",
+      "notes": "※航空機による騒音が予想されます（不定期）。 ※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/3980060000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/398006000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980060/L0671-C-2K.gif"
+      ]
+    },
+    {
+      "name": "木曽",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/3980070000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "34500",
+          "fee": "2000"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "50300",
+          "fee": "2000"
+        },
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "51800",
+          "fee": "2000"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "35300",
+          "fee": "2000"
+        }
+      },
+      "transport": "ＪＲ横浜線古淵駅徒歩17～21分 ＪＲ横浜線町田駅バス15分木曽住宅徒歩2～6分 小田急小田原線町田駅バス15分木曽住宅徒歩2～6分",
+      "built": "1963/08/03",
+      "floors": "地上５階建",
+      "total_units": "905",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます。（不定期） ※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/3980070000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/Z0711-LZ-2DKS.gif"
+      ]
+    },
+    {
+      "name": "本町田",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38000",
+          "fee": "1100"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "41500",
+          "fee": "1100"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "57000",
+          "fee": "1100"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "57800",
+          "fee": "1100"
+        }
+      },
+      "transport": "ＪＲ横浜線町田駅バス11分ストアー前徒歩2～7分 小田急小田原線町田駅バス11分ストアー前徒歩2～7分",
+      "built": "1965/04/10",
+      "floors": "地上５階建",
+      "total_units": "918",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます（不定期）※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※保育園、店舗等があります。　※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/3980110001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/398011000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980110/L0771-C-2K.gif"
+      ]
+    },
+    {
+      "name": "境川",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38400",
+          "fee": "1800"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "46500",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "60700",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "40800",
+          "fee": "1800"
+        }
+      },
+      "transport": "ＪＲ横浜線古淵駅徒歩8～15分 ＪＲ横浜線町田駅バス11分境川団地中央徒歩1～8分 小田急小田原線町田駅バス11分境川団地中央徒歩1～8分 ＪＲ横浜線淵野辺駅バス19分境川団地中央徒歩1～8分",
+      "built": "1968/06/22",
+      "floors": "地上５階建",
+      "total_units": "2239",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます(不定期)。※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、幼稚園、店舗等があります。　※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/Z0841-LZ2-2DKS.gif"
       ]
     },
     {
