@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T14:27:43+09:00",
+  "updated_at": "2026-10-27T14:33:22+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -235,9 +235,9 @@
     },
     {
       "name": "多摩川",
-      "total": 1,
+      "total": 3,
       "rooms": {
-        "２Ｋ": 1
+        "２Ｋ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
       "location": "調布市",
