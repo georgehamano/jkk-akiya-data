@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-28T15:03:08+09:00",
+  "updated_at": "2026-10-28T15:08:36+09:00",
   "properties": [
+    {
+      "name": "東雲都橋",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
+      "location": "江東区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "50.62",
+          "rent": "92500",
+          "fee": "3000"
+        }
+      },
+      "transport": "東京臨海高速鉄道りんかい線東雲駅徒歩9～10分 東京メトロ有楽町線豊洲駅バス12分都橋住宅前徒歩2分",
+      "built": "1978/11/10",
+      "floors": "地上１４階建",
+      "total_units": "418",
+      "term": "定期借家契約ではありません",
+      "notes": "※敷地内に幼稚園、店舗等があります。 ※コインパーキングがあります。　※共用部に防犯カメラが設置されております。 ※隣接に小・中学校、高校、大学があります。 ※サイクルシェアポートがあります。（予告なく廃止する場合があります。）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/A1281-H-3DK.gif"
+      ]
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 8,
@@ -93,6 +123,36 @@
       ]
     },
     {
+      "name": "興野町",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/2180040000.jpg",
+      "location": "足立区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "29.94",
+          "rent": "41900",
+          "fee": "1800"
+        }
+      },
+      "transport": "新交通システム日暮里・舎人ライナー江北駅徒歩11～14分 東武大師線大師前駅徒歩13～14分 東武大師線大師前駅バス13分興野公団住宅徒歩4～6分 東京メトロ千代田線北千住駅バス23分興野公団住宅徒歩4～6分 東京メトロ日比谷線北千住駅バス23分興野公団住宅徒歩4～6分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "1956/10/03",
+      "floors": "地上４階建",
+      "total_units": "761",
+      "term": "10年間",
+      "notes": "※給湯は２ヶ所です。 ※共用階段の清掃は各階段で交代制です。 ※当住宅はカーメスト興野町のフロントスタッフが管理しております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/2180040000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/218004020d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180040/H0563-CR3-2K.gif"
+      ]
+    },
+    {
       "name": "松が谷",
       "total": 1,
       "rooms": {
@@ -125,6 +185,81 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/318006000c[1].jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/318006000d[1].jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180060/A1121-BW-2DK.gif"
+      ]
+    },
+    {
+      "name": "霞台",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+      "location": "青梅市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "40400",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "33300",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "49600",
+          "fee": "1800"
+        }
+      },
+      "transport": "ＪＲ青梅線河辺駅徒歩5～10分１～１２号棟 ＪＲ青梅線河辺駅徒歩9～13分１３～２３号棟",
+      "built": "1971/05/10",
+      "floors": "地上５階建",
+      "total_units": "1010",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）　※コインパーキングがあります。 ※霞台第一（1～１２号棟）は徒歩５～１０分、霞台第二（１３～２３号棟）は徒歩９～１３分となります。 ※霞台第一（１～１２号棟）カーシェアリングを設置しています。 ※霞台第一（１～１２号棟）敷地内に店舗等があります。　※霞台第一の 駐車場は改修工事をしています。（令和9年3月完了予定）工事期間中は一部区画の新規募集を停止しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/A0891-B-2DK.gif"
+      ]
+    },
+    {
+      "name": "小金井貫井",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020002.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "27.44",
+          "rent": "35300",
+          "fee": "3500"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "44900",
+          "fee": "3500"
+        }
+      },
+      "transport": "ＪＲ中央線武蔵小金井駅バス17分貫井南町二丁目徒歩4～7分",
+      "built": "1963/11/06",
+      "floors": "地上５階建",
+      "total_units": "350",
+      "term": "5年間",
+      "notes": "※給湯は2ヶ所です。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020002.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020003.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020005.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020006.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020007.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/A0732-C-2K.gif"
       ]
     },
     {
