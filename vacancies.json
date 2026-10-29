@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-29T09:32:53+09:00",
+  "updated_at": "2026-10-29T09:35:58+09:00",
   "properties": [
+    {
+      "name": "東雲都橋",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
+      "location": "江東区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "50.62",
+          "rent": "92500",
+          "fee": "3000"
+        }
+      },
+      "transport": "東京臨海高速鉄道りんかい線東雲駅徒歩9～10分 東京メトロ有楽町線豊洲駅バス12分都橋住宅前徒歩2分",
+      "built": "1978/11/10",
+      "floors": "地上１４階建",
+      "total_units": "418",
+      "term": "定期借家契約ではありません",
+      "notes": "※敷地内に幼稚園、店舗等があります。 ※コインパーキングがあります。　※共用部に防犯カメラが設置されております。 ※隣接に小・中学校、高校、大学があります。 ※サイクルシェアポートがあります。（予告なく廃止する場合があります。）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/0880120001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/088012000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880120/A1281-H-3DK.gif"
+      ]
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 7,
@@ -50,6 +80,36 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
+      ]
+    },
+    {
+      "name": "豊島町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780030/1780030001.jpg",
+      "location": "北区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "41.25",
+          "rent": "69000",
+          "fee": "3300"
+        }
+      },
+      "transport": "東京メトロ南北線王子神谷駅徒歩10分 ＪＲ京浜東北線王子駅バス10分新田橋徒歩3分",
+      "built": "1972/08/25",
+      "floors": "地上１２階建",
+      "total_units": "205",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※当住宅は、建物の耐震改修工事に伴い、一部住戸のバルコニー及び窓の外側に耐震構造材（斜材）を設置 しているため眺望・採光等への影響があります。詳細は各住戸の「注意」画面及び内見時にご確認ください。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780030/1780030001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780030/178003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780030/178003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780030/178003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780030/178003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1780030/A0981-V-2DK.gif"
       ]
     },
     {
