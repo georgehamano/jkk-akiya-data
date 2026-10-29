@@ -1,11 +1,56 @@
 {
-  "updated_at": "2026-10-29T10:12:45+09:00",
+  "updated_at": "2026-10-29T10:18:12+09:00",
   "properties": [
     {
-      "name": "カーメスト用賀馬事公苑",
-      "total": 7,
+      "name": "コーシャハイム千歳烏山",
+      "total": 1,
       "rooms": {
-        "２ＬＤＫ": 1,
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840000.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.03",
+          "rent": "143100",
+          "fee": "5300"
+        },
+        "１ＬＤＫ": {
+          "area": "40.46",
+          "rent": "122100",
+          "fee": "5300"
+        },
+        "２ＬＤＫ": {
+          "area": "52.13",
+          "rent": "156000",
+          "fee": "5300"
+        },
+        "１ＤＫ": {
+          "area": "34.13",
+          "rent": "109100",
+          "fee": "5300"
+        }
+      },
+      "transport": "京王京王線千歳烏山駅徒歩2～5分 京王京王線千歳烏山駅徒歩5分コーシャハイム千歳烏山（１１号棟）",
+      "built": "2010/02/16",
+      "floors": "地上５階建",
+      "total_units": "513",
+      "term": "25年間",
+      "notes": "※１～８・１１号棟は一般賃貸住宅です。（11号棟は一部）※９～１１号棟はサービス付き高齢者向け住宅 です。（11号棟は一部）※５～８号棟には温水洗浄便座・モニター付インターホンが設置されています。 ※９号棟に介護事業所、地域交流スペース（レストラン）、１２号棟に多世代交流施設（カフェ）、 保育所があります。※電気自動車用充電設備付駐車場があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840005.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840007.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/1280840011.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280840/L8333-AL1-1LDK.gif"
+      ]
+    },
+    {
+      "name": "カーメスト用賀馬事公苑",
+      "total": 8,
+      "rooms": {
+        "２ＬＤＫ": 2,
         "３ＬＤＫ": 6
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280951/128095001.jpg",
@@ -22,8 +67,8 @@
           "fee": "10000"
         },
         "２ＬＤＫ": {
-          "area": "56.76",
-          "rent": "273700",
+          "area": "56.76～60.51",
+          "rent": "273700～286400",
           "fee": "10000"
         },
         "３ＬＤＫ": {
@@ -50,6 +95,82 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
+      ]
+    },
+    {
+      "name": "横川町",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 1,
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.64",
+          "rent": "51600",
+          "fee": "3200"
+        },
+        "３ＤＫ": {
+          "area": "56.12",
+          "rent": "58000",
+          "fee": "3100"
+        }
+      },
+      "transport": "ＪＲ中央線西八王子駅バス16分住宅中央徒歩2～5分 ＪＲ中央線八王子駅バス19分住宅中央徒歩2～5分 ＪＲ横浜線八王子駅バス19分住宅中央徒歩2～5分 ＪＲ八高線八王子駅バス19分住宅中央徒歩2～5分 京王京王線京王八王子駅バス24分住宅中央徒歩2～5分",
+      "built": "1980/01/08",
+      "floors": "地上５階建",
+      "total_units": "927",
+      "term": "定期借家契約ではありません",
+      "notes": "※エレベータは７号棟（８階建）、８号棟（１１階建）のみ設置されています。 ※敷地内に学童クラブ、保育園、幼稚園、店舗等があります。 ※コインパーキングがあります。※駐車場シェアリング（予約制駐車場）区画があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/A1311-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "高ケ坂",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38400",
+          "fee": "1400"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "48100",
+          "fee": "1400"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "40800",
+          "fee": "1400"
+        }
+      },
+      "transport": "ＪＲ横浜線町田駅徒歩19～23分 小田急小田原線町田駅徒歩21～25分 ＪＲ横浜線町田駅バス9分高ケ坂団地徒歩1～4分 小田急小田原線町田駅バス9分高ケ坂団地徒歩1～4分",
+      "built": "1962/04/21",
+      "floors": "地上５階建",
+      "total_units": "833",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます（不定期）※給湯はリフレッシュ住戸のみ３ヵ所です。（他は２ヶ所です） ※コインパーキングがあります。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/L0641-E-2K.gif"
       ]
     },
     {
