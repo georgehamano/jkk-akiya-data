@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-30T15:52:48+09:00",
+  "updated_at": "2026-10-30T15:58:37+09:00",
   "properties": [
+    {
+      "name": "辰巳あけぼの",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
+      "location": "江東区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "59.92",
+          "rent": "109500",
+          "fee": "2500"
+        }
+      },
+      "transport": "ＪＲ京葉線潮見駅徒歩10分 東京メトロ有楽町線辰巳駅徒歩18分",
+      "built": "1982/05/10",
+      "floors": "地上１４階建",
+      "total_units": "291",
+      "term": "定期借家契約ではありません",
+      "notes": "※港湾関連施設が多い地域にあるため、トラック等の交通混雑・騒音が予想されます。 ※共用部に防犯カメラが設置されております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/0880210002.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/088021000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880210/C1401-HR1-2LDK.gif"
+      ]
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 9,
@@ -54,10 +84,86 @@
       ]
     },
     {
-      "name": "横川町",
+      "name": "コーシャハイム坂下",
       "total": 1,
       "rooms": {
         "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "54.88",
+          "rent": "118300",
+          "fee": "6400"
+        },
+        "２ＬＤＫ": {
+          "area": "58.8",
+          "rent": "124900",
+          "fee": "6400"
+        },
+        "３ＤＫ": {
+          "area": "62.23",
+          "rent": "123400",
+          "fee": "6400"
+        },
+        "１ＬＤＫ": {
+          "area": "51.51",
+          "rent": "107400",
+          "fee": "6400"
+        }
+      },
+      "transport": "都営地下鉄三田線蓮根駅徒歩3～6分",
+      "built": "2005/03/17",
+      "floors": "地上８階建（一部７階建）",
+      "total_units": "430",
+      "term": "25年間",
+      "notes": "※保育所・地域施設があります。 ※駐車場は改修工事をしています。（完了時期未定）工事期間中は新規募集を停止しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/L1843-V5-2DK.gif"
+      ]
+    },
+    {
+      "name": "東葛西第二",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/2380112001.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３Ｋ": {
+          "area": "50.83",
+          "rent": "81300",
+          "fee": "3000"
+        }
+      },
+      "transport": "東京メトロ東西線葛西駅徒歩17分 東京メトロ東西線葛西駅バス8分東葛西七丁目徒歩3分",
+      "built": "1979/04/01",
+      "floors": "地上１２階建",
+      "total_units": "157",
+      "term": "定期借家契約ではありません",
+      "notes": "※１階部分に保育園があります。 ※当住宅は東葛西第一住宅のフロントスタッフが管理しております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/2380112001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/238011200a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/238011200b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/238011200c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/238011200d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/A1381-I-3K.gif"
+      ]
+    },
+    {
+      "name": "横川町",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 1,
+        "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
       "location": "八王子市",
@@ -139,10 +245,50 @@
       ]
     },
     {
-      "name": "大和芝中",
-      "total": 2,
+      "name": "高ケ坂",
+      "total": 1,
       "rooms": {
-        "３Ｋ": 1,
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38400",
+          "fee": "1400"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "48100",
+          "fee": "1400"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "40800",
+          "fee": "1400"
+        }
+      },
+      "transport": "ＪＲ横浜線町田駅徒歩19～23分 小田急小田原線町田駅徒歩21～25分 ＪＲ横浜線町田駅バス9分高ケ坂団地徒歩1～4分 小田急小田原線町田駅バス9分高ケ坂団地徒歩1～4分",
+      "built": "1962/04/21",
+      "floors": "地上５階建",
+      "total_units": "833",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます（不定期）※給湯はリフレッシュ住戸のみ３ヵ所です。（他は２ヶ所です） ※コインパーキングがあります。 土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/398003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/L0641-E-2K.gif"
+      ]
+    },
+    {
+      "name": "大和芝中",
+      "total": 3,
+      "rooms": {
+        "３Ｋ": 2,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
@@ -165,7 +311,7 @@
         },
         "３Ｋ": {
           "area": "39.9",
-          "rent": "49400",
+          "rent": "43800",
           "fee": "2100"
         }
       },
@@ -227,16 +373,16 @@
     },
     {
       "name": "落合",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "３ＤＫ": 1
+        "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
-          "area": "52.59",
-          "rent": "56300",
+          "area": "51.38～52.59",
+          "rent": "56200～56300",
           "fee": "3000"
         },
         "２ＤＫ": {
