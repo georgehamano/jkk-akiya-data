@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T11:32:54+09:00",
+  "updated_at": "2026-11-02T11:37:50+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -83,51 +83,6 @@
       ]
     },
     {
-      "name": "コーシャハイム坂下",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
-      "location": "板橋区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "54.88",
-          "rent": "118300",
-          "fee": "6400"
-        },
-        "２ＬＤＫ": {
-          "area": "58.8",
-          "rent": "124900",
-          "fee": "6400"
-        },
-        "３ＤＫ": {
-          "area": "62.23",
-          "rent": "125800",
-          "fee": "6400"
-        },
-        "１ＬＤＫ": {
-          "area": "51.51",
-          "rent": "116900",
-          "fee": "6400"
-        }
-      },
-      "transport": "都営地下鉄三田線蓮根駅徒歩3～6分",
-      "built": "2005/03/17",
-      "floors": "地上８階建（一部７階建）",
-      "total_units": "430",
-      "term": "25年間",
-      "notes": "※保育所・地域施設があります。 ※駐車場は改修工事をしています。（完了時期未定）工事期間中は新規募集を停止しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/L1843-V5-2DK.gif"
-      ]
-    },
-    {
       "name": "春江町",
       "total": 1,
       "rooms": {
@@ -185,41 +140,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/238003000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380030/F1061-V0-2DK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム清新",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "64.22",
-          "rent": "114900",
-          "fee": "4300"
-        },
-        "２ＬＤＫ": {
-          "area": "63.04",
-          "rent": "135800",
-          "fee": "4300"
-        }
-      },
-      "transport": "東京メトロ東西線西葛西駅徒歩10～12分",
-      "built": "1983/01/19",
-      "floors": "地上１１階建",
-      "total_units": "322",
-      "term": "定期借家契約ではありません",
-      "notes": "※当住宅北西側に鉄橋があり電車による騒音が予想されます。 ※敷地内ににコミュニティ会館、保育園があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/A1421-H-3DK.gif"
       ]
     },
     {
