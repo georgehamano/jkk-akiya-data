@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T12:47:43+09:00",
+  "updated_at": "2026-11-02T12:52:55+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -148,6 +148,153 @@
       ]
     },
     {
+      "name": "江の島道東",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg",
+      "location": "立川市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "59900",
+          "fee": "2100"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "39500",
+          "fee": "2100"
+        }
+      },
+      "transport": "多摩都市モノレール多摩都市モノレール泉体育館駅徒歩9～13分 ＪＲ中央線立川駅バス14分公社住宅徒歩1～4分 ＪＲ青梅線立川駅バス14分公社住宅徒歩1～4分 ＪＲ南武線立川駅バス14分公社住宅徒歩1～4分 ＪＲ中央線立川駅バス16分東栄会徒歩4～8分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "1962/12/10",
+      "floors": "地上５階建",
+      "total_units": "393",
+      "term": "5年間",
+      "notes": "※給湯は２ヶ所です。 ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/3280020000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/328002000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/328002000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/328002000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/328002000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280020/Y0661-LZ-2DKS.gif"
+      ]
+    },
+    {
+      "name": "富士見町",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 2
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
+      "location": "立川市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "45200",
+          "fee": "2200"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "41200",
+          "fee": "2200"
+        }
+      },
+      "transport": "ＪＲ中央線立川駅バス11分富士見町団地徒歩2～7分 ＪＲ青梅線立川駅バス11分富士見町団地徒歩2～7分 ＪＲ南武線立川駅バス11分富士見町団地徒歩2～7分",
+      "built": "1967/12/16",
+      "floors": "地上５階建",
+      "total_units": "753",
+      "term": "5年間",
+      "notes": "※給湯は住戸改善住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、交番、郵便局、店舗等があります。 ※当住宅のフロントスタッフは富士見町東住宅の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/328004000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/328004000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/328004000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/328004000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/A0831-C-2K.gif"
+      ]
+    },
+    {
+      "name": "霞台",
+      "total": 4,
+      "rooms": {
+        "３Ｋ": 1,
+        "２ＤＫ": 3
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+      "location": "青梅市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "41900",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "32000～33300",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "49600",
+          "fee": "1800"
+        }
+      },
+      "transport": "ＪＲ青梅線河辺駅徒歩5～10分１～１２号棟 ＪＲ青梅線河辺駅徒歩9～13分１３～２３号棟",
+      "built": "1971/05/10",
+      "floors": "地上５階建",
+      "total_units": "1010",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）　※コインパーキングがあります。 ※霞台第一（1～１２号棟）は徒歩５～１０分、霞台第二（１３～２３号棟）は徒歩９～１３分となります。 ※霞台第一（１～１２号棟）カーシェアリングを設置しています。 ※霞台第一（１～１２号棟）敷地内に店舗等があります。　※霞台第一の 駐車場は改修工事をしています。（令和9年3月完了予定）工事期間中は一部区画の新規募集を停止しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/358001000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/A0891-B-2DK.gif"
+      ]
+    },
+    {
+      "name": "昭島田中町",
+      "total": 2,
+      "rooms": {
+        "２ＤＫ": 1,
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
+      "location": "昭島市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "48900",
+          "fee": "2400"
+        },
+        "３ＤＫ": {
+          "area": "58.28",
+          "rent": "54000",
+          "fee": "2400"
+        }
+      },
+      "transport": "ＪＲ青梅線昭島駅バス19分田中町団地徒歩1～6分 ＪＲ中央線立川駅バス29分田中徒歩3～8分 ＪＲ青梅線立川駅バス29分田中徒歩3～8分 ＪＲ南武線立川駅バス29分田中徒歩3～8分",
+      "built": "1979/03/01",
+      "floors": "地上５階建",
+      "total_units": "897",
+      "term": "定期借家契約ではありません",
+      "notes": "※航空機等による騒音が予想されます※エレベータは17号棟のみ設置されています。 ※敷地内に保育園、学童クラブ、医療施設、店舗等があります。※給湯は２ヶ所です。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/A1272-KN-2DK.gif"
+      ]
+    },
+    {
       "name": "高ケ坂",
       "total": 1,
       "rooms": {
@@ -188,11 +335,46 @@
       ]
     },
     {
-      "name": "大和芝中",
-      "total": 3,
+      "name": "熊川",
+      "total": 1,
       "rooms": {
-        "３Ｋ": 2,
-        "２ＤＫ": 1
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880010/4880010000.jpg",
+      "location": "福生市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "27800",
+          "fee": "2200"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "33500",
+          "fee": "2200"
+        }
+      },
+      "transport": "ＪＲ青梅線拝島駅徒歩16～18分 ＪＲ五日市線拝島駅徒歩16～18分 ＪＲ八高線拝島駅徒歩16～18分 ＪＲ青梅線拝島駅バス12分熊川団地徒歩2～4分 ＪＲ五日市線拝島駅バス12分熊川団地徒歩2～4分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "1963/09/27",
+      "floors": "地上５階建",
+      "total_units": "593",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880010/4880010000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880010/488001000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880010/488001000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880010/488001000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880010/488001000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880010/L0721-E-2K.gif"
+      ]
+    },
+    {
+      "name": "大和芝中",
+      "total": 5,
+      "rooms": {
+        "３Ｋ": 3,
+        "２ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
       "location": "東大和市",
@@ -209,7 +391,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "39100",
+          "rent": "37600",
           "fee": "2100"
         },
         "３Ｋ": {
@@ -235,10 +417,10 @@
     },
     {
       "name": "大和上北台",
-      "total": 2,
+      "total": 3,
       "rooms": {
         "２ＤＫ": 1,
-        "２ＤＫＳ": 1
+        "２ＤＫＳ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
       "location": "東大和市",
@@ -255,7 +437,7 @@
         },
         "２ＤＫＳ": {
           "area": "51.75",
-          "rent": "59600",
+          "rent": "57400",
           "fee": "1900"
         }
       },
@@ -276,16 +458,16 @@
     },
     {
       "name": "落合",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "３ＤＫ": 1
+        "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
-          "area": "52.59",
-          "rent": "56300",
+          "area": "51.38",
+          "rent": "58300",
           "fee": "3000"
         },
         "２ＤＫ": {
