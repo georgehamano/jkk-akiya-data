@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T14:22:53+09:00",
+  "updated_at": "2026-11-02T14:27:50+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -183,17 +183,47 @@
       ]
     },
     {
-      "name": "横川町",
+      "name": "松枝",
       "total": 1,
       "rooms": {
         "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "39.6",
+          "rent": "36300",
+          "fee": "3200"
+        }
+      },
+      "transport": "ＪＲ中央線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ横浜線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ八高線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ中央線西八王子駅バス30分松枝住宅徒歩1～5分 京王京王線京王八王子駅バス32分松枝住宅徒歩1～5分",
+      "built": "1976/02/28",
+      "floors": "地上７階建",
+      "total_units": "545",
+      "term": "5年間",
+      "notes": "※エレベータは７階建（２、３、６、７号棟）のみ設置されています。 ※給湯は２ヶ所です。 ※保育園、店舗等があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/A1141-V-2DK.gif"
+      ]
+    },
+    {
+      "name": "横川町",
+      "total": 6,
+      "rooms": {
+        "２ＤＫ": 6
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
       "location": "八王子市",
       "room_details": {
         "２ＤＫ": {
           "area": "45.64",
-          "rent": "51600",
+          "rent": "51600～52600",
           "fee": "3200"
         },
         "３ＤＫ": {
@@ -330,8 +360,9 @@
     },
     {
       "name": "多摩川",
-      "total": 1,
+      "total": 4,
       "rooms": {
+        "２Ｋ": 3,
         "３ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
@@ -348,9 +379,9 @@
           "fee": "2000"
         },
         "２Ｋ": {
-          "area": "27.44",
-          "rent": "38800",
-          "fee": "2000"
+          "area": "32.85",
+          "rent": "45700",
+          "fee": "2500"
         },
         "３ＤＫ": {
           "area": "43.06",
@@ -380,16 +411,17 @@
     },
     {
       "name": "高ケ坂",
-      "total": 1,
+      "total": 3,
       "rooms": {
+        "２Ｋ": 2,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
       "location": "町田市",
       "room_details": {
         "２Ｋ": {
-          "area": "32.85",
-          "rent": "38400",
+          "area": "27.44",
+          "rent": "30700",
           "fee": "1400"
         },
         "３Ｋ": {
@@ -617,9 +649,10 @@
     },
     {
       "name": "平尾",
-      "total": 1,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 2,
+        "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
       "location": "稲城市",
@@ -631,12 +664,12 @@
         },
         "３Ｋ": {
           "area": "39.9",
-          "rent": "51200",
+          "rent": "49500",
           "fee": "1900"
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "43800",
+          "rent": "44300",
           "fee": "1900"
         }
       },
