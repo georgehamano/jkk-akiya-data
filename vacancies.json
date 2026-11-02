@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T11:12:55+09:00",
+  "updated_at": "2026-11-02T11:17:43+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -188,36 +188,6 @@
       ]
     },
     {
-      "name": "堀江",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/2380050000.jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.0",
-          "rent": "69600",
-          "fee": "4200"
-        }
-      },
-      "transport": "ＪＲ京葉線葛西臨海公園駅バス5分堀江団地徒歩1～3分 東京メトロ東西線葛西駅バス8分堀江団地徒歩1～3分 東京メトロ東西線西葛西駅バス10分堀江団地入口徒歩1～3分 東京メトロ東西線西葛西駅バス11分堀江団地徒歩1～3分",
-      "built": "1975/10/31",
-      "floors": "地上８階建",
-      "total_units": "865",
-      "term": "10年間",
-      "notes": "※給湯はリニューアル住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、子育てひろば、交番があります。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/2380050000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/A1161-V-2DK.gif"
-      ]
-    },
-    {
       "name": "コーシャハイム清新",
       "total": 1,
       "rooms": {
@@ -329,16 +299,16 @@
     },
     {
       "name": "トミンハイム国分寺泉町",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/4480070000.jpg",
       "location": "国分寺市",
       "room_details": {
         "２ＤＫ": {
           "area": "55.09",
-          "rent": "114900～122700",
+          "rent": "122700",
           "fee": "4000"
         }
       },
