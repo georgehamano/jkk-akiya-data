@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T10:12:59+09:00",
+  "updated_at": "2026-11-05T10:17:50+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -294,10 +294,10 @@
     },
     {
       "name": "町田木曽",
-      "total": 14,
+      "total": 12,
       "rooms": {
-        "２Ｋ": 4,
-        "２ＤＫ": 9,
+        "２Ｋ": 3,
+        "２ＤＫ": 8,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
@@ -416,9 +416,9 @@
     },
     {
       "name": "大和芝中",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "３Ｋ": 3
+        "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
       "location": "東大和市",
