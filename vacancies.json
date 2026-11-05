@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-11-05T16:53:44+09:00",
+  "updated_at": "2026-11-05T16:57:55+09:00",
   "properties": [
-    {
-      "name": "コーシャハイム亀戸七丁目",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880370/0880370001.jpg",
-      "location": "江東区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "55.44",
-          "rent": "109600",
-          "fee": "4300"
-        }
-      },
-      "transport": "都営地下鉄新宿線大島駅徒歩10分 ＪＲ総武線亀戸駅徒歩16分",
-      "built": "2003/02/20",
-      "floors": "地上１１階建",
-      "total_units": "202",
-      "term": "定期借家契約ではありません",
-      "notes": "※当住宅西側の民間住宅屋上に広告用看板が設置されており、夜間は照明（ネオンサイン）がつきます。 ※首都高速小松川線による騒音が予想されます。 ※共用部に防犯カメラが設置されております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880370/0880370001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880370/088037000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880370/088037000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880370/088037000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880370/088037000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880370/A1811-AL1-1LDK.gif"
-      ]
-    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
