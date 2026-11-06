@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:58:44+09:00",
+  "updated_at": "2026-11-06T17:04:53+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -36,41 +36,6 @@
       ]
     },
     {
-      "name": "コーシャハイム仲六郷",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/1180450001.jpg",
-      "location": "大田区",
-      "room_details": {
-        "２Ｋ": {
-          "area": "43.73",
-          "rent": "94500",
-          "fee": "4400"
-        },
-        "２ＤＫ": {
-          "area": "50.01",
-          "rent": "107400",
-          "fee": "4400"
-        }
-      },
-      "transport": "京浜急行京浜急行線雑色駅徒歩10～11分",
-      "built": "2003/12/15",
-      "floors": "地上１０階建",
-      "total_units": "253",
-      "term": "25年間",
-      "notes": "※住宅敷地の西側は線路に面しているため、電車の通過音や踏切の警報音等が予想されます。 ※電気自動車用充電設備付駐車場があります。　※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/1180450001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/118045000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/118045000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/118045000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/118045000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/L8152-VA-2DK.gif"
-      ]
-    },
-    {
       "name": "南烏山三丁目",
       "total": 1,
       "rooms": {
@@ -98,6 +63,56 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/L1041-I-3K.gif"
+      ]
+    },
+    {
+      "name": "カーメスト大蔵の杜",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "51.09",
+          "rent": "144500",
+          "fee": "5300"
+        },
+        "１ＤＫ": {
+          "area": "35.34",
+          "rent": "104000",
+          "fee": "5300"
+        },
+        "２Ｋ": {
+          "area": "38.34",
+          "rent": "126600",
+          "fee": "5300"
+        },
+        "２ＬＤＫ": {
+          "area": "67.13",
+          "rent": "186000",
+          "fee": "5300"
+        },
+        "１ＬＤＫＳ": {
+          "area": "51.91",
+          "rent": "158100",
+          "fee": "5300"
+        }
+      },
+      "transport": "小田急小田原線祖師ヶ谷大蔵駅徒歩18～20分 小田急小田原線成城学園前駅徒歩19～25分 小田急小田原線成城学園前駅バス10分東宝前徒歩2～7分",
+      "built": "2022/07/01",
+      "floors": "地上９階建て",
+      "total_units": "381",
+      "term": "25年間",
+      "notes": "土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。 ８・９号棟は建物内（各住戸内も含む）及び敷地内を全面禁煙としています。 ソニーネットワークコミュニケーションズコネクト（株）が提供するインターネ ット設備（Wi-Fi機能付）が導入されてます。マルチサロン和み（６号棟のみ）、 ラウンジ（９号棟のみ）、エレベータ内に防犯カメラを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/L8772-A2a-1DK.gif"
       ]
     },
     {
