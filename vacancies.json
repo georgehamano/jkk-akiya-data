@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T17:04:53+09:00",
+  "updated_at": "2026-11-06T17:07:49+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -63,56 +63,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/L1041-I-3K.gif"
-      ]
-    },
-    {
-      "name": "カーメスト大蔵の杜",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "51.09",
-          "rent": "144500",
-          "fee": "5300"
-        },
-        "１ＤＫ": {
-          "area": "35.34",
-          "rent": "104000",
-          "fee": "5300"
-        },
-        "２Ｋ": {
-          "area": "38.34",
-          "rent": "126600",
-          "fee": "5300"
-        },
-        "２ＬＤＫ": {
-          "area": "67.13",
-          "rent": "186000",
-          "fee": "5300"
-        },
-        "１ＬＤＫＳ": {
-          "area": "51.91",
-          "rent": "158100",
-          "fee": "5300"
-        }
-      },
-      "transport": "小田急小田原線祖師ヶ谷大蔵駅徒歩18～20分 小田急小田原線成城学園前駅徒歩19～25分 小田急小田原線成城学園前駅バス10分東宝前徒歩2～7分",
-      "built": "2022/07/01",
-      "floors": "地上９階建て",
-      "total_units": "381",
-      "term": "25年間",
-      "notes": "土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。 ８・９号棟は建物内（各住戸内も含む）及び敷地内を全面禁煙としています。 ソニーネットワークコミュニケーションズコネクト（株）が提供するインターネ ット設備（Wi-Fi機能付）が導入されてます。マルチサロン和み（６号棟のみ）、 ラウンジ（９号棟のみ）、エレベータ内に防犯カメラを設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/L8772-A2a-1DK.gif"
       ]
     },
     {
@@ -259,36 +209,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000c[1].jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/238002000d[1].jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380020/G0971-V-2DK.gif"
-      ]
-    },
-    {
-      "name": "春江町椿",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/2380070000[1].jpg",
-      "location": "江戸川区",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "43.35",
-          "rent": "68600",
-          "fee": "3200"
-        }
-      },
-      "transport": "都営地下鉄新宿線瑞江駅徒歩19分 都営地下鉄新宿線一之江駅バス10分春江中学校徒歩5分 都営地下鉄新宿線瑞江駅バス11分春江中学校徒歩5分 ＪＲ総武線小岩駅バス24分春江中学校徒歩5分",
-      "built": "1976/10/31",
-      "floors": "地上１０階建",
-      "total_units": "227",
-      "term": "10年間",
-      "notes": "※給湯は２ヶ所です。※保育園があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/2380070000[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000a[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000e[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000c[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/238007000d[1].jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380070/L1171-V-2DK.gif"
       ]
     },
     {
