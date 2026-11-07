@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-07T16:52:47+09:00",
+  "updated_at": "2026-11-07T16:59:11+09:00",
   "properties": [
+    {
+      "name": "トミンタワー台場一番街",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/0380100001.jpg",
+      "location": "港区",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "72.95",
+          "rent": "287600",
+          "fee": "5500"
+        },
+        "３ＬＤＫ": {
+          "area": "73.3",
+          "rent": "298000",
+          "fee": "5500"
+        },
+        "２ＤＫ": {
+          "area": "55.07",
+          "rent": "192600",
+          "fee": "5500"
+        }
+      },
+      "transport": "東京臨海新交通ゆりかもめお台場海浜公園駅徒歩9分 東京臨海高速鉄道りんかい線東京テレポート駅徒歩13分",
+      "built": "2000/02/08",
+      "floors": "地下２階・地上３２階建",
+      "total_units": "310",
+      "term": "定期借家契約ではありません",
+      "notes": "※東京国際空港の滑走路の進入コースに位置していること及び首都高速道路の騒音が予想されるため、 防音サッシによる遮音措置を講じています。また、航空法の規定により、航空障害灯が設置されているため、 管理上住戸に立ち入る場合があります。※網戸は15階以上の住戸には設置されていません。 ※トイレの洗浄水は再生水が使用されており、飲用等には使用できません。※温水洗浄便座の取付 （届出が必要です。）に際しては、上水用の水栓から別途接続してください。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/0380100001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/C5413-HL1R3-3LDK.gif"
+      ]
+    },
     {
       "name": "トミンハイム西五反田四丁目",
       "total": 1,
@@ -87,6 +127,71 @@
       ]
     },
     {
+      "name": "前野町第二",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/1980160000.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.29",
+          "rent": "70300",
+          "fee": "2900"
+        }
+      },
+      "transport": "東武東上線ときわ台駅徒歩14分",
+      "built": "1973/08/30",
+      "floors": "地上１０階建",
+      "total_units": "196",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/1980160000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/198016000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/198016000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/198016000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/198016000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980160/A1031-V-2DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム南葛西五丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.47",
+          "rent": "92200",
+          "fee": "3100"
+        },
+        "２ＬＤＫ": {
+          "area": "60.93",
+          "rent": "94500",
+          "fee": "3100"
+        }
+      },
+      "transport": "ＪＲ京葉線葛西臨海公園駅徒歩15～19分 東京メトロ東西線葛西駅バス19分コーシャハイム南葛西徒歩1～4分",
+      "built": "1986/03/25",
+      "floors": "地上１４階建",
+      "total_units": "879",
+      "term": "定期借家契約ではありません",
+      "notes": "※首都高速湾岸線による騒音が予想されます。 ※教育相談室、保育園、店舗等があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/A1522-H-3DK_2_3_4.gif"
+      ]
+    },
+    {
       "name": "松が谷",
       "total": 1,
       "rooms": {
@@ -158,9 +263,10 @@
     },
     {
       "name": "霞台",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "３Ｋ": 1
+        "３Ｋ": 1,
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
       "location": "青梅市",
@@ -294,8 +400,9 @@
     },
     {
       "name": "境川",
-      "total": 1,
+      "total": 2,
       "rooms": {
+        "２Ｋ": 1,
         "２ＤＫＳ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
@@ -303,7 +410,7 @@
       "room_details": {
         "２Ｋ": {
           "area": "32.85",
-          "rent": "38900",
+          "rent": "43100",
           "fee": "1800"
         },
         "３Ｋ": {
@@ -339,10 +446,10 @@
     },
     {
       "name": "町田木曽",
-      "total": 7,
+      "total": 9,
       "rooms": {
         "２Ｋ": 2,
-        "２ＤＫ": 4,
+        "２ＤＫ": 6,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
@@ -360,7 +467,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "36600",
+          "rent": "35200～36600",
           "fee": "1700"
         },
         "２ＤＫＳ": {
@@ -508,9 +615,50 @@
       ]
     },
     {
-      "name": "落合",
-      "total": 3,
+      "name": "コーシャハイム玉川上水",
+      "total": 1,
       "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "59.65",
+          "rent": "81200",
+          "fee": "3400"
+        },
+        "２ＬＤＫ": {
+          "area": "57.61",
+          "rent": "82000",
+          "fee": "3400"
+        },
+        "３ＬＤＫ": {
+          "area": "70.9",
+          "rent": "94700",
+          "fee": "3400"
+        }
+      },
+      "transport": "西武拝島線玉川上水駅徒歩1～3分 多摩都市モノレール多摩都市モノレール玉川上水駅徒歩1～3分",
+      "built": "1987/03/09",
+      "floors": "地上５階建",
+      "total_units": "121",
+      "term": "定期借家契約ではありません",
+      "notes": "※給湯は２ヶ所です。 ※敷地内に金融機関、店舗等があります。 ※当住宅のフロントスタッフはコーシャハイム玉川上水第二の管理も行っています。 ※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/5080100000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/508010000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080100/A1541-L-2LDK.gif"
+      ]
+    },
+    {
+      "name": "落合",
+      "total": 4,
+      "rooms": {
+        "２ＤＫ": 1,
         "３ＤＫ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
