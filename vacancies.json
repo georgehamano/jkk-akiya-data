@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T13:12:49+09:00",
+  "updated_at": "2026-11-09T13:17:45+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -478,36 +478,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020006.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020007.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/A0732-C-2K.gif"
-      ]
-    },
-    {
-      "name": "トミンハイム国分寺泉町",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/4480070000.jpg",
-      "location": "国分寺市",
-      "room_details": {
-        "２ＤＫ": {
-          "area": "55.09",
-          "rent": "122700",
-          "fee": "4000"
-        }
-      },
-      "transport": "ＪＲ中央線西国分寺駅徒歩4～7分 ＪＲ武蔵野線西国分寺駅徒歩4～7分",
-      "built": "2000/07/10",
-      "floors": "地上５～１４階建",
-      "total_units": "406",
-      "term": "定期借家契約ではありません",
-      "notes": "※敷地内は、東京都都市整備局、ＵＲ都市機構および国分寺市の共同開発です。 ※１階部分に国分寺市の施設「国分寺市いきいきセンター」があります。 ※カーシェアリングを設置しています。 ※駐車場は改修工事をしています。（令和11年1月完了予定）工事期間中は新規募集を停止しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/4480070000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/448007000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/448007000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/448007000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/448007000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/C5481-VAR1-2DK.gif"
       ]
     },
     {
