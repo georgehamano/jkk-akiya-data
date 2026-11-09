@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-11-09T12:48:30+09:00",
+  "updated_at": "2026-11-09T12:53:00+09:00",
   "properties": [
-    {
-      "name": "トミンハイム海岸三丁目",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380050/0380050001.jpg",
-      "location": "港区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "55.98",
-          "rent": "144900",
-          "fee": "6000"
-        }
-      },
-      "transport": "東京臨海新交通ゆりかもめ芝浦ふ頭駅徒歩8分 ＪＲ山手線田町駅徒歩14分 ＪＲ京浜東北線田町駅徒歩14分",
-      "built": "1993/03/31",
-      "floors": "地上２０階建",
-      "total_units": "155",
-      "term": "定期借家契約ではありません",
-      "notes": "※当住宅西側の首都高速道路１号線の騒音が予想されます。 ※管理上、居室内に立ち入る場合があります。※３階～７階は東京港湾福利厚生協会の施設です。 ※１、２階に店舗及び防災センターがあります。 ※網戸は１５階以上の住戸には設置していません。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380050/0380050001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380050/038005000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380050/038005000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380050/038005000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380050/038005000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380050/A5001-AL1-1LDK.gif"
-      ]
-    },
     {
       "name": "トミンタワー台場一番街",
       "total": 1,
@@ -659,17 +629,17 @@
     },
     {
       "name": "落合",
-      "total": 2,
+      "total": 3,
       "rooms": {
         "２ＤＫ": 1,
-        "３ＤＫ": 1
+        "３ＤＫ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
       "location": "多摩市",
       "room_details": {
         "３ＤＫ": {
-          "area": "52.59",
-          "rent": "58200",
+          "area": "51.38",
+          "rent": "58300",
           "fee": "3000"
         },
         "２ＤＫ": {
