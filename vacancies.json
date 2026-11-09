@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T13:47:46+09:00",
+  "updated_at": "2026-11-09T13:52:54+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -228,9 +228,9 @@
     },
     {
       "name": "霞台",
-      "total": 3,
+      "total": 2,
       "rooms": {
-        "３Ｋ": 2,
+        "３Ｋ": 1,
         "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3580010/3580010000.jpg",
@@ -238,7 +238,7 @@
       "room_details": {
         "３Ｋ": {
           "area": "39.9",
-          "rent": "40100",
+          "rent": "41900",
           "fee": "1800"
         },
         "２ＤＫ": {
