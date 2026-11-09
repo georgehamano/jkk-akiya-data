@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T14:52:47+09:00",
+  "updated_at": "2026-11-09T14:57:40+09:00",
   "properties": [
     {
       "name": "トミンハイム西五反田四丁目",
@@ -123,9 +123,9 @@
     },
     {
       "name": "横川町",
-      "total": 5,
+      "total": 4,
       "rooms": {
-        "２ＤＫ": 5
+        "２ＤＫ": 4
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
       "location": "八王子市",
