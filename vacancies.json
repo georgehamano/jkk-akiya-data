@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T13:32:57+09:00",
+  "updated_at": "2026-11-10T13:37:44+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -688,10 +688,9 @@
     },
     {
       "name": "大和上北台",
-      "total": 4,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 3,
-        "３Ｋ": 1
+        "２ＤＫ": 3
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080060/5080060000.jpg",
       "location": "東大和市",
