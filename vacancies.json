@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T11:13:27+09:00",
+  "updated_at": "2026-11-11T11:17:50+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -39,35 +39,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/038010000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0380100/C5413-HL1R3-3LDK.gif"
-      ]
-    },
-    {
-      "name": "亀戸九丁目",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880180/0880180000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "59.92",
-          "rent": "98100",
-          "fee": "4100"
-        }
-      },
-      "transport": "ＪＲ総武線平井駅徒歩13～15分 ＪＲ総武線亀戸駅徒歩19～20分 ＪＲ総武線亀戸駅バス13分浅間神社徒歩4～6分",
-      "built": "1980/12/01",
-      "floors": "地上１４階建",
-      "total_units": "352",
-      "term": "定期借家契約ではありません",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880180/0880180000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880180/088018000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880180/088018000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880180/088018000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880180/088018000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880180/A1351-H-3DK.gif"
       ]
     },
     {
