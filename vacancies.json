@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T13:27:37+09:00",
+  "updated_at": "2026-11-12T13:32:56+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -565,51 +565,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/Z0701-LZ-2DKS.gif"
-      ]
-    },
-    {
-      "name": "大和芝中",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
-      "location": "東大和市",
-      "room_details": {
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "54100",
-          "fee": "2100"
-        },
-        "２Ｋ": {
-          "area": "32.31",
-          "rent": "36200",
-          "fee": "2100"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "39100",
-          "fee": "2100"
-        },
-        "３Ｋ": {
-          "area": "39.9",
-          "rent": "43800",
-          "fee": "2100"
-        }
-      },
-      "transport": "多摩都市モノレール多摩都市モノレール上北台駅徒歩7～13分 西武拝島線東大和市駅バス16分芝中団地徒歩1～5分",
-      "built": "1970/03/30",
-      "floors": "地上５階建",
-      "total_units": "988",
-      "term": "5年間",
-      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）※敷地内に保育園、店舗等があります。 ※コインパーキングがあります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/508004000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/508004000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/508004000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/508004000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/Z0871-LZ2-2DKS.gif"
       ]
     },
     {
