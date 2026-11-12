@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-12T10:07:41+09:00",
+  "updated_at": "2026-11-12T10:13:18+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム高田馬場",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/0480190000.jpg",
+      "location": "新宿区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "47.36",
+          "rent": "150300",
+          "fee": "6800"
+        },
+        "１ＬＤＫ": {
+          "area": "44.92",
+          "rent": "140500",
+          "fee": "6800"
+        }
+      },
+      "transport": "ＪＲ山手線高田馬場駅徒歩3～4分 西武新宿線高田馬場駅徒歩3～4分 東京メトロ東西線高田馬場駅徒歩7～8分",
+      "built": "2002/10/02",
+      "floors": "地上５階建",
+      "total_units": "154",
+      "term": "25年間",
+      "notes": "※コインパーキングがあります。　※電気自動車用充電設備付駐車場があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/0480190000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/048019000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0480190/L8111-ALA-1LDK.gif"
+      ]
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 9,
@@ -543,6 +578,51 @@
       ]
     },
     {
+      "name": "コーシャハイム玉川上水第二",
+      "total": 1,
+      "rooms": {
+        "３ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080110/5080110000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "４ＤＫ": {
+          "area": "74.13",
+          "rent": "98100",
+          "fee": "4800"
+        },
+        "２ＤＫＳ": {
+          "area": "63.76",
+          "rent": "87500",
+          "fee": "4800"
+        },
+        "４ＬＤＫ": {
+          "area": "89.11",
+          "rent": "122300",
+          "fee": "4800"
+        },
+        "３ＬＤＫ": {
+          "area": "74.13",
+          "rent": "99600",
+          "fee": "4800"
+        }
+      },
+      "transport": "西武拝島線玉川上水駅徒歩4～7分 多摩都市モノレール多摩都市モノレール玉川上水駅徒歩4～7分",
+      "built": "1993/01/16",
+      "floors": "地上７階建",
+      "total_units": "140",
+      "term": "定期借家契約ではありません",
+      "notes": "※当住宅はコーシャハイム玉川上水のフロントスタッフが管理しております。 ※敷地内に市民センターがあります。 ※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080110/5080110000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080110/508011000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080110/508011000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080110/508011000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080110/508011000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080110/A1711-VS-2DKS.gif"
+      ]
+    },
+    {
       "name": "落合",
       "total": 2,
       "rooms": {
@@ -580,8 +660,9 @@
     },
     {
       "name": "平尾",
-      "total": 2,
+      "total": 3,
       "rooms": {
+        "２ＤＫ": 1,
         "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
@@ -599,7 +680,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "44300",
+          "rent": "44800",
           "fee": "1900"
         }
       },
