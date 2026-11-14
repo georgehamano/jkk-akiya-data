@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:58:07+09:00",
+  "updated_at": "2026-11-14T14:03:09+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -51,36 +51,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム神宮前五丁目",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/1380100_00_202108.jpg",
-      "location": "渋谷区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "51.0",
-          "rent": "206200",
-          "fee": "5000"
-        }
-      },
-      "transport": "東京メトロ千代田線明治神宮前駅徒歩7分 東京メトロ副都心線明治神宮前駅徒歩7分 ＪＲ山手線原宿駅徒歩11分 ＪＲ山手線渋谷駅徒歩14分",
-      "built": "1994/11/24",
-      "floors": "地上３階建",
-      "total_units": "60",
-      "term": "15年間",
-      "notes": "※リニューアル住戸には、ビルトインコンロ、温水洗浄便座、モニター付きインターホンを設置しています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/1380100_00_202108.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/138010000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1380100/H8021-ALR2-1LDK.gif"
       ]
     },
     {
@@ -449,46 +419,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/428002000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/428002000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/L0764-F-3K.gif"
-      ]
-    },
-    {
-      "name": "福生加美平",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
-      "location": "福生市",
-      "room_details": {
-        "２Ｋ": {
-          "area": "32.85",
-          "rent": "29700",
-          "fee": "1700"
-        },
-        "２ＤＫ": {
-          "area": "34.56",
-          "rent": "31200",
-          "fee": "1700"
-        },
-        "２ＤＫＳ": {
-          "area": "51.74",
-          "rent": "46400",
-          "fee": "1700"
-        }
-      },
-      "transport": "ＪＲ青梅線羽村駅徒歩13～18分 ＪＲ青梅線福生駅徒歩16～21分 ＪＲ青梅線福生駅バス11分加美平団地中央徒歩1～4分",
-      "built": "1967/02/15 他",
-      "floors": "地上５階建",
-      "total_units": "1044",
-      "term": "5年間",
-      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、店舗等があります。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020004.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020008.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020012.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020019.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/A0821-C-2K.gif"
       ]
     },
     {
