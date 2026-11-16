@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-16T11:52:46+09:00",
+  "updated_at": "2026-11-16T11:58:46+09:00",
   "properties": [
+    {
+      "name": "南烏山三丁目",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/1280100000.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "３Ｋ": {
+          "area": "45.19",
+          "rent": "88800",
+          "fee": "1600"
+        }
+      },
+      "transport": "京王京王線芦花公園駅徒歩4分",
+      "built": "1973/10/01",
+      "floors": "地上５階建",
+      "total_units": "40",
+      "term": "10年間",
+      "notes": "※給湯はリフレッシュ住宅のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/1280100000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/128010000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280100/L1041-I-3K.gif"
+      ]
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 9,
@@ -51,6 +81,71 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
+      ]
+    },
+    {
+      "name": "東葛西第二",
+      "total": 1,
+      "rooms": {
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/2380112001.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３Ｋ": {
+          "area": "50.83",
+          "rent": "81300",
+          "fee": "3000"
+        }
+      },
+      "transport": "東京メトロ東西線葛西駅徒歩17分 東京メトロ東西線葛西駅バス8分東葛西七丁目徒歩3分",
+      "built": "1979/04/01",
+      "floors": "地上１２階建",
+      "total_units": "157",
+      "term": "定期借家契約ではありません",
+      "notes": "※１階部分に保育園があります。 ※当住宅は東葛西第一住宅のフロントスタッフが管理しております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/2380112001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/238011200a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/238011200b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/238011200c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/238011200d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380112/A1381-I-3K.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム南葛西五丁目",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "60.47",
+          "rent": "92200",
+          "fee": "3100"
+        },
+        "２ＬＤＫ": {
+          "area": "60.93",
+          "rent": "94500",
+          "fee": "3100"
+        }
+      },
+      "transport": "ＪＲ京葉線葛西臨海公園駅徒歩15～19分 東京メトロ東西線葛西駅バス19分コーシャハイム南葛西徒歩1～4分",
+      "built": "1986/03/25",
+      "floors": "地上１４階建",
+      "total_units": "879",
+      "term": "定期借家契約ではありません",
+      "notes": "※首都高速湾岸線による騒音が予想されます。 ※教育相談室、保育園、店舗等があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/2380140000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/238014000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380140/A1522-H-3DK_2_3_4.gif"
       ]
     },
     {
@@ -218,6 +313,36 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/A1112-NS-3DK.gif"
+      ]
+    },
+    {
+      "name": "東寺方",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/5480100000.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "48.32",
+          "rent": "61300",
+          "fee": "3000"
+        }
+      },
+      "transport": "京王京王線聖蹟桜ヶ丘駅徒歩20～21分 京王京王線聖蹟桜ヶ丘駅バス11分総合体育館入口徒歩1～3分",
+      "built": "1979/03/30",
+      "floors": "地上５階建",
+      "total_units": "190",
+      "term": "定期借家契約ではありません",
+      "notes": "※給湯は２ヶ所です ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/5480100000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/548010000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/548010000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/548010000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/548010000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480100/A1291-KN-2DK.gif"
       ]
     },
     {
