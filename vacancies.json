@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T14:12:44+09:00",
+  "updated_at": "2026-11-18T14:18:28+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -54,6 +54,106 @@
       ]
     },
     {
+      "name": "コーシャハイム光が丘第三",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/2080080005.jpg",
+      "location": "練馬区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "59.69",
+          "rent": "108500",
+          "fee": "4400"
+        }
+      },
+      "transport": "都営地下鉄大江戸線光が丘駅徒歩7分 西武池袋線練馬高野台駅バス20分光が丘三丁目徒歩4分 東京メトロ有楽町線地下鉄成増駅バス21分光が丘三丁目徒歩4分 東京メトロ副都心線地下鉄成増駅バス21分光が丘三丁目徒歩4分 東武東上線成増駅バス21分光が丘三丁目徒歩4分",
+      "built": "1986/03/15",
+      "floors": "地上１４階建",
+      "total_units": "157",
+      "term": "定期借家契約ではありません",
+      "notes": "※熱給湯システム（東京熱供給株式会社）採用につき、別途使用料が必要です。 ※1階部分に幼稚園があります。 ※当住宅の管理員はコーシャハイム光が丘第四の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/2080080005.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/A1532-HW-3DK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム清新",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "63.04",
+          "rent": "110400",
+          "fee": "4300"
+        },
+        "２ＬＤＫ": {
+          "area": "63.04",
+          "rent": "135800",
+          "fee": "4300"
+        }
+      },
+      "transport": "東京メトロ東西線西葛西駅徒歩10～12分",
+      "built": "1983/01/19",
+      "floors": "地上１１階建",
+      "total_units": "322",
+      "term": "定期借家契約ではありません",
+      "notes": "※当住宅北西側に鉄橋があり電車による騒音が予想されます。 ※敷地内ににコミュニティ会館、保育園があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/2380120000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/238012000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380120/A1421-H-3DK.gif"
+      ]
+    },
+    {
+      "name": "横川町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "45.64",
+          "rent": "52600",
+          "fee": "3200"
+        },
+        "３ＤＫ": {
+          "area": "56.12",
+          "rent": "58000",
+          "fee": "3100"
+        }
+      },
+      "transport": "ＪＲ中央線西八王子駅バス16分住宅中央徒歩2～5分 ＪＲ中央線八王子駅バス19分住宅中央徒歩2～5分 ＪＲ横浜線八王子駅バス19分住宅中央徒歩2～5分 ＪＲ八高線八王子駅バス19分住宅中央徒歩2～5分 京王京王線京王八王子駅バス24分住宅中央徒歩2～5分",
+      "built": "1980/01/08",
+      "floors": "地上５階建",
+      "total_units": "927",
+      "term": "定期借家契約ではありません",
+      "notes": "※エレベータは７号棟（８階建）、８号棟（１１階建）のみ設置されています。 ※敷地内に学童クラブ、保育園、幼稚園、店舗等があります。 ※コインパーキングがあります。※駐車場シェアリング（予約制駐車場）区画があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/3180120000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/318012000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180120/A1311-KN-2DK.gif"
+      ]
+    },
+    {
       "name": "松が谷第二",
       "total": 1,
       "rooms": {
@@ -85,9 +185,10 @@
     },
     {
       "name": "町田木曽",
-      "total": 1,
+      "total": 3,
       "rooms": {
-        "２ＤＫ": 1
+        "２ＤＫ": 2,
+        "２Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
       "location": "町田市",
@@ -99,7 +200,7 @@
         },
         "２Ｋ": {
           "area": "32.85",
-          "rent": "33500",
+          "rent": "34000",
           "fee": "1700"
         },
         "２ＤＫ": {
@@ -171,6 +272,111 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/428002000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/428002000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/L0764-F-3K.gif"
+      ]
+    },
+    {
+      "name": "トミンハイム国分寺泉町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/4480070000.jpg",
+      "location": "国分寺市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "55.09",
+          "rent": "114900",
+          "fee": "4000"
+        }
+      },
+      "transport": "ＪＲ中央線西国分寺駅徒歩4～7分 ＪＲ武蔵野線西国分寺駅徒歩4～7分",
+      "built": "2000/07/10",
+      "floors": "地上５～１４階建",
+      "total_units": "406",
+      "term": "定期借家契約ではありません",
+      "notes": "※敷地内は、東京都都市整備局、ＵＲ都市機構および国分寺市の共同開発です。 ※１階部分に国分寺市の施設「国分寺市いきいきセンター」があります。 ※カーシェアリングを設置しています。 ※駐車場は改修工事をしています。（令和11年1月完了予定）工事期間中は新規募集を停止しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/4480070000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/448007000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/448007000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/448007000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/448007000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4480070/C5481-VAR1-2DK.gif"
+      ]
+    },
+    {
+      "name": "田無西原",
+      "total": 1,
+      "rooms": {
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
+      "location": "西東京市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "60400",
+          "fee": "2200"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "48200",
+          "fee": "2200"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "40400",
+          "fee": "2200"
+        }
+      },
+      "transport": "西武新宿線田無駅バス11分六角地蔵尊前徒歩5～8分 西武新宿線田無駅バス12分西武バス西原車庫徒歩1～5分 西武池袋線ひばりヶ丘駅バス15分六角地蔵尊前徒歩5～8分 西武池袋線ひばりヶ丘駅バス16分西武バス西原車庫徒歩1～5分 ＪＲ中央線武蔵境駅バス25分六角地蔵尊前徒歩5～8分",
+      "built": "1958/06/15",
+      "floors": "地上５階建",
+      "total_units": "523",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/Z0701-LZ-2DKS.gif"
+      ]
+    },
+    {
+      "name": "落合",
+      "total": 1,
+      "rooms": {
+        "３ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
+      "location": "多摩市",
+      "room_details": {
+        "３ＤＫ": {
+          "area": "51.38",
+          "rent": "56200",
+          "fee": "3000"
+        },
+        "２ＤＫ": {
+          "area": "43.82",
+          "rent": "53400",
+          "fee": "3600"
+        }
+      },
+      "transport": "京王相模原線京王多摩センター駅徒歩15～28分 小田急多摩線小田急多摩センター駅徒歩15～28分 多摩都市モノレール多摩都市モノレール多摩センター駅徒歩15～28分 京王相模原線京王多摩センター駅バス5分落合三丁目徒歩3～14分 小田急多摩線小田急多摩センター駅バス5分落合三丁目徒歩3～14分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "1975/12/27",
+      "floors": "地上５・１１階建",
+      "total_units": "1062",
+      "term": "5年間",
+      "notes": "※11階建はエレベーターがあります。※給湯は２ヶ所です。※一部住戸はシャワールームタイプです。 ※敷地内に保育園、地域安全センター、郵便局、医療施設、店舗等があります。 ※当住宅のフロントスタッフは落合三丁目住宅の管理も行っております。 ※コインパーキングがあります。※カーシェアリングを設置しています。 ※サイクルシェアポートがあります。（予告なく廃止となる場合があります。）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/A1112-NS-3DK.gif"
       ]
     }
   ]
