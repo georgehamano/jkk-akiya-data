@@ -1,46 +1,6 @@
 {
-  "updated_at": "2026-11-19T11:08:22+09:00",
+  "updated_at": "2026-11-19T11:12:48+09:00",
   "properties": [
-    {
-      "name": "カーメスト桜新町",
-      "total": 1,
-      "rooms": {
-        "２Ｋ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/1280940001.jpg",
-      "location": "世田谷区",
-      "room_details": {
-        "１ＤＫ": {
-          "area": "36.3",
-          "rent": "139900",
-          "fee": "7200"
-        },
-        "２ＤＫ": {
-          "area": "47.41",
-          "rent": "183300",
-          "fee": "7200"
-        },
-        "２Ｋ": {
-          "area": "41.13",
-          "rent": "158000",
-          "fee": "7200"
-        }
-      },
-      "transport": "東急田園都市線桜新町駅徒歩11～13分 東急世田谷線上町駅徒歩13～14分",
-      "built": "2024/04/30",
-      "floors": "地上５階建",
-      "total_units": "134",
-      "term": "25年間",
-      "notes": "住宅敷地、階段、廊下、バルコニー等の共用部と専用部（各住戸内）を全面禁煙としています。 当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されています。入居された日からインターネットがご利用いただけます。 風除室、メールコーナー、マルチサロン和み（1号棟のみ）、エレベータ内に防犯カメラを設置しています。 電気自動車区画は当社の指定する事業者と充電設備の利用契約を締結していただきます。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/1280940001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/128094000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/128094000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/128094000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/128094000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280940/L8821-A1-1DK.gif"
-      ]
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 9,
