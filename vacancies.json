@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T13:37:38+09:00",
+  "updated_at": "2026-11-19T13:42:52+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -94,6 +94,36 @@
       ]
     },
     {
+      "name": "松枝",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
+      "location": "八王子市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "39.6",
+          "rent": "36300",
+          "fee": "3200"
+        }
+      },
+      "transport": "ＪＲ中央線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ横浜線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ八高線八王子駅バス27分松枝住宅徒歩1～5分 ＪＲ中央線西八王子駅バス30分松枝住宅徒歩1～5分 京王京王線京王八王子駅バス32分松枝住宅徒歩1～5分",
+      "built": "1976/02/28",
+      "floors": "地上７階建",
+      "total_units": "545",
+      "term": "5年間",
+      "notes": "※エレベータは７階建（２、３、６、７号棟）のみ設置されています。 ※給湯は２ヶ所です。 ※保育園、店舗等があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/3180110000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/A1141-V-2DK.gif"
+      ]
+    },
+    {
       "name": "松が谷第二",
       "total": 1,
       "rooms": {
@@ -121,6 +151,41 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/318013000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180130/A1261-NN-3DK.gif"
+      ]
+    },
+    {
+      "name": "富士見町",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
+      "location": "立川市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "44800",
+          "fee": "2200"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "43700",
+          "fee": "2200"
+        }
+      },
+      "transport": "ＪＲ中央線立川駅バス11分富士見町団地徒歩2～7分 ＪＲ青梅線立川駅バス11分富士見町団地徒歩2～7分 ＪＲ南武線立川駅バス11分富士見町団地徒歩2～7分",
+      "built": "1967/12/16",
+      "floors": "地上５階建",
+      "total_units": "753",
+      "term": "5年間",
+      "notes": "※給湯は住戸改善住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、交番、郵便局、店舗等があります。 ※当住宅のフロントスタッフは富士見町東住宅の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/3280040001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/328004000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/328004000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/328004000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/328004000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3280040/A0831-C-2K.gif"
       ]
     },
     {
@@ -251,6 +316,121 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/A0852-B-2DK.gif"
+      ]
+    },
+    {
+      "name": "小金井本町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "73200",
+          "fee": "1900"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "49700",
+          "fee": "1900"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "52000",
+          "fee": "1900"
+        }
+      },
+      "transport": "ＪＲ中央線武蔵小金井駅徒歩13～16分 ＪＲ中央線武蔵小金井駅バス9分本町住宅徒歩1～4分",
+      "built": "1962/04/01",
+      "floors": "地上５階建",
+      "total_units": "831",
+      "term": "7年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/4080010000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/408001000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/408001000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/408001000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/408001000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080010/G0651-F-3K.gif"
+      ]
+    },
+    {
+      "name": "トミンハイム小金井中町",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080070/4080070001.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "69.58",
+          "rent": "129800",
+          "fee": "6600"
+        },
+        "１ＬＤＫ": {
+          "area": "56.12",
+          "rent": "114100",
+          "fee": "6600"
+        }
+      },
+      "transport": "ＪＲ中央線武蔵小金井駅徒歩11分",
+      "built": "1996/07/24",
+      "floors": "地上１０階建",
+      "total_units": "203",
+      "term": "定期借家契約ではありません",
+      "notes": "※1階部分に地域集会施設（小金井市管理）があり、１階通路を入居者以外の方も利用します。 ※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080070/4080070001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080070/408007000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080070/408007000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080070/408007000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080070/408007000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080070/T0191-AL-1LDK-2.gif"
+      ]
+    },
+    {
+      "name": "平山",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg",
+      "location": "日野市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "36100",
+          "fee": "1400"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "37800",
+          "fee": "1400"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "43900",
+          "fee": "1400"
+        }
+      },
+      "transport": "京王京王線平山城址公園駅徒歩7～10分 ＪＲ中央線豊田駅徒歩15～19分",
+      "built": "1965/02/06",
+      "floors": "地上５階建",
+      "total_units": "832",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に駐在所、保育園、店舗等があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/4280020000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/428002000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/428002000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/428002000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/428002000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4280020/L0764-F-3K.gif"
       ]
     },
     {
