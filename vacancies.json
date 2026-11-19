@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T12:13:36+09:00",
+  "updated_at": "2026-11-19T12:17:42+09:00",
   "properties": [
     {
       "name": "トミンタワー台場一番街",
@@ -91,51 +91,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム方南町ガーデンコート",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫＳ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/1580250002.jpg",
-      "location": "杉並区",
-      "room_details": {
-        "２ＬＤＫ": {
-          "area": "50.02",
-          "rent": "152900",
-          "fee": "6100"
-        },
-        "１ＬＤＫ": {
-          "area": "43.47",
-          "rent": "125000",
-          "fee": "6100"
-        },
-        "１ＬＤＫＳ": {
-          "area": "53.02",
-          "rent": "146300",
-          "fee": "6100"
-        },
-        "１ＤＫ": {
-          "area": "36.16",
-          "rent": "104900",
-          "fee": "6100"
-        }
-      },
-      "transport": "東京メトロ丸ノ内線方南町駅徒歩5分",
-      "built": "2014/02/21",
-      "floors": "地上５階",
-      "total_units": "170",
-      "term": "25年間",
-      "notes": "※２号棟は東京都が義務付けた環境配慮の取組みについて評価を受けています。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/1580250002.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/158025000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/158025000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/158025000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/158025000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1580250/L8631-A2-1DK.gif"
       ]
     },
     {
