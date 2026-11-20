@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-11-20T15:32:50+09:00",
+  "updated_at": "2026-11-20T15:37:42+09:00",
   "properties": [
-    {
-      "name": "トミンハイム東陽六丁目",
-      "total": 1,
-      "rooms": {
-        "１ＬＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880270/0880270000.jpg",
-      "location": "江東区",
-      "room_details": {
-        "１ＬＤＫ": {
-          "area": "55.17",
-          "rent": "128500",
-          "fee": "5800"
-        }
-      },
-      "transport": "東京メトロ東西線木場駅徒歩12分 東京メトロ東西線東陽町駅徒歩13分",
-      "built": "1994/02/22",
-      "floors": "地上１４階建",
-      "total_units": "193",
-      "term": "定期借家契約ではありません",
-      "notes": "※バルコニーに面していない洋室はエアコンの設置ができません。 ※共用部に防犯カメラが設置されております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880270/0880270000.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880270/088027000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880270/088027000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880270/088027000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880270/088027000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/0880270/A5011-AL-1LDK-1.gif"
-      ]
-    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 9,
