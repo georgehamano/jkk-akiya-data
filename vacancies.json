@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-24T16:52:40+09:00",
+  "updated_at": "2026-11-24T16:58:22+09:00",
   "properties": [
+    {
+      "name": "コーシャハイム仲六郷",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/1180450001.jpg",
+      "location": "大田区",
+      "room_details": {
+        "２Ｋ": {
+          "area": "43.73",
+          "rent": "94500",
+          "fee": "4400"
+        },
+        "２ＤＫ": {
+          "area": "50.01",
+          "rent": "107400",
+          "fee": "4400"
+        }
+      },
+      "transport": "京浜急行京浜急行線雑色駅徒歩10～11分",
+      "built": "2003/12/15",
+      "floors": "地上１０階建",
+      "total_units": "253",
+      "term": "25年間",
+      "notes": "※住宅敷地の西側は線路に面しているため、電車の通過音や踏切の警報音等が予想されます。 ※電気自動車用充電設備付駐車場があります。　※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/1180450001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/118045000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/118045000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/118045000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/118045000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1180450/L8152-VA-2DK.gif"
+      ]
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 8,
@@ -54,6 +89,36 @@
       ]
     },
     {
+      "name": "堀江",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/2380050000.jpg",
+      "location": "江戸川区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "43.0",
+          "rent": "70100",
+          "fee": "4200"
+        }
+      },
+      "transport": "ＪＲ京葉線葛西臨海公園駅バス5分堀江団地徒歩1～3分 東京メトロ東西線葛西駅バス8分堀江団地徒歩1～3分 東京メトロ東西線西葛西駅バス10分堀江団地入口徒歩1～3分 東京メトロ東西線西葛西駅バス11分堀江団地徒歩1～3分",
+      "built": "1975/10/31",
+      "floors": "地上８階建",
+      "total_units": "865",
+      "term": "10年間",
+      "notes": "※給湯はリニューアル住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、子育てひろば、交番があります。 ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/2380050000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/238005000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2380050/A1161-V-2DK.gif"
+      ]
+    },
+    {
       "name": "昭島田中町",
       "total": 1,
       "rooms": {
@@ -90,9 +155,9 @@
     },
     {
       "name": "高ケ坂",
-      "total": 1,
+      "total": 2,
       "rooms": {
-        "３Ｋ": 1
+        "３Ｋ": 2
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980030/3980030000.jpg",
       "location": "町田市",
@@ -129,10 +194,55 @@
       ]
     },
     {
-      "name": "町田木曽",
-      "total": 2,
+      "name": "境川",
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 1,
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "38500",
+          "fee": "1800"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "46500",
+          "fee": "1800"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "60700",
+          "fee": "1800"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "41400",
+          "fee": "1800"
+        }
+      },
+      "transport": "ＪＲ横浜線古淵駅徒歩8～15分 ＪＲ横浜線町田駅バス11分境川団地中央徒歩1～8分 小田急小田原線町田駅バス11分境川団地中央徒歩1～8分 ＪＲ横浜線淵野辺駅バス19分境川団地中央徒歩1～8分",
+      "built": "1968/06/22",
+      "floors": "地上５階建",
+      "total_units": "2239",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます(不定期)。※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、幼稚園、店舗等があります。　※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/3980140001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/398014000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980140/Z0841-LZ2-2DKS.gif"
+      ]
+    },
+    {
+      "name": "町田木曽",
+      "total": 5,
+      "rooms": {
+        "２ＤＫ": 4,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
@@ -150,7 +260,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "35300",
+          "rent": "35200",
           "fee": "1700"
         },
         "２ＤＫＳ": {
@@ -207,6 +317,35 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980180/398018000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980180/398018000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980180/A1201-KN-2DK.gif"
+      ]
+    },
+    {
+      "name": "トミンハイム恩多町",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4380150/4380150001.jpg",
+      "location": "東村山市",
+      "room_details": {
+        "２ＬＤＫ": {
+          "area": "63.33",
+          "rent": "70800",
+          "fee": "4300"
+        }
+      },
+      "transport": "西武新宿線久米川駅バス11分青葉町二丁目徒歩5分",
+      "built": "1999/02/25",
+      "floors": "地上５階建",
+      "total_units": "60",
+      "term": "定期借家契約ではありません",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4380150/4380150001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4380150/438015000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4380150/438015000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4380150/438015000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4380150/438015000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4380150/T2041-L-2LDK.gif"
       ]
     },
     {
