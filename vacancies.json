@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T17:17:58+09:00",
+  "updated_at": "2026-11-25T17:22:52+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -290,9 +290,9 @@
     },
     {
       "name": "真光寺",
-      "total": 2,
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2
+        "２ＤＫ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980180/3980180000.jpg",
       "location": "町田市",
@@ -438,41 +438,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/528002000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/528002000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5280020/A0862-B-2DK.gif"
-      ]
-    },
-    {
-      "name": "落合",
-      "total": 1,
-      "rooms": {
-        "２ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
-      "location": "多摩市",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "52.59",
-          "rent": "55200",
-          "fee": "3000"
-        },
-        "２ＤＫ": {
-          "area": "44.74",
-          "rent": "54000",
-          "fee": "3600"
-        }
-      },
-      "transport": "京王相模原線京王多摩センター駅徒歩15～28分 小田急多摩線小田急多摩センター駅徒歩15～28分 多摩都市モノレール多摩都市モノレール多摩センター駅徒歩15～28分 京王相模原線京王多摩センター駅バス5分落合三丁目徒歩3～14分 小田急多摩線小田急多摩センター駅バス5分落合三丁目徒歩3～14分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
-      "built": "1975/12/27",
-      "floors": "地上５・１１階建",
-      "total_units": "1062",
-      "term": "5年間",
-      "notes": "※11階建はエレベーターがあります。※給湯は２ヶ所です。※一部住戸はシャワールームタイプです。 ※敷地内に保育園、地域安全センター、郵便局、医療施設、店舗等があります。 ※当住宅のフロントスタッフは落合三丁目住宅の管理も行っております。 ※コインパーキングがあります。※カーシェアリングを設置しています。 ※サイクルシェアポートがあります。（予告なく廃止となる場合があります。）",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/5480070001.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/548007000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5480070/A1112-NS-3DK.gif"
       ]
     },
     {
