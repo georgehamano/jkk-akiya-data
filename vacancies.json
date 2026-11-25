@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-25T16:22:59+09:00",
+  "updated_at": "2026-11-25T16:28:46+09:00",
   "properties": [
+    {
+      "name": "カーメスト大蔵の杜",
+      "total": 1,
+      "rooms": {
+        "２ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
+      "location": "世田谷区",
+      "room_details": {
+        "１ＬＤＫ": {
+          "area": "51.09",
+          "rent": "144500",
+          "fee": "5300"
+        },
+        "１ＤＫ": {
+          "area": "35.34",
+          "rent": "104000",
+          "fee": "5300"
+        },
+        "２Ｋ": {
+          "area": "38.34",
+          "rent": "126600",
+          "fee": "5300"
+        },
+        "２ＬＤＫ": {
+          "area": "67.13",
+          "rent": "181700",
+          "fee": "5300"
+        },
+        "１ＬＤＫＳ": {
+          "area": "51.91",
+          "rent": "158100",
+          "fee": "5300"
+        }
+      },
+      "transport": "小田急小田原線祖師ヶ谷大蔵駅徒歩18～20分 小田急小田原線成城学園前駅徒歩19～25分 小田急小田原線成城学園前駅バス10分東宝前徒歩2～7分",
+      "built": "2022/07/01",
+      "floors": "地上９階建て",
+      "total_units": "381",
+      "term": "25年間",
+      "notes": "土砂災害防止法に基づき、敷地の一部が土砂災害警戒区域に指定されています。 ８・９号棟は建物内（各住戸内も含む）及び敷地内を全面禁煙としています。 ソニーネットワークコミュニケーションズコネクト（株）が提供するインターネ ット設備（Wi-Fi機能付）が導入されてます。マルチサロン和み（６号棟のみ）、 ラウンジ（９号棟のみ）、エレベータ内に防犯カメラを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/1280880001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/128088000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280880/L8772-A2a-1DK.gif"
+      ]
+    },
     {
       "name": "カーメスト用賀馬事公苑",
       "total": 8,
@@ -51,36 +101,6 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
-      ]
-    },
-    {
-      "name": "コーシャハイム光が丘第三",
-      "total": 1,
-      "rooms": {
-        "３ＤＫ": 1
-      },
-      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/2080080005.jpg",
-      "location": "練馬区",
-      "room_details": {
-        "３ＤＫ": {
-          "area": "59.69",
-          "rent": "108500",
-          "fee": "4400"
-        }
-      },
-      "transport": "都営地下鉄大江戸線光が丘駅徒歩7分 西武池袋線練馬高野台駅バス20分光が丘三丁目徒歩4分 東京メトロ有楽町線地下鉄成増駅バス21分光が丘三丁目徒歩4分 東京メトロ副都心線地下鉄成増駅バス21分光が丘三丁目徒歩4分 東武東上線成増駅バス21分光が丘三丁目徒歩4分",
-      "built": "1986/03/15",
-      "floors": "地上１４階建",
-      "total_units": "157",
-      "term": "定期借家契約ではありません",
-      "notes": "※熱給湯システム（東京熱供給株式会社）採用につき、別途使用料が必要です。 ※1階部分に幼稚園があります。 ※当住宅の管理員はコーシャハイム光が丘第四の管理も行っております。",
-      "images": [
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/2080080005.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000a.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000b.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000c.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/208008000d.jpg",
-        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2080080/A1532-HW-3DK.gif"
       ]
     },
     {
@@ -381,6 +401,47 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020006.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020007.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/A0732-C-2K.gif"
+      ]
+    },
+    {
+      "name": "田無西原",
+      "total": 2,
+      "rooms": {
+        "３Ｋ": 1,
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
+      "location": "西東京市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "60400",
+          "fee": "2200"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "58500",
+          "fee": "2200"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "39900",
+          "fee": "2200"
+        }
+      },
+      "transport": "西武新宿線田無駅バス11分六角地蔵尊前徒歩5～8分 西武新宿線田無駅バス12分西武バス西原車庫徒歩1～5分 西武池袋線ひばりヶ丘駅バス15分六角地蔵尊前徒歩5～8分 西武池袋線ひばりヶ丘駅バス16分西武バス西原車庫徒歩1～5分 ＪＲ中央線武蔵境駅バス25分六角地蔵尊前徒歩5～8分",
+      "built": "1958/06/15",
+      "floors": "地上５階建",
+      "total_units": "523",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/Z0701-LZ-2DKS.gif"
       ]
     },
     {
