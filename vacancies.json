@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T11:33:09+09:00",
+  "updated_at": "2026-11-26T11:38:00+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -99,6 +99,51 @@
       ]
     },
     {
+      "name": "カーメスト興野町",
+      "total": 1,
+      "rooms": {
+        "１ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440001.jpg",
+      "location": "足立区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "46.29",
+          "rent": "106600",
+          "fee": "6000"
+        },
+        "１ＬＤＫ": {
+          "area": "52.0",
+          "rent": "110400",
+          "fee": "6000"
+        },
+        "２ＬＤＫ": {
+          "area": "56.0",
+          "rent": "116300",
+          "fee": "6000"
+        },
+        "１ＤＫ": {
+          "area": "35.67",
+          "rent": "85800",
+          "fee": "6000"
+        }
+      },
+      "transport": "新交通システム日暮里・舎人ライナー江北駅徒歩13分 東武大師線大師前駅徒歩14分 東武伊勢崎線西新井駅徒歩20分 東武大師線西新井駅徒歩20分 ＪＲ常磐線北千住駅バス23分興野公団住宅徒歩4分\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "2022/09/30",
+      "floors": "地上８階建て",
+      "total_units": "128",
+      "term": "25年間",
+      "notes": "※当住宅ではソニーネットワークコミュニケーションズコネクト（株）が提供するインターネット設備 （Wi-Fi機能付）が導入されてます。入居された日からインターネットがご利用になれます。 ※風除室、メールコーナー、マルチサロン和み、コワーキングスペース、エレベータ内に防犯カメラ を設置しています。 ※当住宅のフロントスタッフは興野町の管理も行っております。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440001.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440002.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440003.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440004.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/2180440005.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/2180440/L8792-AL4-1LDK_2.gif"
+      ]
+    },
+    {
       "name": "松枝",
       "total": 2,
       "rooms": {
@@ -126,6 +171,41 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/318011000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3180110/A1141-V-2DK.gif"
+      ]
+    },
+    {
+      "name": "昭島田中町",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
+      "location": "昭島市",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "39.98",
+          "rent": "39300",
+          "fee": "2400"
+        },
+        "３ＤＫ": {
+          "area": "58.28",
+          "rent": "54000",
+          "fee": "2400"
+        }
+      },
+      "transport": "ＪＲ青梅線昭島駅バス19分田中町団地徒歩1～6分 ＪＲ中央線立川駅バス29分田中徒歩3～8分 ＪＲ青梅線立川駅バス29分田中徒歩3～8分 ＪＲ南武線立川駅バス29分田中徒歩3～8分",
+      "built": "1979/03/01",
+      "floors": "地上５階建",
+      "total_units": "897",
+      "term": "定期借家契約ではありません",
+      "notes": "※航空機等による騒音が予想されます※エレベータは17号棟のみ設置されています。 ※敷地内に保育園、学童クラブ、医療施設、店舗等があります。※給湯は２ヶ所です。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/3780030000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/378003000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3780030/A1272-KN-2DK.gif"
       ]
     },
     {
@@ -169,6 +249,41 @@
       ]
     },
     {
+      "name": "小金井貫井",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020002.jpg",
+      "location": "小金井市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "42300",
+          "fee": "3500"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "44900",
+          "fee": "3500"
+        }
+      },
+      "transport": "ＪＲ中央線武蔵小金井駅バス17分貫井南町二丁目徒歩4～7分",
+      "built": "1963/11/06",
+      "floors": "地上５階建",
+      "total_units": "350",
+      "term": "5年間",
+      "notes": "※給湯は2ヶ所です。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020002.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020003.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020005.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020006.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/4080020007.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4080020/A0732-C-2K.gif"
+      ]
+    },
+    {
       "name": "田無西原",
       "total": 1,
       "rooms": {
@@ -206,6 +321,52 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000c.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000d.jpg",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/Z0701-LZ-2DKS.gif"
+      ]
+    },
+    {
+      "name": "大和芝中",
+      "total": 3,
+      "rooms": {
+        "２ＤＫ": 2,
+        "３Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
+      "location": "東大和市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "54100",
+          "fee": "2100"
+        },
+        "２Ｋ": {
+          "area": "32.31",
+          "rent": "36200",
+          "fee": "2100"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "37600",
+          "fee": "2100"
+        },
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "43800",
+          "fee": "2100"
+        }
+      },
+      "transport": "多摩都市モノレール多摩都市モノレール上北台駅徒歩7～13分 西武拝島線東大和市駅バス16分芝中団地徒歩1～5分",
+      "built": "1970/03/30",
+      "floors": "地上５階建",
+      "total_units": "988",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）※敷地内に保育園、店舗等があります。 ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/508004000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/508004000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/508004000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/508004000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/Z0871-LZ2-2DKS.gif"
       ]
     },
     {
@@ -256,8 +417,9 @@
     },
     {
       "name": "平尾",
-      "total": 1,
+      "total": 2,
       "rooms": {
+        "２ＤＫ": 1,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5580010/5580010000.jpg",
@@ -275,7 +437,7 @@
         },
         "２ＤＫ": {
           "area": "34.56",
-          "rent": "43900",
+          "rent": "45700",
           "fee": "1900"
         }
       },
