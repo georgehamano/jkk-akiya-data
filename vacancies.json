@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T15:12:49+09:00",
+  "updated_at": "2026-11-26T15:18:43+09:00",
   "properties": [
     {
       "name": "カーメスト用賀馬事公苑",
@@ -51,6 +51,51 @@
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000b.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/128095000c.JPG",
         "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1280950/L8852-AL2-1LDK.gif"
+      ]
+    },
+    {
+      "name": "コーシャハイム坂下",
+      "total": 1,
+      "rooms": {
+        "１ＬＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
+      "location": "板橋区",
+      "room_details": {
+        "２ＤＫ": {
+          "area": "54.88",
+          "rent": "116200",
+          "fee": "6400"
+        },
+        "２ＬＤＫ": {
+          "area": "58.8",
+          "rent": "124900",
+          "fee": "6400"
+        },
+        "３ＤＫ": {
+          "area": "62.23",
+          "rent": "125800",
+          "fee": "6400"
+        },
+        "１ＬＤＫ": {
+          "area": "51.51",
+          "rent": "104700",
+          "fee": "6400"
+        }
+      },
+      "transport": "都営地下鉄三田線蓮根駅徒歩3～6分",
+      "built": "2005/03/17",
+      "floors": "地上８階建（一部７階建）",
+      "total_units": "430",
+      "term": "25年間",
+      "notes": "※保育所・地域施設があります。 ※駐車場は改修工事をしています。（完了時期未定）工事期間中は新規募集を停止しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/1980320000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/198032000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/1980320/L1843-V5-2DK.gif"
       ]
     },
     {
@@ -119,6 +164,56 @@
       ]
     },
     {
+      "name": "多摩川",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
+      "location": "狛江市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "44.52",
+          "rent": "61300",
+          "fee": "2500"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "47500",
+          "fee": "2000"
+        },
+        "２Ｋ": {
+          "area": "27.44",
+          "rent": "39100",
+          "fee": "2000"
+        },
+        "３ＤＫ": {
+          "area": "43.06",
+          "rent": "59100",
+          "fee": "2500"
+        },
+        "２ＬＤＫ": {
+          "area": "44.52",
+          "rent": "72300",
+          "fee": "2500"
+        }
+      },
+      "transport": "京王京王線国領駅徒歩15～19分調布市 小田急小田原線狛江駅徒歩25～27分調布市 小田急小田原線狛江駅バス11分シティテラス多摩川徒歩3～7分調布市 京王京王線調布駅バス19分シティテラス多摩川徒歩2～6分調布市 京王京王線国領駅徒歩17～21分狛江市\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t 他",
+      "built": "1966/08/01",
+      "floors": "地上５階建",
+      "total_units": "1827",
+      "term": "7年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に幼稚園、医療施設、金融機関、交番、店舗等があります。 ※コインパーキングがあります。※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/3880030107.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/388003010d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3880030/L0811-E-2K.gif"
+      ]
+    },
+    {
       "name": "高ケ坂",
       "total": 2,
       "rooms": {
@@ -159,6 +254,101 @@
       ]
     },
     {
+      "name": "木曽",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/3980070000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "27.44",
+          "rent": "28700",
+          "fee": "2000"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "50300",
+          "fee": "2000"
+        },
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "51800",
+          "fee": "2000"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "35300",
+          "fee": "2000"
+        }
+      },
+      "transport": "ＪＲ横浜線古淵駅徒歩17～21分 ＪＲ横浜線町田駅バス15分木曽住宅徒歩2～6分 小田急小田原線町田駅バス15分木曽住宅徒歩2～6分",
+      "built": "1963/08/03",
+      "floors": "地上５階建",
+      "total_units": "905",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます。（不定期） ※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※コインパーキングがあります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/3980070000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/398007000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980070/Z0711-LZ-2DKS.gif"
+      ]
+    },
+    {
+      "name": "町田木曽",
+      "total": 1,
+      "rooms": {
+        "２ＤＫ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
+      "location": "町田市",
+      "room_details": {
+        "３Ｋ": {
+          "area": "39.9",
+          "rent": "41900",
+          "fee": "1700"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "34000",
+          "fee": "1700"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "35400",
+          "fee": "1700"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "52000",
+          "fee": "1700"
+        },
+        "１ＤＫ": {
+          "area": "34.56",
+          "rent": "41900",
+          "fee": "1700"
+        }
+      },
+      "transport": "ＪＲ横浜線町田駅バス15分山崎団地センター徒歩1～13分 小田急小田原線町田駅バス15分山崎団地センター徒歩1～13分",
+      "built": "1970/04/02",
+      "floors": "地上５階建",
+      "total_units": "4330",
+      "term": "5年間",
+      "notes": "※航空機による騒音が予想されます。（不定期） ※敷地内に保育園、幼稚園、医療施設、防犯拠点、店舗等があります。 ※給湯はリフレッシュ住戸、一部住戸のみ３ヶ所です。（他は２ヶ所です） ※一部住戸はシャワールームタイプです。　※コインパーキングがあります。 ※カーシェアリングを設置しています。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/3980150000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/398015000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/3980150/A0852-B-2DK.gif"
+      ]
+    },
+    {
       "name": "小金井貫井",
       "total": 1,
       "rooms": {
@@ -194,10 +384,90 @@
       ]
     },
     {
-      "name": "大和芝中",
-      "total": 3,
+      "name": "田無西原",
+      "total": 1,
       "rooms": {
-        "２ＤＫ": 2,
+        "２ＤＫＳ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
+      "location": "西東京市",
+      "room_details": {
+        "２ＤＫＳ": {
+          "area": "51.75",
+          "rent": "60400",
+          "fee": "2200"
+        },
+        "３Ｋ": {
+          "area": "39.96",
+          "rent": "58500",
+          "fee": "2200"
+        },
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "39900",
+          "fee": "2200"
+        }
+      },
+      "transport": "西武新宿線田無駅バス11分六角地蔵尊前徒歩5～8分 西武新宿線田無駅バス12分西武バス西原車庫徒歩1～5分 西武池袋線ひばりヶ丘駅バス15分六角地蔵尊前徒歩5～8分 西武池袋線ひばりヶ丘駅バス16分西武バス西原車庫徒歩1～5分 ＪＲ中央線武蔵境駅バス25分六角地蔵尊前徒歩5～8分",
+      "built": "1958/06/15",
+      "floors": "地上５階建",
+      "total_units": "523",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です）",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/4680020102.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000a.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000b.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000c.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/468002000d.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4680020/Z0701-LZ-2DKS.gif"
+      ]
+    },
+    {
+      "name": "福生加美平",
+      "total": 1,
+      "rooms": {
+        "２Ｋ": 1
+      },
+      "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
+      "location": "福生市",
+      "room_details": {
+        "２Ｋ": {
+          "area": "32.85",
+          "rent": "29700",
+          "fee": "1700"
+        },
+        "２ＤＫ": {
+          "area": "34.56",
+          "rent": "31200",
+          "fee": "1700"
+        },
+        "２ＤＫＳ": {
+          "area": "51.74",
+          "rent": "46400",
+          "fee": "1700"
+        }
+      },
+      "transport": "ＪＲ青梅線羽村駅徒歩13～18分 ＪＲ青梅線福生駅徒歩16～21分 ＪＲ青梅線福生駅バス11分加美平団地中央徒歩1～4分",
+      "built": "1967/02/15 他",
+      "floors": "地上５階建",
+      "total_units": "1044",
+      "term": "5年間",
+      "notes": "※給湯はリフレッシュ住戸のみ３ヶ所です。（他は２ヶ所です） ※敷地内に保育園、店舗等があります。",
+      "images": [
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020000.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020004.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020008.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020012.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/4880020019.jpg",
+        "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/4880020/A0821-C-2K.gif"
+      ]
+    },
+    {
+      "name": "大和芝中",
+      "total": 4,
+      "rooms": {
+        "２ＤＫ": 3,
         "３Ｋ": 1
       },
       "image_url": "https://jhomes.to-kousya.or.jp/mz_copyright/mobile/5080040/5080040000.jpg",
